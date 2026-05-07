@@ -1,54 +1,54 @@
 from pydantic import BaseModel, Field
-from typing import Optional, List
+from typing import Optional, List, Literal
+
+class AuditorVerdict(BaseModel):
+    reasoning: str = Field(description="One sentence explaining why the fact is or isn't supported by the quote.")
+    verdict: Literal["ENTAILMENT", "NEUTRAL", "CONTRADICTION"] = Field(
+        description="ENTAILMENT = The quote proves the fact perfectly. NEUTRAL = implies it. CONTRADICTION = hallucinates."
+    )
 
 class EvidenceRow(BaseModel):
-    # COHORT
+    # --- 1. EXPANDED COHORT ---
     cohort_population: str = Field(description="e.g., 'Adult patients with Sepsis-3'")
+    cohort_setting: str = Field(description="e.g., 'ICU, China (Prospective)', 'Multicenter, US'") # <--- NEW
     sample_size_total: Optional[int] = Field(description="Total N for the study/cohort.")
     
-    # PREDICTOR
-    predictor: str = Field(description="e.g., 'Lactate', 'SOFA score', 'Age'")
-    predictor_timing: Optional[str] = Field(description="e.g., 'Within 24h of ICU admission'. Null if unknown.")
+    # --- 2. PREDICTOR TIMING ---
+    predictor: str = Field(description="e.g., 'Initial Lactate > 4.0 mmol/L', 'SOFA score'")
+    predictor_timing: Optional[str] = Field(description="e.g., 'Within 24h of ICU admission', 'Baseline'. Null if unknown.") # <--- HIGHLIGHTED
     
-    # OUTCOME
     outcome: str = Field(description="e.g., '28-day mortality'")
+    statistical_method: str = Field(description="e.g., 'Multivariable logistic regression', 'ROC'")
     
-    # METHODS & STATS (Extracted safely as individual fields)
-    statistical_method: str = Field(description="e.g., 'Univariate logistic regression', 'ROC'")
+    # --- 3. SEPARATED AUC ---
     odds_ratio: Optional[float] = Field(description="The OR value if present.")
     or_ci_lower: Optional[float] = Field(description="Lower 95% CI for OR.")
     or_ci_upper: Optional[float] = Field(description="Upper 95% CI for OR.")
-    auc: Optional[float] = Field(description="The AUC value if present.")
+    auc: Optional[float] = Field(description="The exact AUC value if present (e.g., 0.78).") # <--- EXPLICITLY SEPARATED
     auc_ci_lower: Optional[float] = Field(description="Lower 95% CI for AUC.")
     auc_ci_upper: Optional[float] = Field(description="Upper 95% CI for AUC.")
     p_value: Optional[str] = Field(description="e.g., '<0.001', '0.02'")
     
-    # TRACEABILITY
     source_anchor: str = Field(description="VERBATIM quote proving these numbers.")
 
-    # --- Solves Phase 2: The String Stitcher ---
     @property
     def formatted_effect_size(self) -> str:
-        """Automatically formats the raw numbers into the judges' required CSV blob."""
         parts = []
         if self.odds_ratio:
             ci_str = f" (95% CI {self.or_ci_lower}-{self.or_ci_upper})" if self.or_ci_lower else ""
             parts.append(f"OR {self.odds_ratio}{ci_str}")
-        
-        if self.p_value:
-            # Handle cases where LLM forgets the '<' or '=' 
-            p_str = f"p={self.p_value}" if not any(c in self.p_value for c in ['<', '>', '=']) else f"p{self.p_value}"
-            if parts:
-                parts[0] += f", {p_str}"
-            else:
-                parts.append(p_str)
-                
+            
         if self.auc:
             ci_str = f" (95% CI {self.auc_ci_lower}-{self.auc_ci_upper})" if self.auc_ci_lower else ""
-            parts.append(f"AUC: {self.auc}{ci_str}")
+            parts.append(f"AUC {self.auc}{ci_str}")
+            
+        if self.p_value:
+            p_str = f"p={self.p_value}" if not any(c in self.p_value for c in ['<', '>', '=']) else f"p{self.p_value}"
+            parts.append(p_str)
             
         return "; ".join(parts) if parts else "Not reported"
 
 class SepsisExtraction(BaseModel):
-    study_id: str = Field(description="Author and Year, e.g., 'Smith 2023'")
+    # --- 4. BIBLIOGRAPHIC METADATA ---
+    study_id: str = Field(description="Author and Year + DOI if available, e.g., 'Gai et al. 2022'") # <--- NEW
     extracted_records: List[EvidenceRow] = Field(description="List of ALL predictors found.")
