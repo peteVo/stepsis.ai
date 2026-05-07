@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 ./articles/
+=======
+articles/
+
+.env
+*.pdf
+>>>>>>> f1a6424e11410443f9e183be136e3d57b14a0904

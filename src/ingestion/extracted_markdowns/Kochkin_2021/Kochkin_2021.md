@@ -1,0 +1,428 @@
+**Анестезиологическая и реаниматологическая помощь взрослым и детям/ Anest hesiological and reanimatological care for a dults and children** 
+
+**Вестник анестезиологии и реаниматологии, Том 18, № 3, 2021** 
+
+http://doi.org/10.21292/2078-5658-2021-18-3-30-35 
+
+## Предикторы летального исхода у пациентов с рефрактерным септическим шоком 
+
+   - _А. А. КОЧКИН[1] , М. Я. ЯДГАРОВ[2] , Л. Б. БЕРИКАШВИЛИ[2] , С. Н. ПЕРЕХОДОВ[3] , В. В. ЛИХВАНЦЕВ[1,2]_ 
+
+   - **1Московский областной научно-исследовательский клинический институт им. М. Ф. Владимирского, Москва, РФ** 
+
+   - **2НИИ Общей реаниматологии им. В. А. Неговского ФНКЦ РР, Москва, РФ** 
+
+   - **3Московский государственный медико-стоматологический университет им. А. И. Евдокимова, Москва, РФ** 
+
+- Раннее прогнозирование тяжести течения заболевания помогает клиницисту предотвратить нежелательное развитие событий и(или) минимизировать потери в случае наступления жизнеугрожающего осложнения� Данное положение в полной мере относится к ситуации рефрактерного септического шока, при котором для поддержания среднего артериального давления необходимо введение норадреналина в дозе более 0,5 мкг · кг[-1] · мин[-1] � 
+
+**Цель:** определить предикторы летального исхода у пациентов в состоянии рефрактерного септического шока� 
+
+**Материалы и методы.** В ретроспективное исследование включено 79 пациентов в состоянии рефрактерного септического шока в возрасте от 42 до 74 лет (59,7 ± 7,8 года) с тяжестью состояния по шкале SOFA от 8 до 16 баллов� Прогностическую значимость показателей оценивали в ходе одномерного и многомерного анализа� 
+
+**Результаты.** В многомерном анализе единственным значимым предиктором неблагоприятного исхода оказалась оценка по шкале SOFA (аdj� OR 1,626 [95%-ный ДИ 1,313; 2,014], _p_ < 0,001)� У других предполагаемых показателей (возраст, соотношение P/F, концентрации лактата и уровень прокальцитонина, доза норадреналина) предикторная способность не выявлена� 
+
+**Вывод.** Оценка по шкале SOFA является независимым предиктором летальности у взрослых пациентов с рефрактерным септическим шоком (аdj� OR 1,26 [95%-ный ДИ 1,313; 2,014], _p_ < 0,001)� По результатам ROC-анализа, наряду с SOFA, значимым предиктором является и доза норадреналина (AUC 0,989 [95%-ный ДИ 0,934; 1,000], _p_ < 0,001)� 
+
+_Ключевые слова:_ септический шок, предикторы летальности при септическом шоке, рефрактерный шок 
+
+**Для цитирования:** Кочкин А� А�, Ядгаров М� Я�, Берикашвили Л� Б�, Переходов С� Н�, Лихванцев В� В� Предикторы летального исхода у пациентов с рефрактерным септическим шоком // Вестник анестезиологии и реаниматологии� – 2021� – Т� 18, № 3� – С� 30-35� DOI: 10�21292/2078-5658-2021-18-3-30-35 
+
+## Predictors of Lethal Outcomes in Patients with Refractory Septic Shock 
+
+   - _А. А. КOCHKIN[1] , M. YA. YADGAROV[2] , L. B. BERIKASHVILI[2] , S. N. PEREKHODOV[3] , V. V. LIKHVANTSEV[1,2]_ 
+
+   - **1M. F. Vladimirsky Moscow Regional Research Clinical Institute, Moscow, Russia** 
+
+   - **2 V. A. Negovsky Reanimatology Research Institute, Federal Scientific and Clinical Center for Intensive Care and Rehabilitation, Moscow, Russia** 
+
+   - **3A. I. Yevdokimov Moscow State University of Medicine and Dentistry, Moscow, Russia** 
+
+- Early prediction of disease severity helps clinicians prevent adverse events and/or minimize losses in the event of a life-threatening complication� This provision fully applies to refractory septic shock, in which norepinephrine administration at a dose exceeding 0�5 μg/kg[-1] /min[-1] is needed to maintain mean arterial pressure� **The objective:** to determine predictors of lethal outcomes in patients with refractory septic shock� 
+
+**Subjects and methods.** A retrospective study included 79 patients with refractory septic shock aged from 42 to 74 years (59�7 ± 7�8), with severity of the condition as per SOFA varying from 8 to 16 scores�  The predictive value of indicators was assessed using univariate and multivariate analyses� **Results.** In multivariate analysis, the only significant predictor of an unfavorable outcome was the SOFA score (adj�  OR: 1�626 [95% CI: 1�313; 2�014], _p_ < 0�001)�  Other putative indicators (age, oxygenation index, lactate and procalcitonin concentrations, and norepinephrine dose) had no predictive value� 
+
+**Conclusion:** The SOFA score is an independent predictor of lethality in adult patients with refractory septic shock (аdj� OR: 1�26 [95% CI: 1�313; 2�014], _p_ < 0�001)� According to the results of the ROC analysis, along with SOFA, norepinephrine dose was also a significant predictor (AUC 0�989 [95% CI 0�934; 1�000], _p_ < 0�001)� 
+
+_Key words:_ septic shock, predictors of lethality in septic shock, refractory shock 
+
+**For citations:** Kochkin А�А�, Yadgarov M�Ya�, Berikashvili L�B�, Perekhodov S�N�, Likhvantsev V�V� Predictors of lethal outcomes in patients with refractory septic shock� _Messenger of Anesthesiology and Resuscitation,_ 2021, Vol� 18, no� 3, P� 30-35� (In Russ�) DOI: 10�21292/2078-5658-2021-18-330-35 
+
+## _Для корреспонденции:_ Кочкин Александр Александрович E-mail: favor2991@mail�ru 
+
+Летальность от сепсиса и септического шока, несмотря на внедрение новых методик диагностики и лечения, и по сей день остается достаточно высокой, достигая 40% и более [5]� Данный аспект делает проблему улучшения результатов терапии сепсиса и септического шока одной из наиболее 
+
+_Correspondence:_ Aleksandr A� Kochkin Email: favor2991@mail�ru 
+
+актуальных задач современной реаниматологии� С каждым годом увеличивается число публикаций, посвященных этой проблеме: на роль предполагаемых маркеров предлагаются среднее артериальное давление [9], величина VIS (Vasopressor-Inotropic Score) [1], концентрация лактата [6] и чаще всего 
+
+_**30**_ 
+
+**Messenger of Anesthesiology and Resuscitation, Vol. 18, No. 3, 2021** 
+
+степень органной дисфункции, оцениваемая по шкале SOFA [3, 12]� 
+
+Наиболее тяжелым вариантом течения сепсиса является септический шок [10]� Рефрактерный шок не выделяется как отдельный вариант течения данного состояния, однако именно он вызывает наибольшие затруднения в плане лечения и самые тяжелые опасения в плане прогноза [7, 8]� В этой связи очевидна необходимость возможно более раннего прогнозирования наступления неблагоприятного исхода именно у больных этой категории� 
+
+Цель: определить предикторы летального исхода у пациентов в состоянии рефрактерного септического шока� 
+
+## **Материалы и методы** 
+
+Ретроспективно проанализированы данные обследования и лечения пациентов с сепсисом, у которых развился рефрактерный септический шок� Всего изучены 79 историй болезни пациентов (48 мужчин и 31 женщина) в возрасте от 42 до 74 лет (59,7 ± 7,8); степень органной дисфункции, оцененная по шкале SOFA, составила от 8 до 16 баллов� Сепсис диагностировали на основании критериев «Сепсис-3» [10]� 
+
+Рефрактерным считали септический шок, при котором требовалась инфузия норадреналина со скоростью более 0,5 мкг · кг[-1] · мин[-1] для поддержания среднего артериального давления выше 65 мм рт� ст� [1]� 
+
+_Критерии включения в исследование:_ 
+
+- установленный диагноз септического шока с потребностью в вазопрессорной поддержке норадреналином в дозе ≥ 0,5 мкг · кг[-1] · мин[-1] ; 
+
+- промежуток времени не более 24 ч от начала развития септического шока; 
+
+- продолжительность искусственной вентиляции легких на момент включения в исследование не более 24 ч; 
+
+- подписанное информированное согласие об участии в исследовании� 
+
+ров, т� е� не позже чем через 24 ч после диагностики септического шока� 
+
+Накопление и первичный анализ данных проводили в табличном процессоре Excel 2019, статистический анализ данных осуществляли с использованием пакета прикладных программ IBM SPSS Statistics 25�0 и онлайн-калькуляторов (https://medstatistic�ru/calculators/calchi�html)� Для уточнения применимости параметрического инструментария проведена оценка соответствия распределения переменных нормальному закону при помощи критерия Шапиро ‒ Уилка и критерия Колмогорова ‒ Смирнова с поправкой Лилиефорса, равенство дисперсий проверено с помощью критерия Ливиня� По результатам данной оценки выявлено, что для многих показателей параметрические критерии сравнения неприменимы ввиду малого числа исходов, поэтому сравнительный межгрупповой анализ проводился с помощью непараметрической статистики� Описание данных, характеристики положения и разброса приводили с использованием медианы и среднего значения, стандартного отклонения, квартилей и размаха� 
+
+Сравнение групп по бинарным переменным производили с помощью точного F-критерия Фишера� Доверительный интервал для частот рассчитан с применением метода Вальда с коррекцией по Агрести ‒ Коулу� Уровень значимости, при котором отвергалась нулевая гипотеза об отсутствии различий между изучаемыми группами, выбран равным 0,05 [2]� 
+
+Оценку риска исхода в одномерном анализе проводили с помощью показателя RR (относительный риск, risk ratio) и его 95%-ного доверительного интервала для каждого изучаемого предиктора� Оценка “аdjusted odds ratio” проведена в многомерном регрессионном анализе с целью учета влияния на риск других факторов (возраста, пола и вмешивающихся переменных – конфаундингов)� Для оценки качества различных количественных показателей в качестве предикторов летального исхода использован ROC-анализ с оценкой параметра AUC (площадь под ROC-кривой)� 
+
+_Критерии невключения:_ 
+
+- онкологическое заболевание; 
+
+## **Результаты** 
+
+- беременность; 
+
+- гемодинамически значимые пороки сердца� 
+
+## _Критерии исключения:_ 
+
+- массивная кровопотеря как осложнение хирургического вмешательства, выполненного во время исследования; 
+
+- повторное (после «светлого промежутка») развитие септического шока во время пребывания в стационаре� 
+
+Интенсивная терапия септического шока основывалась на рекомендациях “Survivng Sepsis Campaign” [10]� Под летальным исходом понималось наступление данного события в 28-дневный период от начала заболевания� 
+
+В расчет принимали значение показателей, измеренное в 1-е сут после назначения вазопрессо- 
+
+Среди изучаемых пациентов 28-дневная летальность составила 44% (35 пациентов)� При этом 17% (6 пациентов) неблагоприятных исходов наступало в течение первых трех суток� В общей структуре первичный очаг располагался в легких в 55% случаев, в брюшной полости ‒ в 35% случаев, невыясненное расположение первичного очага и прочие локализации составляли 5%� 
+
+Основными причинами летальных исходов служили: прогрессирование сердечно-сосудистой недостаточности ‒ 85% (30 пациентов); синдром диссеминированного внутрисосудистого свертывания ‒ 11% (4 пациента); прогрессирование дыхательной недостаточности на фоне острого респираторного дистресс-синдрома ‒ 3% (1 пациент)� 
+
+_**31**_ 
+
+**Вестник анестезиологии и реаниматологии, Том 18, № 3, 2021** 
+
+Проведенный ROC-анализ выявил ряд значимых количественных предикторов летального исхода (рис� 1)� 
+
+
+![](extracted_markdowns/Kochkin_2021/images/Kochkin_2021.pdf-0003-02.png)
+
+> [!IMPORTANT]
+> **AI Visual Analysis (Kochkin_2021.pdf-0003-02.png)**
+> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** ROC Curve Analysis
+> 
+> The image is a ROC curve graph with sensitivity on the Y-axis and 100-specificity on the X-axis. It features multiple curves represented by different markers such as squares, triangles, and circles. Each marker corresponds to a different clinical parameter, as indicated by the legend on the graph. The curves show the relationship between sensitivity and specificity for these parameters.
+> 
+> **Data Points:** X-axis: 100-Specificity, Y-axis: Sensitivity
+> 
+> **Key Findings:**
+> - Different markers represent different variables: Age, Lactate, SOFA, PCT, NA.
+> - Curves indicate variability in sensitivity and specificity of each parameter.
+> - SOFA and Lactate seem to have higher sensitivity at lower specificity values.
+<!-- analyzed_Kochkin_2021.pdf-0003-02.png -->
+
+
+
+
+**----- Start of picture text -----**<br>
+100<br>80<br>60<br>Возраст<br>Лактат<br>SOFA<br>PCT<br>HA<br>40<br>20<br>0<br>0 20 40 60 80 100<br>100-Специфичность<br>Чувствительность<br>**----- End of picture text -----**<br>
+
+
+_**Рис. 1.** Одномерный анализ: ROC-кривые – оценка значимости количественных предикторов летального исхода_ 
+
+_**Fig. 1.** Univariate analysis: ROC-curves – assessing the significance of quantitative predictors of lethality_ 
+
+1� Возраст ‒ AUC 0,670 [95%-ный ДИ 0,550; 0,790], _p_ = 0,01� Возраст более 57 лет являлся фактором риска летального исхода с чувствительностью 80,0% и специфичностью 56,8%� 
+
+2� Увеличение концентрации лактата артериальной крови ‒ AUC 0,808 [95%-ный ДИ 0,712; 0,905], _p_ < 0,001� Концентрация лактата, превышающая 4,6 ммоль/л, предсказывала риск летального исхода с чувствительностью 65,7% и специфичностью 90,9%� 
+
+3� Увеличение дозы норадреналина, необходимой для поддержания среднего артериального давления выше 65 мм рт� ст� ‒ AUC 0,745 [95%-ный ДИ 0,634; 0,836], _p_ < 0,0001� Превышение дозы 0,57 мкг · кг[-1] · мин[-1] являлось предиктором неблагоприятного исхода с чувствительностью 71,4% и специфичностью 81,8%� 
+
+4� Увеличение концентрации прокальцитонина ‒ AUC 0,950 [95%-ный ДИ 0,899; 1,000], _p_ < 0,001� Повышение показателя > 14,1 нг/мл предсказывало летальный исход с чувствительностью 85,71% и специфичностью 100%� 
+
+5� Отношения P/F ‒ AUC 0,756 [95%-ный ДИ 0,647; 0,866], _p_ < 0,0001� Снижение показателя менее 184 мм рт� ст� предсказывало летальный исход с чувствительностью 65,7% и специфичностью 81,8% (рис� 2)� 
+
+Однако наиболее значимым предиктором, по данным ROC-анализа, оказался показатель «ухудшение степени органной недостаточности по шка- 
+
+
+![](extracted_markdowns/Kochkin_2021/images/Kochkin_2021.pdf-0003-11.png)
+
+> [!IMPORTANT]
+> **AI Visual Analysis (Kochkin_2021.pdf-0003-11.png)**
+> **Category:** `OTHER` | **Summary:** Индекс оксигенации
+> 
+> The image displays Russian text in a bold, black font on a white background. The text reads "Индекс оксигенации." There are no other visual elements present.
+<!-- analyzed_Kochkin_2021.pdf-0003-11.png -->
+
+
+
+
+**----- Start of picture text -----**<br>
+Индекс оксигенации<br>**----- End of picture text -----**<br>
+
+
+
+![](extracted_markdowns/Kochkin_2021/images/Kochkin_2021.pdf-0003-12.png)
+
+> [!IMPORTANT]
+> **AI Visual Analysis (Kochkin_2021.pdf-0003-12.png)**
+> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** ROC Curve
+> 
+> The image depicts a receiver operating characteristic (ROC) curve with a solid line chart plotted on a square grid. The X-axis represents 100-Specificity, and the Y-axis represents Sensitivity, both ranging from 0 to 100. There is a diagonal reference line from the bottom-left to the top-right. The curve exhibits a stair-step pattern and rises from the bottom-left to approach the top-right, suggesting good model performance. Dashed lines around the curve represent confidence intervals.
+> 
+> **Data Points:** X-axis: 100-Specificity, Y-axis: Sensitivity
+> 
+> **Key Findings:**
+> - The curve rises steeply, indicating high sensitivity and specificity.
+> - Dashed lines indicate confidence intervals.
+<!-- analyzed_Kochkin_2021.pdf-0003-12.png -->
+
+
+
+
+**----- Start of picture text -----**<br>
+100<br>80<br>60<br>40<br>20<br>0<br>0 20 40 60 80 100<br>100-Специфичность<br>Чувствительность<br>**----- End of picture text -----**<br>
+
+
+_**Рис. 2.** ROC-кривая – оценка значимости индекса оксигенации как предиктора летального исхода_ _**Fig. 2.** ROC-curve – assessment of the significance of oxygenation index as a predictor of lethal outcomes_ 
+
+ле SOFA» ‒ AUC 0,984 [95%-ный ДИ 0,964; 1,000], _p_ < 0,001� Оценка более 11 баллов предсказывала неблагоприятный исход с чувствительностью 94,3% и специфичностью 93,2% (рис� 1)� 
+
+При оценке качественных (бинарных) предикторов 28-дневной летальности не выявлено влияния таких переменных, как «потребность в проведении заместительной почечной терапии» ( _p_ = 0,443) и «использование дополнительных вазопрессорных препаратов» ( _p_ = 0,882)� 
+
+Единственным коморбидным состоянием, являющимся значимым предиктором летального исхода у пациентов в состоянии рефрактерного септического шока, являлось наличие сахарного диабета ( _p_ < 0,001)� Среди пациентов, болеющих сахарным диабетом и перенесших рефрактерный септический шок, 28-дневная летальность составила 100%, в то время как летальность у пациентов без диабета была 33,3% (табл� 1)� 
+
+По результатам многомерного анализа, единственным значимым предиктором летального исхода оказалась оценка по шкале SOFA (adj� OR 1,626 [95%-ный ДИ 1,313; 2,014], _p_ < 0,001) (табл� 2)� При увеличении SOFA на 1 балл риск летального исхода у пациентов в состоянии рефрактерного септического шока увеличивается на 62,6%� 
+
+Дополнительно проведен сравнительный анализ информативности двух переменных: дозы норадреналина, необходимой для поддержания целевых показателей гемодинамики и SOFA, ‒ результаты представлены в табл� 3� 
+
+Полученные данные не позволили подтвердить прогностическую значимость дозы норадреналина как предиктора летального исхода при рефрактер- 
+
+_**32**_ 
+
+**Messenger of Anesthesiology and Resuscitation, Vol. 18, No. 3, 2021** 
+
+_**Таблица 1.**_ **Оценка роли сахарного диабета в неблагоприятном исходе** 
+
+_**Table 1.**_ **Assessment of the role of diabetes mellitus in unfavorable outcomes** 
+
+||||Летальный исход|Летальный исход|Всего|
+|---|---|---|---|---|---|
+|Предиктор|||нет|да||
+|Диабет в анамнезе|Нет|Количество|44|22|66|
+|||%|66,7%|33,3%|100,0%|
+||Да|Количество|0|13|13|
+|||%|0,0%|100,0%|100,0%|
+|Всего||Количество|44|35|79|
+|||%|55,7%|44,3%|100,0%|
+
+
+
+_**Таблица 2.**_ **Многомерный анализ предикторов летального исхода** 
+
+_**Table 2.**_ **Multivariate analysis of lethal outcome predictors** 
+
+
+![](extracted_markdowns/Kochkin_2021/images/Kochkin_2021.pdf-0004-06.png)
+
+> [!IMPORTANT]
+> **AI Visual Analysis (Kochkin_2021.pdf-0004-06.png)**
+> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** Statistical Analysis Table Header
+> 
+> The image is a table header from a statistical analysis, containing multiple columns. The columns are labeled as follows: 'Предиктор' (Predictor), 'B', 'Ст. ош.' (Standard Error), 'Вальд' (Wald), 'p-value', 'adj. OR' (Adjusted Odds Ratio), and '95%-ный ДИ для adj. OR' (95% Confidence Interval for adj. OR) with 'нижняя' (lower) and 'верхняя' (upper) sub-columns under it. The table uses a simple black and gray color scheme.
+<!-- analyzed_Kochkin_2021.pdf-0004-06.png -->
+
+
+
+
+**----- Start of picture text -----**<br>
+95%-ный ДИ для аdj. OR<br>Предиктор B Ст. ош. Вальд p -value аdj. OR<br>нижняя верхняя<br>**----- End of picture text -----**<br>
+
+
+|Предиктор|B|Ст. ош.|Вальд|_p_-value|аdj. OR|95%-ный ДИ для аdj. OR|95%-ный ДИ для аdj. OR|
+|---|---|---|---|---|---|---|---|
+|||||||нижняя|верхняя|
+|||||||||
+|SOFA|0,486|0,109|19,863|0,000|1,626|1,313|2,014|
+|Доп. вазопрессоры|0,320|0,393|0,664|0,415|1,377|0,638|2,972|
+|Возраст|-0,019|0,030|0,385|0,535|0,981|0,925|1,042|
+|ЗПТ|0,832|1,094|0,579|0,447|2,298|0,269|19,593|
+|Лактат|-0,014|0,131|0,011|0,916|0,986|0,763|1,274|
+|Пол|0,253|0,434|0,341|0,559|1,288|0,550|3,017|
+|Прокальцитонин|0,000|0,010|0,000|0,982|1,000|0,980|1,020|
+|ИО|-0,007|0,008|0,743|0,389|0,993|0,978|1,009|
+
+
+
+_**Таблица 3.**_ **Многомерный анализ информативности дозы норадреналина и оценки по шкале SOFA** 
+
+_**Table 3.**_ **Multivariate analysis of informativity of norepinephrine dose and SOFA score** 
+
+|||||||95%-ный ДИ для аdj. OR|95%-ный ДИ для аdj. OR|
+|---|---|---|---|---|---|---|---|
+|Предикторы|B|Ср. кв. ошибка|Вальд|Знач (р)|аdj. OR|нижняя|верхняя|
+|Доза НА|0,024|0,013|3,599|0,058|1,024|0,999|1,050|
+|SOFA|2,263|0,685|10,924|0,001|9,616|2,512|36,805|
+
+
+
+ном септическом шоке (adj� OR 1,024 [95%-ный ДИ 0,999; 1,050], _p_ = 0,058)� 
+
+Более точный и надежный прогноз летального исхода обеспечил совместный анализ оценки по SOFA и дозы вазопрессорной поддержки норадреналином (AUC 0,989 [95%-ный ДИ 0,934; 1,000], _p_ < 0,001)� 
+
+## **Обсуждение** 
+
+Итак, единственным значимым, независимым предиктором летального исхода у пациентов с рефрактерным септическим шоком является оценка по шкале SOFA� Хорошее качество прогностической модели фактора в отношении летального исхода продемонстрировано на основании ROC-анализа в ходе исследовании Thomas-Rueddel D� O� et al� (AUC 0,686 [95%-ный ДИ 0,661; 0,710], _p_ < 0,001 [11], AUC 0,74 [95%-ный ДИ 0,730; 0,760] [13])� В ходе обсуждаемого исследования продемонстрировано отличное качество прогностического фактора (AUC 0,984 [95%-ный ДИ 0,964; 1,000], _p_ < 0,001), что, по всей видимости, обусловлено тем, что пациенты, включенные в данное исследование, имели более выраженную степень органной недостаточности� 
+
+Остальные предполагаемые предикторы, ранее выявленные в процессе проведения одномерного анализа, не продемонстрировали своей значимости� Отсутствие статистической значимости отношения P/F в данном случае объясняется тем, что данные показатели учитываются при оценке по SOFA и потому уступают последней по показателям чувствительность/специфичность� 
+
+По-видимому, по той же причине отсутствует статистическая значимость потребности в заместительной почечной терапии – оценка почечной недостаточности предусмотрена в шкале SOFA� 
+
+Отсутствие значимой роли лактата в многофакторном анализе, возможно, обусловлено тем, что оценка гипоксемии, приводящей к активации анаэробного гликолиза, предусмотрена все той же шкалой SOFA [11]� 
+
+Прогностическая значимость дозы норадреналина не продемонстрирована в ходе настоящего исследования при проведении многомерного регрессионного анализа� Таким образом, нам не удалось подтвердить данные T� Auchet et al�, утверждавших, что доза норадреналина является независимым предиктором летальности на основа- 
+
+_**33**_ 
+
+**Вестник анестезиологии и реаниматологии, Том 18, № 3, 2021** 
+
+нии как ROC-анализа, включившего 106 пациентов (AUC  0,760 [95%-ный ДИ 0,66; 0,86], _p_ < 0,001), так и логистического регрессионного анализа (OR 6,04 [95%-ный ДИ 2,2; 15,06], _p_ < 0,01) [4]� Возможно, виной тому недостаточный объем выборки обсуждаемого исследования� 
+
+Хотелось бы обратить внимание еще на один важный факт� Результаты многомерного анализа не подтвердили высокой прогностической значимости ряда изученных показателей, которые, вроде бы, продемонстрировали таковую по результатам одномерного анализа� Это позволяет говорить о том, что нельзя полностью полагаться только на результаты одномерного анализа� В некоторых ситуациях толь- 
+
+ко многомерный анализ в состоянии расставить по местам, в том числе и предполагаемые предикторы неблагоприятного исхода� 
+
+## **Выводы** 
+
+1� Оценка по шкале SOFA является независимым предиктором летальности у взрослых пациентов с рефрактерным септическим шоком (adj� OR 1,626 [95%-ный ДИ 1,313; 2,014], _p_ < 0,001)� 
+
+2� По результатам ROC-анализа, наряду с SOFA, значимым предиктором является и доза норадреналина (AUC 0,989 [95%-ный ДИ 0,934; 1,000], _p_ < 0,001)� 
+
+**Конфликт интересов.** Авторы заявляют об отсутствии у них конфликта интересов� **Conflict of Interests.** The authors state that they have no conflict of interests� 
+
+## **ЛИТЕРАТУРА** 
+
+1. Интенсивная терапия: национальное руководство: в 2 т. / Под ред. И. Б. Заболоцких, Д. Н. Проценко. 2-е издание, переработанное и дополненное. – М.: ГЭОТАР-Медиа, 2020. – Т. 2. – 1056 с. ISBN: 978-5-9704-5018-5. 
+
+2. Мамаев А. Н., Кудлай Д. А. Статистические методы в медицине. ‒ М.: Практическая медицина, 2021. ‒ 136 с. 
+
+3. Тюрин И. Н., Авдейкин С. Н., Проценко Д. Н. и др. Эпидемиология сепсиса у больных, поступающих в отделение реаниматологии многопрофильного стационара // Общая реаниматология. – 2019. – № 15 (4). – С. 42‒57. doi: 10.15360/1813-9779-2019-4-42-57. 
+
+4. Auchet T., Regnier M.-A., Girerd N. et al. Outcome of patients with septic shock and high-dose vasopressor therapy // Ann. Intens. Care. – 2017. – Vol. 7. ‒ P. 43‒51. doi: 10.1186/s13613-017-0261-x. 
+
+5. Burgdorff A.-M., Bucher M., Schumann J. Vasoplegia in patients with sepsis and septic shock: pathways and mechanisms // J. Int. Med. Res. – 2018. – Vol. 46, № 4. – P. 1303–1310. PMID: 29332515, doi: 10.1177/0300060517743836. 
+
+6. Chertoff J., Chisum M., Garcia B. et al. Lactate kinetics in sepsis and septic shock:a review of the literature and rationale for further research // J. Intens. Care. – 2015. – Vol. 3. – P. 39–43. PMID: 26445673 DOI:10.1186/s40560-015-0105-4. 
+
+7. Landesberg G., Gilon D., Meroz Y. et al. Diastolic dysfunction and mortality in severe sepsis and septic shock // Eur. Heart J. – 2012. – Vol. 33, № 7. – P. 895–903. PMID: 21911341.doi:10.1093/eurheartj/ehr351. 
+
+8. Liu Z., Meng Z., Li Y. et al. Prognostic accuracy of the serum lactate level, the SOFA score and the qSOFA score for mortality among adults with sepsis // Scandinav. J. Trauma Resuscitat. Emerg. Med. – 2019. Vol. 27. – P. 51–60. doi: 10.1186/s13049-019-0609-3. 
+
+9. Sanfilippo F., Corredor C., Fletcher N. et al. Diastolic dysfunction and mortality in septic patients: a systematic review and meta&analysis // Intens. Care Med. – 2015. –Vol. 41, № 6. – P. 1004–1013. PMID: 25800584. doi: 10.1007/s00134-015-3748-7. 
+
+10. Sasko B., Butz T., Prull M. W. et al. Earliest bedside assessment of hemodynamic parameters and cardiac biomarkers: their role as predictors of adverse outcome in patients with septic shock // Int. J. Med. Sci. – 2015. –Vol. 12, № 9. – P. 680–688. PMID: 26392804. DOI: 10.7150/ijms.11720. 
+
+11. Shankar-Hari M., Phillips G. S., Levy M. L. et al. Developing a new definition and assessing new clinical criteria for septic shock for the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) // JAMA. ‒ 2016. ‒ Vol. 315, № 8. ‒ Р. 775‒787. doi: 10.1001/jama.2016.0289. 
+
+12. Seymour C. W, Vincent X., Iwashyna T. J. et al. Assessment of clinical criteria for sepsis: for the third international consensus definitions for sepsis and septic shock (Sepsis-3) // JAMA. – 2016. – Vol. 315, № 8. –  P. 762–774. doi:10.1001/jama.2016.0288. 
+
+13. Thomas-Rueddel D. O., Poidinger B., Weiss M. et al. Hyperlactatemia is an independent predictor of mortality and denotes distinct subtypes of severe sepsis and septic shock // J. Crit. Care. – 2014. – Vol. 30, № 2. – P. 439‒444. PMID: 25466313. doi: 10.1016/j.jcrc.2014.10.027. 
+
+## **REFERENCES** 
+
+1. _Intensivnaya terapiya. Natsionalnoye rukovodstvo: v 2 t._ [Intensive care. National guidelines. 2 volumes]. I.B. Zabolotskikh, D.N. Protsenko, eds., 2nd edition, reviewed and supplemented. Moscow, GEOTAR-Media Publ., 2020, vol. 2, 1056 p. ISBN: 978-5-9704-5018-5. 
+
+2. Mamaev А.N., Kudlay D.А. _Statisticheskiye metody v meditsine._ [Statistical methods in medicine]. Moscow, Prakticheskaya Meditsina Publ., 2021, 136 p. 
+
+3. Tyurin I.N., Аvdeykin S.N., Protsenko D.N. et al. Epidemiology of sepsis in patients admitted to intensive care unit of a multidisciplinary hospital. _Obschaya Reanimatologiya,_ 2019, no. 15 (4), pp. 42-57. (In Russ.) doi: 10.15360/1813-9779-2019-4-42-57. 
+
+4. Auchet T., Regnier M.A., Girerd N. et al. Outcome of patients with septic shock and high-dose vasopressor therapy. _Ann. Intens. Care_ , 2017, vol. 7, pp. 43‒51. doi: 10.1186/s13613-017-0261-x. 
+
+5. Burgdorff A.M., Bucher M., Schumann J. Vasoplegia in patients with sepsis and septic shock: pathways and mechanisms. _J. Int. Med. Res.,_ 2018, vol. 46, no. 4, pp. 1303-1310. PMID: 29332515, doi: 10.1177/0300060517743836. 
+
+6. Chertoff J., Chisum M., Garcia B. et al. Lactate kinetics in sepsis and septic shock: a review of the literature and rationale for further research. _J. Intens. Care,_ 2015, vol. 3, pp. 39-43. PMID: 26445673 DOI:10.1186/s40560-015-0105-4. 
+
+7. Landesberg G., Gilon D., Meroz Y. et al. Diastolic dysfunction and mortality in severe sepsis and septic shock. _Eur. Heart J.,_ 2012, vol. 33, no. 7, pp. 895-903. PMID: 21911341.doi:10.1093/eurheartj/ehr351. 
+
+8. Liu Z., Meng Z., Li Y. et al. Prognostic accuracy of the serum lactate level, the SOFA score and the qSOFA score for mortality among adults with sepsis. _Scandinav. J. Trauma Resuscitat. Emerg. Med.,_ 2019, vol. 27, pp. 51–60. doi: 10.1186/s13049-019-0609-3. 
+
+9. Sanfilippo F., Corredor C., Fletcher N. et al. Diastolic dysfunction and mortality in septic patients: a systematic review and meta&analysis. _Intens. Care Med._ , 2015, vol. 41, no. 6, pp. 1004-1013. PMID: 25800584. doi: 10.1007/s00134-015-3748-7. 
+
+10. Sasko B., Butz T., Prull M.W. et al. Earliest bedside assessment of hemodynamic parameters and cardiac biomarkers: their role as predictors of adverse outcome in patients with septic shock. _Int. J. Med. Sci._ , 2015, vol. 12, no. 9, pp. 680-688. PMID: 26392804. doi: 10.7150/ijms.11720. 
+
+11. Shankar-Hari M., Phillips G.S., Levy M.L. et al. Developing a new definition and assessing new clinical criteria for septic shock for the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). _JAMA_ , 2016, vol. 315, no. 8, pp. 775‒787. doi: 10.1001/jama.2016.0289. 
+
+12. Seymour C.W, Vincent X., Iwashyna T.J. et al. Assessment of clinical criteria for sepsis: for the third international consensus definitions for sepsis and septic shock (Sepsis-3). _JAMA_ , 2016, vol. 315, no. 8, pp. 762–774. doi:10.1001/jama.2016.0288. 
+
+13. Thomas-Rueddel D.O., Poidinger B., Weiss M. et al. Hyperlactatemia is an independent predictor of mortality and denotes distinct subtypes of severe sepsis and septic shock. _J. Crit. Care,_ 2014, vol. 30, no. 2, pp. 439‒444. PMID: 25466313. doi: 10.1016/j.jcrc.2014.10.027. 
+
+_**34**_ 
+
+**Messenger of Anesthesiology and Resuscitation, Vol. 18, No. 3, 2021** 
+
+## **ИНФОРМАЦИЯ ОБ АВТОРАХ:** 
+
+## _**Кочкин Александр Александрович**_ 
+
+_ГБУЗ МО «Московский областной научно-исследовательский клинический институт им. М. Ф. Владимирского», научный сотрудник отделения реаниматологии. 129110, Москва, ул. Щепкина, д. 61/2. Тел./факс: +7 (495) 929–58–04. E-mail: favor2991@mail.ru https://orcid.org/0000-0002-4190-9742_ 
+
+_ФГБНУ «НИИ Общей реаниматологии им. В. А. Неговского», 107031, Москва, ул. Петровка, д. 25 с. 2._ 
+
+## _**Ядгаров Михаил Яковлевич**_ 
+
+_врач-кибернетик, младший научный сотрудник лаборатории клинических исследований ФНКЦ РР. E-mail: mikhail.yadgarov@mail.ru https://orcid.org/0000-0003-3792-1682_ 
+
+## _**Берикашвили Леван Бондоевич**_ 
+
+_научный сотрудник лаборатории клинических исследований ФНКЦ РР. E-mail: levan.berikashvili@mail.ru https://orcid.org/0000-0001-9267-3664_ 
+
+## _**Лихванцев Валерий Владимирович**_ 
+
+_доктор медицинских наук, профессор, заместитель руководителя по научной работе. Тел.: +7 (495) 694–65–05. E-mail: lik0704@gmail.com https://orcid.org/0000-0002-5442-6950_ 
+
+## _**Переходов Сергей Николаевич**_ 
+
+_ФГБОУ «Московский государственный медико-стоматологический университет им. А. И. Евдокимова», доктор медицинских наук, профессор кафедры госпитальной хирургии лечебного факультета. 127473, Москва, ул. Делегатская, д. 20 с. 1. E-mail: s.perekhodov@bk.ru https://orcid.org/0000-0002-6276-2305_ 
+
+## **INFORMATION ABOUT AUTHORS:** 
+
+## _**Aleksandr A. Kochkin**_ 
+
+_M.F. Vladimirsky Moscow Regional Research Clinical Institute, Researcher of Intensive Care Department. 61/2, Schepkina St., Moscow, 129110. Phone/Fax: +7 (495) 929-58-04. Email: favor2991@mail.ru https://orcid.org/0000-0002-4190-9742_ 
+
+_V.A. Negovsky Reanimatology Research Institute, Build. 25, 2, Petrovka St., Moscow, 107031._ 
+
+## _**Mikhail Ya. Yadgarov**_ 
+
+_Physician Cyberneticist, Junior Researcher of Clinical Trial Laboratory of Federal Scientific and Clinical Center for Intensive Care and Rehabilitation. Email: mikhail.yadgarov@mail.ru https://orcid.org/0000-0003-3792-1682_ 
+
+## _**Levan B. Berikashvili**_ 
+
+_Researcher of Clinical Trial Laboratory of Federal Scientific and Clinical Center for Intensive Care and Rehabilitation. Email: levan.berikashvili@mail.ru https://orcid.org/0000-0001-9267-3664_ 
+
+## _**Valeriy V. Likhvantsev**_ 
+
+_Doctor of Medical Sciences, Professor, Deputy Head for Research. Phone: +7 (495) 694-65-05. Email: lik0704@gmail.com https://orcid.org/0000-0002-5442-6950_ 
+
+## _**Sergey N. Perekhodov**_ 
+
+_A.I. Yevdokimov Moscow State University of Medicine and Dentistry, Doctor of Medical Sciences, Professor of Hospital Surgery Department General Medicine Faculty. Build. 20, 1, Delegatskaya St., Moscow, 127473. Email: s.perekhodov@bk.ru https://orcid.org/0000-0002-6276-2305_ 
+
+_**35**_ 
+
