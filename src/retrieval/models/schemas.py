@@ -10,6 +10,15 @@ class IngestionChunk(BaseModel):
     content_type: str
     raw_content: str
     metadata: Dict[str, Any] = Field(default_factory=dict)
+    extracted_keywords: List[str] = Field(default_factory=list)
+
+
+class IngestionResponse(BaseModel):
+    ingested: int
+    collection_name: str
+    indexed_keywords: int
+    skipped_duplicates: int = 0
+    batches_written: int = 0
 
 
 class RetrievalQuery(BaseModel):
@@ -17,16 +26,23 @@ class RetrievalQuery(BaseModel):
     top_k: int = Field(default=5, ge=1, le=20)
 
 
-class RetrievedContextItem(BaseModel):
+class RetrievedChunk(BaseModel):
     rank: int
     text: str
     source_reference: str
     confidence_score: float = Field(ge=0.0, le=1.0)
+    keyword_score: float = Field(default=0.0, ge=0.0, le=1.0)
+    semantic_score: float = Field(default=0.0, ge=0.0, le=1.0)
+    reranker_score: float = Field(default=0.0, ge=0.0, le=1.0)
+    source_id: Optional[str] = None
+    page_number: Optional[int] = None
+    content_type: Optional[str] = None
+    metadata: Dict[str, Any] = Field(default_factory=dict)
 
 
 class RetrievalResponse(BaseModel):
     query: str
-    retrieved_context: List[RetrievedContextItem]
+    retrieved_context: List[RetrievedChunk]
 
 
 class HealthCheck(BaseModel):

@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+/* If you still want to use your tailwind.config.ts for custom themes: */
+@config "../tailwind.config.ts"; 
+
+body {
+  background-color: #020617;
+  color: #ededed;
+}
+
+/* Custom Scrollbar for the Evidence Table */
+.custom-scrollbar::-webkit-scrollbar {
+  height: 8px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #020617;
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 10px;
+  border: 2px solid #020617;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #ef4444; /* Sepsis Red highlight on hover */
+}

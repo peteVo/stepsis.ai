@@ -5,4 +5,13 @@ articles/
 
 .env
 *.pdf
+<<<<<<< HEAD
 >>>>>>> f1a6424e11410443f9e183be136e3d57b14a0904
+=======
+*.json
+
+src/retrieval/tests
+
+__pycache__/
+scripts/
+>>>>>>> 91bb224f78224b41ced81f4ce1659d05d3039149

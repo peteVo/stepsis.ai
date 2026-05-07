@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+from collections import OrderedDict
 from typing import List
 
 import httpx
@@ -12,12 +13,25 @@ logger = logging.getLogger(__name__)
 
 class EmbeddingService:
     def __init__(self) -> None:
-        self._cache: dict[str, List[float]] = {}
+        self._cache: OrderedDict[str, List[float]] = OrderedDict()
+
+    def _cache_get(self, key: str) -> List[float] | None:
+        embedding = self._cache.get(key)
+        if embedding is not None:
+            self._cache.move_to_end(key)
+        return embedding
+
+    def _cache_set(self, key: str, embedding: List[float]) -> None:
+        self._cache[key] = embedding
+        self._cache.move_to_end(key)
+        while len(self._cache) > config.embedding_cache_size:
+            self._cache.popitem(last=False)
 
     async def embed_text(self, text: str) -> List[float]:
         key = text.strip()
-        if key in self._cache:
-            return self._cache[key]
+        cached = self._cache_get(key)
+        if cached is not None:
+            return cached
 
         if not config.openrouter_api_key:
             raise ValueError("OPENROUTER_API_KEY is not set.")
@@ -42,8 +56,11 @@ class EmbeddingService:
             data = response.json()
 
         embedding = data["data"][0]["embedding"]
-        self._cache[key] = embedding
+        self._cache_set(key, embedding)
         return embedding
+
+    def cache_size(self) -> int:
+        return len(self._cache)
 
     async def embed_batch(self, texts: List[str]) -> List[List[float]]:
         results: List[List[float]] = []

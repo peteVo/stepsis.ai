@@ -1,0 +1,24 @@
+# Tunable parameters for experiments.
+# Place experiment-specific values here. Values override defaults in src/retrieval/config.py
+
+# Reranker boosts
+reranker_keyword_boost: 0.25
+reranker_semantic_boost: 0.35
+reranker_density_boost: 0.20
+reranker_llm_boost: 0.20
+
+# Hybrid retrieval weights
+hybrid_keyword_weight: 0.3
+hybrid_semantic_weight: 0.7
+
+# Candidate limits
+bm25_candidate_limit: 50
+reranker_top_k: 30
+final_top_k: 15
+
+# Text chunking
+text_chunk_size: 1100
+text_chunk_overlap: 120
+
+# Ingestion
+ingestion_batch_size: 32
