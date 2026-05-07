@@ -2,3 +2,8 @@ articles/
 
 .env
 *.pdf
+
+src/retrieval/tests
+
+__pycache__/
+scripts/

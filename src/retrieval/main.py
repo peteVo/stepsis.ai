@@ -2,13 +2,17 @@ from __future__ import annotations
 
 import logging
 from contextlib import asynccontextmanager
+from typing import List
 
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
 from src.retrieval.config import config
 from src.retrieval.database.qdrant_client import get_qdrant_client
-from src.retrieval.models.schemas import HealthCheck
+from src.retrieval.models.schemas import HealthCheck, IngestionResponse, RetrievalQuery, RetrievalResponse
+from src.retrieval.services.ingestion import get_ingestion_handler
+from src.retrieval.services.response_formatter import get_response_formatter
+from src.retrieval.services.search import HybridSearchService
 
 logging.basicConfig(level=getattr(logging, config.log_level.upper(), logging.INFO))
 logger = logging.getLogger(__name__)
@@ -25,6 +29,9 @@ async def lifespan(app: FastAPI):
     except Exception as exc:
         logger.warning("Qdrant not ready at startup: %s", exc)
     app.state.qdrant_ready = qdrant_ready
+    app.state.ingestion_handler = get_ingestion_handler()
+    app.state.search_service = HybridSearchService()
+    app.state.response_formatter = get_response_formatter()
     yield
 
 
@@ -72,5 +79,36 @@ async def health() -> HealthCheck:
 @app.get("/")
 async def root() -> dict:
     return {
-        "message": "Hello World",
+        "service": "Sepsis Atlas Retrieval API",
+        "phase": "Phase 2 in progress",
     }
+
+
+@app.post("/ingest_chunks", response_model=IngestionResponse)
+async def ingest_chunks(chunks: List[dict]) -> IngestionResponse:
+    try:
+        handler = getattr(app.state, "ingestion_handler")
+        result = await handler.ingest(chunks)
+        indexed_keywords = sum(len(record.keywords) for record in result.records)
+        return IngestionResponse(
+            ingested=result.ingested,
+            collection_name=handler.collection_name(),
+            indexed_keywords=indexed_keywords,
+            skipped_duplicates=result.skipped_duplicates,
+            batches_written=result.batches_written,
+        )
+    except Exception as exc:
+        logger.exception("Chunk ingestion failed")
+        raise HTTPException(status_code=500, detail=str(exc))
+
+
+@app.post("/retrieve", response_model=RetrievalResponse)
+async def retrieve(query: RetrievalQuery) -> RetrievalResponse:
+    try:
+        search_service = getattr(app.state, "search_service")
+        formatter = getattr(app.state, "response_formatter")
+        retrieved_context = await search_service.search(query.query, top_k=query.top_k)
+        return formatter.format_retrieval(query.query, retrieved_context)
+    except Exception as exc:
+        logger.exception("Retrieval failed")
+        raise HTTPException(status_code=500, detail=str(exc))
