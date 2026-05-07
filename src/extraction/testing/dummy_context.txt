@@ -1,0 +1,11 @@
+--- SOURCE ID: PMC1234567 ---
+--- SECTION: Results ---
+A total of 450 patients with suspected sepsis were included in the final analysis. The overall 28-day mortality rate was 22.4% (101 patients). Patients in the non-survivor group had significantly higher initial lactate levels compared to survivors (median 4.2 mmol/L [IQR 2.8-6.1] vs 1.9 mmol/L [IQR 1.2-2.5], p < 0.001). Multivariable logistic regression showed that initial lactate > 4.0 mmol/L was independently associated with 28-day mortality (OR 3.42, 95% CI 2.15-5.30).
+
+--- SECTION: Table 2 - Predictors of Mortality ---
+| Variable | Survivors (n=349) | Non-Survivors (n=101) | p-value |
+| :--- | :--- | :--- | :--- |
+| Age, years | 62 ± 14 | 71 ± 12 | 0.02 |
+| SOFA score | 4.5 ± 2.1 | 8.2 ± 3.4 | <0.001 |
+| Initial Lactate, mmol/L | 1.9 (1.2-2.5) | 4.2 (2.8-6.1) | <0.001 |
+| IL-6, pg/mL | 120 (55-250) | 480 (210-900) | 0.005 |
