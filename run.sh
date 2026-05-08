@@ -26,14 +26,6 @@ if [[ ! -x "$PYTHON_BIN" ]]; then
 fi
 echo "Using venv Python: $PYTHON_BIN"
 
-# If a requirements.txt file exists, install into the chosen Python environment.
-REQ_FILE="$ROOT_DIR/requirements.txt"
-if [[ -f "$REQ_FILE" ]]; then
-  echo "Installing Python requirements from $REQ_FILE into $PYTHON_BIN environment..."
-  "$PYTHON_BIN" -m pip install --upgrade pip
-  "$PYTHON_BIN" -m pip install -r "$REQ_FILE"
-fi
-
 echo "======================================================"
 echo "🚀 STARTING SEPSIS ATLAS END-TO-END WORKFLOW"
 echo "======================================================"
