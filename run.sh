@@ -4,14 +4,15 @@ set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 FORCE_INGEST=""
-QUERY="${1:-${QUERY:-}}"
-TOP_K="${TOP_K:-}"  # Empty by default; endpoint will use config values
 OUTPUT_DIR="$ROOT_DIR/output/retrieval"
 
-# Check for --force-ingest flag
+QUERY="${1:-}"
+TOP_K="${2:-}"
+
 if [[ "$QUERY" == "--force-ingest" ]]; then
   FORCE_INGEST="--force-ingest"
-  QUERY="${2:-${QUERY:-}}"  # shift to next arg if present
+  QUERY="${2:-}"
+  TOP_K="${3:-}"
 fi
 
 # Prefer activating the 'sepsis' conda env (so system-installed packages like
@@ -42,13 +43,12 @@ echo "✅ Step 2 Complete."
 if [[ -n "$QUERY" ]]; then
   echo ""
   echo "▶️  STEP 3: Running retrieval query and printing JSON output..."
-  PYTHONPATH="$ROOT_DIR" OUTPUT_DIR="$OUTPUT_DIR" "$PYTHON_BIN" - "$QUERY" "$TOP_K" <<'PY'
+  PYTHONPATH="$ROOT_DIR" "$PYTHON_BIN" - "$QUERY" "$TOP_K" "$OUTPUT_DIR" <<'PY'
 import json
 import sys
 from datetime import datetime
 from pathlib import Path
 import re
-import os
 
 from fastapi.testclient import TestClient
 
@@ -56,7 +56,7 @@ import src.retrieval.main as main_mod
 
 query = sys.argv[1]
 top_k_str = sys.argv[2]
-output_dir = Path(os.environ["OUTPUT_DIR"])
+output_dir = Path(sys.argv[3])
 
 
 def slugify(value: str) -> str:
