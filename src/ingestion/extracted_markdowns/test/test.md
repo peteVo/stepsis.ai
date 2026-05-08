@@ -272,6 +272,22 @@ In this work, we use sine and cosine functions of different frequencies:
 
 ![](extracted_markdowns/test/images/test.pdf-0006-05.png)
 
+> [!IMPORTANT]
+> **AI Visual Analysis (test.pdf-0006-05.png)**
+> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Positional Encoding Equations
+> 
+> The image shows mathematical equations used for positional encoding in neural networks, specifically transformers. It includes two equations: one using a sine function and the other using a cosine function. Both equations incorporate a positional argument 'pos' and modeling dimension 'd_model', with constants and exponents influencing the encoding.
+> 
+> **Data Points:** PE(pos,2i) = sin(pos/10000^(2i/d_model)) and PE(pos,2i+1) = cos(pos/10000^(2i/d_model))
+> 
+> **Key Findings:**
+> - Equations for calculating positional encoding in transformer models
+> - Utilizes sine and cosine functions
+> - Involves division by 10000 elevated to power related to position and model dimension
+<!-- analyzed_test.pdf-0006-05.png -->
+
+
+
 
 where _pos_ is the position and _i_ is the dimension. That is, each dimension of the positional encoding corresponds to a sinusoid. The wavelengths form a geometric progression from 2 _π_ to 10000 _·_ 2 _π_ . We chose this function because we hypothesized it would allow the model to easily learn to attend by relative positions, since for any fixed offset _k_ , _PEpos_ + _k_ can be represented as a linear function of _PEpos_ . 
 

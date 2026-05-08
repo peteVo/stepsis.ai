@@ -139,4 +139,7 @@ def run_contextual_vision(base_dir="extracted_markdowns"):
             print(f"   ❌ Error analyzing {img_name}: {e}")
 
 if __name__ == "__main__":
-    run_contextual_vision()
+    # Resolve base folder relative to this script so cwd doesn't matter
+    script_dir = Path(__file__).resolve().parent
+    base_dir = script_dir.joinpath("extracted_markdowns").resolve()
+    run_contextual_vision(str(base_dir))

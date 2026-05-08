@@ -89,7 +89,9 @@ def batch_process_folder(input_folder, output_folder):
     print(f"Output location:    {Path(output_folder).absolute()}")
 
 if __name__ == "__main__":
-    INPUT_DIRECTORY = "../../articles/" 
-    OUTPUT_DIRECTORY = "extracted_markdowns"
-    
-    batch_process_folder(INPUT_DIRECTORY, OUTPUT_DIRECTORY)
+    # Resolve paths relative to this script so the script works regardless of cwd
+    script_dir = Path(__file__).resolve().parent
+    INPUT_DIRECTORY = script_dir.joinpath("../../articles/").resolve()
+    OUTPUT_DIRECTORY = script_dir.joinpath("extracted_markdowns").resolve()
+
+    batch_process_folder(str(INPUT_DIRECTORY), str(OUTPUT_DIRECTORY))

@@ -20,8 +20,6 @@ class HybridSearchService:
 
     async def search(self, query: str, top_k: int = 5) -> List[RetrievedChunk]:
         records = self._ingestion_handler.all_records()
-        if not records:
-            return []
 
         keyword_matches = self._ingestion_handler.keyword_index().search(
             query,

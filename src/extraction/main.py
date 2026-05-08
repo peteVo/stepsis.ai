@@ -113,8 +113,4 @@ try:
         print(f"Verdict: {item['auditor_verdict']} ({item['confidence_score']}) -> {item['auditor_reasoning']}\n")
 
 except Exception as e:
-<<<<<<< HEAD
     print(f"\nExtraction failed. Error: {e}")
-=======
-    print(f"\n❌ Extraction failed. Error: {e}")
->>>>>>> 91bb224f78224b41ced81f4ce1659d05d3039149

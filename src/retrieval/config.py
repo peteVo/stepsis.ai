@@ -26,7 +26,7 @@ class Config:
     hybrid_semantic_weight: float = 0.7
     bm25_candidate_limit: int = 50
     reranker_top_k: int = 20
-    final_top_k: int = 5
+    final_top_k: int = 15
     ingestion_batch_size: int = 32
     text_chunk_size: int = 1000
     text_chunk_overlap: int = 120

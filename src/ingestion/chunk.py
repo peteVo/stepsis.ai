@@ -46,7 +46,7 @@ def create_chunk(source_id, content_type, content, header):
     """Helper to format the JSON exactly to your contract."""
     return {
         "source_id": source_id,
-        "page_number": "TBD", # Placeholder until page_chunks=True is used in ingestion
+        "page_number": 1,
         "content_type": content_type,
         "raw_content": content,
         "metadata": {
@@ -142,5 +142,7 @@ def batch_process_markdowns(base_dir="extracted_markdowns"):
 # Run the script
 # ==========================================
 if __name__ == "__main__":
-    TARGET_DIRECTORY = "extracted_markdowns"
-    batch_process_markdowns(TARGET_DIRECTORY)
+    # Resolve target directory relative to this script so it works regardless of cwd
+    script_dir = Path(__file__).resolve().parent
+    TARGET_DIRECTORY = script_dir.joinpath("extracted_markdowns").resolve()
+    batch_process_markdowns(str(TARGET_DIRECTORY))

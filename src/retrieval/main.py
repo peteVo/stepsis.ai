@@ -107,7 +107,10 @@ async def retrieve(query: RetrievalQuery) -> RetrievalResponse:
     try:
         search_service = getattr(app.state, "search_service")
         formatter = getattr(app.state, "response_formatter")
-        retrieved_context = await search_service.search(query.query, top_k=query.top_k)
+        # Use config default if top_k not provided, capped at reranker_top_k max
+        top_k = query.top_k if query.top_k is not None else config.final_top_k
+        top_k = min(top_k, config.reranker_top_k)
+        retrieved_context = await search_service.search(query.query, top_k=top_k)
         return formatter.format_retrieval(query.query, retrieved_context)
     except Exception as exc:
         logger.exception("Retrieval failed")

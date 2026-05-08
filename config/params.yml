@@ -14,7 +14,7 @@ hybrid_semantic_weight: 0.7
 # Candidate limits
 bm25_candidate_limit: 50
 reranker_top_k: 30
-final_top_k: 15
+final_top_k: 10
 
 # Text chunking
 text_chunk_size: 1100
