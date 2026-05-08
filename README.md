@@ -63,7 +63,7 @@ Once the container is running, open your web browser and navigate to:
 - Python 3.13+ (with `.venv` virtual environment)
 - OpenRouter API key (for embeddings & reranking)
 - Qdrant Cloud instance
-- PDF articles in `articles/` directory
+- PDF articles in `/articles/` directory
 
 ### Running the Pipeline
 
