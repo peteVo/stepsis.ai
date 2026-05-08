@@ -10,7 +10,53 @@ The system implements three main stages:
 2. **Embedding & Storage**: Embed chunks via OpenRouter → Store in Qdrant cloud
 3. **Retrieval**: Hybrid search (BM25 + semantic) → Rerank → Return ranked results
 
-## Quick Start
+## 🐳 Docker Deployment (Recommended)
+
+To ensure a seamless, environment-independent setup, Sepsis Atlas is packaged as a monolithic Docker container housing both the Python RAG pipeline and the Next.js frontend dashboard.
+
+### 1. Build the Image
+From the root directory (where the `Dockerfile` is located), build the image. This process installs all necessary Node.js and Python dependencies within an isolated Linux environment.
+
+```bash
+# On Mac / Windows (WSL)
+docker build -t stepsis-app .
+
+# On Native Linux
+sudo docker build -t stepsis-app .
+```
+
+### 2. Run the Container
+You must pass your external API keys as environment variables when starting the container. The web dashboard will be exposed on Port 3000.
+
+**Platform: Mac & Windows (WSL2)**
+*Requirement: Ensure the Docker Desktop application is open and the engine is running.*
+```bash
+docker run -p 3000:3000 \
+  -e OPENROUTER_API_KEY="your-openrouter-key" \
+  -e QDRANT_URL="[https://your-cluster-url.qdrant.io:6333](https://your-cluster-url.qdrant.io:6333)" \
+  -e QDRANT_API_KEY="your-qdrant-key" \
+  stepsis-app
+```
+
+**Platform: Native Linux (Ubuntu, Debian, etc.)**
+*Requirement: Depending on your user group settings, you typically need `sudo` to access the Docker daemon.*
+```bash
+sudo docker run -p 3000:3000 \
+  -e OPENROUTER_API_KEY="your-openrouter-key" \
+  -e QDRANT_URL="[https://your-cluster-url.qdrant.io:6333](https://your-cluster-url.qdrant.io:6333)" \
+  -e QDRANT_API_KEY="your-qdrant-key" \
+  stepsis-app
+```
+
+*(Troubleshooting Tip: If you get a "port is already allocated" error, change the port mapping to `-p 3001:3000` and access the app on port 3001 instead).*
+
+### 3. Access the Dashboard
+Once the container is running, open your web browser and navigate to:
+**[http://localhost:3000](http://localhost:3000)**
+
+---
+
+## Quick Start (Local Development)
 
 ### Prerequisites
 
@@ -107,7 +153,7 @@ Changes to `params.yml` take effect on the next run.
 ```bash
 # Required: Set before running
 export OPENROUTER_API_KEY="your-api-key"
-export QDRANT_URL="https://your-cluster.eu-central-1-0.aws.cloud.qdrant.io:6333"
+export QDRANT_URL="[https://your-cluster.eu-central-1-0.aws.cloud.qdrant.io:6333](https://your-cluster.eu-central-1-0.aws.cloud.qdrant.io:6333)"
 export QDRANT_API_KEY="your-qdrant-key"
 
 # Optional: Override defaults
@@ -226,7 +272,7 @@ Completes Steps 1-4, skips retrieval
 
 ## Architecture
 
-```
+```text
 PDFs (articles/)
     ↓
 [extract_text.py] → extract_image.py → chunk.py
