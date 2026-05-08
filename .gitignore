@@ -10,6 +10,8 @@ articles/
 =======
 *.json
 
+src/ingestion/extracted_markdowns/
+
 src/retrieval/tests
 
 __pycache__/
