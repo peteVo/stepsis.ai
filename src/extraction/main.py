@@ -19,7 +19,9 @@ client = instructor.from_openai(
 # ---------------------------------------------------------
 # AUTO-DISCOVER THE LATEST RAG OUTPUT
 # ---------------------------------------------------------
-BASE_RETRIEVAL_DIR = "../../output/retrieval/"
+# BASE_RETRIEVAL_DIR = "../../output/retrieval/"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_RETRIEVAL_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, "../../output/retrieval/"))
 
 if not os.path.exists(BASE_RETRIEVAL_DIR):
     print(f"❌ Error: Directory '{BASE_RETRIEVAL_DIR}' not found.")
@@ -207,7 +209,9 @@ try:
     # ---------------------------------------------------------
     # --- 3. SAVE TO FILE (Auto-Incrementing) ---
     # ---------------------------------------------------------
-    OUTPUT_DIR = "../../output/extraction/"
+    # OUTPUT_DIR = "../../output/extraction/"
+    # os.makedirs(OUTPUT_DIR, exist_ok=True)
+    OUTPUT_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, "../../output/extraction/"))
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     file_index = 1

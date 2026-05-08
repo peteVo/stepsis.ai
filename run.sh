@@ -106,6 +106,19 @@ else
   echo "No query provided; skipped retrieval output step."
 fi
 
+if [[ -n "$QUERY" ]]; then
+  echo ""
+  echo "▶️  STEP 4: Running LLM Extraction to generate UI Payload..."
+  
+  # Navigate to the extraction folder so relative paths work perfectly
+  cd "$ROOT_DIR/src/extraction"
+  
+  # Run the extraction script using the exact same Python environment
+  "$PYTHON_BIN" main.py
+  
+  echo "✅ Step 4 Complete. Dashboard payload generated."
+fi
+
 echo ""
 echo "======================================================"
 echo "🎉 WORKFLOW FINISHED"
