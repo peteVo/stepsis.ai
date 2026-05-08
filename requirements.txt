@@ -10,3 +10,5 @@ requests==2.32.3
 pytest==7.4.0
 pytest-asyncio==0.22.0
 pymupdf4llm
+openai
+instructor
