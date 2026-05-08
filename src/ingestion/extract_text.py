@@ -1,7 +1,36 @@
 import pymupdf4llm
 import os
 import time
+import json
 from pathlib import Path
+
+
+def _serialize_page_chunks(page_chunks):
+    serialized = []
+    for item in page_chunks or []:
+        metadata = dict(item.get("metadata") or {})
+        page_number = int(metadata.get("page_number") or 1)
+        boxes = []
+        for box in item.get("page_boxes") or []:
+            pos = box.get("pos") or [None, None]
+            bbox = box.get("bbox") or [0, 0, 0, 0]
+            boxes.append(
+                {
+                    "index": box.get("index"),
+                    "class": box.get("class"),
+                    "bbox": [float(v) for v in bbox],
+                    "pos": [int(pos[0]) if pos[0] is not None else None, int(pos[1]) if pos[1] is not None else None],
+                }
+            )
+
+        serialized.append(
+            {
+                "page_number": page_number,
+                "text": str(item.get("text") or ""),
+                "page_boxes": boxes,
+            }
+        )
+    return serialized
 
 def process_single_pdf(pdf_path, base_output_folder):
     """
@@ -16,9 +45,10 @@ def process_single_pdf(pdf_path, base_output_folder):
     doc_out_dir = Path(base_output_folder) / pdf_file.stem
     image_out_dir = doc_out_dir / "images"
     md_filepath = doc_out_dir / f"{pdf_file.stem}.md"
+    provenance_path = doc_out_dir / f"{pdf_file.stem}_provenance.json"
 
     # --- SKIP LOGIC ---
-    if md_filepath.exists():
+    if md_filepath.exists() and provenance_path.exists():
         return "skipped"
     # ------------------
 
@@ -26,16 +56,29 @@ def process_single_pdf(pdf_path, base_output_folder):
     os.makedirs(image_out_dir, exist_ok=True)
     
     try:
-        md_text = pymupdf4llm.to_markdown(
-            doc=str(pdf_path),
-            write_images=True,
-            image_path=str(image_out_dir),
-            image_format="png",
-            #page_chunks=True,
-        )
-        
-        with open(md_filepath, "w", encoding="utf-8") as f:
-            f.write(md_text)
+        # Keep the original markdown generation path for compatibility with the image pipeline.
+        if not md_filepath.exists():
+            md_text = pymupdf4llm.to_markdown(
+                doc=str(pdf_path),
+                write_images=True,
+                image_path=str(image_out_dir),
+                image_format="png",
+            )
+
+            with open(md_filepath, "w", encoding="utf-8") as f:
+                f.write(md_text)
+
+        # Export page-level text and bounding boxes for deterministic provenance mapping.
+        if not provenance_path.exists():
+            page_chunks = pymupdf4llm.to_markdown(
+                doc=str(pdf_path),
+                page_chunks=True,
+            )
+            serialized = {
+                "source_id": pdf_file.stem,
+                "pages": _serialize_page_chunks(page_chunks),
+            }
+            provenance_path.write_text(json.dumps(serialized, ensure_ascii=False, indent=2), encoding="utf-8")
             
         return "success"
         
