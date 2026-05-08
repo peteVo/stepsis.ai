@@ -18,13 +18,32 @@ fi
 # Prefer activating the 'sepsis' conda env (so system-installed packages like
 # `pymupdf4llm` are available). If conda/activation fails, fall back to the
 # repository virtual environment at .venv.
-PYTHON_BIN="$ROOT_DIR/.venv/bin/python"
 
-if [[ ! -x "$PYTHON_BIN" ]]; then
-  echo "Virtual environment Python not found at $PYTHON_BIN" >&2
-  exit 1
+PYTHON_BIN=""
+
+# 1. Try to initialize and use Conda first
+if command -v conda >/dev/null 2>&1; then
+  # Initialize conda within this script's subshell so 'conda activate' works
+  eval "$(conda shell.bash hook 2>/dev/null)" || true
+  
+  if conda activate sepsis 2>/dev/null; then
+    PYTHON_BIN="$(which python)"
+    echo "Using Conda environment 'sepsis' Python: $PYTHON_BIN"
+  else
+    echo "Conda environment 'sepsis' not found. Falling back to venv..."
+  fi
 fi
-echo "Using venv Python: $PYTHON_BIN"
+
+# 2. Fallback to local .venv if Conda wasn't found or failed to activate
+if [[ -z "$PYTHON_BIN" ]]; then
+  PYTHON_BIN="$ROOT_DIR/.venv/bin/python"
+  
+  if [[ ! -x "$PYTHON_BIN" ]]; then
+    echo "Error: Conda 'sepsis' env failed to activate AND virtual environment Python not found at $PYTHON_BIN" >&2
+    exit 1
+  fi
+  echo "Using venv Python: $PYTHON_BIN"
+fi
 
 echo "======================================================"
 echo "🚀 STARTING SEPSIS ATLAS END-TO-END WORKFLOW"
