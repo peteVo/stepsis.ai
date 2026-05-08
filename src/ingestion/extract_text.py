@@ -2,8 +2,8 @@ import pymupdf4llm
 import os
 import time
 import json
+import sys
 from pathlib import Path
-
 
 def _serialize_page_chunks(page_chunks):
     serialized = []
@@ -89,15 +89,27 @@ def process_single_pdf(pdf_path, base_output_folder):
 def batch_process_folder(input_folder, output_folder):
     input_dir = Path(input_folder)
     
+    # --- ERROR DETECTION ADDED HERE ---
     if not input_dir.exists() or not input_dir.is_dir():
-        print(f"❌ Error: Input folder '{input_folder}' does not exist.")
-        return
+        print("\n" + "!"*60)
+        print("🚨 CRITICAL ERROR: Input folder not found!")
+        print(f"Target Path: {input_dir.absolute()}")
+        print("\n💡 ACTION REQUIRED:")
+        print("1. Please create a folder named 'articles' at the path above.")
+        print("2. Place your target PDF data files into that folder.")
+        print("3. Run this script again.")
+        print("!"*60 + "\n")
+        sys.exit(1) # Stops the script and signals failure to your run.sh script
+    # ----------------------------------
 
     pdf_files = list(input_dir.glob("*.pdf"))
     
     if not pdf_files:
-        print(f"⚠️ No PDFs found in '{input_folder}'.")
-        return
+        print("\n" + "!"*60)
+        print(f"⚠️ WARNING: The folder '{input_folder}' exists, but it is empty.")
+        print("💡 ACTION REQUIRED: Please put your PDF data files inside the folder.")
+        print("!"*60 + "\n")
+        sys.exit(1)
         
     print(f"🔍 Found {len(pdf_files)} PDFs. Starting batch processing...\n")
     
