@@ -13,16 +13,14 @@ if [[ "$QUERY" == "--force-ingest" ]]; then
   QUERY="${2:-${QUERY:-}}"  # shift to next arg if present
 fi
 
-# Prefer activating the 'sepsis' conda env (so system-installed packages like
-# `pymupdf4llm` are available). If conda/activation fails, fall back to the
-# repository virtual environment at .venv.
-PYTHON_BIN="$ROOT_DIR/.venv/bin/python"
+# Use the active Python on PATH so the caller controls the environment.
+PYTHON_BIN="${PYTHON_BIN:-$(command -v python)}"
 
-if [[ ! -x "$PYTHON_BIN" ]]; then
-  echo "Virtual environment Python not found at $PYTHON_BIN" >&2
+if [[ -z "$PYTHON_BIN" || ! -x "$PYTHON_BIN" ]]; then
+  echo "No usable Python found on PATH. Activate the desired environment first." >&2
   exit 1
 fi
-echo "Using venv Python: $PYTHON_BIN"
+echo "Using Python: $PYTHON_BIN"
 
 echo "======================================================"
 echo "🚀 STARTING SEPSIS ATLAS END-TO-END WORKFLOW"
