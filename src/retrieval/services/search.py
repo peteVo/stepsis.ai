@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+import re
 from typing import Dict, List
 
 from src.retrieval.config import config
@@ -83,9 +84,12 @@ class HybridSearchService:
 
         ranked = []
         for item in combined.values():
-            confidence = (config.hybrid_keyword_weight * item["keyword_score"]) + (
+            base_confidence = (config.hybrid_keyword_weight * item["keyword_score"]) + (
                 config.hybrid_semantic_weight * item["semantic_score"]
             )
+            # Apply a small boost for chunks that explicitly mention numeric mortality
+            boost = self._mortality_boost(item["record"].text)
+            confidence = base_confidence + boost
             ranked.append(
                 {
                     "record": item["record"],
@@ -109,6 +113,32 @@ class HybridSearchService:
     @staticmethod
     def _clip(value: float) -> float:
         return max(0.0, min(1.0, value))
+
+    @staticmethod
+    def _mortality_boost(text: str) -> float:
+        """Return a small boost (0-0.25) when text contains explicit mortality numeric evidence.
+
+        Heuristics:
+        - explicit percentage (e.g. "44%", "44.4 %") along with 'mortality' or 'death' -> high boost
+        - number + 'mortality'/'mortality rate' -> medium boost
+        - presence of 'mortality'/'died'/'death' alone -> small boost
+        """
+        if not text:
+            return 0.0
+        t = text.lower()
+        # explicit percent patterns
+        percent_pattern = re.compile(r"\b\d{1,3}(?:\.\d+)?\s*%")
+        # patterns like 'mortality 44.4', 'mortality rate: 44.4', '44 per 100'
+        number_pattern = re.compile(r"\b\d{1,3}(?:\.\d+)?\b")
+        has_mortality_word = any(k in t for k in ("mortality", "mortality rate", "died", "death", "deaths"))
+
+        if percent_pattern.search(t) and has_mortality_word:
+            return 0.20
+        if has_mortality_word and number_pattern.search(t):
+            return 0.12
+        if has_mortality_word:
+            return 0.05
+        return 0.0
 
     @staticmethod
     def _record_from_payload(point_id: str, payload: Dict) -> IngestedRecord:
