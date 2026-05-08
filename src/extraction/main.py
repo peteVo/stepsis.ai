@@ -19,7 +19,6 @@ client = instructor.from_openai(
 # ---------------------------------------------------------
 # AUTO-DISCOVER THE LATEST RAG OUTPUT
 # ---------------------------------------------------------
-# BASE_RETRIEVAL_DIR = "../../output/retrieval/"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 BASE_RETRIEVAL_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, "../../output/retrieval/"))
 
@@ -47,16 +46,31 @@ except Exception as e:
     print(f"❌ Error loading the JSON file: {e}")
     exit(1)
 
+# Handle Person 3's exact JSON structure (extracting the "retrieved_context" array)
 if isinstance(raw_data, dict):
-    retrieval_data = next((val for val in raw_data.values() if isinstance(val, list)), [])
-    if not retrieval_data:
-        retrieval_data = [raw_data] 
+    if "retrieved_context" in raw_data:
+        retrieval_data = raw_data["retrieved_context"]
+    else:
+        retrieval_data = next((val for val in raw_data.values() if isinstance(val, list)), [raw_data])
 elif isinstance(raw_data, list):
     retrieval_data = raw_data
 else:
     retrieval_data = []
 
 print(f"📦 Successfully loaded {len(retrieval_data)} chunks!")
+
+# ---------------------------------------------------------
+# BUILD METADATA LOOKUP DICTIONARY
+# We store the page_number and reference so Python can inject it later!
+# ---------------------------------------------------------
+metadata_lookup = {}
+for item in retrieval_data:
+    if isinstance(item, dict):
+        src_id = item.get('source_id') or item.get('id') or 'Unknown'
+        metadata_lookup[src_id] = {
+            "source_reference": item.get("source_reference", "Unknown"),
+            "page_number": item.get("page_number", "Unknown")
+        }
 
 # ---------------------------------------------------------
 
@@ -175,6 +189,11 @@ try:
         row_dict['auditor_reasoning'] = reasoning
         row_dict['auditor_verdict'] = verdict
         
+        # --- INJECT PERSON 3's METADATA DIRECTLY INTO THE BIOMARKER ROW ---
+        src_id = row_dict.get('study_id', '')
+        row_dict['source_reference'] = metadata_lookup.get(src_id, {}).get('source_reference', 'Unknown')
+        row_dict['page_number'] = metadata_lookup.get(src_id, {}).get('page_number', 'Unknown')
+        
         keys_to_remove = ['or_ci_lower', 'or_ci_upper', 'auc_ci_lower', 'auc_ci_upper', 'odds_ratio']
         for k in keys_to_remove:
             row_dict.pop(k, None)
@@ -193,8 +212,12 @@ try:
     for pheno_study in master_phenotypes:
         # We loop through the internal clusters and map them to Person 4's exact naming convention
         for cluster in pheno_study.clusters:
+            src_id = pheno_study.study_id
             flat_cluster = {
-                "study": pheno_study.study_id,
+                "study": src_id,
+                # --- INJECT PERSON 3's METADATA DIRECTLY INTO THE PHENOTYPE ROW ---
+                "source_reference": metadata_lookup.get(src_id, {}).get('source_reference', 'Unknown'),
+                "page_number": metadata_lookup.get(src_id, {}).get('page_number', 'Unknown'),
                 "method": pheno_study.clustering_method,
                 "clusters_count": pheno_study.number_of_clusters,
                 "cluster_id": cluster.cluster_id,
@@ -209,8 +232,6 @@ try:
     # ---------------------------------------------------------
     # --- 3. SAVE TO FILE (Auto-Incrementing) ---
     # ---------------------------------------------------------
-    # OUTPUT_DIR = "../../output/extraction/"
-    # os.makedirs(OUTPUT_DIR, exist_ok=True)
     OUTPUT_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, "../../output/extraction/"))
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 

@@ -1,0 +1,8 @@
+node_modules/
+src/frontend_validation/stepsis.ai/node_modules/
+src/frontend_validation/stepsis.ai/.next/
+.venv/
+__pycache__/
+*.pyc
+.env
+output/extraction/ui_payload_*.json

@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
-qdrant-client
+qdrant-client<1.10.0
 pydantic
 python-dotenv
 httpx

@@ -13,12 +13,15 @@ const DONZELLI_PHENOTYPES = [
     outcomes: "ICU mortality ~12%",
     source_anchor: "Cluster A was characterized by low SOFA scores and normal lactate levels.",
     confidence_score: 0.95,
-    auditor_reasoning: "Confirmed association with low-severity clusters."
+    auditor_reasoning: "Confirmed association with low-severity clusters.",
+    source_reference: "Donzelli_2019, Page 4, Chunk 1/3"
   }
 ];
 
 export default function Home() {
   const [data, setData] = useState<{ biomarkers: any[], phenotypes: any[] }>({ biomarkers: [], phenotypes: [] });
+  // Add this new state (defaulting to 30 just in case)
+  const [articleCount, setArticleCount] = useState<number>(30);
   const [activeTab, setActiveTab] = useState<"uc1" | "uc2" | "uc3">("uc1");
   const [selectedRow, setSelectedRow] = useState<any>(null);
   const [prompt, setPrompt] = useState("");
@@ -27,6 +30,15 @@ export default function Home() {
 
   // INITIAL LOAD
   useEffect(() => {
+    // NEW: Fetch the live PDF count
+    fetch("/api/stats")
+      .then(res => res.json())
+      .then(json => {
+        if (json.count) setArticleCount(json.count);
+      })
+      .catch(e => console.error("Stats Fetch Error:", e));
+
+    // EXISTING: Fetch the initial payload
     fetch("/ui_payload.json")
       .then(res => res.json())
       .then(json => {
@@ -143,10 +155,10 @@ export default function Home() {
 
         {/* TAB NAVIGATION & DOWNLOAD */}
         <div className="flex items-center justify-between mt-10">
-          <div className="flex bg-slate-900 p-1.5 rounded-2xl border border-slate-800">
-            <button onClick={() => setActiveTab("uc1")} className={`px-6 py-3 rounded-xl text-[10px] font-black uppercase transition-all ${activeTab === 'uc1' ? 'bg-slate-700 text-white' : 'text-slate-500'}`}>UC1: Mortality Estimation</button>
-            <button onClick={() => setActiveTab("uc2")} className={`px-6 py-3 rounded-xl text-[10px] font-black uppercase transition-all ${activeTab === 'uc2' ? 'bg-blue-600 text-white' : 'text-slate-500'}`}>UC2: Phenotype Atlas</button>
-            <button onClick={() => setActiveTab("uc3")} className={`px-6 py-3 rounded-xl text-[10px] font-black uppercase transition-all ${activeTab === 'uc3' ? 'bg-red-600 text-white' : 'text-slate-500'}`}>UC3: Risk Stratification</button>
+          <div className="flex bg-slate-900 p-1.5 rounded-2xl border border-slate-800 shadow-xl">
+            <button onClick={() => setActiveTab("uc1")} className={`px-6 py-3 rounded-xl text-[10px] font-black uppercase transition-all ${activeTab === 'uc1' ? 'bg-slate-700 text-white shadow-md' : 'text-slate-500'}`}>UC1: Mortality Estimation</button>
+            <button onClick={() => setActiveTab("uc2")} className={`px-6 py-3 rounded-xl text-[10px] font-black uppercase transition-all ${activeTab === 'uc2' ? 'bg-blue-600 text-white shadow-md' : 'text-slate-500'}`}>UC2: Phenotype Atlas</button>
+            <button onClick={() => setActiveTab("uc3")} className={`px-6 py-3 rounded-xl text-[10px] font-black uppercase transition-all ${activeTab === 'uc3' ? 'bg-red-600 text-white shadow-md' : 'text-slate-500'}`}>UC3: Risk Stratification</button>
           </div>
           
           <div className="flex gap-4">
@@ -170,7 +182,9 @@ export default function Home() {
           {loading && (
              <div className="absolute inset-0 bg-slate-950/60 backdrop-blur-sm z-10 flex flex-col items-center justify-center space-y-4">
                 <div className="w-12 h-12 border-4 border-red-600 border-t-transparent rounded-full animate-spin"></div>
-                <p className="text-xs font-black uppercase tracking-widest text-red-500">Synthesizing Evidence from 30 Articles...</p>
+                <p className="text-xs font-black uppercase tracking-widest text-red-500">
+                  Synthesizing Evidence from {articleCount} Articles...
+                </p>
              </div>
           )}
           
@@ -228,14 +242,27 @@ export default function Home() {
         <aside className="col-span-12 xl:col-span-3 sticky top-8 space-y-6">
           {selectedRow && (
             <div className="bg-[#0f172a] border border-slate-800 p-8 rounded-3xl shadow-2xl animate-in fade-in slide-in-from-right-4 duration-300">
-              <h3 className={`text-[10px] font-black uppercase tracking-widest mb-4 ${activeTab === 'uc2' ? 'text-blue-500' : 'text-red-500'}`}>Evidence Grounding</h3>
+              <h3 className={`text-[10px] font-black uppercase tracking-widest mb-6 ${activeTab === 'uc2' ? 'text-blue-500' : 'text-red-500'}`}>Evidence Grounding</h3>
+              
+              {/* NEW: SOURCE REFERENCE BADGE */}
+              {selectedRow.source_reference && (
+                <div className="mb-4 inline-flex items-center gap-2 bg-slate-950/50 border border-slate-700/50 px-3 py-1.5 rounded-lg">
+                  <svg className="w-3.5 h-3.5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                  </svg>
+                  <span className="text-[10px] font-mono text-slate-300 tracking-tight">
+                    {selectedRow.source_reference}
+                  </span>
+                </div>
+              )}
+
               <blockquote className="text-lg italic font-serif leading-relaxed text-slate-200 border-l-2 border-slate-700 pl-4 py-1">
                 "{selectedRow.source_anchor}"
               </blockquote>
               
               <div className="pt-8 border-t border-slate-800 mt-8">
                 <div className="flex justify-between items-end mb-3">
-                  <span className="text-[10px] font-bold text-slate-500">Confidence</span>
+                  <span className="text-[10px] font-bold text-slate-500 uppercase">Confidence Score</span>
                   <span className="text-2xl font-black text-white">{(selectedRow.confidence_score * 100 || 0).toFixed(0)}%</span>
                 </div>
                 <div className="h-1.5 w-full bg-slate-950 rounded-full border border-white/5 overflow-hidden">
