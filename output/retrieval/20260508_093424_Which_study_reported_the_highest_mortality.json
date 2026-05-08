@@ -1,0 +1,259 @@
+{
+  "query": "Which study reported the highest mortality",
+  "retrieved_context": [
+    {
+      "rank": 1,
+      "text": "This was a retrospective, single-center study. Second, it should be noted that substantial numbers of patients had advanced-stage malignancies, including solid organ and hematologic malignancies, which had a higher mortality rate. Additionally, patients who did not resuscitate were not excluded from our study, which could have affected the outcome.",
+      "source_reference": "Suttapanit_2022, Page 1, Chunk 1/1",
+      "confidence_score": 0.5282935033333334,
+      "keyword_score": 0.0,
+      "semantic_score": 1.0,
+      "reranker_score": 0.82480085,
+      "source_id": "Suttapanit_2022",
+      "page_number": 1,
+      "content_type": "text",
+      "metadata": {
+        "section_header": "LIMITATIONS",
+        "coordinates": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "chunk_index": 0,
+        "chunk_count": 1,
+        "parent_source_id": "Suttapanit_2022",
+        "parent_chunk_size": 350
+      }
+    },
+    {
+      "rank": 2,
+      "text": "This study was conducted in prefecture-level cities in Sichuan Province, where the economy and medical treatment facilities are underdeveloped, so the mortality rate was relatively high. The season of study is also a factor affecting the mortality rate of sepsis patients. This study was conducted in autumn and winter, so the mortality rate was relatively high.",
+      "source_reference": "Cao_2021, Page 1, Chunk 3/3",
+      "confidence_score": 0.5163515576647488,
+      "keyword_score": 0.0,
+      "semantic_score": 0.8948320657088061,
+      "reranker_score": 0.88246834,
+      "source_id": "Cao_2021",
+      "page_number": 1,
+      "content_type": "text",
+      "metadata": {
+        "section_header": "Discussion",
+        "coordinates": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "chunk_index": 2,
+        "chunk_count": 3,
+        "parent_source_id": "Cao_2021",
+        "parent_chunk_size": 2322
+      }
+    },
+    {
+      "rank": 3,
+      "text": "medium-risk and high-risk groups, with an observed 90-day mortality of 5.4, 35.7, and 72.0%, respectively. With reference to the low-risk patients, the medium-risk and high-risk groups had a higher mortality, with hazard ratios of 8.36 (95% CI 3.60\u201327.83) and 20.27 (95% CI 7.47\u201354.95), respectively.",
+      "source_reference": "Li_2020, Page 1, Chunk 1/1",
+      "confidence_score": 0.5127292146174591,
+      "keyword_score": 0.0,
+      "semantic_score": 0.9439616227165499,
+      "reranker_score": 0.7783799,
+      "source_id": "Li_2020",
+      "page_number": 1,
+      "content_type": "text",
+      "metadata": {
+        "section_header": "Abstract",
+        "coordinates": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "chunk_index": 0,
+        "chunk_count": 1,
+        "parent_source_id": "Li_2020",
+        "parent_chunk_size": 300
+      }
+    },
+    {
+      "rank": 4,
+      "text": "The main source of infection was urinary tract infection (37.4%), unlike other studies in which genital and respiratory infections were those most commonly reported.[[3,8,14,23]] In spite of the high rate of infection, mortality in these cases was the lowest of all the different causes of sepsis (13.6%). This finding is consistent with results reported from a population-based study conducted in the USA in which urinary tract infection was considered a protective factor against death (adjusted OR = 0.3).[[9]] Although more frequent, this infection is possibly easier to treat, and the bacteria involved are less resistant, thus responding more quickly to treatment and being less likely to result in death.",
+      "source_reference": "Holanda_2020, Page 1, Chunk 1/1",
+      "confidence_score": 0.5109853810485581,
+      "keyword_score": 0.0,
+      "semantic_score": 0.8674696620434994,
+      "reranker_score": 0.77018833,
+      "source_id": "Holanda_2020",
+      "page_number": 1,
+      "content_type": "text",
+      "metadata": {
+        "section_header": "4. Discussion",
+        "coordinates": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "chunk_index": 0,
+        "chunk_count": 1,
+        "parent_source_id": "Holanda_2020",
+        "parent_chunk_size": 711
+      }
+    },
+    {
+      "rank": 5,
+      "text": "Descriptive statistics were used to summarize the demographic and clinical characteristics of the study cohort. Continuous variables were reported as means with standard deviations or medians with interquartile ranges (IQR) based on their distribution. Categorical variables were presented as frequencies and percentages. For comparing parameters between those with or without the outcome of death, Chi-square test or Fisher\u2019s exact test was used for categorical data comparisons, while t-tests or Mann\u2013 Whitney U tests were used for continuous data comparisons, as appropriate. We conducted a comprehensive univariate analysis of the dataset comprising 117 variables for predicting hospital mortality. Variables found to be significant were further explored through multivariate binary logistic regression analysis, with the aim of constructing predictive models that determine the binary outcome of interest. Goodness of fit model showed an accuracy rate of 89.4%. Moreover, the Hosmer and Lemeshow Test, with a _p_ -value of 0.428, suggested that the model adequately fit the data.",
+      "source_reference": "Todi_2024, Page 1, Chunk 1/1",
+      "confidence_score": 0.5080839082476697,
+      "keyword_score": 0.0,
+      "semantic_score": 0.9232496426123897,
+      "reranker_score": 0.658066,
+      "source_id": "Todi_2024",
+      "page_number": 1,
+      "content_type": "text",
+      "metadata": {
+        "section_header": "Statistical analysis",
+        "coordinates": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "chunk_index": 0,
+        "chunk_count": 1,
+        "parent_source_id": "Todi_2024",
+        "parent_chunk_size": 1084
+      }
+    },
+    {
+      "rank": 6,
+      "text": "> - Mortality is significantly high (57.3%) for patients with \u22653 organ dysfunctions.\n<!-- analyzed_Wang_2020.pdf-0008-04.png -->",
+      "source_reference": "Wang_2020, Page 1, Chunk 2/2",
+      "confidence_score": 0.50242056181027,
+      "keyword_score": 0.0,
+      "semantic_score": 0.8722978718388665,
+      "reranker_score": 0.8522482,
+      "source_id": "Wang_2020",
+      "page_number": 1,
+      "content_type": "image_analysis",
+      "metadata": {
+        "section_header": "DISCUSSION",
+        "coordinates": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "chunk_index": 1,
+        "chunk_count": 2,
+        "parent_source_id": "Wang_2020",
+        "parent_chunk_size": 1187
+      }
+    },
+    {
+      "rank": 7,
+      "text": "risk of death was higher than reported by Kaukonen et al. (6) because we included the subset of patients with septic shock rather than severe sepsis of the Sepsis-2 definition.",
+      "source_reference": "Zhang_2019, Page 1, Chunk 1/1",
+      "confidence_score": 0.5021299763159054,
+      "keyword_score": 0.0,
+      "semantic_score": 0.9797777209025869,
+      "reranker_score": 0.79603887,
+      "source_id": "Zhang_2019",
+      "page_number": 1,
+      "content_type": "text",
+      "metadata": {
+        "section_header": "Discussion",
+        "coordinates": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "chunk_index": 0,
+        "chunk_count": 1,
+        "parent_source_id": "Zhang_2019",
+        "parent_chunk_size": 176
+      }
+    },
+    {
+      "rank": 8,
+      "text": "The primary outcome, 28-day mortality, was best detected by NEWS (area under the receiver operating characteristic curve [AUROC] = 0.770; 95% CI: 0.705-0.835), followed by SOS (AUROC = 0.749; 95% CI: 0.685-0.815, qSOFA",
+      "source_reference": "Suttapanit_2022, Page 1, Chunk 1/1",
+      "confidence_score": 0.4989028065494896,
+      "keyword_score": 0.0,
+      "semantic_score": 0.8832689558556845,
+      "reranker_score": 0.74879336,
+      "source_id": "Suttapanit_2022",
+      "page_number": 1,
+      "content_type": "text",
+      "metadata": {
+        "section_header": "RESULTS",
+        "coordinates": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "chunk_index": 0,
+        "chunk_count": 1,
+        "parent_source_id": "Suttapanit_2022",
+        "parent_chunk_size": 218
+      }
+    },
+    {
+      "rank": 9,
+      "text": "**Results:** The medical records of 957 patients were retrieved from a prospectively collected database. Mean age was 52 \u00b1 19 years, median SAPS 3 was 65 [50,79], respiratory tract infection was the most common cause (42%, 402 patients), and 311 (32%) patients died in ICU. The ICU mortality rate was progressively higher across categories of sepsis as defined by the Sepsis-3 consensus: infection with no organ dysfunction\u20147/103 (7%); sepsis\u2014106/419 (25%); and septic shock\u2014198/435 (46%) ( _P_ < 0.001). For Sepsis-2 definitions, ICU mortality was different only across the categories of severe sepsis [43/252-(17%)] and septic shock [250/572-(44%)] ( _P_ < 0.001); sepsis had a mortality of 18/135(13%) ( _P_ = 0.430 vs. severe sepsis). When combined with lactate, the definitions\u2019 accuracy in stratifying ICU mortality only improved with lactate levels above 4 mmol/L. This improvement occurred in the severe sepsis and septic shock groups (Sepsis-2) and the no-dysfunction and septic shock groups (Sepsis-3). Multivariate analysis demonstrated similar findings.",
+      "source_reference": "Besen_2016, Page 1, Chunk 1/1",
+      "confidence_score": 0.49554036180227756,
+      "keyword_score": 0.0,
+      "semantic_score": 0.8822213765779359,
+      "reranker_score": 0.7338144,
+      "source_id": "Besen_2016",
+      "page_number": 1,
+      "content_type": "text",
+      "metadata": {
+        "section_header": "Abstract",
+        "coordinates": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "chunk_index": 0,
+        "chunk_count": 1,
+        "parent_source_id": "Besen_2016",
+        "parent_chunk_size": 1065
+      }
+    },
+    {
+      "rank": 10,
+      "text": "In total, 550 patients were included in the analysis. A protocol flow chart is shown in Figure 1. The overall 28day mortality was 12.4%. The overall 28-day mechanical ventilator usage and 28-day vasopressor usage were 23.2% and 18.1%, respectively. The mean age was 69 years, and 46.7% of patients were male. The three most common comorbidities were diabetes mellitus (31.6%), solid-organ malignancy (25.8%), and totally dependent ADL (19.8%). The mortality was significantly higher in comorbidities such as the solid organ tumor group, the hematologic malignancy group, and HFrEF group. Vital signs such as higher heart rate (118 vs 106, _P_ <0.001) and respiratory rate (27 vs 24), _P_ <0.001) and lower systolic blood pressure (112 vs 106, _P_ <0.001) and oxygen saturation (92 vs 96), _P_ <0.014) were significant in mortality. The patient demographic data in the survival and nonsurvival groups, is summarized in Table 1.",
+      "source_reference": "Suttapanit_2022, Page 1, Chunk 1/1",
+      "confidence_score": 0.49524876112379845,
+      "keyword_score": 0.0,
+      "semantic_score": 0.8728288260679954,
+      "reranker_score": 0.74879336,
+      "source_id": "Suttapanit_2022",
+      "page_number": 1,
+      "content_type": "text",
+      "metadata": {
+        "section_header": "RESULTS",
+        "coordinates": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "chunk_index": 0,
+        "chunk_count": 1,
+        "parent_source_id": "Suttapanit_2022",
+        "parent_chunk_size": 926
+      }
+    },
+    {
+      "source_id": "Donzelli_2019_Test",
+      "text": "In this retrospective analysis, we applied k-means clustering to a cohort of 1476 sepsis patients using 18 clinical variables. Four distinct phenotypes emerged. Cluster A was characterized by low severity, marked by decreased platelets, normal lactate, and low SOFA scores, with an ICU mortality of ~12%. Cluster B exhibited moderate severity with mixed markers. Cluster C was a high inflammation phenotype with elevated procalcitonin. Cluster D showed severe organ dysfunction with the highest mortality. The clustering assignment rules are fully reproducible using the cutoffs provided in Supplementary Table 2."
+    }
+  ]
+}

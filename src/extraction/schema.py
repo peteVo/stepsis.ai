@@ -65,6 +65,9 @@ class PhenotypeCluster(BaseModel):
     key_features: str = Field(description="e.g., 'Platelets down, Lactate down, SOFA down'")
     clinical_description: str = Field(description="e.g., 'Low severity phenotype', 'Hyper-inflammatory'")
     outcomes: str = Field(description="e.g., 'ICU mortality ~12%', 'Highest mortality'")
+
+    source_anchor: str = Field(description="VERBATIM quote proving these cluster characteristics.")
+
     notes: Optional[str] = Field(description="Any additional qualitative notes.")
 
 class PhenotypeStudyMetadata(BaseModel):

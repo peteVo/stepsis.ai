@@ -186,9 +186,23 @@ try:
     step2_end = time.time()
     print(f"⚡ Step 2 Completed in {step2_end - step2_start:.2f} seconds")
 
-    print("🧬 Step 3: Processing Phenotype Data...")
+    print("🧬 Step 3: Processing Phenotype Data (Flattening for UI)...")
+    
     for pheno_study in master_phenotypes:
-        final_payload["phenotypes"].append(pheno_study.model_dump())
+        # We loop through the internal clusters and map them to Person 4's exact naming convention
+        for cluster in pheno_study.clusters:
+            flat_cluster = {
+                "study": pheno_study.study_id,
+                "method": pheno_study.clustering_method,
+                "clusters_count": pheno_study.number_of_clusters,
+                "cluster_id": cluster.cluster_id,
+                "features": cluster.key_features,
+                "description": cluster.clinical_description,
+                "outcomes": cluster.outcomes,
+                "reproducibility": pheno_study.reproducibility_status,
+                "source_anchor": cluster.source_anchor
+            }
+            final_payload["phenotypes"].append(flat_cluster)
 
     # ---------------------------------------------------------
     # --- 3. SAVE TO FILE (Auto-Incrementing) ---
