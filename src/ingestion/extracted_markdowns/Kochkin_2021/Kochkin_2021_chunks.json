@@ -1,7 +1,7 @@
 [
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Анестезиологическая и реаниматологическая помощь взрослым и детям/ Anest hesiological and reanimatological care for a dults and children**",
         "metadata": {
@@ -11,12 +11,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 0,
+            "markdown_end": 140,
+            "markdown_line_start": 1,
+            "markdown_line_end": 1
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Вестник анестезиологии и реаниматологии, Том 18, № 3, 2021**",
         "metadata": {
@@ -26,12 +30,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 143,
+            "markdown_end": 205,
+            "markdown_line_start": 3,
+            "markdown_line_end": 3
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "http://doi.org/10.21292/2078-5658-2021-18-3-30-35",
         "metadata": {
@@ -41,12 +49,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 208,
+            "markdown_end": 257,
+            "markdown_line_start": 5,
+            "markdown_line_end": 5
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Предикторы летального исхода у пациентов с рефрактерным септическим шоком",
         "metadata": {
@@ -56,12 +68,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 260,
+            "markdown_end": 336,
+            "markdown_line_start": 7,
+            "markdown_line_end": 7
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- _А. А. КОЧКИН[1] , М. Я. ЯДГАРОВ[2] , Л. Б. БЕРИКАШВИЛИ[2] , С. Н. ПЕРЕХОДОВ[3] , В. В. ЛИХВАНЦЕВ[1,2]_",
         "metadata": {
@@ -71,12 +87,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 342,
+            "markdown_end": 447,
+            "markdown_line_start": 9,
+            "markdown_line_end": 9
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- **1Московский областной научно-исследовательский клинический институт им. М. Ф. Владимирского, Москва, РФ**",
         "metadata": {
@@ -86,12 +106,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 453,
+            "markdown_end": 562,
+            "markdown_line_start": 11,
+            "markdown_line_end": 11
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- **2НИИ Общей реаниматологии им. В. А. Неговского ФНКЦ РР, Москва, РФ**",
         "metadata": {
@@ -101,12 +125,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 568,
+            "markdown_end": 640,
+            "markdown_line_start": 13,
+            "markdown_line_end": 13
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- **3Московский государственный медико-стоматологический университет им. А. И. Евдокимова, Москва, РФ**",
         "metadata": {
@@ -116,12 +144,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 646,
+            "markdown_end": 749,
+            "markdown_line_start": 15,
+            "markdown_line_end": 15
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- Раннее прогнозирование тяжести течения заболевания помогает клиницисту предотвратить нежелательное развитие событий и(или) минимизировать потери в случае наступления жизнеугрожающего осложнения� Данное положение в полной мере относится к ситуации рефрактерного септического шока, при котором для поддержания среднего артериального давления необходимо введение норадреналина в дозе более 0,5 мкг · кг[-1] · мин[-1] �",
         "metadata": {
@@ -131,12 +163,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 752,
+            "markdown_end": 1169,
+            "markdown_line_start": 17,
+            "markdown_line_end": 17
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Цель:** определить предикторы летального исхода у пациентов в состоянии рефрактерного септического шока�",
         "metadata": {
@@ -146,12 +182,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1172,
+            "markdown_end": 1278,
+            "markdown_line_start": 19,
+            "markdown_line_end": 19
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Материалы и методы.** В ретроспективное исследование включено 79 пациентов в состоянии рефрактерного септического шока в возрасте от 42 до 74 лет (59,7 ± 7,8 года) с тяжестью состояния по шкале SOFA от 8 до 16 баллов� Прогностическую значимость показателей оценивали в ходе одномерного и многомерного анализа�",
         "metadata": {
@@ -161,12 +201,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1281,
+            "markdown_end": 1592,
+            "markdown_line_start": 21,
+            "markdown_line_end": 21
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Результаты.** В многомерном анализе единственным значимым предиктором неблагоприятного исхода оказалась оценка по шкале SOFA (аdj� OR 1,626 [95%-ный ДИ 1,313; 2,014], _p_ < 0,001)� У других предполагаемых показателей (возраст, соотношение P/F, концентрации лактата и уровень прокальцитонина, доза норадреналина) предикторная способность не выявлена�",
         "metadata": {
@@ -176,12 +220,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1595,
+            "markdown_end": 1946,
+            "markdown_line_start": 23,
+            "markdown_line_end": 23
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Вывод.** Оценка по шкале SOFA является независимым предиктором летальности у взрослых пациентов с рефрактерным септическим шоком (аdj� OR 1,26 [95%-ный ДИ 1,313; 2,014], _p_ < 0,001)� По результатам ROC-анализа, наряду с SOFA, значимым предиктором является и доза норадреналина (AUC 0,989 [95%-ный ДИ 0,934; 1,000], _p_ < 0,001)�",
         "metadata": {
@@ -191,12 +239,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1949,
+            "markdown_end": 2280,
+            "markdown_line_start": 25,
+            "markdown_line_end": 25
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_Ключевые слова:_ септический шок, предикторы летальности при септическом шоке, рефрактерный шок",
         "metadata": {
@@ -206,12 +258,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2283,
+            "markdown_end": 2379,
+            "markdown_line_start": 27,
+            "markdown_line_end": 27
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Для цитирования:** Кочкин А� А�, Ядгаров М� Я�, Берикашвили Л� Б�, Переходов С� Н�, Лихванцев В� В� Предикторы летального исхода у пациентов с рефрактерным септическим шоком // Вестник анестезиологии и реаниматологии� – 2021� – Т� 18, № 3� – С� 30-35� DOI: 10�21292/2078-5658-2021-18-3-30-35",
         "metadata": {
@@ -221,12 +277,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2382,
+            "markdown_end": 2675,
+            "markdown_line_start": 29,
+            "markdown_line_end": 29
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Predictors of Lethal Outcomes in Patients with Refractory Septic Shock",
         "metadata": {
@@ -236,12 +296,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2678,
+            "markdown_end": 2751,
+            "markdown_line_start": 31,
+            "markdown_line_end": 31
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- _А. А. КOCHKIN[1] , M. YA. YADGAROV[2] , L. B. BERIKASHVILI[2] , S. N. PEREKHODOV[3] , V. V. LIKHVANTSEV[1,2]_",
         "metadata": {
@@ -251,12 +315,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2757,
+            "markdown_end": 2869,
+            "markdown_line_start": 33,
+            "markdown_line_end": 33
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- **1M. F. Vladimirsky Moscow Regional Research Clinical Institute, Moscow, Russia**",
         "metadata": {
@@ -266,12 +334,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2875,
+            "markdown_end": 2959,
+            "markdown_line_start": 35,
+            "markdown_line_end": 35
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- **2 V. A. Negovsky Reanimatology Research Institute, Federal Scientific and Clinical Center for Intensive Care and Rehabilitation, Moscow, Russia**",
         "metadata": {
@@ -281,12 +353,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2965,
+            "markdown_end": 3114,
+            "markdown_line_start": 37,
+            "markdown_line_end": 37
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- **3A. I. Yevdokimov Moscow State University of Medicine and Dentistry, Moscow, Russia**",
         "metadata": {
@@ -296,12 +372,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3120,
+            "markdown_end": 3209,
+            "markdown_line_start": 39,
+            "markdown_line_end": 39
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- Early prediction of disease severity helps clinicians prevent adverse events and/or minimize losses in the event of a life-threatening complication� This provision fully applies to refractory septic shock, in which norepinephrine administration at a dose exceeding 0�5 μg/kg[-1] /min[-1] is needed to maintain mean arterial pressure� **The objective:** to determine predictors of lethal outcomes in patients with refractory septic shock�",
         "metadata": {
@@ -311,12 +391,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3212,
+            "markdown_end": 3651,
+            "markdown_line_start": 41,
+            "markdown_line_end": 41
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Subjects and methods.** A retrospective study included 79 patients with refractory septic shock aged from 42 to 74 years (59�7 ± 7�8), with severity of the condition as per SOFA varying from 8 to 16 scores�  The predictive value of indicators was assessed using univariate and multivariate analyses� **Results.** In multivariate analysis, the only significant predictor of an unfavorable outcome was the SOFA score (adj�  OR: 1�626 [95% CI: 1�313; 2�014], _p_ < 0�001)�  Other putative indicators (age, oxygenation index, lactate and procalcitonin concentrations, and norepinephrine dose) had no predictive value�",
         "metadata": {
@@ -326,12 +410,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3654,
+            "markdown_end": 4269,
+            "markdown_line_start": 43,
+            "markdown_line_end": 43
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Conclusion:** The SOFA score is an independent predictor of lethality in adult patients with refractory septic shock (аdj� OR: 1�26 [95% CI: 1�313; 2�014], _p_ < 0�001)� According to the results of the ROC analysis, along with SOFA, norepinephrine dose was also a significant predictor (AUC 0�989 [95% CI 0�934; 1�000], _p_ < 0�001)�",
         "metadata": {
@@ -341,12 +429,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4272,
+            "markdown_end": 4607,
+            "markdown_line_start": 45,
+            "markdown_line_end": 45
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_Key words:_ septic shock, predictors of lethality in septic shock, refractory shock",
         "metadata": {
@@ -356,12 +448,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4610,
+            "markdown_end": 4694,
+            "markdown_line_start": 47,
+            "markdown_line_end": 47
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**For citations:** Kochkin А�А�, Yadgarov M�Ya�, Berikashvili L�B�, Perekhodov S�N�, Likhvantsev V�V� Predictors of lethal outcomes in patients with refractory septic shock� _Messenger of Anesthesiology and Resuscitation,_ 2021, Vol� 18, no� 3, P� 30-35� (In Russ�) DOI: 10�21292/2078-5658-2021-18-330-35",
         "metadata": {
@@ -371,12 +467,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4697,
+            "markdown_end": 5001,
+            "markdown_line_start": 49,
+            "markdown_line_end": 49
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _Для корреспонденции:_ Кочкин Александр Александрович E-mail: favor2991@mail�ru",
         "metadata": {
@@ -386,12 +486,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5004,
+            "markdown_end": 5086,
+            "markdown_line_start": 51,
+            "markdown_line_end": 51
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Летальность от сепсиса и септического шока, несмотря на внедрение новых методик диагностики и лечения, и по сей день остается достаточно высокой, достигая 40% и более [5]� Данный аспект делает проблему улучшения результатов терапии сепсиса и септического шока одной из наиболее",
         "metadata": {
@@ -401,12 +505,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5089,
+            "markdown_end": 5366,
+            "markdown_line_start": 53,
+            "markdown_line_end": 53
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_Correspondence:_ Aleksandr A� Kochkin Email: favor2991@mail�ru",
         "metadata": {
@@ -416,12 +524,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5369,
+            "markdown_end": 5432,
+            "markdown_line_start": 55,
+            "markdown_line_end": 55
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "актуальных задач современной реаниматологии� С каждым годом увеличивается число публикаций, посвященных этой проблеме: на роль предполагаемых маркеров предлагаются среднее артериальное давление [9], величина VIS (Vasopressor-Inotropic Score) [1], концентрация лактата [6] и чаще всего",
         "metadata": {
@@ -431,12 +543,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5435,
+            "markdown_end": 5719,
+            "markdown_line_start": 57,
+            "markdown_line_end": 57
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Messenger of Anesthesiology and Resuscitation, Vol. 18, No. 3, 2021**",
         "metadata": {
@@ -446,12 +562,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5733,
+            "markdown_end": 5804,
+            "markdown_line_start": 61,
+            "markdown_line_end": 61
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "степень органной дисфункции, оцениваемая по шкале SOFA [3, 12]�",
         "metadata": {
@@ -461,12 +581,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5807,
+            "markdown_end": 5870,
+            "markdown_line_start": 63,
+            "markdown_line_end": 63
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Наиболее тяжелым вариантом течения сепсиса является септический шок [10]� Рефрактерный шок не выделяется как отдельный вариант течения данного состояния, однако именно он вызывает наибольшие затруднения в плане лечения и самые тяжелые опасения в плане прогноза [7, 8]� В этой связи очевидна необходимость возможно более раннего прогнозирования наступления неблагоприятного исхода именно у больных этой категории�",
         "metadata": {
@@ -476,12 +600,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5873,
+            "markdown_end": 6285,
+            "markdown_line_start": 65,
+            "markdown_line_end": 65
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Цель: определить предикторы летального исхода у пациентов в состоянии рефрактерного септического шока�",
         "metadata": {
@@ -491,12 +619,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6288,
+            "markdown_end": 6390,
+            "markdown_line_start": 67,
+            "markdown_line_end": 67
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Материалы и методы**",
         "metadata": {
@@ -506,12 +638,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6393,
+            "markdown_end": 6418,
+            "markdown_line_start": 69,
+            "markdown_line_end": 69
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Ретроспективно проанализированы данные обследования и лечения пациентов с сепсисом, у которых развился рефрактерный септический шок� Всего изучены 79 историй болезни пациентов (48 мужчин и 31 женщина) в возрасте от 42 до 74 лет (59,7 ± 7,8); степень органной дисфункции, оцененная по шкале SOFA, составила от 8 до 16 баллов� Сепсис диагностировали на основании критериев «Сепсис-3» [10]�",
         "metadata": {
@@ -521,12 +657,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6421,
+            "markdown_end": 6808,
+            "markdown_line_start": 71,
+            "markdown_line_end": 71
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Рефрактерным считали септический шок, при котором требовалась инфузия норадреналина со скоростью более 0,5 мкг · кг[-1] · мин[-1] для поддержания среднего артериального давления выше 65 мм рт� ст� [1]�",
         "metadata": {
@@ -536,12 +676,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6811,
+            "markdown_end": 7012,
+            "markdown_line_start": 73,
+            "markdown_line_end": 73
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_Критерии включения в исследование:_",
         "metadata": {
@@ -551,12 +695,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7015,
+            "markdown_end": 7051,
+            "markdown_line_start": 75,
+            "markdown_line_end": 75
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- установленный диагноз септического шока с потребностью в вазопрессорной поддержке норадреналином в дозе ≥ 0,5 мкг · кг[-1] · мин[-1] ;",
         "metadata": {
@@ -566,12 +714,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7054,
+            "markdown_end": 7190,
+            "markdown_line_start": 77,
+            "markdown_line_end": 77
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- промежуток времени не более 24 ч от начала развития септического шока;",
         "metadata": {
@@ -581,12 +733,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7193,
+            "markdown_end": 7265,
+            "markdown_line_start": 79,
+            "markdown_line_end": 79
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- продолжительность искусственной вентиляции легких на момент включения в исследование не более 24 ч;",
         "metadata": {
@@ -596,12 +752,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7268,
+            "markdown_end": 7369,
+            "markdown_line_start": 81,
+            "markdown_line_end": 81
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- подписанное информированное согласие об участии в исследовании�",
         "metadata": {
@@ -611,12 +771,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7372,
+            "markdown_end": 7437,
+            "markdown_line_start": 83,
+            "markdown_line_end": 83
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "ров, т� е� не позже чем через 24 ч после диагностики септического шока�",
         "metadata": {
@@ -626,12 +790,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7440,
+            "markdown_end": 7511,
+            "markdown_line_start": 85,
+            "markdown_line_end": 85
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Накопление и первичный анализ данных проводили в табличном процессоре Excel 2019, статистический анализ данных осуществляли с использованием пакета прикладных программ IBM SPSS Statistics 25�0 и онлайн-калькуляторов (https://medstatistic�ru/calculators/calchi�html)� Для уточнения применимости параметрического инструментария проведена оценка соответствия распределения переменных нормальному закону при помощи критерия Шапиро ‒ Уилка и критерия Колмогорова ‒ Смирнова с поправкой Лилиефорса, равенство дисперсий проверено с помощью критерия Ливиня� По результатам данной оценки выявлено, что для многих показателей параметрические критерии сравнения неприменимы ввиду малого числа исходов, поэтому сравнительный межгрупповой анализ проводился с помощью непараметрической статистики� Описание данных, характеристики положения и разброса приводили с использованием медианы и среднего значения, стандартного отклонения, квартилей и размаха�",
         "metadata": {
@@ -641,12 +809,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7514,
+            "markdown_end": 8452,
+            "markdown_line_start": 87,
+            "markdown_line_end": 87
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Сравнение групп по бинарным переменным производили с помощью точного F-критерия Фишера� Доверительный интервал для частот рассчитан с применением метода Вальда с коррекцией по Агрести ‒ Коулу� Уровень значимости, при котором отвергалась нулевая гипотеза об отсутствии различий между изучаемыми группами, выбран равным 0,05 [2]�",
         "metadata": {
@@ -656,12 +828,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8455,
+            "markdown_end": 8782,
+            "markdown_line_start": 89,
+            "markdown_line_end": 89
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Оценку риска исхода в одномерном анализе проводили с помощью показателя RR (относительный риск, risk ratio) и его 95%-ного доверительного интервала для каждого изучаемого предиктора� Оценка “аdjusted odds ratio” проведена в многомерном регрессионном анализе с целью учета влияния на риск других факторов (возраста, пола и вмешивающихся переменных – конфаундингов)� Для оценки качества различных количественных показателей в качестве предикторов летального исхода использован ROC-анализ с оценкой параметра AUC (площадь под ROC-кривой)�",
         "metadata": {
@@ -671,12 +847,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8785,
+            "markdown_end": 9320,
+            "markdown_line_start": 91,
+            "markdown_line_end": 91
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_Критерии невключения:_",
         "metadata": {
@@ -686,12 +866,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9323,
+            "markdown_end": 9346,
+            "markdown_line_start": 93,
+            "markdown_line_end": 93
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- онкологическое заболевание;",
         "metadata": {
@@ -701,12 +885,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9349,
+            "markdown_end": 9378,
+            "markdown_line_start": 95,
+            "markdown_line_end": 95
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Результаты**",
         "metadata": {
@@ -716,12 +904,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9381,
+            "markdown_end": 9398,
+            "markdown_line_start": 97,
+            "markdown_line_end": 97
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- гемодинамически значимые пороки сердца�",
         "metadata": {
@@ -731,12 +923,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9419,
+            "markdown_end": 9460,
+            "markdown_line_start": 101,
+            "markdown_line_end": 101
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _Критерии исключения:_",
         "metadata": {
@@ -746,12 +942,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9463,
+            "markdown_end": 9488,
+            "markdown_line_start": 103,
+            "markdown_line_end": 103
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- массивная кровопотеря как осложнение хирургического вмешательства, выполненного во время исследования;",
         "metadata": {
@@ -761,12 +961,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9491,
+            "markdown_end": 9595,
+            "markdown_line_start": 105,
+            "markdown_line_end": 105
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- повторное (после «светлого промежутка») развитие септического шока во время пребывания в стационаре�",
         "metadata": {
@@ -776,12 +980,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9598,
+            "markdown_end": 9700,
+            "markdown_line_start": 107,
+            "markdown_line_end": 107
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Интенсивная терапия септического шока основывалась на рекомендациях “Survivng Sepsis Campaign” [10]� Под летальным исходом понималось наступление данного события в 28-дневный период от начала заболевания�",
         "metadata": {
@@ -791,12 +999,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9703,
+            "markdown_end": 9907,
+            "markdown_line_start": 109,
+            "markdown_line_end": 109
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "В расчет принимали значение показателей, измеренное в 1-е сут после назначения вазопрессо-",
         "metadata": {
@@ -806,12 +1018,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9910,
+            "markdown_end": 10000,
+            "markdown_line_start": 111,
+            "markdown_line_end": 111
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Среди изучаемых пациентов 28-дневная летальность составила 44% (35 пациентов)� При этом 17% (6 пациентов) неблагоприятных исходов наступало в течение первых трех суток� В общей структуре первичный очаг располагался в легких в 55% случаев, в брюшной полости ‒ в 35% случаев, невыясненное расположение первичного очага и прочие локализации составляли 5%�",
         "metadata": {
@@ -821,12 +1037,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10003,
+            "markdown_end": 10355,
+            "markdown_line_start": 113,
+            "markdown_line_end": 113
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Основными причинами летальных исходов служили: прогрессирование сердечно-сосудистой недостаточности ‒ 85% (30 пациентов); синдром диссеминированного внутрисосудистого свертывания ‒ 11% (4 пациента); прогрессирование дыхательной недостаточности на фоне острого респираторного дистресс-синдрома ‒ 3% (1 пациент)�",
         "metadata": {
@@ -836,12 +1056,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10358,
+            "markdown_end": 10668,
+            "markdown_line_start": 115,
+            "markdown_line_end": 115
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Вестник анестезиологии и реаниматологии, Том 18, № 3, 2021**",
         "metadata": {
@@ -851,12 +1075,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10682,
+            "markdown_end": 10744,
+            "markdown_line_start": 119,
+            "markdown_line_end": 119
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Проведенный ROC-анализ выявил ряд значимых количественных предикторов летального исхода (рис� 1)�",
         "metadata": {
@@ -866,12 +1094,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10747,
+            "markdown_end": 10844,
+            "markdown_line_start": 121,
+            "markdown_line_end": 121
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Kochkin_2021/images/Kochkin_2021.pdf-0003-02.png)",
         "metadata": {
@@ -881,12 +1113,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10848,
+            "markdown_end": 10921,
+            "markdown_line_start": 124,
+            "markdown_line_end": 124
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Kochkin_2021.pdf-0003-02.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** ROC Curve Analysis\n> \n> The image is a ROC curve graph with sensitivity on the Y-axis and 100-specificity on the X-axis. It features multiple curves represented by different markers such as squares, triangles, and circles. Each marker corresponds to a different clinical parameter, as indicated by the legend on the graph. The curves show the relationship between sensitivity and specificity for these parameters.\n> \n> **Data Points:** X-axis: 100-Specificity, Y-axis: Sensitivity\n> \n> **Key Findings:**\n> - Different markers represent different variables: Age, Lactate, SOFA, PCT, NA.\n> - Curves indicate variability in sensitivity and specificity of each parameter.\n> - SOFA and Lactate seem to have higher sensitivity at lower specificity values.\n<!-- analyzed_Kochkin_2021.pdf-0003-02.png -->",
         "metadata": {
@@ -896,12 +1132,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10923,
+            "markdown_end": 11840,
+            "markdown_line_start": 126,
+            "markdown_line_end": 138
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\n100<br>80<br>60<br>Возраст<br>Лактат<br>SOFA<br>PCT<br>HA<br>40<br>20<br>0<br>0 20 40 60 80 100<br>100-Специфичность<br>Чувствительность<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -911,12 +1151,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11845,
+            "markdown_end": 12066,
+            "markdown_line_start": 143,
+            "markdown_line_end": 144
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_**Рис. 1.** Одномерный анализ: ROC-кривые – оценка значимости количественных предикторов летального исхода_",
         "metadata": {
@@ -926,12 +1170,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12069,
+            "markdown_end": 12177,
+            "markdown_line_start": 147,
+            "markdown_line_end": 147
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_**Fig. 1.** Univariate analysis: ROC-curves – assessing the significance of quantitative predictors of lethality_",
         "metadata": {
@@ -941,12 +1189,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12180,
+            "markdown_end": 12294,
+            "markdown_line_start": 149,
+            "markdown_line_end": 149
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "1� Возраст ‒ AUC 0,670 [95%-ный ДИ 0,550; 0,790], _p_ = 0,01� Возраст более 57 лет являлся фактором риска летального исхода с чувствительностью 80,0% и специфичностью 56,8%�",
         "metadata": {
@@ -956,12 +1208,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12297,
+            "markdown_end": 12470,
+            "markdown_line_start": 151,
+            "markdown_line_end": 151
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "2� Увеличение концентрации лактата артериальной крови ‒ AUC 0,808 [95%-ный ДИ 0,712; 0,905], _p_ < 0,001� Концентрация лактата, превышающая 4,6 ммоль/л, предсказывала риск летального исхода с чувствительностью 65,7% и специфичностью 90,9%�",
         "metadata": {
@@ -971,12 +1227,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12473,
+            "markdown_end": 12712,
+            "markdown_line_start": 153,
+            "markdown_line_end": 153
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "3� Увеличение дозы норадреналина, необходимой для поддержания среднего артериального давления выше 65 мм рт� ст� ‒ AUC 0,745 [95%-ный ДИ 0,634; 0,836], _p_ < 0,0001� Превышение дозы 0,57 мкг · кг[-1] · мин[-1] являлось предиктором неблагоприятного исхода с чувствительностью 71,4% и специфичностью 81,8%�",
         "metadata": {
@@ -986,12 +1246,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12715,
+            "markdown_end": 13019,
+            "markdown_line_start": 155,
+            "markdown_line_end": 155
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "4� Увеличение концентрации прокальцитонина ‒ AUC 0,950 [95%-ный ДИ 0,899; 1,000], _p_ < 0,001� Повышение показателя > 14,1 нг/мл предсказывало летальный исход с чувствительностью 85,71% и специфичностью 100%�",
         "metadata": {
@@ -1001,12 +1265,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13022,
+            "markdown_end": 13230,
+            "markdown_line_start": 157,
+            "markdown_line_end": 157
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "5� Отношения P/F ‒ AUC 0,756 [95%-ный ДИ 0,647; 0,866], _p_ < 0,0001� Снижение показателя менее 184 мм рт� ст� предсказывало летальный исход с чувствительностью 65,7% и специфичностью 81,8% (рис� 2)�",
         "metadata": {
@@ -1016,12 +1284,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13233,
+            "markdown_end": 13432,
+            "markdown_line_start": 159,
+            "markdown_line_end": 159
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Однако наиболее значимым предиктором, по данным ROC-анализа, оказался показатель «ухудшение степени органной недостаточности по шка-",
         "metadata": {
@@ -1031,12 +1303,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13435,
+            "markdown_end": 13567,
+            "markdown_line_start": 161,
+            "markdown_line_end": 161
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Kochkin_2021/images/Kochkin_2021.pdf-0003-11.png)",
         "metadata": {
@@ -1046,12 +1322,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13571,
+            "markdown_end": 13644,
+            "markdown_line_start": 164,
+            "markdown_line_end": 164
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Kochkin_2021.pdf-0003-11.png)**\n> **Category:** `OTHER` | **Summary:** Индекс оксигенации\n> \n> The image displays Russian text in a bold, black font on a white background. The text reads \"Индекс оксигенации.\" There are no other visual elements present.\n<!-- analyzed_Kochkin_2021.pdf-0003-11.png -->",
         "metadata": {
@@ -1061,12 +1341,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13646,
+            "markdown_end": 13984,
+            "markdown_line_start": 166,
+            "markdown_line_end": 171
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\nИндекс оксигенации<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -1076,12 +1360,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13989,
+            "markdown_end": 14092,
+            "markdown_line_start": 176,
+            "markdown_line_end": 177
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Kochkin_2021/images/Kochkin_2021.pdf-0003-12.png)",
         "metadata": {
@@ -1091,12 +1379,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14096,
+            "markdown_end": 14169,
+            "markdown_line_start": 181,
+            "markdown_line_end": 181
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Kochkin_2021.pdf-0003-12.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** ROC Curve\n> \n> The image depicts a receiver operating characteristic (ROC) curve with a solid line chart plotted on a square grid. The X-axis represents 100-Specificity, and the Y-axis represents Sensitivity, both ranging from 0 to 100. There is a diagonal reference line from the bottom-left to the top-right. The curve exhibits a stair-step pattern and rises from the bottom-left to approach the top-right, suggesting good model performance. Dashed lines around the curve represent confidence intervals.\n> \n> **Data Points:** X-axis: 100-Specificity, Y-axis: Sensitivity\n> \n> **Key Findings:**\n> - The curve rises steeply, indicating high sensitivity and specificity.\n> - Dashed lines indicate confidence intervals.\n<!-- analyzed_Kochkin_2021.pdf-0003-12.png -->",
         "metadata": {
@@ -1106,12 +1398,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14171,
+            "markdown_end": 15056,
+            "markdown_line_start": 183,
+            "markdown_line_end": 194
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\n100<br>80<br>60<br>40<br>20<br>0<br>0 20 40 60 80 100<br>100-Специфичность<br>Чувствительность<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -1121,12 +1417,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15061,
+            "markdown_end": 15240,
+            "markdown_line_start": 199,
+            "markdown_line_end": 200
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_**Рис. 2.** ROC-кривая – оценка значимости индекса оксигенации как предиктора летального исхода_ _**Fig. 2.** ROC-curve – assessment of the significance of oxygenation index as a predictor of lethal outcomes_",
         "metadata": {
@@ -1136,12 +1436,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15243,
+            "markdown_end": 15452,
+            "markdown_line_start": 203,
+            "markdown_line_end": 203
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "ле SOFA» ‒ AUC 0,984 [95%-ный ДИ 0,964; 1,000], _p_ < 0,001� Оценка более 11 баллов предсказывала неблагоприятный исход с чувствительностью 94,3% и специфичностью 93,2% (рис� 1)�",
         "metadata": {
@@ -1151,12 +1455,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15455,
+            "markdown_end": 15633,
+            "markdown_line_start": 205,
+            "markdown_line_end": 205
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "При оценке качественных (бинарных) предикторов 28-дневной летальности не выявлено влияния таких переменных, как «потребность в проведении заместительной почечной терапии» ( _p_ = 0,443) и «использование дополнительных вазопрессорных препаратов» ( _p_ = 0,882)�",
         "metadata": {
@@ -1166,12 +1474,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15636,
+            "markdown_end": 15896,
+            "markdown_line_start": 207,
+            "markdown_line_end": 207
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Единственным коморбидным состоянием, являющимся значимым предиктором летального исхода у пациентов в состоянии рефрактерного септического шока, являлось наличие сахарного диабета ( _p_ < 0,001)� Среди пациентов, болеющих сахарным диабетом и перенесших рефрактерный септический шок, 28-дневная летальность составила 100%, в то время как летальность у пациентов без диабета была 33,3% (табл� 1)�",
         "metadata": {
@@ -1181,12 +1493,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15899,
+            "markdown_end": 16292,
+            "markdown_line_start": 209,
+            "markdown_line_end": 209
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "По результатам многомерного анализа, единственным значимым предиктором летального исхода оказалась оценка по шкале SOFA (adj� OR 1,626 [95%-ный ДИ 1,313; 2,014], _p_ < 0,001) (табл� 2)� При увеличении SOFA на 1 балл риск летального исхода у пациентов в состоянии рефрактерного септического шока увеличивается на 62,6%�",
         "metadata": {
@@ -1196,12 +1512,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16295,
+            "markdown_end": 16613,
+            "markdown_line_start": 211,
+            "markdown_line_end": 211
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Дополнительно проведен сравнительный анализ информативности двух переменных: дозы норадреналина, необходимой для поддержания целевых показателей гемодинамики и SOFA, ‒ результаты представлены в табл� 3�",
         "metadata": {
@@ -1211,12 +1531,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16616,
+            "markdown_end": 16818,
+            "markdown_line_start": 213,
+            "markdown_line_end": 213
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Полученные данные не позволили подтвердить прогностическую значимость дозы норадреналина как предиктора летального исхода при рефрактер-",
         "metadata": {
@@ -1226,12 +1550,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16821,
+            "markdown_end": 16957,
+            "markdown_line_start": 215,
+            "markdown_line_end": 215
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Messenger of Anesthesiology and Resuscitation, Vol. 18, No. 3, 2021**",
         "metadata": {
@@ -1241,12 +1569,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16971,
+            "markdown_end": 17042,
+            "markdown_line_start": 219,
+            "markdown_line_end": 219
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_**Таблица 1.**_ **Оценка роли сахарного диабета в неблагоприятном исходе**",
         "metadata": {
@@ -1256,12 +1588,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17045,
+            "markdown_end": 17120,
+            "markdown_line_start": 221,
+            "markdown_line_end": 221
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_**Table 1.**_ **Assessment of the role of diabetes mellitus in unfavorable outcomes**",
         "metadata": {
@@ -1271,12 +1607,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17123,
+            "markdown_end": 17209,
+            "markdown_line_start": 223,
+            "markdown_line_end": 223
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "||||Летальный исход|Летальный исход|Всего|\n|---|---|---|---|---|---|\n|Предиктор|||нет|да||\n|Диабет в анамнезе|Нет|Количество|44|22|66|\n|||%|66,7%|33,3%|100,0%|\n||Да|Количество|0|13|13|\n|||%|0,0%|100,0%|100,0%|\n|Всего||Количество|44|35|79|\n|||%|55,7%|44,3%|100,0%|",
         "metadata": {
@@ -1286,12 +1626,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17212,
+            "markdown_end": 17475,
+            "markdown_line_start": 225,
+            "markdown_line_end": 233
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_**Таблица 2.**_ **Многомерный анализ предикторов летального исхода**",
         "metadata": {
@@ -1301,12 +1645,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17479,
+            "markdown_end": 17548,
+            "markdown_line_start": 237,
+            "markdown_line_end": 237
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_**Table 2.**_ **Multivariate analysis of lethal outcome predictors**",
         "metadata": {
@@ -1316,12 +1664,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17551,
+            "markdown_end": 17620,
+            "markdown_line_start": 239,
+            "markdown_line_end": 239
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Kochkin_2021/images/Kochkin_2021.pdf-0004-06.png)",
         "metadata": {
@@ -1331,12 +1683,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17624,
+            "markdown_end": 17697,
+            "markdown_line_start": 242,
+            "markdown_line_end": 242
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Kochkin_2021.pdf-0004-06.png)**\n> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** Statistical Analysis Table Header\n> \n> The image is a table header from a statistical analysis, containing multiple columns. The columns are labeled as follows: 'Предиктор' (Predictor), 'B', 'Ст. ош.' (Standard Error), 'Вальд' (Wald), 'p-value', 'adj. OR' (Adjusted Odds Ratio), and '95%-ный ДИ для adj. OR' (95% Confidence Interval for adj. OR) with 'нижняя' (lower) and 'верхняя' (upper) sub-columns under it. The table uses a simple black and gray color scheme.\n<!-- analyzed_Kochkin_2021.pdf-0004-06.png -->",
         "metadata": {
@@ -1346,12 +1702,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17699,
+            "markdown_end": 18331,
+            "markdown_line_start": 244,
+            "markdown_line_end": 249
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\n95%-ный ДИ для аdj. OR<br>Предиктор B Ст. ош. Вальд p -value аdj. OR<br>нижняя верхняя<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -1361,12 +1721,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18336,
+            "markdown_end": 18507,
+            "markdown_line_start": 254,
+            "markdown_line_end": 255
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Предиктор|B|Ст. ош.|Вальд|_p_-value|аdj. OR|95%-ный ДИ для аdj. OR|95%-ный ДИ для аdj. OR|\n|---|---|---|---|---|---|---|---|\n|||||||нижняя|верхняя|\n|||||||||\n|SOFA|0,486|0,109|19,863|0,000|1,626|1,313|2,014|\n|Доп. вазопрессоры|0,320|0,393|0,664|0,415|1,377|0,638|2,972|\n|Возраст|-0,019|0,030|0,385|0,535|0,981|0,925|1,042|\n|ЗПТ|0,832|1,094|0,579|0,447|2,298|0,269|19,593|\n|Лактат|-0,014|0,131|0,011|0,916|0,986|0,763|1,274|\n|Пол|0,253|0,434|0,341|0,559|1,288|0,550|3,017|\n|Прокальцитонин|0,000|0,010|0,000|0,982|1,000|0,980|1,020|\n|ИО|-0,007|0,008|0,743|0,389|0,993|0,978|1,009|",
         "metadata": {
@@ -1376,12 +1740,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18510,
+            "markdown_end": 19089,
+            "markdown_line_start": 258,
+            "markdown_line_end": 269
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_**Таблица 3.**_ **Многомерный анализ информативности дозы норадреналина и оценки по шкале SOFA**",
         "metadata": {
@@ -1391,12 +1759,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19093,
+            "markdown_end": 19190,
+            "markdown_line_start": 273,
+            "markdown_line_end": 273
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_**Table 3.**_ **Multivariate analysis of informativity of norepinephrine dose and SOFA score**",
         "metadata": {
@@ -1406,12 +1778,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19193,
+            "markdown_end": 19288,
+            "markdown_line_start": 275,
+            "markdown_line_end": 275
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|||||||95%-ный ДИ для аdj. OR|95%-ный ДИ для аdj. OR|\n|---|---|---|---|---|---|---|---|\n|Предикторы|B|Ср. кв. ошибка|Вальд|Знач (р)|аdj. OR|нижняя|верхняя|\n|Доза НА|0,024|0,013|3,599|0,058|1,024|0,999|1,050|\n|SOFA|2,263|0,685|10,924|0,001|9,616|2,512|36,805|",
         "metadata": {
@@ -1421,12 +1797,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19291,
+            "markdown_end": 19549,
+            "markdown_line_start": 277,
+            "markdown_line_end": 281
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "ном септическом шоке (adj� OR 1,024 [95%-ный ДИ 0,999; 1,050], _p_ = 0,058)�",
         "metadata": {
@@ -1436,12 +1816,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19553,
+            "markdown_end": 19629,
+            "markdown_line_start": 285,
+            "markdown_line_end": 285
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Более точный и надежный прогноз летального исхода обеспечил совместный анализ оценки по SOFA и дозы вазопрессорной поддержки норадреналином (AUC 0,989 [95%-ный ДИ 0,934; 1,000], _p_ < 0,001)�",
         "metadata": {
@@ -1451,12 +1835,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19632,
+            "markdown_end": 19823,
+            "markdown_line_start": 287,
+            "markdown_line_end": 287
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Обсуждение**",
         "metadata": {
@@ -1466,12 +1854,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19826,
+            "markdown_end": 19843,
+            "markdown_line_start": 289,
+            "markdown_line_end": 289
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Итак, единственным значимым, независимым предиктором летального исхода у пациентов с рефрактерным септическим шоком является оценка по шкале SOFA� Хорошее качество прогностической модели фактора в отношении летального исхода продемонстрировано на основании ROC-анализа в ходе исследовании Thomas-Rueddel D� O� et al� (AUC 0,686 [95%-ный ДИ 0,661; 0,710], _p_ < 0,001 [11], AUC 0,74 [95%-ный ДИ 0,730; 0,760] [13])� В ходе обсуждаемого исследования продемонстрировано отличное качество прогностического фактора (AUC 0,984 [95%-ный ДИ 0,964; 1,000], _p_ < 0,001), что, по всей видимости, обусловлено тем, что пациенты, включенные в данное исследование, имели более выраженную степень органной недостаточности�",
         "metadata": {
@@ -1481,12 +1873,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19846,
+            "markdown_end": 20553,
+            "markdown_line_start": 291,
+            "markdown_line_end": 291
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Остальные предполагаемые предикторы, ранее выявленные в процессе проведения одномерного анализа, не продемонстрировали своей значимости� Отсутствие статистической значимости отношения P/F в данном случае объясняется тем, что данные показатели учитываются при оценке по SOFA и потому уступают последней по показателям чувствительность/специфичность�",
         "metadata": {
@@ -1496,12 +1892,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20556,
+            "markdown_end": 20904,
+            "markdown_line_start": 293,
+            "markdown_line_end": 293
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "По-видимому, по той же причине отсутствует статистическая значимость потребности в заместительной почечной терапии – оценка почечной недостаточности предусмотрена в шкале SOFA�",
         "metadata": {
@@ -1511,12 +1911,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20907,
+            "markdown_end": 21083,
+            "markdown_line_start": 295,
+            "markdown_line_end": 295
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Отсутствие значимой роли лактата в многофакторном анализе, возможно, обусловлено тем, что оценка гипоксемии, приводящей к активации анаэробного гликолиза, предусмотрена все той же шкалой SOFA [11]�",
         "metadata": {
@@ -1526,12 +1930,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21086,
+            "markdown_end": 21283,
+            "markdown_line_start": 297,
+            "markdown_line_end": 297
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Прогностическая значимость дозы норадреналина не продемонстрирована в ходе настоящего исследования при проведении многомерного регрессионного анализа� Таким образом, нам не удалось подтвердить данные T� Auchet et al�, утверждавших, что доза норадреналина является независимым предиктором летальности на основа-",
         "metadata": {
@@ -1541,12 +1949,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21286,
+            "markdown_end": 21596,
+            "markdown_line_start": 299,
+            "markdown_line_end": 299
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Вестник анестезиологии и реаниматологии, Том 18, № 3, 2021**",
         "metadata": {
@@ -1556,12 +1968,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21610,
+            "markdown_end": 21672,
+            "markdown_line_start": 303,
+            "markdown_line_end": 303
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "нии как ROC-анализа, включившего 106 пациентов (AUC  0,760 [95%-ный ДИ 0,66; 0,86], _p_ < 0,001), так и логистического регрессионного анализа (OR 6,04 [95%-ный ДИ 2,2; 15,06], _p_ < 0,01) [4]� Возможно, виной тому недостаточный объем выборки обсуждаемого исследования�",
         "metadata": {
@@ -1571,12 +1987,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21675,
+            "markdown_end": 21943,
+            "markdown_line_start": 305,
+            "markdown_line_end": 305
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Хотелось бы обратить внимание еще на один важный факт� Результаты многомерного анализа не подтвердили высокой прогностической значимости ряда изученных показателей, которые, вроде бы, продемонстрировали таковую по результатам одномерного анализа� Это позволяет говорить о том, что нельзя полностью полагаться только на результаты одномерного анализа� В некоторых ситуациях толь-",
         "metadata": {
@@ -1586,12 +2006,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21946,
+            "markdown_end": 22324,
+            "markdown_line_start": 307,
+            "markdown_line_end": 307
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "ко многомерный анализ в состоянии расставить по местам, в том числе и предполагаемые предикторы неблагоприятного исхода�",
         "metadata": {
@@ -1601,12 +2025,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22327,
+            "markdown_end": 22447,
+            "markdown_line_start": 309,
+            "markdown_line_end": 309
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Выводы**",
         "metadata": {
@@ -1616,12 +2044,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22450,
+            "markdown_end": 22463,
+            "markdown_line_start": 311,
+            "markdown_line_end": 311
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "1� Оценка по шкале SOFA является независимым предиктором летальности у взрослых пациентов с рефрактерным септическим шоком (adj� OR 1,626 [95%-ный ДИ 1,313; 2,014], _p_ < 0,001)�",
         "metadata": {
@@ -1631,12 +2063,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22466,
+            "markdown_end": 22644,
+            "markdown_line_start": 313,
+            "markdown_line_end": 313
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "2� По результатам ROC-анализа, наряду с SOFA, значимым предиктором является и доза норадреналина (AUC 0,989 [95%-ный ДИ 0,934; 1,000], _p_ < 0,001)�",
         "metadata": {
@@ -1646,12 +2082,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22647,
+            "markdown_end": 22795,
+            "markdown_line_start": 315,
+            "markdown_line_end": 315
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Конфликт интересов.** Авторы заявляют об отсутствии у них конфликта интересов� **Conflict of Interests.** The authors state that they have no conflict of interests�",
         "metadata": {
@@ -1661,12 +2101,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22798,
+            "markdown_end": 22964,
+            "markdown_line_start": 317,
+            "markdown_line_end": 317
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **ЛИТЕРАТУРА**",
         "metadata": {
@@ -1676,12 +2120,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22967,
+            "markdown_end": 22984,
+            "markdown_line_start": 319,
+            "markdown_line_end": 319
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "1. Интенсивная терапия: национальное руководство: в 2 т. / Под ред. И. Б. Заболоцких, Д. Н. Проценко. 2-е издание, переработанное и дополненное. – М.: ГЭОТАР-Медиа, 2020. – Т. 2. – 1056 с. ISBN: 978-5-9704-5018-5.",
         "metadata": {
@@ -1691,12 +2139,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22987,
+            "markdown_end": 23200,
+            "markdown_line_start": 321,
+            "markdown_line_end": 321
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "2. Мамаев А. Н., Кудлай Д. А. Статистические методы в медицине. ‒ М.: Практическая медицина, 2021. ‒ 136 с.",
         "metadata": {
@@ -1706,12 +2158,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23203,
+            "markdown_end": 23310,
+            "markdown_line_start": 323,
+            "markdown_line_end": 323
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "3. Тюрин И. Н., Авдейкин С. Н., Проценко Д. Н. и др. Эпидемиология сепсиса у больных, поступающих в отделение реаниматологии многопрофильного стационара // Общая реаниматология. – 2019. – № 15 (4). – С. 42‒57. doi: 10.15360/1813-9779-2019-4-42-57.",
         "metadata": {
@@ -1721,12 +2177,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23313,
+            "markdown_end": 23560,
+            "markdown_line_start": 325,
+            "markdown_line_end": 325
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "4. Auchet T., Regnier M.-A., Girerd N. et al. Outcome of patients with septic shock and high-dose vasopressor therapy // Ann. Intens. Care. – 2017. – Vol. 7. ‒ P. 43‒51. doi: 10.1186/s13613-017-0261-x.",
         "metadata": {
@@ -1736,12 +2196,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23563,
+            "markdown_end": 23764,
+            "markdown_line_start": 327,
+            "markdown_line_end": 327
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "5. Burgdorff A.-M., Bucher M., Schumann J. Vasoplegia in patients with sepsis and septic shock: pathways and mechanisms // J. Int. Med. Res. – 2018. – Vol. 46, № 4. – P. 1303–1310. PMID: 29332515, doi: 10.1177/0300060517743836.",
         "metadata": {
@@ -1751,12 +2215,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23767,
+            "markdown_end": 23994,
+            "markdown_line_start": 329,
+            "markdown_line_end": 329
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "6. Chertoff J., Chisum M., Garcia B. et al. Lactate kinetics in sepsis and septic shock:a review of the literature and rationale for further research // J. Intens. Care. – 2015. – Vol. 3. – P. 39–43. PMID: 26445673 DOI:10.1186/s40560-015-0105-4.",
         "metadata": {
@@ -1766,12 +2234,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23997,
+            "markdown_end": 24242,
+            "markdown_line_start": 331,
+            "markdown_line_end": 331
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "7. Landesberg G., Gilon D., Meroz Y. et al. Diastolic dysfunction and mortality in severe sepsis and septic shock // Eur. Heart J. – 2012. – Vol. 33, № 7. – P. 895–903. PMID: 21911341.doi:10.1093/eurheartj/ehr351.",
         "metadata": {
@@ -1781,12 +2253,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24245,
+            "markdown_end": 24458,
+            "markdown_line_start": 333,
+            "markdown_line_end": 333
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "8. Liu Z., Meng Z., Li Y. et al. Prognostic accuracy of the serum lactate level, the SOFA score and the qSOFA score for mortality among adults with sepsis // Scandinav. J. Trauma Resuscitat. Emerg. Med. – 2019. Vol. 27. – P. 51–60. doi: 10.1186/s13049-019-0609-3.",
         "metadata": {
@@ -1796,12 +2272,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24461,
+            "markdown_end": 24724,
+            "markdown_line_start": 335,
+            "markdown_line_end": 335
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "9. Sanfilippo F., Corredor C., Fletcher N. et al. Diastolic dysfunction and mortality in septic patients: a systematic review and meta&analysis // Intens. Care Med. – 2015. –Vol. 41, № 6. – P. 1004–1013. PMID: 25800584. doi: 10.1007/s00134-015-3748-7.",
         "metadata": {
@@ -1811,12 +2291,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24727,
+            "markdown_end": 24978,
+            "markdown_line_start": 337,
+            "markdown_line_end": 337
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "10. Sasko B., Butz T., Prull M. W. et al. Earliest bedside assessment of hemodynamic parameters and cardiac biomarkers: their role as predictors of adverse outcome in patients with septic shock // Int. J. Med. Sci. – 2015. –Vol. 12, № 9. – P. 680–688. PMID: 26392804. DOI: 10.7150/ijms.11720.",
         "metadata": {
@@ -1826,12 +2310,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24981,
+            "markdown_end": 25273,
+            "markdown_line_start": 339,
+            "markdown_line_end": 339
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "11. Shankar-Hari M., Phillips G. S., Levy M. L. et al. Developing a new definition and assessing new clinical criteria for septic shock for the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) // JAMA. ‒ 2016. ‒ Vol. 315, № 8. ‒ Р. 775‒787. doi: 10.1001/jama.2016.0289.",
         "metadata": {
@@ -1841,12 +2329,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25276,
+            "markdown_end": 25577,
+            "markdown_line_start": 341,
+            "markdown_line_end": 341
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "12. Seymour C. W, Vincent X., Iwashyna T. J. et al. Assessment of clinical criteria for sepsis: for the third international consensus definitions for sepsis and septic shock (Sepsis-3) // JAMA. – 2016. – Vol. 315, № 8. –  P. 762–774. doi:10.1001/jama.2016.0288.",
         "metadata": {
@@ -1856,12 +2348,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25580,
+            "markdown_end": 25841,
+            "markdown_line_start": 343,
+            "markdown_line_end": 343
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "13. Thomas-Rueddel D. O., Poidinger B., Weiss M. et al. Hyperlactatemia is an independent predictor of mortality and denotes distinct subtypes of severe sepsis and septic shock // J. Crit. Care. – 2014. – Vol. 30, № 2. – P. 439‒444. PMID: 25466313. doi: 10.1016/j.jcrc.2014.10.027.",
         "metadata": {
@@ -1871,12 +2367,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25844,
+            "markdown_end": 26125,
+            "markdown_line_start": 345,
+            "markdown_line_end": 345
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **REFERENCES**",
         "metadata": {
@@ -1886,12 +2386,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26128,
+            "markdown_end": 26145,
+            "markdown_line_start": 347,
+            "markdown_line_end": 347
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "1. _Intensivnaya terapiya. Natsionalnoye rukovodstvo: v 2 t._ [Intensive care. National guidelines. 2 volumes]. I.B. Zabolotskikh, D.N. Protsenko, eds., 2nd edition, reviewed and supplemented. Moscow, GEOTAR-Media Publ., 2020, vol. 2, 1056 p. ISBN: 978-5-9704-5018-5.",
         "metadata": {
@@ -1901,12 +2405,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26148,
+            "markdown_end": 26415,
+            "markdown_line_start": 349,
+            "markdown_line_end": 349
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "2. Mamaev А.N., Kudlay D.А. _Statisticheskiye metody v meditsine._ [Statistical methods in medicine]. Moscow, Prakticheskaya Meditsina Publ., 2021, 136 p.",
         "metadata": {
@@ -1916,12 +2424,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26418,
+            "markdown_end": 26572,
+            "markdown_line_start": 351,
+            "markdown_line_end": 351
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "3. Tyurin I.N., Аvdeykin S.N., Protsenko D.N. et al. Epidemiology of sepsis in patients admitted to intensive care unit of a multidisciplinary hospital. _Obschaya Reanimatologiya,_ 2019, no. 15 (4), pp. 42-57. (In Russ.) doi: 10.15360/1813-9779-2019-4-42-57.",
         "metadata": {
@@ -1931,12 +2443,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26575,
+            "markdown_end": 26833,
+            "markdown_line_start": 353,
+            "markdown_line_end": 353
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "4. Auchet T., Regnier M.A., Girerd N. et al. Outcome of patients with septic shock and high-dose vasopressor therapy. _Ann. Intens. Care_ , 2017, vol. 7, pp. 43‒51. doi: 10.1186/s13613-017-0261-x.",
         "metadata": {
@@ -1946,12 +2462,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26836,
+            "markdown_end": 27032,
+            "markdown_line_start": 355,
+            "markdown_line_end": 355
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "5. Burgdorff A.M., Bucher M., Schumann J. Vasoplegia in patients with sepsis and septic shock: pathways and mechanisms. _J. Int. Med. Res.,_ 2018, vol. 46, no. 4, pp. 1303-1310. PMID: 29332515, doi: 10.1177/0300060517743836.",
         "metadata": {
@@ -1961,12 +2481,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27035,
+            "markdown_end": 27259,
+            "markdown_line_start": 357,
+            "markdown_line_end": 357
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "6. Chertoff J., Chisum M., Garcia B. et al. Lactate kinetics in sepsis and septic shock: a review of the literature and rationale for further research. _J. Intens. Care,_ 2015, vol. 3, pp. 39-43. PMID: 26445673 DOI:10.1186/s40560-015-0105-4.",
         "metadata": {
@@ -1976,12 +2500,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27262,
+            "markdown_end": 27503,
+            "markdown_line_start": 359,
+            "markdown_line_end": 359
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "7. Landesberg G., Gilon D., Meroz Y. et al. Diastolic dysfunction and mortality in severe sepsis and septic shock. _Eur. Heart J.,_ 2012, vol. 33, no. 7, pp. 895-903. PMID: 21911341.doi:10.1093/eurheartj/ehr351.",
         "metadata": {
@@ -1991,12 +2519,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27506,
+            "markdown_end": 27717,
+            "markdown_line_start": 361,
+            "markdown_line_end": 361
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "8. Liu Z., Meng Z., Li Y. et al. Prognostic accuracy of the serum lactate level, the SOFA score and the qSOFA score for mortality among adults with sepsis. _Scandinav. J. Trauma Resuscitat. Emerg. Med.,_ 2019, vol. 27, pp. 51–60. doi: 10.1186/s13049-019-0609-3.",
         "metadata": {
@@ -2006,12 +2538,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27720,
+            "markdown_end": 27981,
+            "markdown_line_start": 363,
+            "markdown_line_end": 363
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "9. Sanfilippo F., Corredor C., Fletcher N. et al. Diastolic dysfunction and mortality in septic patients: a systematic review and meta&analysis. _Intens. Care Med._ , 2015, vol. 41, no. 6, pp. 1004-1013. PMID: 25800584. doi: 10.1007/s00134-015-3748-7.",
         "metadata": {
@@ -2021,12 +2557,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27984,
+            "markdown_end": 28235,
+            "markdown_line_start": 365,
+            "markdown_line_end": 365
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "10. Sasko B., Butz T., Prull M.W. et al. Earliest bedside assessment of hemodynamic parameters and cardiac biomarkers: their role as predictors of adverse outcome in patients with septic shock. _Int. J. Med. Sci._ , 2015, vol. 12, no. 9, pp. 680-688. PMID: 26392804. doi: 10.7150/ijms.11720.",
         "metadata": {
@@ -2036,12 +2576,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28238,
+            "markdown_end": 28529,
+            "markdown_line_start": 367,
+            "markdown_line_end": 367
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "11. Shankar-Hari M., Phillips G.S., Levy M.L. et al. Developing a new definition and assessing new clinical criteria for septic shock for the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). _JAMA_ , 2016, vol. 315, no. 8, pp. 775‒787. doi: 10.1001/jama.2016.0289.",
         "metadata": {
@@ -2051,12 +2595,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28532,
+            "markdown_end": 28829,
+            "markdown_line_start": 369,
+            "markdown_line_end": 369
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "12. Seymour C.W, Vincent X., Iwashyna T.J. et al. Assessment of clinical criteria for sepsis: for the third international consensus definitions for sepsis and septic shock (Sepsis-3). _JAMA_ , 2016, vol. 315, no. 8, pp. 762–774. doi:10.1001/jama.2016.0288.",
         "metadata": {
@@ -2066,12 +2614,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28832,
+            "markdown_end": 29088,
+            "markdown_line_start": 371,
+            "markdown_line_end": 371
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "13. Thomas-Rueddel D.O., Poidinger B., Weiss M. et al. Hyperlactatemia is an independent predictor of mortality and denotes distinct subtypes of severe sepsis and septic shock. _J. Crit. Care,_ 2014, vol. 30, no. 2, pp. 439‒444. PMID: 25466313. doi: 10.1016/j.jcrc.2014.10.027.",
         "metadata": {
@@ -2081,12 +2633,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29091,
+            "markdown_end": 29368,
+            "markdown_line_start": 373,
+            "markdown_line_end": 373
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Messenger of Anesthesiology and Resuscitation, Vol. 18, No. 3, 2021**",
         "metadata": {
@@ -2096,12 +2652,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29382,
+            "markdown_end": 29453,
+            "markdown_line_start": 377,
+            "markdown_line_end": 377
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **ИНФОРМАЦИЯ ОБ АВТОРАХ:**",
         "metadata": {
@@ -2111,12 +2671,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29456,
+            "markdown_end": 29485,
+            "markdown_line_start": 379,
+            "markdown_line_end": 379
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Кочкин Александр Александрович**_",
         "metadata": {
@@ -2126,12 +2690,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29488,
+            "markdown_end": 29527,
+            "markdown_line_start": 381,
+            "markdown_line_end": 381
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_ГБУЗ МО «Московский областной научно-исследовательский клинический институт им. М. Ф. Владимирского», научный сотрудник отделения реаниматологии. 129110, Москва, ул. Щепкина, д. 61/2. Тел./факс: +7 (495) 929–58–04. E-mail: favor2991@mail.ru https://orcid.org/0000-0002-4190-9742_",
         "metadata": {
@@ -2141,12 +2709,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29530,
+            "markdown_end": 29810,
+            "markdown_line_start": 383,
+            "markdown_line_end": 383
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_ФГБНУ «НИИ Общей реаниматологии им. В. А. Неговского», 107031, Москва, ул. Петровка, д. 25 с. 2._",
         "metadata": {
@@ -2156,12 +2728,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29813,
+            "markdown_end": 29911,
+            "markdown_line_start": 385,
+            "markdown_line_end": 385
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Ядгаров Михаил Яковлевич**_",
         "metadata": {
@@ -2171,12 +2747,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29914,
+            "markdown_end": 29947,
+            "markdown_line_start": 387,
+            "markdown_line_end": 387
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_врач-кибернетик, младший научный сотрудник лаборатории клинических исследований ФНКЦ РР. E-mail: mikhail.yadgarov@mail.ru https://orcid.org/0000-0003-3792-1682_",
         "metadata": {
@@ -2186,12 +2766,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29950,
+            "markdown_end": 30111,
+            "markdown_line_start": 389,
+            "markdown_line_end": 389
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Берикашвили Леван Бондоевич**_",
         "metadata": {
@@ -2201,12 +2785,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30114,
+            "markdown_end": 30150,
+            "markdown_line_start": 391,
+            "markdown_line_end": 391
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_научный сотрудник лаборатории клинических исследований ФНКЦ РР. E-mail: levan.berikashvili@mail.ru https://orcid.org/0000-0001-9267-3664_",
         "metadata": {
@@ -2216,12 +2804,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30153,
+            "markdown_end": 30291,
+            "markdown_line_start": 393,
+            "markdown_line_end": 393
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Лихванцев Валерий Владимирович**_",
         "metadata": {
@@ -2231,12 +2823,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30294,
+            "markdown_end": 30333,
+            "markdown_line_start": 395,
+            "markdown_line_end": 395
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_доктор медицинских наук, профессор, заместитель руководителя по научной работе. Тел.: +7 (495) 694–65–05. E-mail: lik0704@gmail.com https://orcid.org/0000-0002-5442-6950_",
         "metadata": {
@@ -2246,12 +2842,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30336,
+            "markdown_end": 30507,
+            "markdown_line_start": 397,
+            "markdown_line_end": 397
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Переходов Сергей Николаевич**_",
         "metadata": {
@@ -2261,12 +2861,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30510,
+            "markdown_end": 30546,
+            "markdown_line_start": 399,
+            "markdown_line_end": 399
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_ФГБОУ «Московский государственный медико-стоматологический университет им. А. И. Евдокимова», доктор медицинских наук, профессор кафедры госпитальной хирургии лечебного факультета. 127473, Москва, ул. Делегатская, д. 20 с. 1. E-mail: s.perekhodov@bk.ru https://orcid.org/0000-0002-6276-2305_",
         "metadata": {
@@ -2276,12 +2880,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30549,
+            "markdown_end": 30841,
+            "markdown_line_start": 401,
+            "markdown_line_end": 401
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **INFORMATION ABOUT AUTHORS:**",
         "metadata": {
@@ -2291,12 +2899,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30844,
+            "markdown_end": 30877,
+            "markdown_line_start": 403,
+            "markdown_line_end": 403
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Aleksandr A. Kochkin**_",
         "metadata": {
@@ -2306,12 +2918,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30880,
+            "markdown_end": 30909,
+            "markdown_line_start": 405,
+            "markdown_line_end": 405
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_M.F. Vladimirsky Moscow Regional Research Clinical Institute, Researcher of Intensive Care Department. 61/2, Schepkina St., Moscow, 129110. Phone/Fax: +7 (495) 929-58-04. Email: favor2991@mail.ru https://orcid.org/0000-0002-4190-9742_",
         "metadata": {
@@ -2321,12 +2937,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30912,
+            "markdown_end": 31147,
+            "markdown_line_start": 407,
+            "markdown_line_end": 407
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_V.A. Negovsky Reanimatology Research Institute, Build. 25, 2, Petrovka St., Moscow, 107031._",
         "metadata": {
@@ -2336,12 +2956,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31150,
+            "markdown_end": 31243,
+            "markdown_line_start": 409,
+            "markdown_line_end": 409
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Mikhail Ya. Yadgarov**_",
         "metadata": {
@@ -2351,12 +2975,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31246,
+            "markdown_end": 31275,
+            "markdown_line_start": 411,
+            "markdown_line_end": 411
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_Physician Cyberneticist, Junior Researcher of Clinical Trial Laboratory of Federal Scientific and Clinical Center for Intensive Care and Rehabilitation. Email: mikhail.yadgarov@mail.ru https://orcid.org/0000-0003-3792-1682_",
         "metadata": {
@@ -2366,12 +2994,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31278,
+            "markdown_end": 31502,
+            "markdown_line_start": 413,
+            "markdown_line_end": 413
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Levan B. Berikashvili**_",
         "metadata": {
@@ -2381,12 +3013,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31505,
+            "markdown_end": 31535,
+            "markdown_line_start": 415,
+            "markdown_line_end": 415
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_Researcher of Clinical Trial Laboratory of Federal Scientific and Clinical Center for Intensive Care and Rehabilitation. Email: levan.berikashvili@mail.ru https://orcid.org/0000-0001-9267-3664_",
         "metadata": {
@@ -2396,12 +3032,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31538,
+            "markdown_end": 31732,
+            "markdown_line_start": 417,
+            "markdown_line_end": 417
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Valeriy V. Likhvantsev**_",
         "metadata": {
@@ -2411,12 +3051,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31735,
+            "markdown_end": 31766,
+            "markdown_line_start": 419,
+            "markdown_line_end": 419
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_Doctor of Medical Sciences, Professor, Deputy Head for Research. Phone: +7 (495) 694-65-05. Email: lik0704@gmail.com https://orcid.org/0000-0002-5442-6950_",
         "metadata": {
@@ -2426,12 +3070,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31769,
+            "markdown_end": 31925,
+            "markdown_line_start": 421,
+            "markdown_line_end": 421
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Sergey N. Perekhodov**_",
         "metadata": {
@@ -2441,12 +3089,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31928,
+            "markdown_end": 31957,
+            "markdown_line_start": 423,
+            "markdown_line_end": 423
         }
     },
     {
         "source_id": "Kochkin_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_A.I. Yevdokimov Moscow State University of Medicine and Dentistry, Doctor of Medical Sciences, Professor of Hospital Surgery Department General Medicine Faculty. Build. 20, 1, Delegatskaya St., Moscow, 127473. Email: s.perekhodov@bk.ru https://orcid.org/0000-0002-6276-2305_",
         "metadata": {
@@ -2456,7 +3108,11 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31960,
+            "markdown_end": 32235,
+            "markdown_line_start": 425,
+            "markdown_line_end": 425
         }
     }
 ]

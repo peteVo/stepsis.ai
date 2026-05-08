@@ -1,7 +1,7 @@
 [
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Association of mean corpuscular volume with 28-day mortality in sepsis patients: A retrospective cohort study using eICU data",
         "metadata": {
@@ -11,12 +11,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19,
+            "markdown_end": 147,
+            "markdown_line_start": 3,
+            "markdown_line_end": 3
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Huizhen Tang 1** ☯ * **, Mingli Qu1‡, Miaomiao Xin2‡, Tongqiang He3** ☯",
         "metadata": {
@@ -26,12 +30,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 150,
+            "markdown_end": 223,
+            "markdown_line_start": 5,
+            "markdown_line_end": 5
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**1** Department of Transfusion, Northwest Women’s and Children’s Hospital, Xi’an, China, **2** Reproductive Center, Northwest Women’s and Children’s Hospital, Xi’an, China, **3** Obstetrics and Gynecology Intensive Care Unit, Northwest Women’s and Children’s Hospital, Xi’an, China",
         "metadata": {
@@ -41,12 +49,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 226,
+            "markdown_end": 508,
+            "markdown_line_start": 7,
+            "markdown_line_end": 7
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "☯ These authors contributed equally to this work.",
         "metadata": {
@@ -56,12 +68,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 511,
+            "markdown_end": 560,
+            "markdown_line_start": 9,
+            "markdown_line_end": 9
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "‡ MQ and MX also contributed equally to this work.",
         "metadata": {
@@ -71,12 +87,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 563,
+            "markdown_end": 613,
+            "markdown_line_start": 11,
+            "markdown_line_end": 11
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Tang_2025/images/Tang_2025.pdf-0001-06.png)",
         "metadata": {
@@ -86,12 +106,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 617,
+            "markdown_end": 684,
+            "markdown_line_start": 14,
+            "markdown_line_end": 14
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Tang_2025.pdf-0001-06.png)**\n> **Category:** `OTHER` | **Summary:** Check for updates icon\n> \n> The image features a square icon with rounded edges. Inside the icon, there is a circular design with a multicolored band at the top, forming an almost complete circle. A red-colored flag or bookmark is placed within the circle. Below the circle, the text reads 'Check for updates.' The background of the icon is a light gradient, likely gray or white.\n> \n> **Key Findings:**\n> - The icon suggests checking for new updates.\n<!-- analyzed_Tang_2025.pdf-0001-06.png -->",
         "metadata": {
@@ -101,12 +125,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 686,
+            "markdown_end": 1288,
+            "markdown_line_start": 16,
+            "markdown_line_end": 24
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Abstract",
         "metadata": {
@@ -116,12 +144,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1315,
+            "markdown_end": 1326,
+            "markdown_line_start": 31,
+            "markdown_line_end": 31
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Introduction**",
         "metadata": {
@@ -131,12 +163,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1329,
+            "markdown_end": 1348,
+            "markdown_line_start": 33,
+            "markdown_line_end": 33
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Tang_2025/images/Tang_2025.pdf-0001-10.png)",
         "metadata": {
@@ -146,12 +182,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1352,
+            "markdown_end": 1419,
+            "markdown_line_start": 36,
+            "markdown_line_end": 36
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Tang_2025.pdf-0001-10.png)**\n> **Category:** `OTHER` | **Summary:** Unlocked Padlock Icon\n> \n> The image shows a simple, black and white icon of an unlocked padlock. The padlock is stylized with a square lock body and a curved shackle, which is open, indicating an unlocked state. The design is minimalistic without additional details or colors besides black and white.\n<!-- analyzed_Tang_2025.pdf-0001-10.png -->",
         "metadata": {
@@ -161,12 +201,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1421,
+            "markdown_end": 1873,
+            "markdown_line_start": 38,
+            "markdown_line_end": 43
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## OPEN ACCESS",
         "metadata": {
@@ -176,12 +220,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1878,
+            "markdown_end": 1892,
+            "markdown_line_start": 48,
+            "markdown_line_end": 48
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Citation:** Tang H-Z, Qu M, He T, Xin M (2025) Association of mean corpuscular volume with 28-day mortality in sepsis patients: A retrospective cohort study using eICU data. PLoS ONE 20(4): e0321213. https://doi. org/10.1371/journal.pone.0321213",
         "metadata": {
@@ -191,12 +239,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1895,
+            "markdown_end": 2142,
+            "markdown_line_start": 50,
+            "markdown_line_end": 50
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Editor:** Marwan Al-Nimer, University of Diyala College of Medicine, UNITED STATES OF AMERICA",
         "metadata": {
@@ -206,12 +258,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2145,
+            "markdown_end": 2240,
+            "markdown_line_start": 52,
+            "markdown_line_end": 52
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Received:** November 26, 2024",
         "metadata": {
@@ -221,12 +277,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2243,
+            "markdown_end": 2274,
+            "markdown_line_start": 54,
+            "markdown_line_end": 54
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Accepted:** March 3, 2025",
         "metadata": {
@@ -236,12 +296,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2277,
+            "markdown_end": 2304,
+            "markdown_line_start": 56,
+            "markdown_line_end": 56
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Published:** April 21, 2025",
         "metadata": {
@@ -251,12 +315,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2307,
+            "markdown_end": 2336,
+            "markdown_line_start": 58,
+            "markdown_line_end": 58
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Peer Review History:** PLOS recognizes the benefits of transparency in the peer review process; therefore, we enable the publication of all of the content of peer review and author responses alongside final, published articles. The editorial history of this article is available here: https://doi.org/10.1371/journal. pone.0321213",
         "metadata": {
@@ -266,12 +334,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2339,
+            "markdown_end": 2671,
+            "markdown_line_start": 60,
+            "markdown_line_end": 60
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Copyright:** © 2025 Tang et al _._ This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
         "metadata": {
@@ -281,12 +353,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2674,
+            "markdown_end": 2946,
+            "markdown_line_start": 62,
+            "markdown_line_end": 62
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The issue of mortality due to sepsis remains a significant concern in the field of medicine. Previous researches have demonstrated an association between mean corpuscular volume (MCV) and mortality from a range of diseases. The objective of this study was to investigate the relationship between MCV and the risk of mortality from sepsis in a large multicentre cohort.",
         "metadata": {
@@ -296,12 +372,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2949,
+            "markdown_end": 3317,
+            "markdown_line_start": 64,
+            "markdown_line_end": 64
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Method**",
         "metadata": {
@@ -311,12 +391,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3320,
+            "markdown_end": 3333,
+            "markdown_line_start": 66,
+            "markdown_line_end": 66
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "A retrospective cohort study was conducted using data from the eICU Collaborative Research Database from 2014–2015. MCV was determined within the initial 24 hours of ICU admission, with patients subsequently classified into quartiles based on their MCV levels. Multivariate regression models were employed to investigate the correlation between MCV and 28-day mortality, with adjustments made for potential confounding factors such as age, sex, body mass index, vital signs and comorbidities. To evaluate the dose-response relationship between MCV and 28-day mortality in patients with sepsis, smoothed curve fitting and threshold effects analysis were utilised.",
         "metadata": {
@@ -326,12 +410,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3336,
+            "markdown_end": 3998,
+            "markdown_line_start": 68,
+            "markdown_line_end": 68
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Results**",
         "metadata": {
@@ -341,12 +429,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4001,
+            "markdown_end": 4015,
+            "markdown_line_start": 70,
+            "markdown_line_end": 70
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "A total of 9,415 patients with sepsis were included in the study and the 28-day ICU mortality rate of the sepsis patients was 9.38% (883/9415). After adjusting for confounding variables, it was found that the odds ratio (OR) for 28-day mortality was 1.11 (95% CI 1.01, 1.23, P=0.04) increased followed by each 1 fl increase in MCV. The smoothed fitted curves demonstrated a nonlinear positive correlation between MCV and 28-day mortality. The inflection point for the level of MCV was 83 fl. At MCV <83 fl, there was a significant increase in the risk of 28-day mortality with each 1 fl increase in MCV (OR 1.10, 95% CI 1.02, 1.17, _P_ =0.004).",
         "metadata": {
@@ -356,12 +448,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4018,
+            "markdown_end": 4662,
+            "markdown_line_start": 72,
+            "markdown_line_end": 72
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -371,12 +467,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4665,
+            "markdown_end": 4735,
+            "markdown_line_start": 74,
+            "markdown_line_end": 74
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -386,12 +486,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4758,
+            "markdown_end": 4837,
+            "markdown_line_start": 80,
+            "markdown_line_end": 80
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Data availability statement:** All data in this research were obtained from the publicly available eICU Collaborative Research Database. - These data are freely accessible at https://eicu crd.mit.edu/.",
         "metadata": {
@@ -401,12 +505,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4840,
+            "markdown_end": 5043,
+            "markdown_line_start": 82,
+            "markdown_line_end": 82
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Funding:** This work was supported by the Shaanxi Province Key Research and Development Programme (2024SF-YBXM-230). Tongqiang He, the host of the fund project and the corresponding author of this article, played a crucial role in study design, formal analysis, review & editing of the manuscript, and decision to publish.",
         "metadata": {
@@ -416,12 +524,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5046,
+            "markdown_end": 5370,
+            "markdown_line_start": 84,
+            "markdown_line_end": 84
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Competing interests:** The authors have declared that no competing interests exist.",
         "metadata": {
@@ -431,12 +543,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5373,
+            "markdown_end": 5458,
+            "markdown_line_start": 86,
+            "markdown_line_end": 86
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Conclusions**",
         "metadata": {
@@ -446,12 +562,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5461,
+            "markdown_end": 5479,
+            "markdown_line_start": 88,
+            "markdown_line_end": 88
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "There is a non-linear positive correlation between MCV and 28-day risk of death in patients with sepsis. Clinicians should be aware of changes in this indicator, especially in patients with high MCV levels.",
         "metadata": {
@@ -461,12 +581,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5482,
+            "markdown_end": 5688,
+            "markdown_line_start": 90,
+            "markdown_line_end": 90
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Introduction**",
         "metadata": {
@@ -476,12 +600,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5691,
+            "markdown_end": 5710,
+            "markdown_line_start": 92,
+            "markdown_line_end": 92
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Mean corpuscular volume(MCV) is a significant hematological parameter utilized to evaluate the mean size of red blood cells, typically quantified in femtoliters (fl). The normal range of MCV for adult males is 80–100 fL, while for adult females it is 75–95 fl [1]. The extanting evidenced indicates that the correlation between MCV and all-cause mortality in patients with kidney failure exhibitted geographical variation. In Chinese patients, a lower MCV (less than 94 fl) was associated with an elevated risk of mortality [2]. Conversely, in Swedish patients, a lower MCV was related to a reduced risk of mortality, particularly in the context of cardiovascular disease-related deaths [3]. This suggested that the prognostic value of MCV may be subject to geographical and population-specific influences.",
         "metadata": {
@@ -491,12 +619,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5713,
+            "markdown_end": 6519,
+            "markdown_line_start": 94,
+            "markdown_line_end": 94
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis is a systemic inflammatory response syndrome that arises from an infection. It is characterised by an uncontrolled immune response that results in tissue damage and organ dysfunction [4]. Progression to severe sepsis, septic shock, and multiple organ dysfunction syndrome (MODS) is a potential outcome, with mortality rates for these conditions being high [5,6]. Globally, approximately 1,400 individuals perish daily as a result of sepsis, with an estimated mortality rate of 20% [7]. In the United States, approximately 750,000 cases of sepsis occur annually, resulting in around 215,000 deaths, with a mortality rate of 28.7% [8]. In paediatric intensive care units, sepsis represents a significant cause of mortality, constituting a considerable threat to the health of children [9]. Notwithstanding advances in medical technology and greater awareness in developed countries, which have resulted in a reduction in mortality rates, sepsis remains a leading cause of death in intensive care units, particularly among critically ill patients [10,11].",
         "metadata": {
@@ -506,12 +638,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6522,
+            "markdown_end": 7581,
+            "markdown_line_start": 96,
+            "markdown_line_end": 96
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Systemic inflammatory responses and oxidative stress in patients with sepsis may affect MCV by disrupting erythrocyte membrane stability or altering bone marrow hematopoietic function [12,13]. Elevated MCV may reflect a state of chronic inflammation or nutrient deficiency that exacerbates organ dysfunction [13,14]. Nevertheless, these studies have not directly investigated the relationship between MCV and mortality risk in patients with sepsis.",
         "metadata": {
@@ -521,12 +657,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7584,
+            "markdown_end": 8032,
+            "markdown_line_start": 98,
+            "markdown_line_end": 98
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In light of the aforementioned considerations, this study employed a comprehensive multicentre critical care dataset from the Philips eICU database to investigate the correlation between MCV and the 28-day mortality risk in patients with sepsis.",
         "metadata": {
@@ -536,12 +676,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8035,
+            "markdown_end": 8280,
+            "markdown_line_start": 100,
+            "markdown_line_end": 100
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Materials and methods**",
         "metadata": {
@@ -551,12 +695,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8283,
+            "markdown_end": 8311,
+            "markdown_line_start": 102,
+            "markdown_line_end": 102
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Data source**",
         "metadata": {
@@ -566,12 +714,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8314,
+            "markdown_end": 8332,
+            "markdown_line_start": 104,
+            "markdown_line_end": 104
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Data for this study were obtained from the eICU Collaborative Research Database (eICUCRD), a multicentre database containing more than 200,000 ICU admissions from 208 hospitals in the United States during 2014 and 2015 [15]. The database provides detailed clinical data from the eICU telemedicine programme, including demographic information, physiological readings, diagnoses (International Classification of Diseases, Ninth Edition (ICD-9) codes), and other clinical data. The data is standardised cleaned and verified by the eICU-CRD team [16].",
         "metadata": {
@@ -581,12 +733,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8335,
+            "markdown_end": 8882,
+            "markdown_line_start": 106,
+            "markdown_line_end": 106
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -596,12 +752,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8885,
+            "markdown_end": 8955,
+            "markdown_line_start": 108,
+            "markdown_line_end": 108
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -611,12 +771,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8978,
+            "markdown_end": 9057,
+            "markdown_line_start": 114,
+            "markdown_line_end": 114
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The eICU Collaborative Research Database (eICU-CRD) comprises de-identified clinical data from the years 2014–2015, as this timeframe offers the most comprehensive and standardized dataset available at the time of analysis [17]. Subsequent updates to the database were not publicly accessible during the study design phase. The uniformity of data collection protocols across intensive care units during these years ensures minimal variability in variable definitions and measurement practices.",
         "metadata": {
@@ -626,12 +790,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9060,
+            "markdown_end": 9553,
+            "markdown_line_start": 116,
+            "markdown_line_end": 116
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This study was conducted in strict adherence to the ethical standards outlined in the Declaration of Helsinki (1964) and its subsequent amendments. After completing the course “Protection of Human Research Participants” (No. 65890571), the use of the database was approved by the Institutional Review Board (IRB) of Massachusetts Institute of Technology. Because of the retrospective nature of this study and the absence of direct patient intervention, the IRB of Massachusetts Institute of Technology waived the requirement for obtaining written informed consent. The study was compliant with the safe harbor provisions of the Health Insurance Portability and Accountability Act (HIPAA) and followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement.",
         "metadata": {
@@ -641,12 +809,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9556,
+            "markdown_end": 10349,
+            "markdown_line_start": 118,
+            "markdown_line_end": 118
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Study population**",
         "metadata": {
@@ -656,12 +828,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10352,
+            "markdown_end": 10375,
+            "markdown_line_start": 120,
+            "markdown_line_end": 120
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This retrospective observational study included all patients with an initial diagnosis of sepsis based on International Classification of Diseases (ICD) codes from the eICU Collaborative Research Database (ICD code: A41.9) [18]. The following exclusion criteria were applied: (1) patients who had been admitted to the ICU on more than one occasion; (2) It should be considered that early death may be associated with irreversible organ failure, and that MCV, as an indicator of homeostasis, may be disturbed. Therefore, patients with ICU stays of less than 48 hours were excluded, in order to ensure sufficient observation time to assess the relationship between MCV and patient prognosis; (3) patients for whom outcome data were unavailable; (4) patients for whom data on mean corpuscular volume were unavailable within the first 24 hours of ICU admission. The study flowchart is presented in Fig 1.",
         "metadata": {
@@ -671,12 +847,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10378,
+            "markdown_end": 11278,
+            "markdown_line_start": 122,
+            "markdown_line_end": 122
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Data extraction**",
         "metadata": {
@@ -686,12 +866,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11281,
+            "markdown_end": 11303,
+            "markdown_line_start": 124,
+            "markdown_line_end": 124
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The data pertaining to patients diagnosed with sepsis was extracted from the eICU Collaborative Research Database (eICU-CRD) utilising PostgreSQL (version 10, www.postgresql.org). The study covariates included demographic data, vital signs, severity scores, comorbidities, blood markers, and outcomes. The following data were extracted: age, sex, body mass index (BMI), body temperature, heart rate, respiratory rate, mean arterial pressure (MAP), Acute Physiology Score III, APACHE IV score, acquired immunodeficiency syndrome (AIDS), hepatic failure, metastatic cancer, leukaemia, immunosuppression, albumin, lactate, platelets, haemoglobin, red cell distribution width (RDW), white blood cell count, ICU 28-day mortality, and hospital 28-day mortality. In the case of patients with multiple vital sign measurements or laboratory tests during their ICU stay, only the initial data from the first 24 hours after ICU admission were extracted for subsequent analysis. In the event of missing covariate values, these were represented using dummy variables.",
         "metadata": {
@@ -701,12 +885,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11306,
+            "markdown_end": 12360,
+            "markdown_line_start": 126,
+            "markdown_line_end": 126
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The exposure variable was MCV, with the primary outcome being 28-day mortality in ICU.",
         "metadata": {
@@ -716,12 +904,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12363,
+            "markdown_end": 12449,
+            "markdown_line_start": 128,
+            "markdown_line_end": 128
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Statistical analysis**",
         "metadata": {
@@ -731,12 +923,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12452,
+            "markdown_end": 12479,
+            "markdown_line_start": 130,
+            "markdown_line_end": 130
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Continuous variables are presented as the mean ± standard deviation or as the median with interquartile range, whereas categorical variables are expressed as frequency and percentage. The normality of variables is assessed using the Shapiro-Wilk test, while homogeneity of variances is evaluated with Levene’s test. In the case of normally distributed continuous variables",
         "metadata": {
@@ -746,12 +942,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12482,
+            "markdown_end": 12854,
+            "markdown_line_start": 132,
+            "markdown_line_end": 132
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -761,12 +961,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12857,
+            "markdown_end": 12927,
+            "markdown_line_start": 134,
+            "markdown_line_end": 134
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -776,12 +980,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12950,
+            "markdown_end": 13029,
+            "markdown_line_start": 140,
+            "markdown_line_end": 140
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Tang_2025/images/Tang_2025.pdf-0004-02.png)",
         "metadata": {
@@ -791,12 +999,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13033,
+            "markdown_end": 13100,
+            "markdown_line_start": 143,
+            "markdown_line_end": 143
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Tang_2025.pdf-0004-02.png)**\n> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** Flowchart of patient inclusion and exclusions in study\n> \n> The image is a flowchart illustrating the inclusion and exclusion criteria for a study involving patients with a sepsis diagnosis upon ICU admission. It starts with a box indicating patients with this condition, followed by a series of exclusion criteria connected by arrows. Each exclusion criterion specifies the reason for exclusion and the number of patients excluded. The diagram concludes with a box stating that 9415 patients were included in the study. The layout is structured vertically with rectangular boxes and connecting lines.\n> \n> **Key Findings:**\n> - Initial patients with sepsis diagnosis on ICU admission\n> - Exclusion of patients with multiple ICU admissions\n> - Exclusion of ICU stays less than 48 hours\n> - Exclusion of patients with missing ICU outcome\n> - Exclusion due to insufficient MCV records or system error\n> - Final count of patients included in study: 9415\n<!-- analyzed_Tang_2025.pdf-0004-02.png -->",
         "metadata": {
@@ -806,12 +1018,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13102,
+            "markdown_end": 14214,
+            "markdown_line_start": 145,
+            "markdown_line_end": 158
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Fig 1. Flow chart of study population.** https://doi.org/10.1371/journal.pone.0321213.g001",
         "metadata": {
@@ -821,12 +1037,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14219,
+            "markdown_end": 14311,
+            "markdown_line_start": 163,
+            "markdown_line_end": 163
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "with equal variances, one-way analysis of variance (ANOVA) is employed; in instances of unequal variances, the Welch test is utilised. The Kruskal-Wallis H test is applied to continuous variables with a non-normal distribution. Comparisons of categorical variables are conducted using the Pearson’s chi-square test or Fisher’s exact test, as appropriate.",
         "metadata": {
@@ -836,12 +1056,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14314,
+            "markdown_end": 14668,
+            "markdown_line_start": 165,
+            "markdown_line_end": 165
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Firstly, a comparison was conducted between the various variables across the four groups (Q1–Q4). Secondly, univariate and stratified analyses were conducted to investigate the correlation between specific variables and 28-day mortality through logistic regression. For each variable, odds ratios (OR) with 95% confidence intervals (CI) were calculated. Thirdly, three distinct models were developed to explore the association between MCV and 28-day mortality. The first model was unadjusted and considered the crude association between the variables. Model I was adjusted for age and sex. Model II was fully adjusted for confounding variables. The quartiles (Q1–Q4) were employed as categorical parameters across the three models. Fourthly, the association between MCV and 28-day mortality was compared in two models: Model I (linear model) and Model II (non-linear model). The log-likelihood ratio test was employed to identify the superior model. When the p-value was less than 0.05, Model II was deemed to be significantly superior to Model I. The threshold effect of MCV in Model II was analysed, and a smoothed fitted curve was generated using a generalized additive model.",
         "metadata": {
@@ -851,12 +1075,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14671,
+            "markdown_end": 15850,
+            "markdown_line_start": 167,
+            "markdown_line_end": 167
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "We conducted a series of sensitivity analyses to evaluate the robustness of the primary outcome. Initially, we examined follow-up outcomes in patients admitted to the ICU for less than",
         "metadata": {
@@ -866,12 +1094,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15853,
+            "markdown_end": 16037,
+            "markdown_line_start": 169,
+            "markdown_line_end": 169
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -881,12 +1113,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16040,
+            "markdown_end": 16110,
+            "markdown_line_start": 171,
+            "markdown_line_end": 171
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -896,12 +1132,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16133,
+            "markdown_end": 16212,
+            "markdown_line_start": 177,
+            "markdown_line_end": 177
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "48 hours to determine the stability of core outcomes across varying time points. Subsequently, we adjusted for the severity of sepsis subtypes to assess their impact on the core outcomes.",
         "metadata": {
@@ -911,12 +1151,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16215,
+            "markdown_end": 16402,
+            "markdown_line_start": 179,
+            "markdown_line_end": 179
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Data were analyzed with the use of the statistical packages R (The R Foundation; http:// www.r-project.org; version 3.6.3) and EmpowerStats (www.empowerstats.net, X&Y solutions, Inc. Boston, Massachusetts). _P_ values less than 0.05 (two-sided) were considered statistically significant.",
         "metadata": {
@@ -926,12 +1170,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16405,
+            "markdown_end": 16692,
+            "markdown_line_start": 181,
+            "markdown_line_end": 181
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Results**",
         "metadata": {
@@ -941,12 +1189,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16695,
+            "markdown_end": 16709,
+            "markdown_line_start": 183,
+            "markdown_line_end": 183
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Baseline characteristics**",
         "metadata": {
@@ -956,12 +1208,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16712,
+            "markdown_end": 16743,
+            "markdown_line_start": 185,
+            "markdown_line_end": 185
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The entire population was divided into four groups based on the distribution of their MCV values, which were classified into quartiles. The first quartile (58.0–86.0 fl, n = 2343), the second quartile (86.1–90.9 fl, n = 2317), the third quartile (91.0–95.4 fl, n = 2384), and the fourth quartile (95.5–138.9 fl, n = 2371). The demographic characteristics of the study population across MCV quartiles revealed that age increased progressively from 62.15 ± 16.52 years in Q1 to 67.99 ± 14.56 years in Q4 (p < 0.001), while BMI decreased from 29.68 ± 10.01 in Q1 to 28.32 ± 8.49 in Q4 (p < 0.001). The proportion of males and females did not differ significantly across quartiles (p = 0.128). The 28-day mortality rates in groups Q1–Q4 were 8.41% (n = 197), 8.72% (n = 202), 8.93% (n = 213), and 11.43% (n = 271), respectively ( _P_ = 0.001) (Table 1).",
         "metadata": {
@@ -971,12 +1227,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16746,
+            "markdown_end": 17595,
+            "markdown_line_start": 187,
+            "markdown_line_end": 187
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **The results of relationship between MCV and 28-day mortality**",
         "metadata": {
@@ -986,12 +1246,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17598,
+            "markdown_end": 17665,
+            "markdown_line_start": 189,
+            "markdown_line_end": 189
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The relationship between MCV and 28-day mortality was evaluated through the utilisation of multivariable regression models. Three models are presented in Table 2: the unadjusted model, Model I, and Model II. In Model II, which adjusted for all potential confounding variables, the odds ratio for 28-day mortality was 1.11 (95% CI 1.01, 1.23; _P_ = 0.04) for each 1 fl increase in MCV. In addition, categorical variables based on MCV quartiles (Q1-Q4) were compared across the three models. In the Q4 group (95.5-138.9 fl), the greatest increase in the 28-day risk of death was observed in model II, with an OR of 1.50 (95% CI 1.10, 2.05; _P_ = 0.012).",
         "metadata": {
@@ -1001,12 +1265,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17668,
+            "markdown_end": 18319,
+            "markdown_line_start": 191,
+            "markdown_line_end": 191
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Univariate and stratified analyses**",
         "metadata": {
@@ -1016,12 +1284,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18322,
+            "markdown_end": 18363,
+            "markdown_line_start": 193,
+            "markdown_line_end": 193
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "S1 Table presented the univariate analysis of 28-day mortality in patients with severe sepsis, which showed that all factors except gender were significantly associated with 28-day mortality ( _P_ < 0.05). Stratified analyses showed a significant interaction between age _(P_ = 0.040). The highest risk of 1.04 was found in the age group of 15–59 years (95% CI: 1.02,1.05). In addition, there was a moderating effect of body temperature ( _P_ = 0.050). In contrast, gender, BMI, respiratory rate, heart rate, and MAP had no significant effect on the association between MCV levels and 28-day mortality ( _P_ : 0.105, 0.608, 0.057, 0.121, and 0.688, respectively) (Table 3).",
         "metadata": {
@@ -1031,12 +1303,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18366,
+            "markdown_end": 19039,
+            "markdown_line_start": 195,
+            "markdown_line_end": 195
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Non-linear relationship between MCV and 28-day mortality**",
         "metadata": {
@@ -1046,12 +1322,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19042,
+            "markdown_end": 19105,
+            "markdown_line_start": 197,
+            "markdown_line_end": 197
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "We observed a nonlinear dose–response relationship between MCV and 28-day mortality in Fig 2 (after adjusting age; gender; BMI; temperature; respiratory rate; heart rate; MAP; acute physiology score III; apache IV score; AIDS; hepatic failure; metastatic cancer; immunosuppression; albumin; lactate; platelets; hemoglobin; RDW; white blood cell count). Two distinct models were constructed for further analysis: a linear model (Model I) and a two-stage non-linear model (Model II). The results of this analysis are presented in Table 4. A significant",
         "metadata": {
@@ -1061,12 +1341,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19108,
+            "markdown_end": 19658,
+            "markdown_line_start": 199,
+            "markdown_line_end": 199
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -1076,12 +1360,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19661,
+            "markdown_end": 19731,
+            "markdown_line_start": 201,
+            "markdown_line_end": 201
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -1091,12 +1379,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19754,
+            "markdown_end": 19833,
+            "markdown_line_start": 207,
+            "markdown_line_end": 207
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Table 1. Baseline characteristics of individuals by MCV quartiles. (N=9415).**",
         "metadata": {
@@ -1106,12 +1398,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19836,
+            "markdown_end": 19916,
+            "markdown_line_start": 209,
+            "markdown_line_end": 209
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|**Characteristic**|**Mean Cor****_P_uscular VolumeQuartile(fl)**|**Mean Cor****_P_uscular VolumeQuartile(fl)**|**Mean Cor****_P_uscular VolumeQuartile(fl)**|**Mean Cor****_P_uscular VolumeQuartile(fl)**|**Mean Cor****_P_uscular VolumeQuartile(fl)**|\n|---|---|---|---|---|---|\n||**Q1**|**Q2**|**Q3**|||\n||**58.0-86.0**|**86.1-90.9**|**91.0-95.4**|||\n|No. ofparticipants|2343|2317|2384|2371||\n|**Demographics**||||||\n|Age(years)|62.15 ± 16.52|65.20 ± 16.41|67.63 ± 15.22|67.99 ± 14.56|<0.001|\n|Gender|||||0.128|\n|Male|1185(50.60%)|1159(50.02%)|1147(48.11%)|1131(47.70%)||\n|Female|1157(49.40%)|1158(49.98%)|1237(51.89%)|1240(52.30%)||\n|BMI|29.68 ± 10.01|29.61 ± 9.33|28.51 ± 8.56|28.32 ± 8.49|<0.001|\n|**Vital signs**||||||\n|Temperature(°C)|36.62 ± 1.33|36.62 ± 1.33|36.59 ± 1.38|36.51 ± 1.19|0.003|\n|Respiratoryrate(bpm)|31.20 ± 14.40|30.26 ± 14.23|30.81 ± 14.59|29.94 ± 14.76|0.016|\n|Heart rate(/min)|115.26 ± 28.15|114.72 ± 28.29|114.42 ± 28.46|111.69 ± 29.45|<0.001|\n|MAP(mmHg)|56(48-112)|56(47-115)|56(47-119)|53(45-74)|<0.001|\n|**Severity of illness**||||||\n|Acute PhysiologyScore III|59.49 ± 25.03|58.87 ± 23.99|60.39 ± 23.91|62.67 ± 24.13|<0.001|\n|APACHE IV score|71.55 ± 26.24|72.20 ± 25.06|74.67 ± 25.01|77.32 ± 25.26|<0.001|\n|**Laboratory data**||||||\n|Lactate(mmol/L)|1.8(1.2-2.93)|1.8(1.12-2.9)|1.9(1.2-3.1)|1.9(1.2-3.2)|<0.001|\n|MCHC(g/dL)|32.51 ± 1.74|32.84 ± 1.44|32.68 ± 1.33|32.40 ± 1.53|<0.001|\n|Platelets(x 109/L)|205(133-291)|195(134-273)|182(125-250)|163(110-225)|<0.001|\n|Hemoglobin(g/dL)|9.89 ± 2.01|10.45 ± 2.09|10.64 ± 2.17|10.38 ± 2.18|<0.001|\n|RDW(%)|17.06 ± 3.04|15.72 ± 2.19|15.61 ± 2.21|16.13 ± 2.69|<0.001|\n|White blood cell(x 109/L)|14.1(9.41-20.7)|13.99(9.3-20.1)|13.4(8.8-19.29)|12.9(8.5-19)|0.065|\n|**Comorbidities**||||||\n|AIDS|||||0.721|\n|No|2297(99.65%)|2277(99.61%)|2356(99.70%)|2338(99.79%)||\n|Yes|8(0.35%)|9(0.39%)|7(0.30%)|5(0.21%)||\n|Hepatic failure|||||<0.001|\n|No|2271(98.52%)|2254(98.60%)|2321(98.22%)|2256(96.29%)||\n|Yes|34(1.48%)|32(1.40%)|42(1.78%)|87(3.71%)||\n|Leukaemia|||||0.418|\n|No|2275(98.70%)|2257(98.73%)|2335(98.82%)|2303(98.29%)||\n|Yes|30(1.30%)|29(1.27%)|28(1.18%)|40(1.71%)||\n|Immunosuppression|||||0.691|\n|No|2176(94.40%)|2147(93.92%)|2237(94.67%)|2216(94.58%)||\n|Yes|129(5.60%)|139(6.08%)|126(5.33%)|127(5.42%)||\n|**Outcome**||||||\n|ICU 28-daymortality|||||0.001|\n|No|2146(91.59%)|2115(91.28%)|2171(91.07%)|2100(88.57%)||\n|Yes|197(8.41%)|202(8.72%)|213(8.93%)|271(11.43%)||\n|Hospital 28-daymortality|||||<0.001|\n|No|1990(84.93%)|1991(85.93%)|2034(85.32%)|1921(81.02%)||\n|Yes|353(15.07%)|326(14.07%)|350(14.68%)|450(18.98%)||",
         "metadata": {
@@ -1121,12 +1417,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19919,
+            "markdown_end": 22505,
+            "markdown_line_start": 211,
+            "markdown_line_end": 256
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Notes: BMI, body mass index; MAP,mean arterial pressure; RDW, red cell distribution width; MCHC, mean cellular hemoglobin concentration; AIDS, acquired immunodeficiency syndrome; APACHE IV acute physiology and chronic health evaluation IV; ICU intensive care unit.",
         "metadata": {
@@ -1136,12 +1436,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22509,
+            "markdown_end": 22773,
+            "markdown_line_start": 260,
+            "markdown_line_end": 260
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "https://doi.org/10.1371/journal.pone.0321213.t001",
         "metadata": {
@@ -1151,12 +1455,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22776,
+            "markdown_end": 22825,
+            "markdown_line_start": 262,
+            "markdown_line_end": 262
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -1166,12 +1474,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22828,
+            "markdown_end": 22898,
+            "markdown_line_start": 264,
+            "markdown_line_end": 264
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -1181,12 +1493,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22921,
+            "markdown_end": 23000,
+            "markdown_line_start": 270,
+            "markdown_line_end": 270
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Table 2. Relationship between MCV and 28-day mortality.**",
         "metadata": {
@@ -1196,12 +1512,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23003,
+            "markdown_end": 23062,
+            "markdown_line_start": 272,
+            "markdown_line_end": 272
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|**Outcomes**|**Crude Model**|**Crude Model**|**Model**Ⅰ|**Model**Ⅰ|**Model**Ⅱ|**Model**Ⅱ|\n|---|---|---|---|---|---|---|\n||**OR(95%CI)**|**_P_-value**|**OR(95%CI)**|**_P_-value**|**OR(95%CI)**|**_P_-value**|\n|MCV(fl)quartile|||||||\n|Q1|Reference||Reference||Reference||\n|Q2|1.04(0.85,1.28)|0.705|1.00(0.81,1.23)|0.996|1.40(1.01,1.96)|0.046|\n|Q3|1.07(0.87,1.31)|0.52|1.00(0.81,1.22)|0.966|1.18(0.85,1.65)|0.32|\n|Q4|1.41(1.16,1.71)|<0.001|1.31(1.07,1.59)|0.007|1.50(1.10,2.05)|0.012|\n|MCV(fl)quartilecontinuous|1.12(1.05,1.19)|<0.001|1.09(1.02,1.16)|0.008|1.11(1.01,1.23)|0.04|",
         "metadata": {
@@ -1211,12 +1531,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23065,
+            "markdown_end": 23640,
+            "markdown_line_start": 274,
+            "markdown_line_end": 282
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Crude model: we did not adjust other covariants; Model Ⅰ adjusted for: Age and Gender; Model Ⅱ adjusted for: Age, Gender, BMI, Temperature, Respiratory rate, Heart rate, MAP, Acute Physiology Score III, APACHE IV score, AIDS, Hepatic failure, Metastatic cancer, Immunosuppression, Albumin, Lactate, Platelets, Hemoglobin, RDW and White blood cell count. https://doi.org/10.1371/journal.pone.0321213.t002",
         "metadata": {
@@ -1226,12 +1550,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23644,
+            "markdown_end": 24047,
+            "markdown_line_start": 286,
+            "markdown_line_end": 286
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Table 3. Effect of MCV level on 28-day mortality in stratifed analyses.**",
         "metadata": {
@@ -1241,12 +1569,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24050,
+            "markdown_end": 24125,
+            "markdown_line_start": 288,
+            "markdown_line_end": 288
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|**Characteristics**|**N**|**28-day mortality**|**_P_ for interaction**|\n|---|---|---|---|\n|Gender|||0.105|\n|Male|4622|1.01(1.00,1.02)||\n|Female|4792|1.03(1.01,1.04)||\n|Age(years)|||0.040|\n|15-59|2987|1.04(1.02,1.05)||\n|60-73|3164|1.02(1.00,1.03)||\n|74-89|3264|1.01(0.99,1.02)||\n|BMI|||0.608|\n|10.94-24.34|3077|1.02(1.00,1.03)||\n|24.34-30.71|3076|1.02(1.00,1.03)||\n|30.72-55.1|3078|1.03(1.01,1.04)||\n|Temperature|||0.050|\n|20-36.28|2689|1.03(1.02,1.05)||\n|36.3-36.67|2642|1.02(1.00,1.04)||\n|36.7-41.9|3511|1.00(0.99,1.02)||\n|Respiratoryrate(bpm)|||0.057|\n|4-27|3000|1.03(1.01,1.05)||\n|28-36|3088|1.03(1.02,1.05)||\n|37-60|3168|1.01(0.99,1.02)||\n|Heartrate(/min)|||0.121|\n|20-105|3008|1.00(0.99,1.02)||\n|106-125|3123|1.03(1.01,1.04)||\n|126-218|3158|1.03(1.01,1.04)||\n|MAP(mmHg)|||0.688|\n|40-49|3066|1.02(1.01,1.04)||\n|50-64|3082|1.02(1.00,1.03)||\n|65-200|3132|1.01(0.99,1.03)||\n|https://doi.org/10.1371/journal.pone.0321213.t003||||",
         "metadata": {
@@ -1256,12 +1588,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24128,
+            "markdown_end": 25058,
+            "markdown_line_start": 290,
+            "markdown_line_end": 319
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -1271,12 +1607,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25062,
+            "markdown_end": 25132,
+            "markdown_line_start": 323,
+            "markdown_line_end": 323
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -1286,12 +1626,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25155,
+            "markdown_end": 25234,
+            "markdown_line_start": 329,
+            "markdown_line_end": 329
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Tang_2025/images/Tang_2025.pdf-0008-02.png)",
         "metadata": {
@@ -1301,12 +1645,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25238,
+            "markdown_end": 25305,
+            "markdown_line_start": 332,
+            "markdown_line_end": 332
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Tang_2025.pdf-0008-02.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** ICU 28-day Mortality vs. MCV\n> \n> The image is a graph with a plot showing the relationship between ICU 28-day mortality and MCV (Mean Corpuscular Volume) in femtoliters (fL). The x-axis ranges from 60 to 140, and the y-axis shows ICU 28-day mortality peaking at 0.5. A red line indicates the trend, while blue dotted lines depict the confidence intervals. A rug plot is also present along the x-axis.\n> \n> **Data Points:** Y-axis: ICU 28-day mortality, X-axis: MCV (fL), Red line: trend, Blue dotted lines: confidence interval.\n> \n> **Key Findings:**\n> - ICU 28-day mortality increases with higher MCV values.\n> - The increase is more prominent as MCV exceeds 100 fL.\n> - A trend with a clear upward trajectory beyond 100 MCV.\n<!-- analyzed_Tang_2025.pdf-0008-02.png -->",
         "metadata": {
@@ -1316,12 +1664,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25307,
+            "markdown_end": 26196,
+            "markdown_line_start": 334,
+            "markdown_line_end": 346
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Fig 2. Association between MCV and 28-day mortality in ICU patients with sepsis. Notes** : A threshold, nonlinear association between MCV and 28-day mortality was found in a generalized additive model (GAM). Solid rad line represents the smooth curve fit between variables. Blue bands represent the 95% of confidence interval from the fit. All adjusted for Age, Gender, BMI, Temperature, Respiratory rate, Heart rate, MAP, Acute Physiology Score III, Apache IV score, AIDS, Hepatic failure, Metastatic cancer, Immunosuppression, Albumin, Lactate, Platelets, Hemoglobin, RDW and White blood cell count.",
         "metadata": {
@@ -1331,12 +1683,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26201,
+            "markdown_end": 26804,
+            "markdown_line_start": 351,
+            "markdown_line_end": 351
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "https://doi.org/10.1371/journal.pone.0321213.g002",
         "metadata": {
@@ -1346,12 +1702,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26807,
+            "markdown_end": 26856,
+            "markdown_line_start": 353,
+            "markdown_line_end": 353
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Table 4. Threshold effect analysis of MCV and 28-day mortality.**",
         "metadata": {
@@ -1361,12 +1721,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26859,
+            "markdown_end": 26926,
+            "markdown_line_start": 355,
+            "markdown_line_end": 355
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|**Outcome**|**ICU 28-day mortality**|**ICU 28-day mortality**|\n|---|---|---|\n|Model I|||\n|Linear effect|1.02(1.00, 1.03)|0.003|\n|Model II|||\n|Knot(K)|83||\n|Effect 1(< K)|1.10(1.02, 1.17)|0.004|\n|Effect 2(> K)|1.01(0.99, 1.02)|0.31|\n|Difference in effect(2–1)|0.92(0.86, 0.99)|0.018|\n|Predicted value at knot|-2.18(-2.37, -1.99)||\n|Likelihood ratio test||0.011|",
         "metadata": {
@@ -1376,12 +1740,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26929,
+            "markdown_end": 27290,
+            "markdown_line_start": 357,
+            "markdown_line_end": 367
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Effect: ICU 28-day mortality; Cause: MCV; Adjusted: age, gender, BMI, temperature, respiratory rate, heart rate, MAP, Acute Physiology Score III, APACHE IV score, AIDS, hepatic failure, metastatic cancer, immunosuppression, albumin, lactate, platelets, hemoglobin, RDW and white blood cell count. https://doi.org/10.1371/journal.pone.0321213.t004",
         "metadata": {
@@ -1391,12 +1759,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27294,
+            "markdown_end": 27640,
+            "markdown_line_start": 371,
+            "markdown_line_end": 371
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "increase in the 28-day risk of death was observed with each 1fl increase at MCV< 83fl (OR 1.10, 95% CI 1.02, 1.17, _P_ =0.004). The significant positive correlation was absent when MCV was greater than 83fl (OR 1.02, 95% CI 0.99, 1.02, _P_ = 0.31).",
         "metadata": {
@@ -1406,12 +1778,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27643,
+            "markdown_end": 27891,
+            "markdown_line_start": 373,
+            "markdown_line_end": 373
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -1421,12 +1797,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27894,
+            "markdown_end": 27964,
+            "markdown_line_start": 375,
+            "markdown_line_end": 375
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -1436,12 +1816,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27987,
+            "markdown_end": 28066,
+            "markdown_line_start": 381,
+            "markdown_line_end": 381
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Sensitivity analysis**",
         "metadata": {
@@ -1451,12 +1835,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28069,
+            "markdown_end": 28096,
+            "markdown_line_start": 383,
+            "markdown_line_end": 383
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "We further investigated the association between MCV and mortality at a follow-up of less than 48 hours and obtained comparable results (S2 Table). We adjusted the Severity of sepsis subtypes (septic shock and non-shock sepsis), an important factor, and found that the core results were consistent with the unadjusted results (S3 Table).",
         "metadata": {
@@ -1466,12 +1854,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28099,
+            "markdown_end": 28435,
+            "markdown_line_start": 385,
+            "markdown_line_end": 385
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Discussion**",
         "metadata": {
@@ -1481,12 +1873,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28438,
+            "markdown_end": 28455,
+            "markdown_line_start": 387,
+            "markdown_line_end": 387
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This study utilized the eICU multicenter critical care database to investigate the association between MCV and 28-day mortality in septic patients. The study population consisted of 9,415 patients, with data sourced from multiple ICUs, providing a robust foundation for the generalizability of the results. A major strength of the study design was the control of multiple confounding variables, including age, sex, BMI, vital signs, and severity of illness scores. The key finding revealed below the MCV threshold of 83 fl, each 1 fl increase was associated with a 10% rise in 28-day mortality risk (OR 1.10, 95% CI 1.02–1.17, P=0.004). Above 83 fl, no significant association was observed (OR 1.01, 95% CI 0.99–1.02, P=0.31), indicating a nonlinear relationship with diminishing effects at higher MCV levels.",
         "metadata": {
@@ -1496,12 +1892,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28458,
+            "markdown_end": 29267,
+            "markdown_line_start": 389,
+            "markdown_line_end": 389
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In this retrospective cohort, sepsis was defined using the ICD code (A41.9) and included patients with systemic inflammatory response syndrome secondary to infection. The 28-day ICU mortality rate in our cohort (9.38%) was significantly lower than the global mortality rate [19]. This difference may reflect advances in earlier sepsis identification and standardized management programs, such as the Surviving Sepsis Campaign guidelines [20]. Our population consisted primarily of older adults (mean age: 65.7±15.8 years), consistent with the demographics of sepsis, where age is a recognized risk factor for adverse outcomes [21]. In addition, the inclusion of 335 intensive care unit patients from 208 hospitals in the United States enhances the generality of our findings across different critical care Settings.",
         "metadata": {
@@ -1511,12 +1911,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29270,
+            "markdown_end": 30085,
+            "markdown_line_start": 391,
+            "markdown_line_end": 391
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The relationship between MCV and clinical disease remains a topic of contention in the scientific community. To illustrate, a 13-year Korean retrospective cohort study comprising 36,260 anaemia-free and cancer-free participants aged 40 years and older revealed that elevated MCV levels were linked to an elevated risk of all-cause mortality and cancer mortality [22]. However, an alternative study based on data from the National Health and Nutrition Examination Survey (NHANES) indicated a U-shaped relationship between MCV and mortality [23], which may be attributed to discrepancies in population characteristics and methodological approaches. Furthermore, the relationship between MCV and mortality risk is not consistent across different diseases. Hsieh et al. demonstrated that elevated MCV was significantly associated with all-cause mortality and cardiovascular mortality in patients with chronic kidney disease [24]. Similarly, a positive association was observed between MCV at admission and 30-day mortality in patients with cerebral haemorrhage using the MIMIC database [25]. Our study offers partial support for the findings of the aforementioned studies. In examining the correlation between MCV and mortality in patients with sepsis, we put forward several potential mechanisms: (1) Association between erythrocyte size and inflammation: alterations in erythrocyte morphology have been linked to inflammatory markers [26], and sepsis is a systemic inflammatory response [27]. (2) Oxidative stress and erythrocyte dysfunction: Patients with sepsis typically experience significant oxidative stress, which impairs erythrocyte deformability and endothelial function [28]. Additionally, oxidative stress disrupts haemoglobin metabolism, further exacerbating systemic hypoxia and inflammatory responses in patients [29–31].",
         "metadata": {
@@ -1526,12 +1930,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30088,
+            "markdown_end": 31921,
+            "markdown_line_start": 393,
+            "markdown_line_end": 393
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "MCV may provide independent prognostic information from the perspectives of red blood cell metabolism and chronic inflammation. Previous studies have established that elevated",
         "metadata": {
@@ -1541,12 +1949,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31924,
+            "markdown_end": 32099,
+            "markdown_line_start": 395,
+            "markdown_line_end": 395
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -1556,12 +1968,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32102,
+            "markdown_end": 32172,
+            "markdown_line_start": 397,
+            "markdown_line_end": 397
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -1571,12 +1987,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32195,
+            "markdown_end": 32274,
+            "markdown_line_start": 403,
+            "markdown_line_end": 403
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "lactate levels and increased SOFA scores are strong predictors of short-term mortality in critically ill patients [32,33]. In this study, we found that MCV retains significant incremental predictive value even after adjusting for lactate. While the predictive capability of MCV alone may be less robust compared to that of lactate levels and SOFA scores, its low cost and ease of accessibility render it a valuable supplementary tool for risk stratification, particularly in resource-limited environments [34]. Drawing upon the findings of this study regarding the nonlinear association, we propose the inclusion of MCV as a supplementary indicator in the current sepsis risk stratification model. Specifically, for patients exhibiting an MCV greater than 83 fL, it is imperative for clinicians to exercise heightened vigilance and undertake a thorough evaluation that integrates lactate levels, inflammatory markers, and organ function scores.",
         "metadata": {
@@ -1586,12 +2006,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32277,
+            "markdown_end": 33221,
+            "markdown_line_start": 405,
+            "markdown_line_end": 405
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Study advantages and limitations**",
         "metadata": {
@@ -1601,12 +2025,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33224,
+            "markdown_end": 33263,
+            "markdown_line_start": 407,
+            "markdown_line_end": 407
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The present study has certain advantages. Firstly, it was a large-sample multicentre study; secondly, we analysed MCV as both a continuous and categorical variable; thirdly, we applied a two-segmented linear model to construct a threshold-effects analysis of the relationship between MCV and 28-day mortality in sepsis patients; and we used stratified analyses to avoid, as far as possible, the occurrence of chance in the statistical analyses and to improve the stability of the results.",
         "metadata": {
@@ -1616,12 +2044,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33266,
+            "markdown_end": 33754,
+            "markdown_line_start": 409,
+            "markdown_line_end": 409
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The current study is not without its limitations. First, a common problem in observational studies is the presence of confounding factors that cannot be measured [35]. In the current study, data on interventions in the initial stabilization phase were lacking; For example, blood transfusions may lead to elevated MCV levels and improved survival outcomes, a confounding variable that cannot be measured. Therefore, the conclusions of this study cannot be extrapolated to patients undergoing transfusion therapy.",
         "metadata": {
@@ -1631,12 +2063,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33757,
+            "markdown_end": 34269,
+            "markdown_line_start": 411,
+            "markdown_line_end": 411
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Second, the study was conducted over a 28-day period. During this time, we excluded patients who had been admitted to the ICU for less than 48 hours, as our observations indicated that the majority of these patients were either deceased or had been abandoned. Consequently, we performed a core outcome analysis on patients admitted to the ICU for less than 48 hours, and the results were consistent with the primary findings observed over the 28-day period. However, it is important to acknowledge that these findings are based on short-term follow-up and may not be applicable to follow-up periods extending to 60 days or longer.",
         "metadata": {
@@ -1646,12 +2082,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34272,
+            "markdown_end": 34902,
+            "markdown_line_start": 413,
+            "markdown_line_end": 413
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Finally, the database is derived from studies conducted on U.S. populations, and the absence of external validation may limit the generalizability of the findings to patient populations in other countries or regions. Future research should focus on conducting high-quality prospective studies that incorporate external validation.",
         "metadata": {
@@ -1661,12 +2101,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34905,
+            "markdown_end": 35235,
+            "markdown_line_start": 415,
+            "markdown_line_end": 415
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Conclusions**",
         "metadata": {
@@ -1676,12 +2120,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35238,
+            "markdown_end": 35256,
+            "markdown_line_start": 417,
+            "markdown_line_end": 417
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This multicenter retrospective cohort study involving 9,415 sepsis patients identifies a nonlinear association between mean corpuscular volume (MCV) and 28-day mortality, with a critical threshold at 83 fl. Below this threshold, each 1 fl increase in MCV is associated with a 10% increase in mortality risk, whereas no significant association is observed above this level. These findings suggest that MCV may serve as a valuable prognostic marker for risk stratification in sepsis, particularly in populations with elevated MCV. Despite the inherent limitations of retrospective analyses, this study underscores the necessity for mechanistic investigations into the role of MCV in sepsis pathophysiology and calls for validation in diverse cohorts to enhance its clinical applicability.",
         "metadata": {
@@ -1691,12 +2139,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35259,
+            "markdown_end": 36045,
+            "markdown_line_start": 419,
+            "markdown_line_end": 419
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -1706,12 +2158,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36048,
+            "markdown_end": 36118,
+            "markdown_line_start": 421,
+            "markdown_line_end": 421
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -1721,12 +2177,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36142,
+            "markdown_end": 36221,
+            "markdown_line_start": 427,
+            "markdown_line_end": 427
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Supporting information**",
         "metadata": {
@@ -1736,12 +2196,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36224,
+            "markdown_end": 36253,
+            "markdown_line_start": 429,
+            "markdown_line_end": 429
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**S1 Table.  Univariate analysis for 28day mortality.**",
         "metadata": {
@@ -1751,12 +2215,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36256,
+            "markdown_end": 36311,
+            "markdown_line_start": 431,
+            "markdown_line_end": 431
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**S2 Table.  Relationship between MCV and 28-day mortality during ICU stay less than 48 hours.**",
         "metadata": {
@@ -1766,12 +2234,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36323,
+            "markdown_end": 36419,
+            "markdown_line_start": 435,
+            "markdown_line_end": 435
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**S3 Table.  Relationship between MCV and 28-day mortality when adjusted for sepsis subtypes.** (DOCX)",
         "metadata": {
@@ -1781,12 +2253,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36431,
+            "markdown_end": 36533,
+            "markdown_line_start": 439,
+            "markdown_line_end": 439
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Acknowledgments**",
         "metadata": {
@@ -1796,12 +2272,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36536,
+            "markdown_end": 36558,
+            "markdown_line_start": 441,
+            "markdown_line_end": 441
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "We would like to express our sincerest gratitude to all individuals who participated in this study, as well as to all those who contributed their efforts to this study.",
         "metadata": {
@@ -1811,12 +2291,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36561,
+            "markdown_end": 36729,
+            "markdown_line_start": 443,
+            "markdown_line_end": 443
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Author contributions**",
         "metadata": {
@@ -1826,12 +2310,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36732,
+            "markdown_end": 36759,
+            "markdown_line_start": 445,
+            "markdown_line_end": 445
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Conceptualization:** Hui-Zhen Tang.",
         "metadata": {
@@ -1841,12 +2329,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36762,
+            "markdown_end": 36799,
+            "markdown_line_start": 447,
+            "markdown_line_end": 447
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Formal analysis:** Hui-Zhen Tang, Mingli Qu, Tongqiang He.",
         "metadata": {
@@ -1856,12 +2348,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36802,
+            "markdown_end": 36862,
+            "markdown_line_start": 449,
+            "markdown_line_end": 449
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Methodology:** Hui-Zhen Tang, Miaomiao Xin.",
         "metadata": {
@@ -1871,12 +2367,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36865,
+            "markdown_end": 36910,
+            "markdown_line_start": 451,
+            "markdown_line_end": 451
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Supervision:** Mingli Qu, Tongqiang He.",
         "metadata": {
@@ -1886,12 +2386,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36913,
+            "markdown_end": 36954,
+            "markdown_line_start": 453,
+            "markdown_line_end": 453
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Writing – original draft:** Hui-Zhen Tang.",
         "metadata": {
@@ -1901,12 +2405,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36957,
+            "markdown_end": 37001,
+            "markdown_line_start": 455,
+            "markdown_line_end": 455
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Writing – review & editing:** Hui-Zhen Tang, Tongqiang He, Miaomiao Xin.",
         "metadata": {
@@ -1916,12 +2424,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37004,
+            "markdown_end": 37078,
+            "markdown_line_start": 457,
+            "markdown_line_end": 457
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **References**",
         "metadata": {
@@ -1931,12 +2443,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37081,
+            "markdown_end": 37098,
+            "markdown_line_start": 459,
+            "markdown_line_end": 459
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**1.** Alkhaldy HY, Awan ZA, Abouzaid AA, Elbahaey HM, Al Amoudi SM, Shehata SF, et al. Effect of altitude on hemoglobin and red blood cell indices in adults in different regions of Saudi Arabia. Int J Gen Med. 2022;15:3559–65. https://doi.org/10.2147/IJGM.S358139 PMID: 35386861",
         "metadata": {
@@ -1946,12 +2462,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37101,
+            "markdown_end": 37380,
+            "markdown_line_start": 461,
+            "markdown_line_end": 461
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**2.** Saito H, Tanaka K, Iwasaki T, Oda A, Watanabe S, Kobari E, et al. Hematological parameters of anemia and prognosis of non-dialysis-dependent chronic kidney disease: the Fukushima CKD cohort study. Clin Exp Nephrol. 2023;27(1):55–65. https://doi.org/10.1007/s10157-022-02282-1 PMID: 36190589",
         "metadata": {
@@ -1961,12 +2481,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37383,
+            "markdown_end": 37680,
+            "markdown_line_start": 463,
+            "markdown_line_end": 463
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**3.** Lindholm B, Zhang X, Chen Z, et al. MO673: association of mean corpuscular volume with mortality in kidney failure patients: opposite findings in Chinese and Swedish kidney failure patients. Nephrol Dial Transplant. 2022.",
         "metadata": {
@@ -1976,12 +2500,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37683,
+            "markdown_end": 37911,
+            "markdown_line_start": 465,
+            "markdown_line_end": 465
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**4.** Joosten SCM, Wiersinga WJ, Poll T van der. Dysregulation of host-pathogen interactions in sepsis: host-related factors. Semin Respir Crit Care Med. 2024;45(4):469–78. https://doi. org/10.1055/s-0044-1787554 PMID: 38950605",
         "metadata": {
@@ -1991,12 +2519,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37914,
+            "markdown_end": 38142,
+            "markdown_line_start": 467,
+            "markdown_line_end": 467
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**5.** Tang F, Zhao X-L, Xu L-Y, Zhang J-N, Ao H, Peng C. Endothelial dysfunction: pathophysiology and therapeutic targets for sepsis-induced multiple organ dysfunction syndrome. Biomed Pharmacother. 2024;178:117180. https://doi.org/10.1016/j.biopha.2024.117180 PMID: 39068853",
         "metadata": {
@@ -2006,12 +2538,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38145,
+            "markdown_end": 38421,
+            "markdown_line_start": 469,
+            "markdown_line_end": 469
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**6.** Atreya MR, Cvijanovich NZ, Fitzgerald JC, Weiss SL, Bigham MT, Jain PN, et al. Serum soluble endoglin in pediatric septic shock-associated multiple organ dysfunction syndrome. Shock. 2023;60(3):379– 84. https://doi.org/10.1097/SHK.0000000000002183 PMID: 37493567",
         "metadata": {
@@ -2021,12 +2557,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38424,
+            "markdown_end": 38693,
+            "markdown_line_start": 471,
+            "markdown_line_end": 471
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**7.** Tocu G, Stefanescu BI, Serban C, Mihailov R, Niculet E, Tutunaru D, et al. Correlation between serum procalcitonin levels and 28-day mortality in patients with surgical sepsis and septic shock. Chirurgia (Bucur). 2023;118(2):161–9. https://doi.org/10.21614/chirurgia.2838 PMID: 37146193",
         "metadata": {
@@ -2036,12 +2576,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38696,
+            "markdown_end": 38989,
+            "markdown_line_start": 473,
+            "markdown_line_end": 473
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**8.** Garvey M. Hospital acquired sepsis, disease prevalence, and recent advances in sepsis mitigation. Pathogens. 2024;13(6):461. https://doi.org/10.3390/pathogens13060461 PMID: 38921759",
         "metadata": {
@@ -2051,12 +2595,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38992,
+            "markdown_end": 39180,
+            "markdown_line_start": 475,
+            "markdown_line_end": 475
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**9.** Sofouli GA, Tsintoni A, Fouzas S, Vervenioti A, Gkentzi D, Dimitriou G. Early diagnosis of lateonset neonatal sepsis using a sepsis prediction score. Microorganisms. 2023;11(2):235. https://doi. org/10.3390/microorganisms11020235 PMID: 36838200",
         "metadata": {
@@ -2066,12 +2614,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39183,
+            "markdown_end": 39434,
+            "markdown_line_start": 477,
+            "markdown_line_end": 477
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -2081,12 +2633,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39437,
+            "markdown_end": 39507,
+            "markdown_line_start": 479,
+            "markdown_line_end": 479
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -2096,12 +2652,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39531,
+            "markdown_end": 39610,
+            "markdown_line_start": 485,
+            "markdown_line_end": 485
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|**10.**|Li A, Ling L, Qin H, Arabi YM, Myatra SN, Egi M, et al. Epidemiology, management, and outcomes of|\n|---|---|\n||sepsis in ICUs among countries of differing national wealth across Asia. Am J Respir Crit Care Med.|\n||2022;206(9):1107–16.https://doi.org/10.1164/rccm.202112-2743OCPMID: 35763381|\n|**11.**|Kaukonen K-M, Bailey M, Suzuki S, Pilcher D, Bellomo R. Mortality related to severe sepsis|\n||and septic shock among critically ill patients in Australia and New Zealand, 2000-2012. JAMA.|\n||2014;311(13):1308–16.https://doi.org/10.1001/jama.2014.2637 PMID: 24638143|\n|**12.**|Nagaraju N, Varma A, Taksande A, Meshram RJ. Bone marrow changes in septic shock: a compre-|\n||hensive review. Cureus. 2023;15(7):e42517. https://doi.org/10.7759/cureus.42517PMID: 37637609|\n|**13.**|Sinha H, Maitra S, Anand RK, Aggarwal R, Rewari V, Subramaniam R, et al. Epidemiology and|\n||prognostic utility of cellular components of hematological system in sepsis. Indian J Crit Care Med.|\n||2021;25(6):660–7.https://doi.org/10.5005/jp-journals-10071-23874 PMID: 34316146|\n|**14.**|Czempik PF, Herzyk J, Wilczek D, Krzych ŁJ. Hematologic system dysregulation in critically ill septic|\n||patients with anemia-A retrospective cohort study. Int J Environ Res Public Health. 2022;19(11):6626.|\n||https://doi.org/10.3390/ijerph19116626 PMID: 35682209|\n|**15.**|Pollard TJ, Johnson AEW, Raffa JD, Celi LA, Mark RG, Badawi O. The eICU Collaborative Research|\n||Database, a freely available multi-center database for critical care research. Sci Data. 2018;5:180178.|\n||https://doi.org/10.1038/sdata.2018.178PMID: 30204154|\n|**16.**|Chan C-Y, Cheng C-F, Shui H-A, Ku H-C, Su W-L. Erythrocyte degradation, metabolism, secre-|\n||tion, and communication with immune cells in the blood during sepsis: a review. Tzu Chi Med J.|\n||2021;34(2):125–33. https://doi.org/10.4103/tcmj.tcmj_58_21 PMID: 35465286|\n|**17.**|Kim YK, Seo W-D, Lee SJ, Koo JH, Kim GC, Song HS, et al. Early prediction of cardiac arrest in|\n||the intensive care unit using explainable machine learning: retrospective study. J Med Internet Res.|\n||2024;26:e62890.https://doi.org/10.2196/62890 PMID: 39288404|\n|**18.**|Kumar A, Hammond N, Grattan S, Finfer S, Delaney A. Accuracy of international classifcation of|\n||disease coding methods to estimate sepsis epidemiology: a scoping review. J Intensive Care Med.|\n||2024;39(1):3–11.https://doi.org/10.1177/08850666231192371PMID: 37563944|\n|**19.**|Isaranuwatchai S, Buppanharun J, Thongbun T, Thavornwattana K, Harnphadungkit M, Siripongboon-|\n||sitti T. Early antibiotics administration reduces mortality in sepsis patients in tertiary care hospital.|\n||BMC Infect Dis. 2025;25(1):136.https://doi.org/10.1186/s12879-025-10532-2 PMID: 39875821|\n|**20.**|Schorr CA, Seckel MA, Papathanassoglou E, Kleinpell R. Nursing implications of the updated 2021|\n||surviving sepsis campaign guidelines. Am J Crit Care. 2022;31(4):329–36.https://doi.org/10.4037/|\n||ajcc2022324 PMID: 35773196|\n|**21.**|Artero A, López-Cruz I, Alberola J, Eiros JM, Resa E, Piles L, et al. Infuence of sepsis on the|\n||middle-term outcomes for urinary tract infections in elderly people. Microorganisms. 2023;11(8):1959.|\n||https://doi.org/10.3390/microorganisms11081959 PMID: 37630518|\n|**22.**|Yoon H-J, Kim K, Nam Y-S, Yun J-M, Park M. Mean corpuscular volume levels and all-cause and liver|\n||cancer mortality. Clin Chem Lab Med. 2016;54(7):1247–57. https://doi.org/10.1515/cclm-2015-0786|\n||PMID: 26630695|\n|**23.**|Li D, Wang A, Li Y, Ruan Z, Zhao H, Li J, et al. Nonlinear relationship of red blood cell indices (MCH,|\n||MCHC, and MCV) with all-cause and cardiovascular mortality: a cohort study in U.S. adults. PLoS|\n||One. 2024;19(8):e0307609.https://doi.org/10.1371/journal.pone.0307609 PMID: 39093828|\n|**24.**|Hsieh Y-P, Chang C-C, Kor C-T, Yang Y, Wen Y-K, Chiu P-F. Mean corpuscular volume and mortality in|\n||patients with CKD. Clin J Am Soc Nephrol. 2017;12(2):237–44.https://doi.org/10.2215/CJN.00970116|\n||PMID: 28143866|\n|**25.**|Zhang L, Yin J, Sun H, Li J, Zhao X, Liu Y, et al. Relationship between mean corpuscular volume and|\n||30-day mortality in patients with intracerebral hemorrhage: evidence from the MIMIC-III database.|\n||Medicine (Baltimore). 2022;101(44):e31415.https://doi.org/10.1097/MD.0000000000031415 PMID:|\n||36343042|\n|**26.**|Lippi G, Targher G, Montagnana M, Salvagno GL, Zoppini G, Guidi GC. Relation between red blood|\n||cell distribution width and infammatory biomarkers in a large cohort of unselected outpatients. Arch|\n||Pathol Lab Med. 2009;133(4):628–32. https://doi.org/10.5858/133.4.628PMID: 19391664|\n|**27.**|Dartiguelongue JB. Systemic infammation and sepsis. Part I: storm formation. Arch Argent Pediatr.|\n||2020;118(6):e527–35.https://doi.org/10.5546/aap.2020.eng.e527PMID: 33231055|\n|**28.**|Bateman RM, Sharpe MD, Singer M, Ellis CG. The effect of sepsis on the erythrocyte. Int J Mol Sci.|\n||2017;18(9):1932.https://doi.org/10.3390/ijms18091932 PMID: 28885563|\n|**29.**|Ying-yin L. Research progress in endothelial cells injury caused by oxidative stress in atherosclerosis.|\n||Med Recap. 2015.|",
         "metadata": {
@@ -2111,12 +2671,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39613,
+            "markdown_end": 44731,
+            "markdown_line_start": 487,
+            "markdown_line_end": 544
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -2126,12 +2690,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44735,
+            "markdown_end": 44805,
+            "markdown_line_start": 548,
+            "markdown_line_end": 548
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Association of mean corpuscular volume with 28-day mortality in sepsis patients",
         "metadata": {
@@ -2141,12 +2709,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44829,
+            "markdown_end": 44908,
+            "markdown_line_start": 554,
+            "markdown_line_end": 554
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**30.** Oyewole AO, Birch-Machin MA. Mitochondria-targeted antioxidants. FASEB J. 2015;29(12):4766–71. https://doi.org/10.1096/fj.15-275404 PMID: 26253366",
         "metadata": {
@@ -2156,12 +2728,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44911,
+            "markdown_end": 45065,
+            "markdown_line_start": 556,
+            "markdown_line_end": 556
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**31.** Mian P, Krabbe H, van Drie-Pierik RJHM, Silderhuis V, Beishuizen A. Elevated methaemoglobin in a critically ill patient as a result of hydrogen peroxide exposure: a case study. J Clin Pharm Ther. 2021;46(5):1473–5. https://doi.org/10.1111/jcpt.13396 PMID: 33626185",
         "metadata": {
@@ -2171,12 +2747,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45068,
+            "markdown_end": 45340,
+            "markdown_line_start": 558,
+            "markdown_line_end": 558
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**32.** Sekhar S, Pratap V, Gaurav K, Toppo S, Kamal AK, Nair R, et al. The value of the Sequential Organ Failure Assessment (SOFA) score and serum lactate level in sepsis and its use in predicting mortality. Cureus. 2023;15(7):e42683. https://doi.org/10.7759/cureus.42683 PMID: 37649942",
         "metadata": {
@@ -2186,12 +2766,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45343,
+            "markdown_end": 45630,
+            "markdown_line_start": 560,
+            "markdown_line_end": 560
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**33.** Kim S, Yang H, Rhee B, Song H, Kim H. Predicting survival outcomes in post-cardiac arrest syndrome: the impact of combined sequential organ failure assessment score and serum lactate measurement. Med Sci Monit. 2023;29:e942119. https://doi.org/10.12659/MSM.942119 PMID: 37705234",
         "metadata": {
@@ -2201,12 +2785,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45633,
+            "markdown_end": 45919,
+            "markdown_line_start": 562,
+            "markdown_line_end": 562
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- **[34]** Raith EP, Udy AA, Bailey M, McGloughlin S, MacIsaac C, Bellomo R, et al. Prognostic accuracy of the SOFA score, SIRS criteria, and qSOFA score for in-hospital mortality among adults with suspected infection admitted to the intensive care unit. JAMA. 2017;317(3):290–300. https://doi.org/10.1001/ jama.2016.20328 PMID: 28114553",
         "metadata": {
@@ -2216,12 +2804,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45922,
+            "markdown_end": 46259,
+            "markdown_line_start": 564,
+            "markdown_line_end": 564
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**35.** Chang L, Chen X, Lian C. The association between the non-HDL-cholesterol to HDL-cholesterol ratio and 28-day mortality in sepsis patients: a cohort study. Sci Rep. 2022;12(1):3476. https://doi. org/10.1038/s41598-022-07459-y PMID: 35241749",
         "metadata": {
@@ -2231,12 +2823,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 46262,
+            "markdown_end": 46509,
+            "markdown_line_start": 566,
+            "markdown_line_end": 566
         }
     },
     {
         "source_id": "Tang_2025",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "PLOS ONE | https://doi.org/10.1371/journal.pone.0321213 April 21, 2025",
         "metadata": {
@@ -2246,7 +2842,11 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 46512,
+            "markdown_end": 46582,
+            "markdown_line_start": 568,
+            "markdown_line_end": 568
         }
     }
 ]

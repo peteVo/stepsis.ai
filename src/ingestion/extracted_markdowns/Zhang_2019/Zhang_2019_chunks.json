@@ -1,7 +1,7 @@
 [
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Zhang et al. BMC Infectious Diseases          (2019) 19:139 https://doi.org/10.1186/s12879-019-3790-0",
         "metadata": {
@@ -11,12 +11,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 0,
+            "markdown_end": 101,
+            "markdown_line_start": 1,
+            "markdown_line_end": 1
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0001-01.png)",
         "metadata": {
@@ -26,12 +30,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 105,
+            "markdown_end": 174,
+            "markdown_line_start": 4,
+            "markdown_line_end": 4
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0001-01.png)**\n> **Category:** `OTHER` | **Summary:** BMC Infectious Diseases\n> \n> The image shows the title 'BMC Infectious Diseases' on a white background. The text is in a simple, sans-serif font and black color. The overall style is clean and minimalistic.\n<!-- analyzed_Zhang_2019.pdf-0001-01.png -->",
         "metadata": {
@@ -41,12 +49,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 176,
+            "markdown_end": 535,
+            "markdown_line_start": 6,
+            "markdown_line_end": 11
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Open Access",
         "metadata": {
@@ -56,12 +68,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 540,
+            "markdown_end": 554,
+            "markdown_line_start": 16,
+            "markdown_line_end": 16
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Systemic inflammatory response syndrome in Sepsis-3: a retrospective study",
         "metadata": {
@@ -71,12 +87,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 557,
+            "markdown_end": 634,
+            "markdown_line_start": 18,
+            "markdown_line_end": 18
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0001-04.png)",
         "metadata": {
@@ -86,12 +106,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 638,
+            "markdown_end": 707,
+            "markdown_line_start": 21,
+            "markdown_line_end": 21
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0001-04.png)**\n> **Category:** `OTHER` | **Summary:** Ribbon Icon\n> \n> The image features a circular emblem with a metallic silver border and a gradient red ribbon inside. The ribbon is vertically positioned, and the top of it forms a triangular shape, giving the appearance of a bookmark or award ribbon. The emblem has a glossy, three-dimensional look with a reflective surface.\n<!-- analyzed_Zhang_2019.pdf-0001-04.png -->",
         "metadata": {
@@ -101,12 +125,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 709,
+            "markdown_end": 1188,
+            "markdown_line_start": 23,
+            "markdown_line_end": 28
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Wei Zhang[1,2*] , Yan Zheng[2] , Xiaoting Feng[1] , Miao Chen[1] and Yan Kang[3]",
         "metadata": {
@@ -116,12 +144,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1193,
+            "markdown_end": 1273,
+            "markdown_line_start": 33,
+            "markdown_line_end": 33
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Abstract",
         "metadata": {
@@ -131,12 +163,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1276,
+            "markdown_end": 1287,
+            "markdown_line_start": 35,
+            "markdown_line_end": 35
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Background: In the new Sepsis-3 definition, sepsis is defined as “life-threatening organ dysfunction due to a dysregulated host response to infection.” We tested the predictive validity of the systematic inflammatory response syndrome (SIRS) criteria in patients in the Sepsis-3 cohort.",
         "metadata": {
@@ -146,12 +182,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1290,
+            "markdown_end": 1576,
+            "markdown_line_start": 37,
+            "markdown_line_end": 37
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Methods: Among 1243 electronic health records from 1 January to 31 December 2015 at Sichuan University West China Hospital, we identified patients with sepsis and septic shock according to the Sepsis-3 definition and divided them into 2 subsets: SIRS-positive and SIRS-negative. We compared their characteristics and outcomes as well as the predictive validity of the SIRS criteria for in-hospital mortality.",
         "metadata": {
@@ -161,12 +201,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1579,
+            "markdown_end": 1987,
+            "markdown_line_start": 39,
+            "markdown_line_end": 39
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Results: Of the 1243 patients, 631 were enrolled. Among these, 538 (85.3%) patients had SIRS-positive sepsis or septic shock, 168 (31.2%) of whom died, and 93 (14.7%) had SIRS-negative sepsis or septic shock, 20 (21.5%) of whom died (p = 0.06). Over a 1-year period, these groups had similar characteristics and changes in mortality. Among patients of the Sepsis-3 cohort admitted to the intensive care unit, the predictive validity for in-hospital mortality was lower for the SIRS criteria (area under the receiver operating characteristic curve [AUROC], 0.53; 95% confidence interval [95% CI], 0.49–0.57) than for the sequential (sepsis-related) organ failure assessment (SOFA) criteria (AUROC, 0.70; 95% CI, 0.66–0.74; p ≤ 0.01 for both). The SIRS score had poor predictive validity for the risk of in-hospital mortality.",
         "metadata": {
@@ -176,12 +220,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1990,
+            "markdown_end": 2814,
+            "markdown_line_start": 41,
+            "markdown_line_end": 41
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Conclusions: In this cohort study of the new Sepsis-3 definition, we found that the SIRS criteria are weaker than the SOFA criteria with respect to their predictive efficacy for in-hospital death.",
         "metadata": {
@@ -191,12 +239,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2817,
+            "markdown_end": 3013,
+            "markdown_line_start": 43,
+            "markdown_line_end": 43
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Keywords: Sepsis, Intensive care unit, Critically ill patients, Systematic inflammatory response syndrome, Sequential (sepsis-related) organ failure assessment",
         "metadata": {
@@ -206,12 +258,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3016,
+            "markdown_end": 3175,
+            "markdown_line_start": 45,
+            "markdown_line_end": 45
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Background",
         "metadata": {
@@ -221,12 +277,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3178,
+            "markdown_end": 3191,
+            "markdown_line_start": 47,
+            "markdown_line_end": 47
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "was replaced by Sepsis-2 in 2001 [4]. However, Sepsis-2 did not show superiority over Sepsis-1 in the diagnosis of sepsis [5]. In 2015, a study of SIRS in patients with severe sepsis completely disclosed the flaws of the SIRS criteria, prompting further revision of the sepsis definition [6]. In 2016, the Third International Consensus Conference established a new sepsis definition (Sepsis-3) [7]. In Sepsis-3, the Sequential (Sepsis-related) Organ Failure Assessment (SOFA) criteria, rather than the SIRS criteria, are used as the basis for the definitions of sepsis and septic shock.",
         "metadata": {
@@ -236,12 +296,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3194,
+            "markdown_end": 3780,
+            "markdown_line_start": 49,
+            "markdown_line_end": 49
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Despite considerable medical advances, sepsis is common and associated with high morbidity and mortality rates [1, 2]. In 1991, the Task Force in the First International Consensus Conference used expert opinion to generate the then-current definitions of sepsis (First International Consensus Conference Definitions for Sepsis and Septic Shock [Sepsis-1]) based on the presence of systematic inflammatory response syndrome (SIRS) [3]. Because of high sensitivity and low specificity, Sepsis-1",
         "metadata": {
@@ -251,12 +315,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3783,
+            "markdown_end": 4275,
+            "markdown_line_start": 51,
+            "markdown_line_end": 51
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Since application of the SIRS criteria to the definition of sepsis during the past two decades, many clinicians have become ingrained in thinking that the pathophysiological condition progresses from SIRS to sepsis and septic shock and then to multiple organ failure [8–10].",
         "metadata": {
@@ -266,12 +334,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4278,
+            "markdown_end": 4552,
+            "markdown_line_start": 53,
+            "markdown_line_end": 53
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "* Correspondence: zhangwei_hxicu@163.com",
         "metadata": {
@@ -281,12 +353,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4555,
+            "markdown_end": 4595,
+            "markdown_line_start": 55,
+            "markdown_line_end": 55
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "> 1Department of Critical Care Medicine, Affiliated Hospital of Zunyi Medical College, Zunyi Medical College, 149 Dalian Road, Zunyi 563000, Guizhou, China",
         "metadata": {
@@ -296,12 +372,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4598,
+            "markdown_end": 4753,
+            "markdown_line_start": 57,
+            "markdown_line_end": 57
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "> 2Department of Ultrasound, Linyi City People’s Hospital, Linyi 276000, Shandong, China Full list of author information is available at the end of the article",
         "metadata": {
@@ -311,12 +391,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4756,
+            "markdown_end": 4915,
+            "markdown_line_start": 59,
+            "markdown_line_end": 59
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0001-19.png)",
         "metadata": {
@@ -326,12 +410,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4919,
+            "markdown_end": 4988,
+            "markdown_line_start": 62,
+            "markdown_line_end": 62
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0001-19.png)**\n> **Category:** `OTHER` | **Summary:** Abstract geometric design\n> \n> The image is a simple geometric design consisting of a square divided into two triangles by a diagonal line. The top right triangle is colored teal, while the bottom left triangle is colored dark blue. The design creates a visually appealing contrast with a shadow effect on a white background.\n<!-- analyzed_Zhang_2019.pdf-0001-19.png -->",
         "metadata": {
@@ -341,12 +429,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4990,
+            "markdown_end": 5468,
+            "markdown_line_start": 64,
+            "markdown_line_end": 69
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.",
         "metadata": {
@@ -356,12 +448,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5473,
+            "markdown_end": 6081,
+            "markdown_line_start": 74,
+            "markdown_line_end": 74
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Zhang et al. BMC Infectious Diseases          (2019) 19:139",
         "metadata": {
@@ -371,12 +467,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6084,
+            "markdown_end": 6143,
+            "markdown_line_start": 76,
+            "markdown_line_end": 76
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "However, sepsis is actually a syndrome of severe infection with a complicated pathogenesis beyond the scope of our recognition [11]. Many experts and specialists have attempted to use the clinical criteria of SIRS to describe the pathophysiological process and nature of inflammatory syndromes caused by severe infection, but the outcomes have been unsatisfactory [5]. A new definition of sepsis derived from a database of developed countries has been validated for use in these developed countries [12]. However, it is necessary to be further validated for the concept whether can be generalized to developing countries. Certainly, some studies evaluated SEPSIS-3 in developing countries have aroused our attention [13, 14]. In the present study, we used data from developing countries to compare the SIRS criteria with the SOFA criteria to predict a high risk of in-hospital death among critically ill patients with sepsis according to the new definition.",
         "metadata": {
@@ -386,12 +486,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6161,
+            "markdown_end": 7118,
+            "markdown_line_start": 80,
+            "markdown_line_end": 80
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Methods",
         "metadata": {
@@ -401,12 +505,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7121,
+            "markdown_end": 7131,
+            "markdown_line_start": 82,
+            "markdown_line_end": 82
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Study design and setting",
         "metadata": {
@@ -416,12 +524,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7134,
+            "markdown_end": 7161,
+            "markdown_line_start": 84,
+            "markdown_line_end": 84
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This retrospective study was conducted in a general intensive care unit (ICU) and included adult patients with sepsis or septic shock according to the Sepsis-3 definition from 1 January to 31 December 2015, using data from the Sichuan University West China Hospital Critical Care Medicine Sepsis-3 Database. This study was approved by the Ethics Committee of Sichuan University West China Hospital (No. 315, 2016). Due to the retrospective study design involving electronic health records and no additional interventions, written informed consent was not obtained from the patients or their relatives. This study was registered at the Chinese Clinical Trial Register (CCTR number: ChiCTR-ORC-16010138, registered 12 December 2016). URL: http://www.chictr.org.cn/showproj.aspx?proj=16715.",
         "metadata": {
@@ -431,12 +543,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7164,
+            "markdown_end": 7951,
+            "markdown_line_start": 86,
+            "markdown_line_end": 86
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Participants",
         "metadata": {
@@ -446,12 +562,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7954,
+            "markdown_end": 7969,
+            "markdown_line_start": 88,
+            "markdown_line_end": 88
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Inclusion criteria",
         "metadata": {
@@ -461,12 +581,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7972,
+            "markdown_end": 7993,
+            "markdown_line_start": 90,
+            "markdown_line_end": 90
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The inclusion criteria of the study were as follows:",
         "metadata": {
@@ -476,12 +600,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7996,
+            "markdown_end": 8048,
+            "markdown_line_start": 92,
+            "markdown_line_end": 92
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "2. A ≥ 24-h stay in the general ICU",
         "metadata": {
@@ -491,12 +619,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8073,
+            "markdown_end": 8108,
+            "markdown_line_start": 96,
+            "markdown_line_end": 96
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "3. The presence of infection or suspected infection, defined as follows [12]: 1) The initial episode of suspected infection was identified through a combination of antibiotic treatment and body fluid cultures. 2) We required that the combination of antibiotics and culture sampling occurred within a specific time limit. If the culture sampling occurred first, antibiotic must have been administered within 72 h. If the antibiotic was administered first, the culture sampling must have been obtained within 24 h. 3) The onset of infection was defined as the",
         "metadata": {
@@ -506,12 +638,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8111,
+            "markdown_end": 8668,
+            "markdown_line_start": 98,
+            "markdown_line_end": 98
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- time point at which the first of the two events (antibiotic treatment and culture sampling) took place.",
         "metadata": {
@@ -521,12 +657,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8671,
+            "markdown_end": 8776,
+            "markdown_line_start": 100,
+            "markdown_line_end": 100
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Primary and secondary outcomes",
         "metadata": {
@@ -536,12 +676,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8779,
+            "markdown_end": 8812,
+            "markdown_line_start": 102,
+            "markdown_line_end": 102
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In this study, we regarded SIRS-positive sepsis as the primary outcome and followed up all patients before hospital discharge using their medical records. All-cause in-hospital mortality was the secondary outcome.",
         "metadata": {
@@ -551,12 +695,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8815,
+            "markdown_end": 9028,
+            "markdown_line_start": 104,
+            "markdown_line_end": 104
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Definition of cohorts",
         "metadata": {
@@ -566,12 +714,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9031,
+            "markdown_end": 9055,
+            "markdown_line_start": 106,
+            "markdown_line_end": 106
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Indicators were generated for each component of the SIRS criteria [6] and SOFA score [15]. We calculated the maximum SIRS criteria and SOFA score for the time window ranging from 48 h before to 24 h after the onset of infection. Organ dysfunction in patients with sepsis occurring before, near the moment of, or after infection is recognized by clinicians. Thus, for the candidate criteria, we used that time window. From up to 48 h before to up to 24 h after the onset of infection, we calculated changes of ≥2 points in the SOFA score [7, 12].",
         "metadata": {
@@ -581,12 +733,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9058,
+            "markdown_end": 9603,
+            "markdown_line_start": 108,
+            "markdown_line_end": 108
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "We defined sepsis or septic shock according to the Sepsis-3 definitions [7]. Organ dysfunction can be identified as an acute change of ≥2 points in the total SOFA score consequent to the infection. The baseline SOFA score can be assumed to be 0 points in patients not known to have pre-existing organ dysfunction. Even patients presenting with modest dysfunction can deteriorate further, emphasizing the seriousness of this condition and the need for prompt and appropriate intervention if not already being instituted. Septic shock is a subset of sepsis in which underlying circulatory and cellular/metabolic abnormalities are profound enough to substantially increase mortality. Patients with septic shock can be identified using a clinical construct of sepsis with persisting hypotension requiring vasopressors to maintain the mean arterial pressure at ≥65 mmHg and serum lactate concentration at > 2 mmol/L (18 mg/dL) despite adequate volume resuscitation.",
         "metadata": {
@@ -596,12 +752,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9606,
+            "markdown_end": 10566,
+            "markdown_line_start": 110,
+            "markdown_line_end": 110
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Among the Sepsis-3 cohort, the SIRS-positive cohort was defined as patients with SIRS scores of ≥2 points, and the SIRS-negative cohort was defined as patients with SIRS scores of < 2 points, including those with scores of 0 points and 1 point [6].",
         "metadata": {
@@ -611,12 +771,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10569,
+            "markdown_end": 10817,
+            "markdown_line_start": 112,
+            "markdown_line_end": 112
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Data collection",
         "metadata": {
@@ -626,12 +790,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10820,
+            "markdown_end": 10838,
+            "markdown_line_start": 114,
+            "markdown_line_end": 114
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "We collected general information including medical identification numbers, demographic characteristics, vital signs, and laboratory test results from the medical records of patients upon admission to the ICU or during their stay in the ICU. We calculated the SIRS and SOFA scores for each patient using these data. Acute Physiology and Chronic Health Evaluation II (APACHE II)",
         "metadata": {
@@ -641,12 +809,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10841,
+            "markdown_end": 11217,
+            "markdown_line_start": 116,
+            "markdown_line_end": 116
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Zhang et al. BMC Infectious Diseases          (2019) 19:139",
         "metadata": {
@@ -656,12 +828,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11220,
+            "markdown_end": 11279,
+            "markdown_line_start": 118,
+            "markdown_line_end": 118
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "[16] scores were collected to assess the severity of illness among patients admitted to the ICU in the first 24 h.",
         "metadata": {
@@ -671,12 +847,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11297,
+            "markdown_end": 11411,
+            "markdown_line_start": 122,
+            "markdown_line_end": 122
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Bias",
         "metadata": {
@@ -686,12 +866,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11414,
+            "markdown_end": 11421,
+            "markdown_line_start": 124,
+            "markdown_line_end": 124
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Researchers who participated in data collection for the study were blinded to the study design, and the study designers did not participate in the data collection.",
         "metadata": {
@@ -701,12 +885,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11424,
+            "markdown_end": 11587,
+            "markdown_line_start": 126,
+            "markdown_line_end": 126
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Statistical analysis",
         "metadata": {
@@ -716,12 +904,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11590,
+            "markdown_end": 11613,
+            "markdown_line_start": 128,
+            "markdown_line_end": 128
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Data are presented as number and percentage, mean and standard deviation, median and interquartile range, or proportion with 95% confidence interval. The chi-square test for equal proportion, Student’s t-test, or the Wilcoxon rank-sum test was used to test differences. No assumptions were made for missing data, and multivariable analyses were performed for patients with complete data.",
         "metadata": {
@@ -731,12 +923,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11616,
+            "markdown_end": 12003,
+            "markdown_line_start": 130,
+            "markdown_line_end": 130
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "To identify independent differences at baseline that may have existed between patients with SIRS-positive sepsis and SIRS-negative sepsis, we applied multivariable logistic regression to the data from all patients with severe sepsis with a SIRS-positive status as the outcome. To further determine the predictive capacity of using two or more SIRS criteria to identify an increase in the risk of death, SIRS was considered first as a dichotomous variable (≥2 SIRS criteria vs. 0 to 1 SIRS criterion) and second as an ordinal variable from 0 to 4, reflecting the number of SIRS criteria met. To determine whether predictors of death differed significantly between SIRS-positive sepsis and SIRS-negative sepsis, we created a multivariable logistic regression model for mortality among all patients with sepsis. All statistical analyses were performed using MedCalc® (version 15.8) statistical software [17] and Empower Stats software [18]. All statistical tests were two-tailed, and p < 0.05 was considered significant.",
         "metadata": {
@@ -746,12 +942,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12006,
+            "markdown_end": 13023,
+            "markdown_line_start": 132,
+            "markdown_line_end": 132
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Results",
         "metadata": {
@@ -761,12 +961,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13026,
+            "markdown_end": 13036,
+            "markdown_line_start": 134,
+            "markdown_line_end": 134
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Study cohort characteristics",
         "metadata": {
@@ -776,12 +980,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13039,
+            "markdown_end": 13070,
+            "markdown_line_start": 136,
+            "markdown_line_end": 136
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "A flow diagram of the study is shown in Fig. 1. As described in the Methods section, 1243 patients were evaluated in the enrollment period and 873 patients had complete clinical data. We finally enrolled 631 patients with sepsis or septic shock according to the Sepsis-3 definition. In total, 370 patients were excluded because of a < 24-h ICU length of stay (n = 247), secondary admission to the ICU (n = 121), and an age of < 18 years (n = 2). Of 538 patients enrolled in the.",
         "metadata": {
@@ -791,12 +999,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13073,
+            "markdown_end": 13551,
+            "markdown_line_start": 138,
+            "markdown_line_end": 138
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "SIRS-positive cohort, 168 (31.2%) died, and of 93 patients enrolled in the SIRS-negative cohort, 20 (21.5%) died; the outcome of pairwise assessment revealed no significant difference (p = 0.06). There were no missing data.",
         "metadata": {
@@ -806,12 +1018,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13554,
+            "markdown_end": 13777,
+            "markdown_line_start": 140,
+            "markdown_line_end": 140
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Baseline risk",
         "metadata": {
@@ -821,12 +1037,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13780,
+            "markdown_end": 13796,
+            "markdown_line_start": 142,
+            "markdown_line_end": 142
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The patients’ baseline characteristics are listed in Table 1. The patients’ age was higher in the SIRS-negative cohort than in the SIRS-positive cohort (p = 0.011). The SIRS scores were higher in the positive than negative cohort. The median APACHE II score for all patients upon ICU arrival was 25. SOFA scores were available for 631 patients, and the median was 9. The SOFA and APACHE II scores were not significantly different between the two cohorts. The median length of ICU stay was 13 days (range, 7–24 days); it was also 13 days in the SIRS-positive and -negative cohorts separately, and pairwise comparison showed no significant difference (p = 0.622). The median length of hospital stay was 22 days (range, 12.5–35 days); it was 22 and 20 days in the SIRS-positive and -negative cohorts, respectively, and pairwise comparison showed no significant difference (p = 0.569). The proportion of male patients was 66.1% (417 of 631), and there was no significant difference in the proportion of male patients between the SIRS-positive and -negative cohorts (p = 0.412). The median 28-day of ventilator-free days and the duration of continuous renal replacement therapy were 8 and 10 days, respectively, with no significant differences between the two SIRS cohorts. The rates of mechanical ventilation and continuous renal replacement therapy in patients with sepsis were not significantly different between the cohorts (both p > 0.05). However, the rate of septic shock in patients with sepsis was higher in the SIRS-positive than SIRS-negative cohort (p = 0.044).",
         "metadata": {
@@ -836,12 +1056,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13799,
+            "markdown_end": 15367,
+            "markdown_line_start": 144,
+            "markdown_line_end": 144
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Distribution of hospital mortality",
         "metadata": {
@@ -851,12 +1075,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15370,
+            "markdown_end": 15407,
+            "markdown_line_start": 146,
+            "markdown_line_end": 146
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The distributions of hospital mortality according to the SIRS score and subsets of the new Sepsis-3 definition are shown in Fig. 2. An increasing trend of hospital mortality with increasing SIRS scores was not evident (p > 0.05) (Fig. 2a). This held true for both the SIRS-positive and -negative cohorts (Fig. 2b). However, the distribution of hospital mortality was higher in the subgroups of patients with septic shock than in the subgroups of patients with sepsis (p < 0.001) (Fig. 2c). Among all age interval subgroups, the fold changes (ratio) of hospital mortality (SIRS score of ≥2 vs. < 2) were higher in the intervals of 3, 6, and 7 than in the other intervals (Fig. 3).",
         "metadata": {
@@ -866,12 +1094,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15410,
+            "markdown_end": 16089,
+            "markdown_line_start": 148,
+            "markdown_line_end": 148
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## SIRS in new Sepsis-3 definition",
         "metadata": {
@@ -881,12 +1113,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16092,
+            "markdown_end": 16126,
+            "markdown_line_start": 150,
+            "markdown_line_end": 150
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The distributions of signs meeting the SIRS criteria are shown in Table 2. The most frequent SIRS criterion that was met in patients with SIRS-positive sepsis was an increased heart rate, followed by an increased respiratory rate or a low partial pressure of arterial carbon dioxide and an abnormal white cell count. As in the patients with SIRS-positive sepsis, the most frequent single criterion that was met in patients with SIRS-negative sepsis was an increased heart rate (Table 2). Of patients with",
         "metadata": {
@@ -896,12 +1132,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16129,
+            "markdown_end": 16633,
+            "markdown_line_start": 152,
+            "markdown_line_end": 152
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Zhang et al. BMC Infectious Diseases          (2019) 19:139",
         "metadata": {
@@ -911,12 +1151,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16636,
+            "markdown_end": 16695,
+            "markdown_line_start": 154,
+            "markdown_line_end": 154
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0004-02.png)",
         "metadata": {
@@ -926,12 +1170,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16714,
+            "markdown_end": 16783,
+            "markdown_line_start": 159,
+            "markdown_line_end": 159
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0004-02.png)**\n> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** ICU Patient Flowchart for 2015\n> \n> The image is a flowchart with a hierarchical structure. It starts with a box stating '1243 Patients Admitted in ICU from January 1 to December 31, 2015'. It branches to the right to another box that explains '370 Patients excluded' with reasons: '121 Duplication, 247 ICU length of Stay <24 hr, 2 Age<18 years'. Below the initial box, it leads to another box stating '873 Patients included in primary cohort'. The boxes are connected by arrows, and the layout is monochromatic with a clear, orderly presentation.\n> \n> **Data Points:** Total Patients: 1243; Excluded: 370 (121 Duplications, 247 ICU stay <24 hrs, 2 Age<18); Included: 873.\n> \n> **Key Findings:**\n> - 370 patients were excluded for various reasons including duplication and short ICU stay.\n> - 873 patients were included in the primary cohort.\n<!-- analyzed_Zhang_2019.pdf-0004-02.png -->",
         "metadata": {
@@ -941,12 +1189,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16785,
+            "markdown_end": 17792,
+            "markdown_line_start": 161,
+            "markdown_line_end": 172
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0004-03.png)",
         "metadata": {
@@ -956,12 +1208,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17798,
+            "markdown_end": 17867,
+            "markdown_line_start": 178,
+            "markdown_line_end": 178
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0004-03.png)**\n> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** Patient Selection Flowchart for SEPSIS-3 Cohort\n> \n> The flowchart consists of three rectangular boxes. The first box at the top contains the text '634 Patients with infection.' An arrow points from this box to a smaller box on the right, labeled '3 Patients excluded Non-SEPSIS-3.' Below is a final box labeled '631 Patients Enrolled in SEPSIS-3 cohort,' connected by a vertical line to the first box.\n> \n> **Key Findings:**\n> - 634 patients initially identified with infection.\n> - 3 patients excluded due to not meeting SEPSIS-3 criteria.\n> - 631 patients were enrolled in the SEPSIS-3 cohort.\n<!-- analyzed_Zhang_2019.pdf-0004-03.png -->",
         "metadata": {
@@ -971,12 +1227,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17869,
+            "markdown_end": 18629,
+            "markdown_line_start": 180,
+            "markdown_line_end": 190
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0004-04.png)",
         "metadata": {
@@ -986,12 +1246,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18635,
+            "markdown_end": 18704,
+            "markdown_line_start": 196,
+            "markdown_line_end": 196
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0004-04.png)**\n> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** 538 Patients enrolled in SIRS positive cohort\n> \n> A simple rectangular box containing the text '538 Patients enrolled in SIRS positive cohort.' The text is centered within the box, with '538 Patients' on the first line and 'enrolled in SIRS positive cohort' on the second line. The font is standard and the background is white with a black border outlining the box.\n> \n> **Key Findings:**\n> - 538 patients are part of the study cohort\n<!-- analyzed_Zhang_2019.pdf-0004-04.png -->",
         "metadata": {
@@ -1001,12 +1265,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18706,
+            "markdown_end": 19305,
+            "markdown_line_start": 198,
+            "markdown_line_end": 206
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0004-05.png)",
         "metadata": {
@@ -1016,12 +1284,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19311,
+            "markdown_end": 19380,
+            "markdown_line_start": 212,
+            "markdown_line_end": 212
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0004-05.png)**\n> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** 93 Patients Enrolled in SIRS Negative Cohort\n> \n> A rectangular box with a bordered edge containing text. The text reads '93 Patients Enrolled in SIRS negative cohort' centered within the box.\n> \n> **Key Findings:**\n> - 93 patients are part of the SIRS negative cohort.\n<!-- analyzed_Zhang_2019.pdf-0004-05.png -->",
         "metadata": {
@@ -1031,12 +1303,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19382,
+            "markdown_end": 19815,
+            "markdown_line_start": 214,
+            "markdown_line_end": 222
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Fig. 1 Flow diagram of the study",
         "metadata": {
@@ -1046,12 +1322,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19820,
+            "markdown_end": 19852,
+            "markdown_line_start": 227,
+            "markdown_line_end": 227
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "SIRS-negative sepsis, 17.2% fulfilled no SIRS criteria, and 82.8% fulfilled one SIRS criterion (Table 2).",
         "metadata": {
@@ -1061,12 +1341,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19855,
+            "markdown_end": 19960,
+            "markdown_line_start": 229,
+            "markdown_line_end": 229
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Multivariate logistic regression analysis",
         "metadata": {
@@ -1076,12 +1360,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19963,
+            "markdown_end": 20007,
+            "markdown_line_start": 231,
+            "markdown_line_end": 231
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The outcomes of the multivariate logistic regression analysis of hospital mortality and SIRS positivity are shown in Table 3. The risk factors for hospital mortality, including the APACHE II score, length of hospital stay, length of ICU stay, 28-day mechanical ventilation, rate of mechanical ventilation, administration of vasopressors, and SOFA score, were statistically significant (p < 0.05). The risk factors for SIRS positivity, including the SOFA score and hospital length of stay, were also statistically significant (p < 0.05).",
         "metadata": {
@@ -1091,12 +1379,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20010,
+            "markdown_end": 20546,
+            "markdown_line_start": 233,
+            "markdown_line_end": 233
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Predictive efficacy",
         "metadata": {
@@ -1106,12 +1398,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20549,
+            "markdown_end": 20571,
+            "markdown_line_start": 235,
+            "markdown_line_end": 235
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The areas under the receiver operating characteristic curves (AUROCs) for the baseline risk model (age for mortality), SIRS, SOFA score, and APACHE II score are shown in Fig. 4. The AUROC for the SIRS model was 0.53 for prediction of hospital mortality; this was much lower than those for the baseline risk model, APACHE II score, and SOFA score (SIRS vs. age: 0.53 vs. 0.62, p < 0.01; SIRS vs. APACHE II: 0.53 vs. 0.73, p < 0.01; SIRS vs. SOFA: 0.53 vs. 0.70, p < 0.01).",
         "metadata": {
@@ -1121,12 +1417,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20574,
+            "markdown_end": 21045,
+            "markdown_line_start": 237,
+            "markdown_line_end": 237
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Discussion",
         "metadata": {
@@ -1136,12 +1436,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21048,
+            "markdown_end": 21061,
+            "markdown_line_start": 239,
+            "markdown_line_end": 239
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In the present study, we found that the SIRS criteria had poor predictive validity for hospital mortality in critically",
         "metadata": {
@@ -1151,12 +1455,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21064,
+            "markdown_end": 21183,
+            "markdown_line_start": 241,
+            "markdown_line_end": 241
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Zhang et al. BMC Infectious Diseases          (2019) 19:139",
         "metadata": {
@@ -1166,12 +1474,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21186,
+            "markdown_end": 21245,
+            "markdown_line_start": 243,
+            "markdown_line_end": 243
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Table 1 Baseline characteristics and hospital outcomes of patients with sepsis[a]",
         "metadata": {
@@ -1181,12 +1493,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21263,
+            "markdown_end": 21344,
+            "markdown_line_start": 247,
+            "markdown_line_end": 247
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Characteristic|All Patients<br>No. of patients with data|Patients with SIRS-Positive Sepsis<br>No. of patients with data|Patients with SIRS-Negative Sepsis<br>P Value<br>No. of patients with data|\n|---|---|---|---|\n|Age-yr<br>Median<br>Interquartile range<br>Male sex —no. (%)<br>Risk of death-%<br>APACHE II<br>Median<br>Interquartile range<br>SOFA<br>Median<br>Interquartile range<br>SIRS<br>Median<br>Interquartile range<br>Duration of stay<br>In ICU-days<br>Median<br>Interquartile range<br>In-hospital-days<br>Median<br>Interquartile range<br>28-day of ventilator-free days<br>Median<br>Interquartile range<br>Duration of CRRT-days<br>Median<br>Interquartile range<br>Hospital outcome<br>Death-%<br>Subgroup- no(%)<br>Septic shock<br>Acute kidney failure of CRRT<br>Mechanical ventilation|631<br>60.0<br>46.0–73.0<br>631<br>417 (66.1%)<br>631<br>25.0<br>20.0–29.0<br>631<br>9<br>7–12<br>631<br>3.0<br>2.0–3.0<br>631<br>13.0<br>7.0–24.0<br>631<br>22.0<br>12.5–35.0<br>573<br>8.0<br>4.0–16.0<br>109<br>10<br>5.0–20.0<br>631<br>188 (29.8)<br>631<br>212 (33.6)<br>109 (17.3)<br>573(90.8)|538<br>60<br>45.0–73.0<br>528<br>359 (66.7%)<br>538<br>25<br>20.-29.<br>538<br>9<br>7–13<br>538<br>3.0<br>2.0–3.0<br>538<br>13.0<br>7.0–24.0<br>538<br>22.0<br>12.0–36<br>489<br>9.0<br>4.0–17.0<br>96<br>8.5<br>5.0–17.0<br>538<br>168 (31.2)<br>538<br>189 (35.1)<br>96 (17.8%)<br>489(90.9)|93<br>0.011<br>64<br>50–77.0<br>92<br>58 (62.4%)<br>0.412<br>93<br>0.087<br>24<br>20.-28<br>93<br>0.05<br>9<br>7–11<br>93<br>< 0.001<br>1.0<br>1.0–1.0<br>93<br>0.622<br>13.0<br>8.0–22<br>93<br>0.569<br>20.0<br>13.0–28.0<br>84<br>0.159<br>8.0<br>3.0–14.0<br>13<br>0.560<br>14.0<br>10.0–23.0<br>93<br>0.058<br>20 (21.5)<br>93<br>23 (24.7)<br>0.044<br>13 (14.0%)<br>0.363<br>84(90.3)<br>0.861|",
         "metadata": {
@@ -1196,12 +1512,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21347,
+            "markdown_end": 23114,
+            "markdown_line_start": 249,
+            "markdown_line_end": 251
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "> a Plus–minus values are means ±SD. SIRS-positive status was defined if the patient fulfilled at least two SIRS criteria, and SIRS-negative status if the patient fulfilled zero or one SIRS criterion. ICU denotes intensive care unit Scores on the APACHE II range from 0 to 71, with higher scores indicating more severe disease Abbreviation: APACHE Acute Physiology and Chronic Health Evaluation, SOFA Sepsis-related Organ Failure Assessment, SIRS Systemic Inflammatory Response Syndrome, CRRT Continuous renal replacement therapy. Normal distributed data are expressed as mean ± standard deviation",
         "metadata": {
@@ -1211,12 +1531,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23118,
+            "markdown_end": 23715,
+            "markdown_line_start": 255,
+            "markdown_line_end": 255
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "ill patients with sepsis compared with the SOFA criteria under the new Sepsis-3 definition.",
         "metadata": {
@@ -1226,12 +1550,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23718,
+            "markdown_end": 23809,
+            "markdown_line_start": 257,
+            "markdown_line_end": 257
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Among ICU patients with sepsis according to the new Sepsis-3 definition, 85.3% had SIRS-positive sepsis or septic shock and 14.7% had SIRS-negative sepsis or septic shock. Using the SIRS assessment system as a screening tool, we may miss approximately one in six of patients",
         "metadata": {
@@ -1241,12 +1569,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23812,
+            "markdown_end": 24086,
+            "markdown_line_start": 259,
+            "markdown_line_end": 259
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "with infections at a high risk of death; this suggests that the SIRS assessment system may be unfit for critically ill patients with infections in ICUs of developing countries. In 2015, Kaukonen et al. (6) reported that the use of two or more SIRS criteria to define severe sepsis excluded one in eight otherwise similar patients with infection, organ failure, and substantial mortality. In the present study, we",
         "metadata": {
@@ -1256,12 +1588,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24089,
+            "markdown_end": 24501,
+            "markdown_line_start": 261,
+            "markdown_line_end": 261
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Zhang et al. BMC Infectious Diseases          (2019) 19:139",
         "metadata": {
@@ -1271,12 +1607,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24504,
+            "markdown_end": 24563,
+            "markdown_line_start": 263,
+            "markdown_line_end": 263
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0006-02.png)",
         "metadata": {
@@ -1286,12 +1626,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24582,
+            "markdown_end": 24651,
+            "markdown_line_start": 268,
+            "markdown_line_end": 268
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0006-02.png)**\n> **Category:** `OTHER` | **Summary:** Black Letter A\n> \n> A large black capital letter 'A' with a serif typeface, similar to Times New Roman. The letter is centered on a plain white background, contributing to a stark contrast and clear visibility.\n<!-- analyzed_Zhang_2019.pdf-0006-02.png -->",
         "metadata": {
@@ -1301,12 +1645,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24653,
+            "markdown_end": 25016,
+            "markdown_line_start": 270,
+            "markdown_line_end": 275
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\nA<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -1316,12 +1664,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25021,
+            "markdown_end": 25107,
+            "markdown_line_start": 280,
+            "markdown_line_end": 281
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Fig. 2 Distribution of hospital mortality",
         "metadata": {
@@ -1331,12 +1683,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25118,
+            "markdown_end": 25159,
+            "markdown_line_start": 288,
+            "markdown_line_end": 288
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "found that by using the SIRS system, we may miss more than one in six patients with infections at high risk of death. The rate of exclusion of those patients with a high",
         "metadata": {
@@ -1346,12 +1702,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25162,
+            "markdown_end": 25331,
+            "markdown_line_start": 290,
+            "markdown_line_end": 290
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "risk of death was higher than reported by Kaukonen et al. (6) because we included the subset of patients with septic shock rather than severe sepsis of the Sepsis-2 definition.",
         "metadata": {
@@ -1361,12 +1721,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25334,
+            "markdown_end": 25510,
+            "markdown_line_start": 292,
+            "markdown_line_end": 292
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Zhang et al. BMC Infectious Diseases          (2019) 19:139",
         "metadata": {
@@ -1376,12 +1740,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25513,
+            "markdown_end": 25572,
+            "markdown_line_start": 294,
+            "markdown_line_end": 294
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0007-02.png)",
         "metadata": {
@@ -1391,12 +1759,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25591,
+            "markdown_end": 25660,
+            "markdown_line_start": 299,
+            "markdown_line_end": 299
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0007-02.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Fold change in in-hospital mortality (SIRS Positive vs SIRS Negative)\n> \n> The graph shows bar comparisons between SIRS positive and negative across different age intervals on the x-axis: <30, 30~40, 40~50, 50~60, 60~70, 70~80, and >80. The y-axis represents the fold change in in-hospital mortality, ranging from 0 to 2. Each age interval bar is divided into two colors, dark grey and light grey, representing SIRS positive and negative respectively. Data annotations below show baseline risk (%), number of patients, and specific intervals of ages.\n> \n> **Data Points:** Fold change in in-hospital mortality with baseline risk (%) for different age intervals. No. of patients in each interval: 75 (<30), 68 (30~40), 118 (40~50), 97 (50~60), 121 (60~70), 119 (70~80), 61 (>80).\n> \n> **Key Findings:**\n> - Highest fold change in mortality at age interval 30~40\n> - Lowest fold change in mortality at age interval 40~50 and 50~60\n> - Number of patients peaks at age interval 60~70\n<!-- analyzed_Zhang_2019.pdf-0007-02.png -->",
         "metadata": {
@@ -1406,12 +1778,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25662,
+            "markdown_end": 26805,
+            "markdown_line_start": 301,
+            "markdown_line_end": 313
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Fig. 3 Fold change (ratio) hospital mortality of patients with SIRS positive (scores ≥2) vs. SIRS negative (< 2)",
         "metadata": {
@@ -1421,12 +1797,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26810,
+            "markdown_end": 26922,
+            "markdown_line_start": 318,
+            "markdown_line_end": 318
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In the present investigation, the AUROC for SIRS was much lower than in the Kaukonen’s study of predicting hospital mortality in ICU patients with sepsis (6). One reason for the discrepancy may be that the severity of illness in the patients of the present study was greater than that in the study by Kaukonen et al. (6) (APACHE II scores of ≥24: 55.6% vs. 28.8%, respectively).",
         "metadata": {
@@ -1436,12 +1816,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26925,
+            "markdown_end": 27303,
+            "markdown_line_start": 320,
+            "markdown_line_end": 320
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Discrimination of hospital mortality using SIRS was much lower than that using SOFA. With respect to",
         "metadata": {
@@ -1451,12 +1835,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27306,
+            "markdown_end": 27406,
+            "markdown_line_start": 322,
+            "markdown_line_end": 322
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "discrimination of hospital mortality using SIRS, we found that the AUROC was much lower than that for SOFA.",
         "metadata": {
@@ -1466,12 +1854,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27409,
+            "markdown_end": 27516,
+            "markdown_line_start": 324,
+            "markdown_line_end": 324
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Strengths",
         "metadata": {
@@ -1481,12 +1873,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27519,
+            "markdown_end": 27531,
+            "markdown_line_start": 326,
+            "markdown_line_end": 326
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Our study has several strengths. First, the study is recent, making the data current and relevant. Second, it investigated the effect of the SIRS criteria within the time window of the initial episode of suspected infection during the ICU stay on the diagnosis of sepsis over a",
         "metadata": {
@@ -1496,12 +1892,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27534,
+            "markdown_end": 27811,
+            "markdown_line_start": 328,
+            "markdown_line_end": 328
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Table 2 Distribution of signs meeting SIRS criteria in patients with sepsis or septic shock*",
         "metadata": {
@@ -1511,12 +1911,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27814,
+            "markdown_end": 27906,
+            "markdown_line_start": 330,
+            "markdown_line_end": 330
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Variable|All Patients|Patients with SIRS-Positive|Patients with SIRS-Negative|\n|---|---|---|---|\n||(n = 631)|Severe Sepsis (n= 538)|Severe Sepsis (n= 93)|\n|SIRS criterion met—no. (%)a||||\n|Abnormal temperature|630 (99.8)|250 (46.5)|6 (6.5)|\n|Increased heart rate|631 (100)|506 (94.1)|43 (46.2)|\n|Increased respiratory rate or decreased PaCO2|630 (99.8)|448 (83.3)|15 (16.1)|\n|Abnormal white-cell count|629 (99.7)|331 (61.6)|13 (14.1)|\n|No. of SIRS criteria met||||\n|Median|3|3|1|\n|Interquartile range|2–3|2–3|1–1|\n|Distribution||||\n|> 1|538 (85.3)|538 (85.3)|0|\n|0|16 (2.5)||16 (17.2)|\n|1|77 (12.2)||77 (82.8)|\n|2|200 (31.7)|200 (37.2)|0|\n|3|218 (34.5)|218 (40.5)|0|\n|4|120 (19.0)|120 (22.3)|0|",
         "metadata": {
@@ -1526,12 +1930,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27909,
+            "markdown_end": 28604,
+            "markdown_line_start": 332,
+            "markdown_line_end": 349
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "* P < 0.001 for all comparisons between the SIRS-positive group and the SIRS-negative group. PaCO2 denotes partial pressure of arterial carbon dioxide a SIRS criteria are defined in the Supplementary Appendix. Patients may have more than one criterion",
         "metadata": {
@@ -1541,12 +1949,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28608,
+            "markdown_end": 28859,
+            "markdown_line_start": 353,
+            "markdown_line_end": 353
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Zhang et al. BMC Infectious Diseases          (2019) 19:139",
         "metadata": {
@@ -1556,12 +1968,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28862,
+            "markdown_end": 28921,
+            "markdown_line_start": 355,
+            "markdown_line_end": 355
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Table 3 Outcomes of multivariate logistic regression analysis for the risk factors on hospital mortality and SIRS positive",
         "metadata": {
@@ -1571,12 +1987,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28939,
+            "markdown_end": 29061,
+            "markdown_line_start": 359,
+            "markdown_line_end": 359
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Variables|Hospital mortality<br>Odds ratio(95% CI)<br>Pvalue|SIRS positive|\n|---|---|---|\n|||Odds ratio(95% CI)<br>Pvalue|\n|Age<br>Sex<br>APACHE II<br>qSOFA<br>Hospital length of stay<br>ICU length of stay<br>28-day of ventilator-free days<br>Mechanical ventilation<br>Duration of CRRT<br>**CRRT<br>SOFA<br>Vasopressors<br>SIRS|1.00 (0.97, 1.02)<br>0.97<br>1.04 (0.41, 2.63)<br>0.94<br>1.09 (1.02, 1.16)<br>0.01<br>1.18 (0.90, 1.55)<br>0.23<br>0.96 (0.94, 0.98)<br><0.01<br>1.03 (1.00, 1.05)<br>0.02<br>1.01 (0.95, 1.07)<br><0.01<br>3.33 (1.15, 9.64)<br>0.03<br>0.98 (0.94, 1.01)<br>0.20<br>1.88 (0.28, 12.60)<br>0.51<br>1.18 (1.12, 1.25)<br><0.01<br>2.67 (1.87, 3.80)<br><0.01<br>1.06 (0.87, 1.29)<br>0.56|0.98 (0.94, 1.02)<br>0.32<br>1.40 (0.35, 5.61)<br>0.63<br>1.02 (0.92, 1.12)<br>0.75<br>2.92 (2.06, 4.13)<br><0.01<br>0.97 (0.94, 0.99)<br>0.01<br>1.00 (0.99, 1.01)<br>0.93<br>1.02 (0.99, 1.05)<br>0.16<br>0.60 (0.26, 1.36)<br>0.22<br>1.02 (0.97, 1.06)<br>0.45<br>1.53 (0.12, 19.72)<br>0.74<br>0.98 (0.90, 1.06)<br>0.60<br>1.34 (0.71, 2.55)<br>0.37<br>–<br>–|",
         "metadata": {
@@ -1586,12 +2006,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29064,
+            "markdown_end": 30129,
+            "markdown_line_start": 361,
+            "markdown_line_end": 364
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Abbreviation: APACHE Acute Physiology and Chronic Health Evaluation, SOFA Sepsis-related Organ Failure Assessment, SIRS Systemic Inflammatory Response Syndrome, qSOFA quick Sepsis-related Organ Failure Assessment, CRRT Continuous renal replacement treatment. Normal distributed data are expressed as mean ± standard deviation",
         "metadata": {
@@ -1601,12 +2025,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30133,
+            "markdown_end": 30458,
+            "markdown_line_start": 368,
+            "markdown_line_end": 368
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "period of 1 year. Third, and most importantly, the SIRS data consisted of physiological or laboratory measurements that were retrospectively collected for routine monitoring indicators and are therefore unlikely to be biased.",
         "metadata": {
@@ -1616,12 +2044,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30461,
+            "markdown_end": 30686,
+            "markdown_line_start": 370,
+            "markdown_line_end": 370
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Limitations",
         "metadata": {
@@ -1631,12 +2063,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30689,
+            "markdown_end": 30703,
+            "markdown_line_start": 372,
+            "markdown_line_end": 372
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The first limitation of this study is that symptoms meeting the SIRS criteria were evaluated only during the episode of suspected infection in the ICU as recorded every 1 or 2 h on the observation charts. The second limitation",
         "metadata": {
@@ -1646,12 +2082,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30706,
+            "markdown_end": 30932,
+            "markdown_line_start": 374,
+            "markdown_line_end": 374
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0008-08.png)",
         "metadata": {
@@ -1661,12 +2101,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30936,
+            "markdown_end": 31005,
+            "markdown_line_start": 377,
+            "markdown_line_end": 377
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0008-08.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** ROC Curve and Comparison Matrix for Age, APACHE II, SIRS, and SOFA\n> \n> The image features a ROC curve comparing the sensitivity versus 1-specificity for four variables: Age, APACHE II, SIRS, and SOFA. Each variable is represented by a differently colored line (green, blue, orange, and black respectively). In the legend, AUC values with 95% confidence intervals are given. To the right of the graph is a comparison matrix displaying p-values and confidence intervals among the variables in a color-coded grid.\n> \n> **Data Points:** Age: AUC=0.62; 95%CI(0.58-0.65), APACHE II: AUC=0.73; 95%CI(0.69-0.76), SIRS: AUC=0.53; 95%CI(0.49-0.57), SOFA: AUC=0.70; 95%CI(0.66-0.74)\n> \n> **Key Findings:**\n> - APACHE II has the highest AUC of 0.73, indicating the best discriminative ability.\n> - SOFA score has a high AUC of 0.70 as well.\n> - SIRS shows the lowest AUC of 0.53, indicating poor performance.\n> - Age has a moderate AUC of 0.62.\n<!-- analyzed_Zhang_2019.pdf-0008-08.png -->",
         "metadata": {
@@ -1676,12 +2120,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31007,
+            "markdown_end": 32104,
+            "markdown_line_start": 379,
+            "markdown_line_end": 392
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Fig. 4 Area under the receiver operating characteristic curve 95% confidence intervals for hospital mortality of candidate criteria (Age, APACHE II, SOFA, and SIRS) among patients with Sepsis-3 cohort (N = 631).",
         "metadata": {
@@ -1691,12 +2139,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32109,
+            "markdown_end": 32320,
+            "markdown_line_start": 397,
+            "markdown_line_end": 397
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Zhang et al. BMC Infectious Diseases          (2019) 19:139",
         "metadata": {
@@ -1706,12 +2158,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32323,
+            "markdown_end": 32382,
+            "markdown_line_start": 399,
+            "markdown_line_end": 399
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "is that we conducted a single-center clinical investigation in a province of southwest China; thus, the characteristics of our study population may lack representativeness. Multicenter prospective studies could address this issue. Finally, the third limitation is the high mortality rate, which had two main causes. First, as a large tertiary teaching hospital, our institution receives numerous patients with severe infections who have been transferred from smaller hospitals and primary healthcare institutions. Second, the limitations of the SOFA system in a retrospective cohort study played an important role in the high morbidity.",
         "metadata": {
@@ -1721,12 +2177,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32400,
+            "markdown_end": 33036,
+            "markdown_line_start": 403,
+            "markdown_line_end": 403
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "from the participants, which was approved by the Ethics Committee of Sichuan University West China Hospital (No. 315, 2016).",
         "metadata": {
@@ -1736,12 +2196,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33039,
+            "markdown_end": 33163,
+            "markdown_line_start": 405,
+            "markdown_line_end": 405
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Competing interests",
         "metadata": {
@@ -1751,12 +2215,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33166,
+            "markdown_end": 33188,
+            "markdown_line_start": 407,
+            "markdown_line_end": 407
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "(1) All authors have no relationships with companies that might have an interest in the submitted work over the previous 5 years; (2) their spouses, partners, or children have no financial relationships that may be relevant to the submitted work; and (3) none of the authors have nonfinancial interests that may be relevant to the submitted work. There are no ethical/legal conflicts involved in the article.",
         "metadata": {
@@ -1766,12 +2234,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33191,
+            "markdown_end": 33599,
+            "markdown_line_start": 409,
+            "markdown_line_end": 409
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Publisher’s Note",
         "metadata": {
@@ -1781,12 +2253,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33602,
+            "markdown_end": 33621,
+            "markdown_line_start": 411,
+            "markdown_line_end": 411
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
         "metadata": {
@@ -1796,12 +2272,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33624,
+            "markdown_end": 33742,
+            "markdown_line_start": 413,
+            "markdown_line_end": 413
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Author details",
         "metadata": {
@@ -1811,12 +2291,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33745,
+            "markdown_end": 33762,
+            "markdown_line_start": 415,
+            "markdown_line_end": 415
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Generalization",
         "metadata": {
@@ -1826,12 +2310,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33765,
+            "markdown_end": 33782,
+            "markdown_line_start": 417,
+            "markdown_line_end": 417
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Despite the above-described limitations, we investigated the potential prognostic value of the SIRS criteria in a relatively high-risk population and found it to be different from the SOFA criteria.",
         "metadata": {
@@ -1841,12 +2329,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33785,
+            "markdown_end": 33983,
+            "markdown_line_start": 419,
+            "markdown_line_end": 419
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "> 1Department of Critical Care Medicine, Affiliated Hospital of Zunyi Medical College, Zunyi Medical College, 149 Dalian Road, Zunyi 563000, Guizhou, China.[2] Department of Ultrasound, Linyi City People’s Hospital, Linyi 276000, Shandong, China.[3] Department of Critical Care Medicine, Sichuan University West China Hospital, Chengdu 610041, Sichuan, China.",
         "metadata": {
@@ -1856,12 +2348,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33986,
+            "markdown_end": 34345,
+            "markdown_line_start": 421,
+            "markdown_line_end": 421
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Received: 23 February 2018 Accepted: 7 February 2019",
         "metadata": {
@@ -1871,12 +2367,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34348,
+            "markdown_end": 34403,
+            "markdown_line_start": 423,
+            "markdown_line_end": 423
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0009-13.png)",
         "metadata": {
@@ -1886,12 +2386,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34407,
+            "markdown_end": 34476,
+            "markdown_line_start": 426,
+            "markdown_line_end": 426
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0009-13.png)**\n> **Category:** `OTHER` | **Summary:** Date of online publication: 11 February 2019\n> \n> Text showing the date of online publication as 'Published online: 11 February 2019' in a serif font style.\n<!-- analyzed_Zhang_2019.pdf-0009-13.png -->",
         "metadata": {
@@ -1901,12 +2405,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34478,
+            "markdown_end": 34787,
+            "markdown_line_start": 428,
+            "markdown_line_end": 433
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Conclusions",
         "metadata": {
@@ -1916,12 +2424,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34792,
+            "markdown_end": 34806,
+            "markdown_line_start": 438,
+            "markdown_line_end": 438
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In this cohort study of the new Sepsis-3 definition, we found that the SIRS criteria are weaker than the SOFA criteria with respect to their predictive efficacy for in-hospital death.",
         "metadata": {
@@ -1931,12 +2443,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34809,
+            "markdown_end": 34992,
+            "markdown_line_start": 440,
+            "markdown_line_end": 440
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Abbreviations",
         "metadata": {
@@ -1946,12 +2462,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34995,
+            "markdown_end": 35011,
+            "markdown_line_start": 442,
+            "markdown_line_end": 442
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "APACHE: Acute physiology and chronic health evaluation score; AUROC: Areas under the receiver operating characteristic curve; CCTR: Chinese clinical trial register; ICU: Intensive care unit; SIRS: Systematic inflammatory response syndrome; SOFA: Sequential (sepsis-related) organ failure assessment",
         "metadata": {
@@ -1961,12 +2481,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35014,
+            "markdown_end": 35312,
+            "markdown_line_start": 444,
+            "markdown_line_end": 444
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Acknowledgements",
         "metadata": {
@@ -1976,12 +2500,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35315,
+            "markdown_end": 35334,
+            "markdown_line_start": 446,
+            "markdown_line_end": 446
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The authors thank Xiaoli He, Xiaolei Yang, Yangting Li, and Jie Yang for helping to construct the Sepsis-3 database at Sichuan University West China Hospital. The authors also thank all of the patients who participated in the clinical trial.",
         "metadata": {
@@ -1991,12 +2519,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35337,
+            "markdown_end": 35578,
+            "markdown_line_start": 448,
+            "markdown_line_end": 448
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Consent to for publication",
         "metadata": {
@@ -2006,12 +2538,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35581,
+            "markdown_end": 35610,
+            "markdown_line_start": 450,
+            "markdown_line_end": 450
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Funding",
         "metadata": {
@@ -2021,12 +2557,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35631,
+            "markdown_end": 35641,
+            "markdown_line_start": 454,
+            "markdown_line_end": 454
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "We received no specific funding for this study.",
         "metadata": {
@@ -2036,12 +2576,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35644,
+            "markdown_end": 35691,
+            "markdown_line_start": 456,
+            "markdown_line_end": 456
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Availability of data and materials",
         "metadata": {
@@ -2051,12 +2595,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35694,
+            "markdown_end": 35731,
+            "markdown_line_start": 458,
+            "markdown_line_end": 458
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The datasets used and/or analysed during the current study available from the corresponding author on reasonable request.",
         "metadata": {
@@ -2066,12 +2614,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35734,
+            "markdown_end": 35855,
+            "markdown_line_start": 460,
+            "markdown_line_end": 460
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Authors’ contributions",
         "metadata": {
@@ -2081,12 +2633,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35858,
+            "markdown_end": 35883,
+            "markdown_line_start": 462,
+            "markdown_line_end": 462
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "WZ had full access to all of the data in the study and accepts responsibility for the data management and accuracy of the data analysis. Study concept and design: WZ, YZ, and YK. Acquisition, analysis, and interpretation of data: WZ, XF, and MC. Drafting of the manuscript: WZ and XF. Critical revision of the manuscript for important intellectual content: XF, and WZ. Administrative, technical, or material support: WZ and MC. Study supervision: YZ, MC, and YK. All authors agreed to the final version before submission. WZ is the study guarantor. All authors state that they have read and approved the final version of the manuscript and agree to submit it for consideration for publication in the journal.",
         "metadata": {
@@ -2096,12 +2652,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35886,
+            "markdown_end": 36594,
+            "markdown_line_start": 464,
+            "markdown_line_end": 464
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Ethics approval and consent to participate",
         "metadata": {
@@ -2111,12 +2671,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36597,
+            "markdown_end": 36642,
+            "markdown_line_start": 466,
+            "markdown_line_end": 466
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Due to the retrospective study design involving electronic health records and no additional interventions, written informed consent was not obtained",
         "metadata": {
@@ -2126,12 +2690,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36645,
+            "markdown_end": 36793,
+            "markdown_line_start": 468,
+            "markdown_line_end": 468
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## References",
         "metadata": {
@@ -2141,12 +2709,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36796,
+            "markdown_end": 36809,
+            "markdown_line_start": 470,
+            "markdown_line_end": 470
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "1. Liu V, Escobar GJ, Greene JD, Soule J, Whippy A, Angus DC, Iwashyna TJ. Hospital deaths in patients with sepsis from 2 independent cohorts. Jama. 2014;312:90–2.",
         "metadata": {
@@ -2156,12 +2728,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36812,
+            "markdown_end": 36975,
+            "markdown_line_start": 472,
+            "markdown_line_end": 472
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "2. Angus DC, Linde-Zwirble WT, Lidicker J, Clermont G, Carcillo J, Pinsky MR. Epidemiology of severe sepsis in the United States: analysis of incidence, outcome, and associated costs of care. Crit Care Med. 2001;29:1303–10.",
         "metadata": {
@@ -2171,12 +2747,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36978,
+            "markdown_end": 37201,
+            "markdown_line_start": 474,
+            "markdown_line_end": 474
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "3. Bone RC, Balk RA, Cerra FB, Dellinger RP, Fein AM, Knaus WA, Schein RM, Sibbald WJ. American College of Chest Physicians/Society of Critical Care Medicine consensus conference: definitions for sepsis and organ failure and guidelines for the use of innovative therapies in sepsis. Crit Care Med. 1992; 20:864–74.",
         "metadata": {
@@ -2186,12 +2766,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37204,
+            "markdown_end": 37518,
+            "markdown_line_start": 476,
+            "markdown_line_end": 476
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "4. Levy MM, Fink MP, Marshall JC, Abraham E, Angus D, Cook D, Cohen J, Opal SM, Vincent JL, Ramsay G, Sccm/Esicm/Accp/Ats/sis, (2003) 2001 SCCM/ ESICM/ACCP/ATS/SIS International Sepsis Definitions Conference Critical care medicine 31: 1250–1256.",
         "metadata": {
@@ -2201,12 +2785,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37521,
+            "markdown_end": 37766,
+            "markdown_line_start": 478,
+            "markdown_line_end": 478
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "5. Zhao H, Heard SO, Mullen MT, Crawford S, Goldberg RJ, Frendl G, Lilly CM. An evaluation of the diagnostic accuracy of the 1991 American College of Chest Physicians/Society of Critical Care Medicine and the 2001 Society of Critical Care Medicine/European Society of Intensive Care Medicine/ American College of Chest Physicians/American Thoracic Society/surgical infection society sepsis definition. Crit Care Med. 2012;40:1700–6.",
         "metadata": {
@@ -2216,12 +2804,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37769,
+            "markdown_end": 38201,
+            "markdown_line_start": 480,
+            "markdown_line_end": 480
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "6. Kaukonen KM, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response syndrome criteria in defining severe sepsis. N Engl J Med. 2015;372:1629–38.",
         "metadata": {
@@ -2231,12 +2823,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38204,
+            "markdown_end": 38370,
+            "markdown_line_start": 482,
+            "markdown_line_end": 482
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "7. Shankar-Hari M, Phillips GS, Levy ML, Seymour CW, Liu VX, Deutschman CS, Angus DC, Rubenfeld GD, Singer M, Sepsis Definitions Task F. Developing a new definition and assessing new clinical criteria for septic shock: for the third international consensus Definitions for Sepsis and septic shock (Sepsis3). Jama. 2016;315:775–87.",
         "metadata": {
@@ -2246,12 +2842,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38373,
+            "markdown_end": 38703,
+            "markdown_line_start": 484,
+            "markdown_line_end": 484
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "8. Baue AE. MOF/MODS, SIRS: an update. Shock. 1996;6(Suppl 1):S1–5. 9. Afessa B. Systemic inflammatory response syndrome in patients hospitalized for gastrointestinal bleeding. Crit Care Med. 1999;27:554–7.",
         "metadata": {
@@ -2261,12 +2861,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38706,
+            "markdown_end": 38912,
+            "markdown_line_start": 486,
+            "markdown_line_end": 486
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "10. Fry DE. Sepsis, systemic inflammatory response, and multiple organ dysfunction: the mystery continues. Am Surg. 2012;78:1–8.",
         "metadata": {
@@ -2276,12 +2880,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38915,
+            "markdown_end": 39043,
+            "markdown_line_start": 488,
+            "markdown_line_end": 488
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "11. Rossaint J, Zarbock A. Pathogenesis of multiple organ failure in Sepsis. Crit Rev Immunol. 2015;35:277–91.",
         "metadata": {
@@ -2291,12 +2899,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39046,
+            "markdown_end": 39156,
+            "markdown_line_start": 490,
+            "markdown_line_end": 490
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "12. Seymour CW, Liu VX, Iwashyna TJ, Brunkhorst FM, Rea TD, Scherag A, Rubenfeld G, Kahn JM, Shankar-Hari M, Singer M, Deutschman CS, Escobar GJ, Angus DC. Assessment of clinical criteria for Sepsis: for the third international consensus Definitions for Sepsis and septic shock (Sepsis-3). Jama. 2016;315:762–74.",
         "metadata": {
@@ -2306,12 +2918,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39159,
+            "markdown_end": 39471,
+            "markdown_line_start": 492,
+            "markdown_line_end": 492
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "13. Besen B, Romano TG, Nassar AP Jr, Taniguchi LU, Azevedo LCP, Mendes PV, Zampieri FG, Park M. Sepsis-3 definitions predict ICU mortality in a lowmiddle-income country. Ann Intensive Care. 2016;6:107.",
         "metadata": {
@@ -2321,12 +2937,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39474,
+            "markdown_end": 39676,
+            "markdown_line_start": 494,
+            "markdown_line_end": 494
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Zhang et al. BMC Infectious Diseases          (2019) 19:139",
         "metadata": {
@@ -2336,12 +2956,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39679,
+            "markdown_end": 39738,
+            "markdown_line_start": 496,
+            "markdown_line_end": 496
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "14. Machado FR, Assuncao MS, Cavalcanti AB, Japiassu AM, Azevedo LC, Oliveira MC. Getting a consensus: advantages and disadvantages of Sepsis 3 in the context of middle-income settings. Revista Brasileira de terapia intensiva. 2016;28:361–5.",
         "metadata": {
@@ -2351,12 +2975,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39757,
+            "markdown_end": 39998,
+            "markdown_line_start": 500,
+            "markdown_line_end": 500
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "15. Vincent JL, Moreno R, Takala J, Willatts S, De Mendonca A, Bruining H, Reinhart CK, Suter PM, Thijs LG. The SOFA (Sepsis-related organ failure assessment) score to describe organ dysfunction/failure. On behalf of the working group on Sepsis-related problems of the European Society of Intensive Care Medicine. Intensive Care Med. 1996;22:707–10.",
         "metadata": {
@@ -2366,12 +2994,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40001,
+            "markdown_end": 40350,
+            "markdown_line_start": 502,
+            "markdown_line_end": 502
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "16. Knaus WA, Zimmerman JE, Wagner DP, Draper EA, Lawrence DE. APACHEacute physiology and chronic health evaluation: a physiologically based classification system. Crit Care Med. 1981;9:591–7.",
         "metadata": {
@@ -2381,12 +3013,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40353,
+            "markdown_end": 40545,
+            "markdown_line_start": 504,
+            "markdown_line_end": 504
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "17. Bingham CO 3rd, Sebba AI, Rubin BR, Ruoff GE, Kremer J, Bird S, Smugar SS, Fitzgerald BJ, O'Brien K, Tershakovec AM. Efficacy and safety of etoricoxib 30 mg and celecoxib 200 mg in the treatment of osteoarthritis in two identically designed, randomized, placebo-controlled, non-inferiority studies. Rheumatology. 2007;46:496–507.",
         "metadata": {
@@ -2396,12 +3032,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40548,
+            "markdown_end": 40881,
+            "markdown_line_start": 506,
+            "markdown_line_end": 506
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "18. Lin L, Chen CZ, Yu XD. The analysis of threshold effect using empower stats software. Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi. 2013;34:1139–41.",
         "metadata": {
@@ -2411,12 +3051,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40884,
+            "markdown_end": 41057,
+            "markdown_line_start": 508,
+            "markdown_line_end": 508
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2019/images/Zhang_2019.pdf-0010-07.png)",
         "metadata": {
@@ -2426,12 +3070,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41061,
+            "markdown_end": 41130,
+            "markdown_line_start": 511,
+            "markdown_line_end": 511
         }
     },
     {
         "source_id": "Zhang_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2019.pdf-0010-07.png)**\n> **Category:** `OTHER` | **Summary:** Promotional graphic for BMC research submission\n> \n> The image is a promotional graphic for BMC, a platform for submitting research. It includes a list of benefits for choosing BMC for research submission, such as fast online submission, peer review, rapid publication, support for complex data, Open Access benefits, and high visibility. The text is black on a white background, and there is a BMC logo at the bottom right corner. The logo comprises two blue-green geometric shapes and the text 'BMC.' Contact information is provided at the bottom, directing to biomedcentral.com/submissions.\n> \n> **Key Findings:**\n> - BMC offers fast and convenient online submission.\n> - Peer review by experienced researchers.\n> - Rapid publication upon acceptance.\n> - Support for data types including large and complex data.\n> - Open Access options for wider collaboration and increased citations.\n> - Over 100M website views per year for maximum visibility.\n<!-- analyzed_Zhang_2019.pdf-0010-07.png -->",
         "metadata": {
@@ -2441,7 +3089,11 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41132,
+            "markdown_end": 42233,
+            "markdown_line_start": 513,
+            "markdown_line_end": 526
         }
     }
 ]

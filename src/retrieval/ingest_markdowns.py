@@ -66,13 +66,46 @@ def load_chunks_from_json(json_path: Path) -> List[dict]:
         metadata.setdefault("chunk_index", index)
         metadata.setdefault("chunk_count", chunk_count)
         metadata.setdefault("parent_source_id", source_id)
+        raw_content = str(chunk.get("raw_content") or "")
+
+        # Extract simple numeric facts from the chunk text for provenance and deterministic answers
+        extracted_facts: List[dict] = []
+        try:
+            # percent matches e.g. '44%', '44.4 %'
+            for m in re.finditer(r"\b(\d{1,3}(?:\.\d+)?)\s*%\b", raw_content):
+                value = float(m.group(1))
+                extracted_facts.append({
+                    "type": "percentage",
+                    "value": value,
+                    "unit": "%",
+                    "text": m.group(0),
+                    "start": m.start(),
+                    "end": m.end(),
+                })
+            # plain numeric matches (integers/floats) near keywords
+            for m in re.finditer(r"\b(\d{1,6}(?:\.\d+)?)\b", raw_content):
+                # capture small numbers as counts; leave disambiguation to verifier
+                value = float(m.group(1))
+                extracted_facts.append({
+                    "type": "number",
+                    "value": value,
+                    "unit": None,
+                    "text": m.group(0),
+                    "start": m.start(),
+                    "end": m.end(),
+                })
+        except Exception:
+            # fall back to empty list on any unexpected parsing error
+            extracted_facts = []
+
         chunks.append(
             {
                 "source_id": str(chunk.get("source_id") or source_id),
                 "page_number": _coerce_page_number(chunk.get("page_number", 1)),
                 "content_type": str(chunk.get("content_type") or "text"),
-                "raw_content": str(chunk.get("raw_content") or ""),
+                "raw_content": raw_content,
                 "metadata": metadata,
+                "extracted_facts": extracted_facts,
             }
         )
     return chunks

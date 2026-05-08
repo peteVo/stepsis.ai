@@ -141,6 +141,7 @@ class IngestionHandler:
                             "coordinates": record.chunk.metadata.get("coordinates"),
                             "study_name": record.chunk.metadata.get("study_name"),
                             "population": record.chunk.metadata.get("population"),
+                            "extracted_facts": getattr(record.chunk, "extracted_facts", []),
                         },
                     }
                 )

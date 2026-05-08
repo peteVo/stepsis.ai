@@ -35,6 +35,7 @@ class HybridSearchService:
         ranked = self._merge_results(records, keyword_matches, semantic_matches)
         preliminary_output: List[RetrievedChunk] = []
         for rank, item in enumerate(ranked[: config.reranker_top_k], start=1):
+            extracted_facts = getattr(item["record"].chunk, "extracted_facts", [])
             preliminary_output.append(
                 RetrievedChunk(
                     rank=rank,
@@ -47,7 +48,7 @@ class HybridSearchService:
                     source_id=item["record"].chunk.source_id,
                     page_number=item["record"].chunk.page_number,
                     content_type=item["record"].chunk.content_type,
-                    metadata=item["record"].chunk.metadata,
+                    metadata={**item["record"].chunk.metadata, "extracted_facts": extracted_facts},
                 )
             )
 
@@ -144,14 +145,19 @@ class HybridSearchService:
     def _record_from_payload(point_id: str, payload: Dict) -> IngestedRecord:
         from src.retrieval.models.schemas import IngestionChunk
 
+        extracted_facts = payload.get("extracted_facts", [])
+        metadata = dict(payload.get("metadata", {}) or {})
+        metadata.setdefault("extracted_facts", extracted_facts)
+
         chunk = IngestionChunk.model_validate(
             {
                 "source_id": payload.get("source_id", "unknown"),
                 "page_number": payload.get("page_number", 0),
                 "content_type": payload.get("content_type", "text"),
                 "raw_content": payload.get("raw_content", ""),
-                "metadata": payload.get("metadata", {}),
+                "metadata": metadata,
                 "extracted_keywords": payload.get("keywords", []),
+                "extracted_facts": extracted_facts,
             }
         )
         return IngestedRecord(

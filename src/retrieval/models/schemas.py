@@ -11,6 +11,8 @@ class IngestionChunk(BaseModel):
     raw_content: str
     metadata: Dict[str, Any] = Field(default_factory=dict)
     extracted_keywords: List[str] = Field(default_factory=list)
+    # Extracted numeric facts (e.g. percentages, counts) with provenance inside the chunk
+    extracted_facts: List[Dict[str, Any]] = Field(default_factory=list)
 
 
 class IngestionResponse(BaseModel):

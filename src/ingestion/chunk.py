@@ -9,6 +9,7 @@ from pathlib import Path
 def chunk_markdown_to_json(md_text, source_id):
     chunks = []
     current_header = "Abstract/Metadata" # Default starting header
+    search_cursor = 0
     
     # Split the markdown into blocks based on double newlines
     blocks = md_text.split('\n\n')
@@ -17,32 +18,44 @@ def chunk_markdown_to_json(md_text, source_id):
         block = block.strip()
         if not block:
             continue
+
+        # Track provenance in the extracted markdown. This is deterministic and
+        # survives re-chunking because it is derived from the markdown text itself.
+        block_start = md_text.find(block, search_cursor)
+        if block_start < 0:
+            block_start = md_text.find(block)
+        block_end = block_start + len(block) if block_start >= 0 else -1
+        if block_start >= 0:
+            search_cursor = block_end
+
+        line_start = md_text.count('\n', 0, block_start) + 1 if block_start >= 0 else None
+        line_end = md_text.count('\n', 0, block_end) + 1 if block_end >= 0 else None
             
         # 1. Detect Headers (Update the current section metadata)
         if block.startswith('#'):
             match = re.match(r'^#+\s+\*?\*?(.*?)\*?\*?$', block)
             if match:
                 current_header = match.group(1).strip()
-            chunks.append(create_chunk(source_id, "text", block, current_header))
+            chunks.append(create_chunk(source_id, "text", block, current_header, block_start, block_end, line_start, line_end))
             continue
 
         # 2. Detect Tables
         if block.startswith('|') and '-|' in block:
-            chunks.append(create_chunk(source_id, "table", block, current_header))
+            chunks.append(create_chunk(source_id, "table", block, current_header, block_start, block_end, line_start, line_end))
             continue
             
         # 3. Detect AI Visual Analysis
         if block.startswith('> [!IMPORTANT]'):
-            chunks.append(create_chunk(source_id, "image_analysis", block, current_header))
+            chunks.append(create_chunk(source_id, "image_analysis", block, current_header, block_start, block_end, line_start, line_end))
             continue
 
         # 4. Standard Text
         if len(block) > 20: 
-            chunks.append(create_chunk(source_id, "text", block, current_header))
+            chunks.append(create_chunk(source_id, "text", block, current_header, block_start, block_end, line_start, line_end))
 
     return chunks
 
-def create_chunk(source_id, content_type, content, header):
+def create_chunk(source_id, content_type, content, header, markdown_start=None, markdown_end=None, line_start=None, line_end=None):
     """Helper to format the JSON exactly to your contract."""
     return {
         "source_id": source_id,
@@ -51,7 +64,11 @@ def create_chunk(source_id, content_type, content, header):
         "raw_content": content,
         "metadata": {
             "section_header": header,
-            "coordinates": [0, 0, 0, 0] 
+            "coordinates": [0, 0, 0, 0],
+            "markdown_start": markdown_start,
+            "markdown_end": markdown_end,
+            "markdown_line_start": line_start,
+            "markdown_line_end": line_end,
         }
     }
 
@@ -70,7 +87,21 @@ def process_single_md(md_path: Path):
 
     # --- SKIP LOGIC ---
     if json_out_path.exists():
-        return "skipped"
+        try:
+            existing = json.loads(json_out_path.read_text(encoding="utf-8"))
+            has_provenance = bool(
+                existing
+                and isinstance(existing, list)
+                and isinstance(existing[0], dict)
+                and isinstance(existing[0].get("metadata"), dict)
+                and "markdown_start" in existing[0]["metadata"]
+                and "markdown_end" in existing[0]["metadata"]
+            )
+            if has_provenance:
+                return "skipped"
+        except Exception:
+            # If the file is malformed or unreadable, regenerate it.
+            pass
     # ------------------
 
     try:

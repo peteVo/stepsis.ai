@@ -1,7 +1,7 @@
 [
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Journal of _**Clinical Medicine**_",
         "metadata": {
@@ -11,12 +11,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 0,
+            "markdown_end": 34,
+            "markdown_line_start": 1,
+            "markdown_line_end": 1
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Cilloniz_2019/images/Cilloniz_2019.pdf-0001-01.png)",
         "metadata": {
@@ -26,12 +30,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38,
+            "markdown_end": 113,
+            "markdown_line_start": 4,
+            "markdown_line_end": 4
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Cilloniz_2019.pdf-0001-01.png)**\n> **Category:** `OTHER` | **Summary:** Stethoscope Icon\n> \n> The image shows a simple illustration of a stethoscope icon on a dark teal background. The stethoscope is depicted in a lighter teal color, creating a contrast against the background. The design is minimalistic and represents a medical tool.\n> \n> **Key Findings:**\n> - Commonly used in medical and healthcare contexts\n<!-- analyzed_Cilloniz_2019.pdf-0001-01.png -->",
         "metadata": {
@@ -41,12 +49,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 115,
+            "markdown_end": 613,
+            "markdown_line_start": 6,
+            "markdown_line_end": 14
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Cilloniz_2019/images/Cilloniz_2019.pdf-0001-02.png)",
         "metadata": {
@@ -56,12 +68,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 619,
+            "markdown_end": 694,
+            "markdown_line_start": 20,
+            "markdown_line_end": 20
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Cilloniz_2019.pdf-0001-02.png)**\n> **Category:** `OTHER` | **Summary:** MDPI Logo\n> \n> The image shows the MDPI logo, which includes the letters 'MDPI' in bold uppercase font, accompanied by a stylized geometric design resembling a house or architectural structure. The design is outlined in blue on a white background.\n<!-- analyzed_Cilloniz_2019.pdf-0001-02.png -->",
         "metadata": {
@@ -71,12 +87,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 696,
+            "markdown_end": 1102,
+            "markdown_line_start": 22,
+            "markdown_line_end": 27
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _Article_",
         "metadata": {
@@ -86,12 +106,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1107,
+            "markdown_end": 1119,
+            "markdown_line_start": 32,
+            "markdown_line_end": 32
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Risk and Prognostic Factors in Very Old Patients with Sepsis Secondary to Community-Acquired Pneumonia**",
         "metadata": {
@@ -101,12 +125,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1122,
+            "markdown_end": 1231,
+            "markdown_line_start": 34,
+            "markdown_line_end": 34
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Catia Cillóniz[1,2,3,] *[,]**[†] **, Cristina Dominedò[4,]**[†] **, Antonella Ielpo[5] , Miquel Ferrer[1,2,3] , Albert Gabarrús[1,2,3] , Denise Battaglini[6] , Jesús Bermejo-Martin[7] , Andrea Meli[8] , Carolina García-Vidal[9] , Adamanthia Liapikou[10] , Mervyn Singer[11] and Antoni Torres[1,2,3,] ***",
         "metadata": {
@@ -116,12 +144,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1234,
+            "markdown_end": 1539,
+            "markdown_line_start": 36,
+            "markdown_line_end": 36
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 1 Department of Pneumology, Hospital Clinic of Barcelona, 08036 Barcelona, Spain",
         "metadata": {
@@ -131,12 +163,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1542,
+            "markdown_end": 1624,
+            "markdown_line_start": 38,
+            "markdown_line_end": 38
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 2 August Pi i Sunyer Biomedical Research Institute–IDIBAPS, University of Barcelona, 08036 Barcelona, Spain",
         "metadata": {
@@ -146,12 +182,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1627,
+            "markdown_end": 1736,
+            "markdown_line_start": 40,
+            "markdown_line_end": 40
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 3 Biomedical Research Networking Centres in Respiratory Diseases (Ciberes), 28029 Madrid, Spain",
         "metadata": {
@@ -161,12 +201,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1739,
+            "markdown_end": 1836,
+            "markdown_line_start": 42,
+            "markdown_line_end": 42
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 4 Department of Anesthesiology and Intensive Care Medicine, Fondazione Policlinico Universitario A. Gemelli, Università Cattolica del Sacro Cuore, 00168 Rome, Italy",
         "metadata": {
@@ -176,12 +220,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1839,
+            "markdown_end": 2005,
+            "markdown_line_start": 44,
+            "markdown_line_end": 44
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 5 Departments of Medicine and Surgery, Respiratory Disease and Lung Function Unit, University of Parma, 43121 Parma, Italy",
         "metadata": {
@@ -191,12 +239,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2008,
+            "markdown_end": 2132,
+            "markdown_line_start": 46,
+            "markdown_line_end": 46
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 6 Department of Surgical Sciences and Integrated Diagnostic, Policlinico San Martino, University of Genova, 16126 Genova, Italy",
         "metadata": {
@@ -206,12 +258,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2135,
+            "markdown_end": 2264,
+            "markdown_line_start": 48,
+            "markdown_line_end": 48
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 7 Group for Biomedical Research in Sepsis (Bio Sepsis), Hospital Clínico Universitario de Valladolid/IECSCYL, Av. Ramón y Cajal, 3, 47003 Valladolid, Spain",
         "metadata": {
@@ -221,12 +277,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2267,
+            "markdown_end": 2424,
+            "markdown_line_start": 50,
+            "markdown_line_end": 50
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 8 Department of Anesthesia and Intensive Care, University of Milan, 20122 Milan, Italy",
         "metadata": {
@@ -236,12 +296,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2427,
+            "markdown_end": 2515,
+            "markdown_line_start": 52,
+            "markdown_line_end": 52
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 9 Infectious Diseases Department, Hospital Clinic of Barcelona, 08036 Barcelona, Spain",
         "metadata": {
@@ -251,12 +315,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2518,
+            "markdown_end": 2606,
+            "markdown_line_start": 54,
+            "markdown_line_end": 54
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 10 Respiratory Department, Sotiria Chest Diseases Hospital, Mesogion 152, 11527 Athens, Greece",
         "metadata": {
@@ -266,12 +334,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2609,
+            "markdown_end": 2705,
+            "markdown_line_start": 56,
+            "markdown_line_end": 56
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 11 Bloomsbury Institute of Intensive Care Medicine, Division of Medicine, University College London, Cruciform Building, Gower St, London WC1E 6BT, UK",
         "metadata": {
@@ -281,12 +353,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2708,
+            "markdown_end": 2860,
+            "markdown_line_start": 58,
+            "markdown_line_end": 58
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- Correspondence: catiacilloniz@yahoo.com (C.C.); atorres@clinic.cat (A.T.); Tel.: +34-93-227-5779 (A.T.); Fax: +34-93-227-9813 (A.T.)",
         "metadata": {
@@ -296,12 +372,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2863,
+            "markdown_end": 2997,
+            "markdown_line_start": 60,
+            "markdown_line_end": 60
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- These authors contributed equally to this study.",
         "metadata": {
@@ -311,12 +391,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3000,
+            "markdown_end": 3050,
+            "markdown_line_start": 62,
+            "markdown_line_end": 62
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Received: 14 May 2019; Accepted: 1 July 2019; Published: 2 July 2019",
         "metadata": {
@@ -326,12 +410,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3053,
+            "markdown_end": 3124,
+            "markdown_line_start": 64,
+            "markdown_line_end": 64
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "��������� **�������**",
         "metadata": {
@@ -341,12 +429,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3127,
+            "markdown_end": 3148,
+            "markdown_line_start": 66,
+            "markdown_line_end": 66
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Abstract: Background** : Little is known about risk and prognostic factors in very old patients developing sepsis secondary to community-acquired pneumonia (CAP). **Methods** : We conducted a retrospective observational study of data prospectively collected at the Hospital Clinic of Barcelona over a 13-year period. Consecutive patients hospitalized with CAP were included if they were very old (≥80 years) and divided into those with and without sepsis for comparison. Sepsis was diagnosed based on the Sepsis-3 criteria. The main clinical outcome was 30-day mortality. **Results** : Among the 4219 patients hospitalized with CAP during the study period, 1238 (29%) were very old. The prevalence of sepsis in this age group was 71%. Male sex, chronic renal disease, and diabetes mellitus were independent risk factors for sepsis, while antibiotic therapy before admission was independently associated with a lower risk of sepsis. Thirty-day and intensive care unit (ICU) mortality did not differ between patients with and without sepsis. In CAP-sepsis group, chronic renal disease and neurological disease were independent risk factors for 30-day mortality. **Conclusion** : In very old patients hospitalized with CAP, in-hospital and 1-year mortality rates were increased if they developed sepsis. Antibiotic therapy before hospital admission was associated with a lower risk of sepsis.",
         "metadata": {
@@ -356,12 +448,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3151,
+            "markdown_end": 4542,
+            "markdown_line_start": 68,
+            "markdown_line_end": 68
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Keywords:** sepsis; community-acquired pneumonia; very old; pneumonia",
         "metadata": {
@@ -371,12 +467,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4545,
+            "markdown_end": 4616,
+            "markdown_line_start": 70,
+            "markdown_line_end": 70
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961; doi:10.3390/jcm8070961",
         "metadata": {
@@ -386,12 +486,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4619,
+            "markdown_end": 4679,
+            "markdown_line_start": 72,
+            "markdown_line_end": 72
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "www.mdpi.com/journal/jcm",
         "metadata": {
@@ -401,12 +505,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4682,
+            "markdown_end": 4706,
+            "markdown_line_start": 74,
+            "markdown_line_end": 74
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961",
         "metadata": {
@@ -416,12 +524,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4709,
+            "markdown_end": 4745,
+            "markdown_line_start": 76,
+            "markdown_line_end": 76
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **1. Introduction**",
         "metadata": {
@@ -431,12 +543,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4758,
+            "markdown_end": 4780,
+            "markdown_line_start": 80,
+            "markdown_line_end": 80
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Community-acquired pneumonia (CAP) is a major health problem in the elderly, being associated with high rates of readmission, morbidity, and mortality [1–3]. In the elderly, CAP worsens pre-existing comorbidities, and these interact to impact upon the clinical evolution of infection. The number of people aged ≥80 years has increased rapidly in Europe [4]. Rates of intensive care unit (ICU) admission have also increased for patients in this age group [5,6] and now account for approximately 10% of all ICU admissions in Europe [7,8].",
         "metadata": {
@@ -446,12 +562,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4783,
+            "markdown_end": 5319,
+            "markdown_line_start": 82,
+            "markdown_line_end": 82
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis is a frequent complication of CAP [9]. However, this is a multifactorial process that requires staging to ensure treatments that target the needs of the individual patient [10]. A recent multicenter study found that age was an independent risk factor for mortality in sepsis, with prompt therapy provided within the first six hours of resuscitation being associated with a mortality decrease in very elderly (≥80 years) patients [11]. In a Spanish multicenter cohort study of 4070 patients hospitalized with CAP, 38% presented with severe sepsis (i.e., organ dysfunction) [9], for which age ≥65 years, chronic obstructive pulmonary disease, renal disease, and alcohol abuse were independent risk factors. Conversely, prior antibiotic therapy and diabetes mellitus were protective. Despite the increased risk of infectious disease due to age-related vulnerability, there is a scarcity of data on sepsis in very old patients with CAP [12].",
         "metadata": {
@@ -461,12 +581,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5322,
+            "markdown_end": 6266,
+            "markdown_line_start": 84,
+            "markdown_line_end": 84
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "We thus aimed to determine risk and prognosis factors associated with sepsis, as defined according to the Sepsis-3 criteria [10], in very old (≥80 years) patients hospitalized with CAP in comparison to their peers admitted without evidence of sepsis, and to investigate clinical outcomes.",
         "metadata": {
@@ -476,12 +600,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6269,
+            "markdown_end": 6557,
+            "markdown_line_start": 86,
+            "markdown_line_end": 86
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **2. Methods**",
         "metadata": {
@@ -491,12 +619,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6560,
+            "markdown_end": 6577,
+            "markdown_line_start": 88,
+            "markdown_line_end": 88
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _2.1. Study Design and Patients_",
         "metadata": {
@@ -506,12 +638,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6580,
+            "markdown_end": 6615,
+            "markdown_line_start": 90,
+            "markdown_line_end": 90
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This was a retrospective observational study of prospectively collected data from the Hospital Clinic of Barcelona, Spain. We enrolled all consecutive adult patients with a diagnosis of CAP admitted to hospital via the emergency department between January 2005 and December 2017. We included patients from nursing homes, as we previously demonstrated that the microbial etiology in this population is similar to that of CAP arising in people living in their own homes [13]. Among all patients with CAP, we selected those aged ≥80 years and compared those with and without sepsis. We excluded patients with severe immunosuppression, such as human immunodeficiency viral infection, active solid or hematologic malignancy treated with chemotherapy, oral corticosteroid treatment with at least 20 mg prednisone (or equivalent) per day for at least two weeks, and treatment with other immunosuppressive drugs. We also excluded those with active tuberculosis or a confirmed alternative diagnosis.",
         "metadata": {
@@ -521,12 +657,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6618,
+            "markdown_end": 7608,
+            "markdown_line_start": 92,
+            "markdown_line_end": 92
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "For publication purposes, the study was approved by the ethics committee of our institution (Comité Ètic d’Investigació Clínica, register: 2009/5451). The need for written informed consent was waived because of the non-interventional study design.",
         "metadata": {
@@ -536,12 +676,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7611,
+            "markdown_end": 7858,
+            "markdown_line_start": 94,
+            "markdown_line_end": 94
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _2.2. Definitions_",
         "metadata": {
@@ -551,12 +695,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7861,
+            "markdown_end": 7882,
+            "markdown_line_start": 96,
+            "markdown_line_end": 96
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Very old patients were defined as those aged 80 years and above [5]. Pneumonia (CAP) was defined as a new pulmonary infiltrate on chest X-ray during hospital admission with symptoms and signs of a lower respiratory tract infection. Severe CAP was diagnosed by the presence of at least one major or three minor criteria of the Infectious Disease Society of America/American Thoracic Society (IDSA/ATS) guidelines [14]. Polymicrobial pneumonia was defined as pneumonia due to more than one pathogen.",
         "metadata": {
@@ -566,12 +714,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7885,
+            "markdown_end": 8382,
+            "markdown_line_start": 98,
+            "markdown_line_end": 98
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Prior antibiotic treatment was defined as antibiotic intake during the week before hospital admission. The appropriateness of empiric antibiotic treatment was determined according to multidisciplinary guidelines for the management of CAP [15].",
         "metadata": {
@@ -581,12 +733,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8385,
+            "markdown_end": 8628,
+            "markdown_line_start": 100,
+            "markdown_line_end": 100
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961",
         "metadata": {
@@ -596,12 +752,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8631,
+            "markdown_end": 8667,
+            "markdown_line_start": 102,
+            "markdown_line_end": 102
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis was defined according to the criteria of the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) as the presence of pneumonia and an increase ≥2 points in the Sequential Organ Failure Assessment (SOFA) score [10]. The presence of sepsis was evaluated at hospital admission when diagnosing CAP. The presence of an acute respiratory distress syndrome (ARDS) was evaluated within the first 24 h of hospital admission based on the Berlin definition [16].",
         "metadata": {
@@ -611,12 +771,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8680,
+            "markdown_end": 9166,
+            "markdown_line_start": 106,
+            "markdown_line_end": 106
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _2.3. Data Collection, Evaluation, and Microbiological Diagnosis_",
         "metadata": {
@@ -626,12 +790,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9169,
+            "markdown_end": 9237,
+            "markdown_line_start": 108,
+            "markdown_line_end": 108
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Demographic variables, comorbidities, and physiologic parameters were collected in the Emergency Department within 24 h of admission. The Pneumonia Severity Index (PSI), CURB-65 score (i.e., confusion, urea nitrogen, respiratory rate, blood pressure, and age ≥65 years,) and SOFA score at admission were calculated [17–19]. During hospitalization, we recorded whether the patients had specific complications, including multilobar infiltration, pleural effusions, ARDS [16], septic shock [20], and acute renal failure [21]. Further details are reported elsewhere [22]. All surviving patients were visited or contacted by telephone 30 days after discharge, and the hospital records and the database of Catalunya Health Department reviewed at one year. The criteria for etiological diagnosis are described elsewhere [22,23] and in Supplementary Data.",
         "metadata": {
@@ -641,12 +809,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9240,
+            "markdown_end": 10087,
+            "markdown_line_start": 110,
+            "markdown_line_end": 110
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _2.4. Outcomes_",
         "metadata": {
@@ -656,12 +828,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10090,
+            "markdown_end": 10108,
+            "markdown_line_start": 112,
+            "markdown_line_end": 112
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The primary outcome was 30-day mortality. Secondary outcomes were in-hospital mortality, 1-year mortality, ICU admission, ICU mortality, and need for mechanical ventilation.",
         "metadata": {
@@ -671,12 +847,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10111,
+            "markdown_end": 10284,
+            "markdown_line_start": 114,
+            "markdown_line_end": 114
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _2.5. Statistical Analysis_",
         "metadata": {
@@ -686,12 +866,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10287,
+            "markdown_end": 10317,
+            "markdown_line_start": 116,
+            "markdown_line_end": 116
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Numbers and percentages are reported for categorical variables, medians and interquartile ranges (IQRs) for continuous variables with non-normal distributions, and means and standard deviations (SDs) for those continuous variables with a normal distribution. Categorical variables were compared using the χ[2] test or Fisher exact test, whereas continuous variables were compared using the _t_ -test or nonparametric Mann–Whitney _U_ test. Trends in associated factors were analyzed using the Mantel–Hansel test or linear regression for categorical and continuous variables, respectively.",
         "metadata": {
@@ -701,12 +885,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10320,
+            "markdown_end": 10908,
+            "markdown_line_start": 118,
+            "markdown_line_end": 118
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Logistic regression analyses [24] were used to examine associations between sepsis and risk factors. In the first step, each risk factor was tested individually. In the second step, all risk factors showing an association in the univariate model ( _p_ < 0.10) were added to multivariable models. Finally, a backward stepwise selection ( _p_ in < 0.05, _p_ out > 0.10) was used to determine factors associated with sepsis [25]. The Hosmer–Lemeshow goodness-of-fit test was performed to assess the overall fit of the final model. Generalized linear model analyses [26] were then performed to determine the influence of the identified risk factors on 30-day mortality in patients with sepsis. Models were defined by a binomial probability distribution and a logit link function, using inverse probability of treatment weights [27] to account for biases due to observed confounders. First, each risk factor was tested individually. Second, a propensity score was developed for patients with sepsis, irrespective of the outcome, by using multivariate logistic regression to predict the influence of 15 predetermined variables on the presence of sepsis. Variables were chosen for inclusion in the propensity score calculation based on previously described methods [28]. Variables associated with sepsis and outcome were included (e.g., gender, smoking status, alcohol consumption, influenza vaccine, pneumococcal vaccine, previous inhaled corticosteroids, previous systemic corticosteroids, previous antibiotic within a week of admission, chronic pulmonary disease, chronic cardiovascular disease, chronic renal disease, chronic liver disease, chronic neurological disease, diabetes mellitus, and nursing home residency). The propensity score then informed the weight in the inverse probability of treatment weighting. Finally, the weighting and year of admission were incorporated into the multivariable (weighted) logistic regression model of 30-day mortality. Risk factors that showed an association in the univariate analyses ( _p_ < 0.10) were identified after a stepwise backward elimination procedure in which non-significant variables were dropped until no further improvement of the Akaike’s Information Criterion was achieved [29].",
         "metadata": {
@@ -716,12 +904,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10911,
+            "markdown_end": 13146,
+            "markdown_line_start": 120,
+            "markdown_line_end": 120
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961",
         "metadata": {
@@ -731,12 +923,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13149,
+            "markdown_end": 13185,
+            "markdown_line_start": 122,
+            "markdown_line_end": 122
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Multi-collinearity was checked by calculating the variance inflation factor. Odds ratios (ORs) and their 95% confidence intervals (CIs) were then calculated. The area under the receiver operating characteristic (ROC) curve was calculated for the ability to predict sepsis and 30-day mortality, using significant variables derived from the respective logistic regression models. To avoid confounding, patients with do-not-resuscitate (DNR) orders were not included in the evaluation of mortality outcome [30].",
         "metadata": {
@@ -746,12 +942,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13198,
+            "markdown_end": 13706,
+            "markdown_line_start": 126,
+            "markdown_line_end": 126
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Possible overfitting and instability of the selection variables in the final model were measured by internal validation using ordinary nonparametric bootstrapping with 1000 bootstrap samples and bias-corrected accelerated 95% CIs [31]. A multiple imputation method [32] was sued for missing data in the multivariable analyses.",
         "metadata": {
@@ -761,12 +961,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13709,
+            "markdown_end": 14035,
+            "markdown_line_start": 128,
+            "markdown_line_end": 128
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Unless otherwise stated, the level of significance was two-tailed and set at 0.05. All analyses were performed using IBM SPSS Version 23.0 (IBM Corp., Armonk, New York, USA).",
         "metadata": {
@@ -776,12 +980,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14038,
+            "markdown_end": 14212,
+            "markdown_line_start": 130,
+            "markdown_line_end": 130
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **3. Results**",
         "metadata": {
@@ -791,12 +999,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14215,
+            "markdown_end": 14232,
+            "markdown_line_start": 132,
+            "markdown_line_end": 132
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _3.1. Overall Population_",
         "metadata": {
@@ -806,12 +1018,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14235,
+            "markdown_end": 14263,
+            "markdown_line_start": 134,
+            "markdown_line_end": 134
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In total, 4219 patients with CAP were admitted to our hospital during the study period, with 2981 excluded from the final analysis (Figure 1). The study population therefore comprised 1238 very old patients with CAP. Additional data regarding the differences between old (age 65–79 years) and very old patients (≥80 years) are shown in Table S1, between patients from nursing homes and their own homes in Table S2, between those admitted and not admitted to ICU in Table S3, and between those with and without septic shock in Table S4. The rates of sepsis by three-year admission epochs are shown in Figure S1",
         "metadata": {
@@ -821,12 +1037,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14266,
+            "markdown_end": 14875,
+            "markdown_line_start": 136,
+            "markdown_line_end": 136
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Cilloniz_2019/images/Cilloniz_2019.pdf-0004-08.png)",
         "metadata": {
@@ -836,12 +1056,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14879,
+            "markdown_end": 14954,
+            "markdown_line_start": 139,
+            "markdown_line_end": 139
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Cilloniz_2019.pdf-0004-08.png)**\n> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** Flowchart analyzing patients with CAP at Hospital Clinic of Barcelona\n> \n> The flowchart depicts the process of analyzing patients with community-acquired pneumonia (CAP) admitted to the Hospital Clinic of Barcelona. It begins with 4219 patients, with a box stating that 2981 were excluded due to being younger than 80, having active tuberculosis, HIV infection, or receiving outpatient care. The remaining 1238 elderly patients were analyzed, resulting in two categories: 358 patients with no sepsis and 880 patients with sepsis. The diagram uses simple rectangular boxes connected by lines, with a white background and black text.\n> \n> **Key Findings:**\n> - 4219 patients with CAP admitted\n> - 2981 patients excluded based on criteria\n> - 1238 patients aged 80 or above analyzed\n> - 358 patients with no sepsis\n> - 880 patients with sepsis\n<!-- analyzed_Cilloniz_2019.pdf-0004-08.png -->",
         "metadata": {
@@ -851,12 +1075,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14956,
+            "markdown_end": 15967,
+            "markdown_line_start": 141,
+            "markdown_line_end": 153
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Figure 1.** Flow chart of the study population.",
         "metadata": {
@@ -866,12 +1094,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15972,
+            "markdown_end": 16021,
+            "markdown_line_start": 158,
+            "markdown_line_end": 158
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _3.2. Comparison of Very Old Patients With and Without Sepsis_",
         "metadata": {
@@ -881,12 +1113,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16024,
+            "markdown_end": 16089,
+            "markdown_line_start": 160,
+            "markdown_line_end": 160
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Of the 1238 very old patients with CAP, 880 (71%) had sepsis. Table 1 summarizes the demographic and clinical characteristics of patients by the presence or absence of sepsis.",
         "metadata": {
@@ -896,12 +1132,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16092,
+            "markdown_end": 16267,
+            "markdown_line_start": 162,
+            "markdown_line_end": 162
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961",
         "metadata": {
@@ -911,12 +1151,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16270,
+            "markdown_end": 16306,
+            "markdown_line_start": 164,
+            "markdown_line_end": 164
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Table 1.** Characteristics of very old (≥80 years) patients by the presence or absence of sepsis.",
         "metadata": {
@@ -926,12 +1170,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16319,
+            "markdown_end": 16418,
+            "markdown_line_start": 168,
+            "markdown_line_end": 168
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "||**Sepsis**|**Sepsis**||\n|---|---|---|---|\n|**Variable**|**No**<br>**(****_N_** =**358)**|**Yes**<br>**(****_N_** =**880)**|**_P_-Value**|\n|Age, mean (SD), years|86.6 (5.0)|85.9 (4.5)|0.030|\n|Male sex,_n_(%)|155 (43)|531 (60)|<0.001|\n|Current smoker,_n_(%)|10 (3)|45 (5)|0.081|\n|Current alcohol user,_n_(%)|19 (6)|57 (7)|0.47|\n|Previous antibiotic in last week,_n_(%)|98 (30)|190 (23)|0.020|\n|Infuenza vaccine,_n_(%)|184 (63)|468 (64)|0.89|\n|Pneumococcal vaccine,_n_(%)|72 (25)|185 (25)|>0.99|\n|Previous inhaled corticosteroids,_n_(%)|62 (18)|185 (22)|0.19|\n|Previous systemic corticosteroids,_n_(%)|12 (3)|43 (5)|0.24|\n|Fever,_n_(%)|231 (69)|569 (66)|0.72|\n|Pleuritic pain,_n_(%)|91 (27)|177 (21)|0.021|\n|Dyspnea,_n_(%)|261 (76)|662 (77)|0.78|\n|Cough,_n_(%)|236 (69)|637 (74)|0.056|\n|Altered mental status,_n_(%)|64 (19)|295 (34)|0.001|\n|Prior pneumonia (last year),_n_(%)|33 (10)|131 (16)|0.011|\n|Comorbidities,_n_(%) a|275 (78)|710 (81)|0.28|\n|Chronic respiratory disease|127 (38)|344 (40)|0.42|\n|Chronic cardiovascular disease|67 (19)|191 (22)|0.28|\n|Diabetes mellitus|70 (20)|241 (28)|0.007|\n|Neurologic chronic disease|123 (36)|266 (31)|0.085|\n|Chronic renal disease|22 (6)|113 (13)|0.001|\n|Chronic liver disease|12 (3)|25 (3)|0.58|\n|Nursing home resident,_n_(%)|71 (20)|156 (18)|0.36|\n|Dyspnea,_n_(%)|261 (76)|662 (77)|0.78|\n|Pleuritic pain,_n_(%)|91 (27)|177 (21)|0.021|\n|Respiratory rate, median (IQR), breaths/min|24 (20; 30)|25 (22; 32)|0.017|\n|C-reactive protein, median (IQR), mg/dL|16.2 (8.5; 24.4)|16.2 (7.4; 25.9)|0.95|\n|Lymphocytes, median (IQR), cell/mm3|1002 (621; 1560)|888 (510; 1316)|0.002|\n|Neuthophils, median (IQR), cell/mm3|9840 (6708; 14,130)|10,218 (6596;15,136)|0.37|\n|PSI score, median (IQR)|107 (91; 127)|123.5 (104; 145)|<0.001|\n|PSI risk class IV–V,_n_(%) b|77 (78)|507 (92)|<0.001|\n|Severe CAP,_n_(%)|21 (11)|288 (45)|<0.001|\n|Bacteremia,_n_(%) c|19 (9)|79 (13)|0.086|\n|Pleural efusion,_n_(%)|42 (13)|110 (13)|0.90|\n|Multilobar appearance on CXR,_n_(%)|74 (21)|203 (23)|0.36|\n|Septic shock at admission,_n_(%)|0 (0)|61 (7)|<0.001|\n|Do-not-resuscitate order,_n_(%)|59 (18)|148 (18)|0.96|\n|Empiric antibiotic therapy,_n_(%)|-|-|-|\n|Monotherapy|145 (41)|310 (36)|0.072|\n|Fluoroquinolones|91 (26)|187 (21)|0.10|\n|β-lactams|53 (15)|120 (14)|0.57|\n|Other therapy|1 (0.3)|3 (0.3)|>0.99|\n|Combination therapies|208 (59)|561 (64)|0.072|\n|β-lactams plus macrolides|105 (30)|255 (29)|0.87|\n|β-lactams plus fuoroquinolones|70 (20)|227 (26)|0.021|\n|Other combination therapies|33 (9)|79 (9)|0.88|\n|Appropriate empiric treatment,_n_(%)|339 (97)|817 (96)|0.57|",
         "metadata": {
@@ -941,12 +1189,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16421,
+            "markdown_end": 19001,
+            "markdown_line_start": 170,
+            "markdown_line_end": 219
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Percentages calculated with non-missing data only.[a] May have >1 comorbid condition.[b] Stratified according to 30-day mortality risk for CAP: classes I–III (≤90 points) had low mortality risk while classes IV–V (>90 points) had the highest mortality risk.[c] Calculated only for patients with blood samples (215 patients in the no sepsis group and 594 patients in the sepsis group to calculate the percentages. Abbreviations: CAP, community-acquired pneumonia; IQR, interquartile range; PSI, Pneumonia Severity Index; SD, standard deviation; IQR inter-quartile range.",
         "metadata": {
@@ -956,12 +1208,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19005,
+            "markdown_end": 19574,
+            "markdown_line_start": 223,
+            "markdown_line_end": 223
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961",
         "metadata": {
@@ -971,12 +1227,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19577,
+            "markdown_end": 19613,
+            "markdown_line_start": 225,
+            "markdown_line_end": 225
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Compared to the no-sepsis group, the sepsis group was more likely to be younger, male, have diabetes mellitus and chronic renal disease, and have had pneumonia in the last year. They were less likely to have received previous antibiotic therapy. At admission, an uncommon presentation of pneumonia was frequently observed in patients with and without sepsis (Table 1). However, a lower percentage of pleuritic pain and a higher rate of altered mental status were observed in septic patients. Moreover, the sepsis group had lower lymphocyte counts at admission. Notably, 61 patients (7%) presented with septic shock at admission.",
         "metadata": {
@@ -986,12 +1246,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19626,
+            "markdown_end": 20254,
+            "markdown_line_start": 229,
+            "markdown_line_end": 229
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "A higher percentage of patients in the sepsis group was classified as PSI risk classes IV–V, and more experienced a higher rate of severe CAP compared with the no-sepsis group.",
         "metadata": {
@@ -1001,12 +1265,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20257,
+            "markdown_end": 20433,
+            "markdown_line_start": 231,
+            "markdown_line_end": 231
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "An etiologic diagnosis was achieved more often in the sepsis group (34% vs. 27%; _p_ = 0.01). Figure S2 shows no significant difference between the two groups in the distribution of identified pathogens. Seven cases (1%) of multidrug-resistant (MDR) pathogens were identified in the sepsis group (5 _P. aeruginosa_ ; 1 _P. aeruginosa_ , _S. aureus_ , and _S. pneumoniae_ ; and 1 caused by _P. aeruginosa_ and influenza virus A) compared with one case (0.2%) of an MDR pathogen ( _P. aeruginosa_ ) in the no-sepsis group.",
         "metadata": {
@@ -1016,12 +1284,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20436,
+            "markdown_end": 20956,
+            "markdown_line_start": 233,
+            "markdown_line_end": 233
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Data were available for empiric antibiotic treatment in 1224 (99%) patients. The most frequent regimens were ß-lactam plus macrolide (29%) or fluoroquinolone (24%). The sepsis group (26%) more often received fluoroquinolones plus ß-lactams than the no sepsis group (20%; _p_ = 0.021). Inappropriate empiric treatment rates were comparable (3% and 4%; _p_ = 0.57).",
         "metadata": {
@@ -1031,12 +1303,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20959,
+            "markdown_end": 21322,
+            "markdown_line_start": 235,
+            "markdown_line_end": 235
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _3.3. Risk Factors for Sepsis_",
         "metadata": {
@@ -1046,12 +1322,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21325,
+            "markdown_end": 21358,
+            "markdown_line_start": 237,
+            "markdown_line_end": 237
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The univariate logistic regression analyses identified several variables that were significantly associated with the development of sepsis in very old patients with CAP (Table 2).",
         "metadata": {
@@ -1061,12 +1341,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21361,
+            "markdown_end": 21540,
+            "markdown_line_start": 239,
+            "markdown_line_end": 239
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Table 2.** Significant risk factors for sepsis in the logistic regression analyses ( _n_ = 1238).",
         "metadata": {
@@ -1076,12 +1360,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21543,
+            "markdown_end": 21642,
+            "markdown_line_start": 241,
+            "markdown_line_end": 241
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|||**Univariate a**|||**Multivariable b,c**||\n|---|---|---|---|---|---|---|\n|**Variable**|**OR**|**95% CI**|**_P_-Value**|**OR**|**95% CI**|**_P_-Value**|\n|Male sex|1.97|1.54 to 2.53|<0.001|1.87|1.46 to 2.41|<0.001|\n|Smoking status d|-|-|<0.001|-|-|-|\n|Never smoker|1.00|-|-|-|-|-|\n|Current smoker|2.00|1.02 to 3.94|0.044|-|-|-|\n|Ex-smoker|1.58|1.21 to 2.06|0.001|-|-|-|\n|Previous antibiotic in last week|0.70|0.53 to 0.92|0.010|0.71|0.54 to 0.94|0.016|\n|Chronic renal disease|2.30|1.43 to 3.69|0.001|2.08|1.29 to 3.37|0.003|\n|Diabetes mellitus|1.52|1.13 to 2.04|0.006|1.42|1.05 to 1.92|0.024|\n|Neurological chronic disease|0.79|0.61 to 1.02|0.074|-|-|-|",
         "metadata": {
@@ -1091,12 +1379,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21645,
+            "markdown_end": 22299,
+            "markdown_line_start": 243,
+            "markdown_line_end": 254
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Data are shown as estimated ORs (95% CIs) of the explanatory variables in the sepsis group. OR is defined as the probability of being in the sepsis group divided by the probability of being in the no-sepsis group. The _P_ -values are based on the null hypothesis that all ORs relating to an explanatory variable equal unity (no effect).[a] The variables analyzed in the univariate analysis were as follows: gender, smoking status, alcohol consumption, influenza vaccine, pneumococcal vaccine, previous inhaled corticosteroids, previous systemic corticosteroids, previous antibiotic in last week, chronic pulmonary disease, chronic cardiovascular disease, chronic renal disease, chronic liver disease, diabetes mellitus, chronic neurologic disease, and nursing home residency.[b] Hosmer–Lemeshow goodness-of-fit test, _p_ = 0.86.[c] Predictors from the model can be used to calculate the probability of sepsis by the following formula: Exp(β)/(1 + Exp(β)), where β = 0.514 + 0.628 (in case of male) − 0.344 (in case of previous antibiotic) + 0.734 (in case of acute renal failure) + 0.349 (in case of diabetes mellitus). Using this model, the probability of sepsis for patients without any of three risk factors and with the protective factor was 54%, and 90% for patients showing all three risk factors and without the protective factor.[d] The _p_ -value corresponds to differences between the three groups (never smoker, current smoker, or ex-smoker). Abbreviations: CI, confidence interval; OR, odds ratio.",
         "metadata": {
@@ -1106,12 +1398,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22303,
+            "markdown_end": 23812,
+            "markdown_line_start": 258,
+            "markdown_line_end": 258
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In multivariable analysis, male sex, diabetes mellitus, and chronic renal disease were risk factors for sepsis, while the only protective factor was previous antibiotic therapy. The area under the ROC curve was 0.62 (95% CI 0.59 to 0.65) for the predictive model of sepsis. Internal validation of the final",
         "metadata": {
@@ -1121,12 +1417,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23815,
+            "markdown_end": 24121,
+            "markdown_line_start": 260,
+            "markdown_line_end": 260
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961",
         "metadata": {
@@ -1136,12 +1436,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24124,
+            "markdown_end": 24160,
+            "markdown_line_start": 262,
+            "markdown_line_end": 262
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "model was conducted using a bootstrapping procedure with 1000 samples and demonstrated robust results: all variables remained significant with small 95% CIs around the original coefficients.",
         "metadata": {
@@ -1151,12 +1455,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24173,
+            "markdown_end": 24363,
+            "markdown_line_start": 266,
+            "markdown_line_end": 266
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _3.4. Outcomes of Very Old Septic and Non-Septic Patients_",
         "metadata": {
@@ -1166,12 +1474,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24366,
+            "markdown_end": 24427,
+            "markdown_line_start": 268,
+            "markdown_line_end": 268
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Thirty-day and ICU mortality did not differ between the sepsis and no-sepsis groups (Table 3).",
         "metadata": {
@@ -1181,12 +1493,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24430,
+            "markdown_end": 24524,
+            "markdown_line_start": 270,
+            "markdown_line_end": 270
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Table 3.** Clinical outcomes according to sepsis.",
         "metadata": {
@@ -1196,12 +1512,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24527,
+            "markdown_end": 24578,
+            "markdown_line_start": 272,
+            "markdown_line_end": 272
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|||**Sepsis**|||\n|---|---|---|---|---|\n|**Variable**|**No**<br>**(****_N_** =**358)**||**Yes**<br>**(****_N_** =**880)**|**_P_-Value**|\n|Length of hospital stay, median (IQR), days|7 (6; 11)||8 (6; 13)|0.005|\n|In-hospital mortality,_n_(%)|32 (9)||129 (15)|0.006|\n|30-day mortality,_n_(%)|40 (11)||134 (15)|0.062|\n|One-year mortality,_n_(%)|56 (16)||190 (22)|0.013|\n|ICU admission,_n_(%)|17 (5)||119 (14)|<0.001|\n|ICU mortality,_n_(%) a|1 (6)||20 (17)|0.47|\n|Mechanical ventilation,_n_(%) b|-||-|<0.001|\n|Not ventilated|237 (99)||582 (89)|<0.001|\n|Non-invasive|1 (0.4)||38 (6)|<0.001|\n|Invasive|2 (1)||34 (5)|0.003|",
         "metadata": {
@@ -1211,12 +1531,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24581,
+            "markdown_end": 25195,
+            "markdown_line_start": 274,
+            "markdown_line_end": 286
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "> a Calculated only for patients admitted to the ICU (17 patients in the no sepsis group and 119 patients in the sepsis group were used to calculate the percentages).[b] Patients who received initially non-invasive ventilation but needed subsequently intubation were included in the invasive mechanical ventilation group. Abbreviations: ICU, intensive care unit; IQR, interquartile range.",
         "metadata": {
@@ -1226,12 +1550,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25199,
+            "markdown_end": 25587,
+            "markdown_line_start": 290,
+            "markdown_line_end": 290
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "However, in-hospital mortality and one-year mortality were significantly higher in the sepsis group who more frequently needed ICU admission, mechanical ventilation, and longer length of hospital stays.",
         "metadata": {
@@ -1241,12 +1569,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25590,
+            "markdown_end": 25792,
+            "markdown_line_start": 292,
+            "markdown_line_end": 292
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _3.5. Factors Associated with 30-Day Mortality in Patients with Sepsis_",
         "metadata": {
@@ -1256,12 +1588,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25795,
+            "markdown_end": 25869,
+            "markdown_line_start": 294,
+            "markdown_line_end": 294
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "For analysis of factors associated with 30-day mortality, we excluded the 61 patients with septic shock as previous studies have shown that septic shock was the main risk factor for mortality in patients with severe CAP [33,34]. We also excluded 207 patients from the sepsis group who had DNR orders and 68 with missing data regarding a DNR order (Table 4).",
         "metadata": {
@@ -1271,12 +1607,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25872,
+            "markdown_end": 26229,
+            "markdown_line_start": 296,
+            "markdown_line_end": 296
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In the propensity-adjusted multivariable analysis, chronic renal disease and neurologic disease were independently associated with increased 30-day mortality, while diabetes mellitus was independently associated with decreased 30-day mortality. The area under the ROC curve was 0.71 (95% CI 0.65–0.78) for the multivariable model of 30-day mortality. All variables remained significant after bootstrapping, with small 95% CIs around the original coefficients.",
         "metadata": {
@@ -1286,12 +1626,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26232,
+            "markdown_end": 26691,
+            "markdown_line_start": 298,
+            "markdown_line_end": 298
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961",
         "metadata": {
@@ -1301,12 +1645,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26694,
+            "markdown_end": 26730,
+            "markdown_line_start": 300,
+            "markdown_line_end": 300
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Table 4.** Significant risk factors for 30-day mortality in patients with sepsis in weighted logistic regression analyses ( _n_ = 640).",
         "metadata": {
@@ -1316,12 +1664,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26743,
+            "markdown_end": 26880,
+            "markdown_line_start": 304,
+            "markdown_line_end": 304
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|||**Univariate a**|||**Multivariable b**||\n|---|---|---|---|---|---|---|\n|**Variable**|**OR**|**95% CI**|**_P_-Value**|**OR**|**95% CI**|**_P_-Value**|\n|Chronic renal disease|2.60|1.40 to 4.83|0.003|2.57|1.35 to 4.89|0.004|\n|Diabetes mellitus|0.49|0.22 to 0.88|0.021|0.44|0.21 to 0.89|0.023|\n|Neurologic chronic disease|2.68|1.60 to 4.50|<0.001|2.80|1.62 to 4.85|<0.001|\n|Nursing home|2.19|1.21 to 3.94|<0.001|-|-|-|\n|PSI risk class IV–V|4.09|0.98 to 17.0|0.054|-|-|-|",
         "metadata": {
@@ -1331,12 +1683,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26883,
+            "markdown_end": 27352,
+            "markdown_line_start": 306,
+            "markdown_line_end": 313
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Data are shown as estimated ORs (95% CIs) of the explanatory variables in the 30-day mortality group. OR is defined as the probability of membership of the group 30-day mortality divided by the probability of membership of the non-30-day mortality group. The _P_ -value is based on the null hypothesis that all ORs relating to an explanatory variable equal unity (no effect).[a] The variables analyzed in the univariate analysis were: gender, smoking status, alcohol consumption, influenza vaccine, pneumococcal vaccine, previous inhaled corticosteroids, previous systemic corticosteroids, previous antibiotic in last week, chronic pulmonary disease, chronic cardiovascular disease, chronic renal disease, chronic liver disease, diabetes mellitus, neurological disease, nursing home residency, PSI risk class, C-reactive protein, lymphocytes, empiric antibiotic treatment, and appropriate empiric antibiotic treatment. b Summary statistics of the multivariable model: Pearson chi-square test, value/df = 0.82; AIC value = 163.06. Abbreviations: AIC, Akaike’s Information Criterion; CI, confidence interval; OR, odds ratio; PSI, Pneumonia Severity Index.",
         "metadata": {
@@ -1346,12 +1702,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27356,
+            "markdown_end": 28509,
+            "markdown_line_start": 317,
+            "markdown_line_end": 317
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **4. Discussion**",
         "metadata": {
@@ -1361,12 +1721,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28512,
+            "markdown_end": 28532,
+            "markdown_line_start": 319,
+            "markdown_line_end": 319
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "To the best of our knowledge, this is the first study to report on sepsis, as defined using the Sepsis-3 criteria [10], in very old patients with CAP, including the clinical characteristics of these patients and risk factors for sepsis in this age group. There are four main findings of our study. First, 71% of very old patients hospitalized with CAP presented with sepsis and 7% presented with septic shock according to the Sepsis-3 definitions. Second, male sex, chronic renal disease, and diabetes mellitus were independent risk factors for presenting with sepsis, whereas antibiotic therapy in the week prior was a protective factor. Third, both in-hospital and one-year mortality were higher in patients with sepsis than those without. Fourth, chronic renal and neurologic diseases were independently associated with increased 30-day mortality, whereas diabetes mellitus was associated with lower 30-day mortality.",
         "metadata": {
@@ -1376,12 +1740,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28535,
+            "markdown_end": 29455,
+            "markdown_line_start": 321,
+            "markdown_line_end": 321
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Aging is associated with an increased prevalence of chronic conditions. Age-related changes in the immune system increase susceptibility to infectious diseases and sepsis. In this study, sepsis affected 71% of very old patients with CAP, 7% presented with septic shock, and 11% of those with sepsis required ICU admission. The prevalence of sepsis in our patients with CAP was almost double that previously reported by Montull et al. (38% of severe sepsis in patients with CAP) [9]. However, we used the current Sepsis-3 definition with a change in SOFA score ≥2; we included nursing home residents and focused on very old patients. In our study, we also observed an uncommon presentation of pneumonia in patients with and without sepsis. Interestingly, very old with sepsis presented less pleuritic pain and more altered mental status than patients without sepsis. These findings confirm the results of previous studies, which suggested that in elderly patients CAP may present without fever, cough or pleuritic pain but with altered mental status, a sudden decline in functional capacity, and worsening of previous comorbidities [2,35]. Physicians should be alert in the diagnosis of pneumonia in elderly patients in order to reduce complications associated with a delay in the start of the empiric antimicrobial therapy.",
         "metadata": {
@@ -1391,12 +1759,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29458,
+            "markdown_end": 30781,
+            "markdown_line_start": 323,
+            "markdown_line_end": 323
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Of note, a Greek study described four comorbidities that contribute to the development of sepsis in patients with CAP, namely diabetes mellitus, chronic heart failure, coronary heart disease, and dementia [36]. Our results supported the finding for diabetes mellitus but added chronic renal disease as a risk factor for sepsis. In addition, male sex was a risk factor; men generally have more chronic comorbidities than women, and these may affect the integrity of host defenses to infection, thereby increasing morbidity and mortality rates. Men also exhibit a higher prevalence of CAP [37,38].",
         "metadata": {
@@ -1406,12 +1778,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30784,
+            "markdown_end": 31379,
+            "markdown_line_start": 325,
+            "markdown_line_end": 325
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961",
         "metadata": {
@@ -1421,12 +1797,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31382,
+            "markdown_end": 31418,
+            "markdown_line_start": 327,
+            "markdown_line_end": 327
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Our data indicated that prior antibiotic therapy was protective against sepsis in very old patients with CAP, supporting the findings of two previous studies in patients with CAP [9,39]. One study indicated that previous antibiotic therapy was associated with a lower prevalence of septic shock at hospital admission and a lower need for invasive ventilation [39]. The other study simply showed that prior antibiotic therapy was a protective factor in patients with CAP and sepsis [9]. These results indicate that early and appropriate antimicrobial treatment may be crucial in avoiding sepsis in very old patients with CAP. Of course, unmeasured confounders (e.g., patients with better family care are generally treated earlier, etc.) should always be considered. Moreover, dementia and other comorbidities may mask the clinical presentation of an infection, thus delaying antimicrobial administration [40].",
         "metadata": {
@@ -1436,12 +1816,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31431,
+            "markdown_end": 32339,
+            "markdown_line_start": 331,
+            "markdown_line_end": 331
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Although there was no significant difference in 30-day and ICU mortality rates between the two groups, patients with sepsis had higher in-hospital and 1-year mortality rates. This is in accordance with several studies reporting the burden of sepsis in the elderly population [6,9,11,38,41,42]. The mortality rate due to sepsis in the elderly has been reported to be 1.3–1.5 times higher than that in younger patients [43,44]. Together, these data highlight the need for prompt diagnosis and treatment in very old patients who develop sepsis.",
         "metadata": {
@@ -1451,12 +1835,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32342,
+            "markdown_end": 32883,
+            "markdown_line_start": 333,
+            "markdown_line_end": 333
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In the multivariate analysis, chronic renal and neurological diseases were associated with an increased 30-day mortality in patients with CAP-related sepsis. This supports previous findings that the population-based prevalence of sepsis increases exponentially with age and number of comorbidities, and this, in turn, increases mortality risk. Diabetes mellitus was the only factor associated with a lower risk for 30-day mortality in patients with sepsis. The impact of diabetes mellitus on outcomes in patients with sepsis remains controversial. In a recent prospective cohort study from the Netherlands, mortality was compared in 241 diabetic and 863 non-diabetic patients with sepsis; no significant differences were found in short or long-term outcomes, inflammatory biomarker levels, coagulation factors, or endothelial activation [45]. By contrast, a study of 1.5 million critically ill patients suggested that diabetes may have a protective effect [46]. This may relate to higher tolerance of sustained levels of moderate hyperglycemia and greater adaptability to marked fluctuations in glycemia. Thus, patients without diabetes may be worse off for having a compromised immune response and an altered microvasculature, increasing the possibility of multiple organ dysfunction [47].",
         "metadata": {
@@ -1466,12 +1854,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32886,
+            "markdown_end": 34176,
+            "markdown_line_start": 335,
+            "markdown_line_end": 335
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In our opinion, the most important strengths of this study are the large sample size, the prospective and consecutive data collection, and the focus on sepsis in very old patients with CAP. The exclusion of patients with DNR orders was dictated by the previous finding that this can be an important confounder in patients with sepsis [30,48]. There are, however, some limitations that need to be addressed. The prolonged recruitment period may have affected the results because patient care has evolved during this time. That said, the protocol for CAP management at our hospital has not changed substantially during this period. Second, we did not include data about dysphagia and aspiration pneumonia, which can be common in the very old. Third, data about the quality of life, frailty, and/or functional status were not recorded. Finally, because data were collected from a single academic teaching hospital in Spain, it may not be possible to extrapolate results to patients admitted to different hospitals or to other countries.",
         "metadata": {
@@ -1481,12 +1873,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34179,
+            "markdown_end": 35212,
+            "markdown_line_start": 337,
+            "markdown_line_end": 337
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Unlike previous reports, which defined sepsis according to the Sepsis-2 criteria, this is the first study investigating sepsis in very old CAP patients according to its last definition (Sepsis-3 criteria). Due to the high prevalence of sepsis worldwide, it is of pivotal importance to understand its global epidemiology especially in very old patients and to guide clinicians in the early recognition of patients at risk of developing it. Of course, prompt antibiotic therapy is required to improve outcomes. Moreover, our study suggests the potential benefit of previous antibiotic therapy to protect against sepsis: in very old patients with a clear suspicion of CAP, early initiation of antibiotics in the setting of primary cares should be encouraged.",
         "metadata": {
@@ -1496,12 +1892,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35215,
+            "markdown_end": 35970,
+            "markdown_line_start": 339,
+            "markdown_line_end": 339
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961",
         "metadata": {
@@ -1511,12 +1911,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35973,
+            "markdown_end": 36009,
+            "markdown_line_start": 341,
+            "markdown_line_end": 341
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **5. Conclusions**",
         "metadata": {
@@ -1526,12 +1930,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36023,
+            "markdown_end": 36044,
+            "markdown_line_start": 345,
+            "markdown_line_end": 345
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In conclusion, in very old patients with CAP who developed sepsis, both in-hospital and 1-year mortality are higher compared with their peers who have no sepsis. Antibiotic therapy given before admission was associated with a decreased risk of sepsis though this may be influenced by unmeasured confounders.",
         "metadata": {
@@ -1541,12 +1949,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36047,
+            "markdown_end": 36354,
+            "markdown_line_start": 347,
+            "markdown_line_end": 347
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Supplementary Materials:** The following are available online at http://www.mdpi.com/2077-0383/8/7/961/s1, Table S1: Characteristics and clinical outcomes by age group, Table S2: Characteristics and clinical outcomes of very old patients from nursing home and own home environments, Table S3: Characteristics and clinical outcomes of very old ICU and non-ICU patients, Table S4: Characteristics and clinical outcomes of very old patients with and without septic shock, Figure S1: Rate of sepsis by period, Figure S2:Microbial etiology of the study population.",
         "metadata": {
@@ -1556,12 +1968,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36357,
+            "markdown_end": 36918,
+            "markdown_line_start": 349,
+            "markdown_line_end": 349
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Author Contributions:** Conception and design: C.C., C.D., C.G.-V., A.L., and A.T.; Acquisition, analysis or interpretation of data: C.C., C.D., C.G.-V., D.B., A.M., A.I., J.B.-M., M.F., A.G.; Drafting the manuscript for important intellectual content: C.C., C.D., M.F., C.G.-V., A.L., J.B.-M., A.T., M.S.; Statistical analysis: A.G.; Administrative, technical or material support: C.C., C.D., A.I., C.G.-V., D.B., A.M., A.G.; All authors reviewed, revised, and approved the manuscript for submission; Study supervision: C.C., M.S. and A.T.",
         "metadata": {
@@ -1571,12 +1987,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36921,
+            "markdown_end": 37463,
+            "markdown_line_start": 351,
+            "markdown_line_end": 351
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Acknowledgments:** The results of this study have not been published elsewhere. We are indebted to all medical and nursing colleagues for their assistance and cooperation in this study. Catia Cillóniz is the recipient of a Postdoctoral Grant (Strategic plan for research and innovation in health-PERIS 2016–2020).",
         "metadata": {
@@ -1586,12 +2006,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37466,
+            "markdown_end": 37781,
+            "markdown_line_start": 353,
+            "markdown_line_end": 353
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **References**",
         "metadata": {
@@ -1601,12 +2025,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37784,
+            "markdown_end": 37801,
+            "markdown_line_start": 355,
+            "markdown_line_end": 355
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "1. Chalmers, J.; Campling, J.; Ellsbury, G.; Hawkey, P.M.; Madhava, H.; Slack, M. Community-acquired pneumonia in the United Kingdom: A call to action. _Pneumonia (Nathan)_ **2017** , _9_ , 15. [CrossRef] [PubMed]",
         "metadata": {
@@ -1616,12 +2044,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37804,
+            "markdown_end": 38017,
+            "markdown_line_start": 357,
+            "markdown_line_end": 357
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "2. Cillóniz, C.; Rodríguez-Hurtado, D.; Torres, A. Characteristics and Management of Community-Acquired Pneumonia in the Era of Global Aging. _Med. Sci. (Basel)_ **2018** , _6_ , 35. [CrossRef] [PubMed]",
         "metadata": {
@@ -1631,12 +2063,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38020,
+            "markdown_end": 38222,
+            "markdown_line_start": 359,
+            "markdown_line_end": 359
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "3. Fernández-Sabé, N.; Carratalà, J.; Rosón, B.; Dorca, J.; Verdaguer, R.; Manresa, F.; Gudiol, F. Community-acquired pneumonia in very elderly patients: Causative organisms, clinical characteristics, and outcomes. _Med. (Baltim.)_ **2003** , _82_ , 159–169. [CrossRef] [PubMed]",
         "metadata": {
@@ -1646,12 +2082,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38225,
+            "markdown_end": 38503,
+            "markdown_line_start": 361,
+            "markdown_line_end": 361
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "4. World Population Prospects: The 2017 Revision|Multimedia Library-United Nations Department of Economic and Social Affairs. Available online: https://www.un.org/development/desa/publications/world-populationprospects-the-2017-revision.html (accessed on 9 February 2018).",
         "metadata": {
@@ -1661,12 +2101,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38506,
+            "markdown_end": 38778,
+            "markdown_line_start": 363,
+            "markdown_line_end": 363
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "5. Flaatten, H.; de Lange, D.W.; Artigas, A.; Bin, D.; Moreno, R.; Christensen, S.; Joynt, G.M.; Bagshaw, S.M.; Sprung, C.L.; Benoit, D.; et al. The status of intensive care medicine research and a future agenda for very old patients in the ICU. _Intensiv. Care Med._ **2017** , _43_ , 1319–1328. [CrossRef] [PubMed]",
         "metadata": {
@@ -1676,12 +2120,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38781,
+            "markdown_end": 39097,
+            "markdown_line_start": 365,
+            "markdown_line_end": 365
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "6. Bagshaw, S.M.; Webb, S.A.R.; Delaney, A.; George, C.; Pilcher, D.; Hart, G.K.; Bellomo, R. Very old patients admitted to intensive care in Australia and New Zealand: A multi-centre cohort analysis. _Crit. Care_ **2009** , _13_ , R45. [CrossRef] [PubMed]",
         "metadata": {
@@ -1691,12 +2139,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39100,
+            "markdown_end": 39356,
+            "markdown_line_start": 367,
+            "markdown_line_end": 367
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "7. Muessig, J.M.; Masyuk, M.; Nia, A.M.; Franz, M.; Kabisch, B.; Kelm, M.; Jung, C. Are we ever too old? Characteristics and outcome of octogenarians admitted to a medical intensive care unit. _Med. (Baltim.)_ **2017** , _96_ , e7776. [CrossRef] [PubMed]",
         "metadata": {
@@ -1706,12 +2158,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39359,
+            "markdown_end": 39613,
+            "markdown_line_start": 369,
+            "markdown_line_end": 369
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "8. Lerolle, N.; Trinquart, L.; Bornstain, C.; Tadié, J.-M.; Imbert, A.; Diehl, J.-L.; Fagon, J.-Y.; Guérot, E. Increased intensity of treatment and decreased mortality in elderly patients in an intensive care unit over a decade. _Crit. Care Med._ **2010** , _38_ , 59–64. [CrossRef]",
         "metadata": {
@@ -1721,12 +2177,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39616,
+            "markdown_end": 39898,
+            "markdown_line_start": 371,
+            "markdown_line_end": 371
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "9. Montull, B.; Menéndez, R.; Torres, A.; Reyes, S.; Méndez, R.; Zalacaín, R.; Capelastegui, A.; Rajas, O.; Borderías, L.; Martin-Villasclaras, J.; et al. Predictors of Severe Sepsis among Patients Hospitalized for Community-Acquired Pneumonia. _PLoS ONE_ **2016** , _11_ , e0145929. [CrossRef]",
         "metadata": {
@@ -1736,12 +2196,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39901,
+            "markdown_end": 40195,
+            "markdown_line_start": 373,
+            "markdown_line_end": 373
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "10. Singer, M.; Deutschman, C.S.; Seymour, C.W.; Shankar-Hari, M.; Annane, D.; Bauer, M.; Bellomo, R.; Bernard, G.R.; Chiche, J.-D.; Coopersmith, C.M.; et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). _JAMA_ **2016** , _315_ , 801–810. [CrossRef]",
         "metadata": {
@@ -1751,12 +2215,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40198,
+            "markdown_end": 40488,
+            "markdown_line_start": 375,
+            "markdown_line_end": 375
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "11. Martin-Loeches, I.; Guia, M.C.; Vallecoccia, M.S.; Suarez, D.; Ibarz, M.; Irazabal, M.; Ferrer, R.; Artigas, A. Risk factors for mortality in elderly and very elderly critically ill patients with sepsis: A prospective, observational, multicenter cohort study. _Ann. Intensiv. Care_ **2019** , _9_ , 26. [CrossRef]",
         "metadata": {
@@ -1766,12 +2234,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40491,
+            "markdown_end": 40808,
+            "markdown_line_start": 377,
+            "markdown_line_end": 377
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961",
         "metadata": {
@@ -1781,12 +2253,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40811,
+            "markdown_end": 40847,
+            "markdown_line_start": 379,
+            "markdown_line_end": 379
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "12. Canaday, D.H.; Jump, R.L.P. Aging has unique effects on the risks, presentation, diagnosis, treatment and prognosis of infectious diseases. _Infect. Dis. Clin. N. Am._ **2017** , _31_ , xiii–xv. [CrossRef]",
         "metadata": {
@@ -1796,12 +2272,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40861,
+            "markdown_end": 41070,
+            "markdown_line_start": 383,
+            "markdown_line_end": 383
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "13. Polverino, E.; Torres, A.; Menendez, R.; Cillóniz, C.; Valles, J.M.; Capelastegui, A.; Marcos, M.A.; Alfageme, I.; Zalacain, R.; Almirall, J.; et al. Microbial aetiology of healthcare associated pneumonia in Spain: A prospective, multicentre, case-control study. _Thorax_ **2013** , _68_ , 1007–1014. [CrossRef] [PubMed]",
         "metadata": {
@@ -1811,12 +2291,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41073,
+            "markdown_end": 41397,
+            "markdown_line_start": 385,
+            "markdown_line_end": 385
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "14. Mandell, L.A.; Wunderink, R.G.; Anzueto, A.; Bartlett, J.G.; Campbell, G.D.; Dean, N.C.; Dowell, S.F.; File, T.M.; Musher, D.M.; Niederman, M.S.; et al. Infectious Diseases Society of America/American Thoracic Society consensus guidelines on the management of community-acquired pneumonia in adults. _Clin. Infect. Dis._ **2007** , _44_ (Suppl. 2), S27–S72. [CrossRef] [PubMed]",
         "metadata": {
@@ -1826,12 +2310,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41400,
+            "markdown_end": 41781,
+            "markdown_line_start": 387,
+            "markdown_line_end": 387
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "15. Torres, A.; Barberán, J.; Falguera, M.; Menéndez, R.; Molina, J.; Olaechea, P.; Rodríguez, A. Grupo de la Guía Multidisciplinar para el Manejo de la Neumonía Adquirida en la Comunidad (Multidisciplinary guidelines for the management of community-acquired pneumonia). _Med. Clin. (Barc.)_ **2013** , _140_ , 223.e1–223.e19.",
         "metadata": {
@@ -1841,12 +2329,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41784,
+            "markdown_end": 42110,
+            "markdown_line_start": 389,
+            "markdown_line_end": 389
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "16. ARDS Definition Task Force; Ranieri, V.M.; Rubenfeld, G.D.; Thompson, B.T.; Ferguson, N.D.; Caldwell, E.; Fan, E.; Camporota, L.; Slutsky, A.S. Acute respiratory distress syndrome: The Berlin Definition. _JAMA_ **2012** , _307_ , 2526–2533. [PubMed]",
         "metadata": {
@@ -1856,12 +2348,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 42113,
+            "markdown_end": 42366,
+            "markdown_line_start": 391,
+            "markdown_line_end": 391
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "17. Vincent, J.L.; Moreno, R.; Takala, J.; Willatts, S.; De Mendonça, A.; Bruining, H.; Reinhart, C.K.; Suter, P.M.; Thijs, L.G. The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure. On behalf of the Working Group on Sepsis-Related Problems of the European Society of Intensive Care Medicine. _Intensiv. Care Med._ **1996** , _22_ , 707–710. [CrossRef]",
         "metadata": {
@@ -1871,12 +2367,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 42369,
+            "markdown_end": 42763,
+            "markdown_line_start": 393,
+            "markdown_line_end": 393
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "18. Fine, M.J.; Auble, T.E.; Yealy, D.M.; Hanusa, B.H.; Weissfeld, L.A.; Singer, D.E.; Coley, C.M.; Marrie, T.J.; Kapoor, W.N. A prediction rule to identify low-risk patients with community-acquired pneumonia. _N. Engl. J. Med._ **1997** , _336_ , 243–250. [CrossRef]",
         "metadata": {
@@ -1886,12 +2386,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 42766,
+            "markdown_end": 43033,
+            "markdown_line_start": 395,
+            "markdown_line_end": 395
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "19. Lim, W.S.; van der Eerden, M.M.; Laing, R.; Boersma, W.G.; Karalus, N.; Town, G.I.; Lewis, S.A.; Macfarlane, J.T. Defining community acquired pneumonia severity on presentation to hospital: An international derivation and validation study. _Thorax_ **2003** , _58_ , 377–382. [CrossRef]",
         "metadata": {
@@ -1901,12 +2405,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 43036,
+            "markdown_end": 43326,
+            "markdown_line_start": 397,
+            "markdown_line_end": 397
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "20. Rhodes, A.; Evans, L.E.; Alhazzani, W.; Levy, M.M.; Antonelli, M.; Ferrer, R.; Kumar, A.; Sevransky, J.E.; Sprung, C.L.; Nunnally, M.E.; et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016. _Intensiv. Care Med._ **2017** , _43_ , 304–377. [CrossRef]",
         "metadata": {
@@ -1916,12 +2424,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 43329,
+            "markdown_end": 43637,
+            "markdown_line_start": 399,
+            "markdown_line_end": 399
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "21. Bellomo, R.; Ronco, C.; Kellum, J.A.; Mehta, R.L.; Palevsky, P. Acute Dialysis Quality Initiative workgroup Acute renal failure-definition, outcome measures, animal models, fluid therapy and information technology needs: The Second International Consensus Conference of the Acute Dialysis Quality Initiative (ADQI) Group. _Crit. Care_ **2004** , _8_ , R204–R212. [CrossRef]",
         "metadata": {
@@ -1931,12 +2443,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 43640,
+            "markdown_end": 44017,
+            "markdown_line_start": 401,
+            "markdown_line_end": 401
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "22. Cillóniz, C.; Ewig, S.; Polverino, E.; Marcos, M.A.; Esquinas, C.; Gabarrús, A.; Mensa, J.; Torres, A. Microbial aetiology of community-acquired pneumonia and its relation to severity. _Thorax_ **2011** , _66_ , 340–346. [CrossRef] [PubMed]",
         "metadata": {
@@ -1946,12 +2462,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44020,
+            "markdown_end": 44264,
+            "markdown_line_start": 403,
+            "markdown_line_end": 403
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "23. Cillóniz, C.; Polverino, E.; Ewig, S.; Aliberti, S.; Gabarrús, A.; Menéndez, R.; Mensa, J.; Blasi, F.; Torres, A. Impact of age and comorbidity on cause and outcome in community-acquired pneumonia. _Chest_ **2013** , _144_ , 999–1007. [CrossRef]",
         "metadata": {
@@ -1961,12 +2481,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44267,
+            "markdown_end": 44516,
+            "markdown_line_start": 405,
+            "markdown_line_end": 405
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "24. Hosmer, D.W.; Lemesshow, S.T.J. Applied logistic regression. D. W. Hosmer and S.; Lemeshow, Wiley, New York, 1989. No. of pages: Xiii + 307. Price: £36.00. _Stat. Med._ **1991** , _10_ , 1162–1163.",
         "metadata": {
@@ -1976,12 +2500,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44519,
+            "markdown_end": 44720,
+            "markdown_line_start": 407,
+            "markdown_line_end": 407
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "25. Collett, D. _Modelling Binary Data_ ; Chapman and Hall: London, UK, 1991; ISBN 0-412-38800-6.",
         "metadata": {
@@ -1991,12 +2519,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44723,
+            "markdown_end": 44820,
+            "markdown_line_start": 409,
+            "markdown_line_end": 409
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "26. McCullagh, P.; Nelder, J.A. _Generalized Linear Models_ , 2nd ed.; CRC Press: Boca Raton, FL, USA, 1989; ISBN 978-0-412-31760-6.",
         "metadata": {
@@ -2006,12 +2538,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44823,
+            "markdown_end": 44955,
+            "markdown_line_start": 411,
+            "markdown_line_end": 411
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "27. Thoemmes, F.; Ong, A.D. A Primer on Inverse Probability of Treatment Weighting and Marginal Structural Models. _Emerg. Adulthood_ **2016** , _4_ , 40–59. [CrossRef]",
         "metadata": {
@@ -2021,12 +2557,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44958,
+            "markdown_end": 45126,
+            "markdown_line_start": 413,
+            "markdown_line_end": 413
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "28. Brookhart, M.A.; Schneeweiss, S.; Rothman, K.J.; Glynn, R.J.; Avorn, J.; Stürmer, T. Variable selection for propensity score models. _Am. J. Epidemiol._ **2006** , _163_ , 1149–1156. [CrossRef]",
         "metadata": {
@@ -2036,12 +2576,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45129,
+            "markdown_end": 45326,
+            "markdown_line_start": 415,
+            "markdown_line_end": 415
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "29. Multivariate Statistical Modelling Based on Generalized Linear Models|Ludwig Fahrmeir|Springer. Available online: https://www.springer.com/us/book/9780387951874 (accessed on 13 November 2018).",
         "metadata": {
@@ -2051,12 +2595,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45329,
+            "markdown_end": 45525,
+            "markdown_line_start": 417,
+            "markdown_line_end": 417
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "30. Huang, C.-T.; Chuang, Y.-C.; Tsai, Y.-J.; Ko, W.-J.; Yu, C.-J. High Mortality in Severe Sepsis and Septic Shock Patients with Do-Not-Resuscitate Orders in East Asia. _PLoS ONE_ **2016** , _11_ , e0159501. [CrossRef] [PubMed]",
         "metadata": {
@@ -2066,12 +2614,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45528,
+            "markdown_end": 45756,
+            "markdown_line_start": 419,
+            "markdown_line_end": 419
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "31. Efron, B.; Tibshirani, R.J. _An Introduction to the Bootstrap_ ; CRC Press: Boca Raton, FL, USA, 1994; ISBN 978-0-412-04231-7.",
         "metadata": {
@@ -2081,12 +2633,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45759,
+            "markdown_end": 45889,
+            "markdown_line_start": 421,
+            "markdown_line_end": 421
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_J. Clin. Med._ **2019** , _8_ , 961",
         "metadata": {
@@ -2096,12 +2652,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45892,
+            "markdown_end": 45928,
+            "markdown_line_start": 423,
+            "markdown_line_end": 423
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "32. Sterne, J.A.C.; White, I.R.; Carlin, J.B.; Spratt, M.; Royston, P.; Kenward, M.G.; Wood, A.M.; Carpenter, J.R. Multiple imputation for missing data in epidemiological and clinical research: Potential and pitfalls. _BMJ_ **2009** , _338_ , b2393. [CrossRef]",
         "metadata": {
@@ -2111,12 +2671,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45942,
+            "markdown_end": 46202,
+            "markdown_line_start": 427,
+            "markdown_line_end": 427
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "33. Valencia, M.; Badia, J.R.; Cavalcanti, M.; Ferrer, M.; Agustí, C.; Angrill, J.; García, E.; Mensa, J.; Niederman, M.S.; Torres, A. Pneumonia severity index class v patients with community-acquired pneumonia: Characteristics, outcomes, and value of severity scores. _Chest_ **2007** , _132_ , 515–522. [CrossRef]",
         "metadata": {
@@ -2126,12 +2690,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 46205,
+            "markdown_end": 46520,
+            "markdown_line_start": 429,
+            "markdown_line_end": 429
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "34. Ferrer, M.; Travierso, C.; Cilloniz, C.; Gabarrus, A.; Ranzani, O.T.; Polverino, E.; Liapikou, A.; Blasi, F.; Torres, A. Severe community-acquired pneumonia: Characteristics and prognostic factors in ventilated and non-ventilated patients. _PLoS ONE_ **2018** , _13_ , e0191721. [CrossRef]",
         "metadata": {
@@ -2141,12 +2709,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 46523,
+            "markdown_end": 46816,
+            "markdown_line_start": 431,
+            "markdown_line_end": 431
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "35. Simonetti, A.F.; Viasus, D.; Garcia-Vidal, C.; Carratalà, J. Management of community-acquired pneumonia in older adults. _Adv. Infect. Dis._ **2014** , _2_ , 3–16. [CrossRef]",
         "metadata": {
@@ -2156,12 +2728,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 46819,
+            "markdown_end": 46997,
+            "markdown_line_start": 433,
+            "markdown_line_end": 433
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "36. Sinapidis, D.; Kosmas, V.; Vittoros, V.; Koutelidakis, I.M.; Pantazi, A.; Stefos, A.; Katsaros, K.E.; Akinosoglou, K.; Bristianou, M.; Toutouzas, K.; et al. Progression into sepsis: An individualized process varying by the interaction of comorbidities with the underlying infection. _BMC Infect. Dis._ **2018** , _18_ , 242. [CrossRef]",
         "metadata": {
@@ -2171,12 +2747,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 47000,
+            "markdown_end": 47339,
+            "markdown_line_start": 435,
+            "markdown_line_end": 435
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "37. Torres, A.; Peetermans, W.E.; Viegi, G.; Blasi, F. Risk factors for community-acquired pneumonia in adults in Europe: A literature review. _Thorax_ **2013** , _68_ , 1057–1065. [CrossRef] [PubMed]",
         "metadata": {
@@ -2186,12 +2766,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 47342,
+            "markdown_end": 47542,
+            "markdown_line_start": 437,
+            "markdown_line_end": 437
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "38. Ochoa-Gondar, O.; Vila-Córcoles, A.; de Diego, C.; Arija, V.; Maxenchs, M.; Grive, M.; Martin, E.; Pinyol, J.L. EVAN-65 Study Group The burden of community-acquired pneumonia in the elderly: The Spanish EVAN-65 study. _BMC Public Health_ **2008** , _8_ , 222. [CrossRef] [PubMed]",
         "metadata": {
@@ -2201,12 +2785,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 47545,
+            "markdown_end": 47828,
+            "markdown_line_start": 439,
+            "markdown_line_end": 439
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "39. Amaro, R.; Sellarés, J.; Polverino, E.; Cillóniz, C.; Ferrer, M.; Fernández-Barat, L.; Mensa, J.; Niederman, M.S.; Torres, A. Antibiotic therapy prior to hospital admission is associated with reduced septic shock and need for mechanical ventilation in patients with community-acquired pneumonia. _J. Infect._ **2017** , _74_ , 442–449. [CrossRef] [PubMed]",
         "metadata": {
@@ -2216,12 +2804,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 47831,
+            "markdown_end": 48190,
+            "markdown_line_start": 441,
+            "markdown_line_end": 441
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "40. Filbin, M.R.; Lynch, J.; Gillingham, T.D.; Thorsen, J.E.; Pasakarnis, C.L.; Nepal, S.; Matsushima, M.; Rhee, C.; Heldt, T.; Reisner, A.T. Presenting Symptoms Independently Predict Mortality in Septic Shock: Importance of a Previously Unmeasured Confounder. _Crit. Care Med._ **2018** , _46_ , 1592–1599. [CrossRef] [PubMed]",
         "metadata": {
@@ -2231,12 +2823,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 48193,
+            "markdown_end": 48520,
+            "markdown_line_start": 443,
+            "markdown_line_end": 443
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "41. Álvaro-Meca, A.; Jiménez-Sousa, M.A.; Micheloud, D.; Sánchez-Lopez, A.; Heredia-Rodríguez, M.; Tamayo, E.; Resino, S. Group of Biomedical Research in Critical Care Medicine (BioCritic) Epidemiological trends of sepsis in the twenty-first century (2000–2013): An analysis of incidence, mortality, and associated costs in Spain. _Popul. Health Metr._ **2018** , _16_ , 4. [CrossRef] [PubMed]",
         "metadata": {
@@ -2246,12 +2842,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 48523,
+            "markdown_end": 48916,
+            "markdown_line_start": 445,
+            "markdown_line_end": 445
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "42. Angus, D.C.; Linde-Zwirble, W.T.; Lidicker, J.; Clermont, G.; Carcillo, J.; Pinsky, M.R. Epidemiology of severe sepsis in the United States: Analysis of incidence, outcome, and associated costs of care. _Crit. Care Med._ **2001** , _29_ , 1303–1310. [CrossRef] [PubMed]",
         "metadata": {
@@ -2261,12 +2861,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 48919,
+            "markdown_end": 49192,
+            "markdown_line_start": 447,
+            "markdown_line_end": 447
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "43. Roch, A.; Wiramus, S.; Pauly, V.; Forel, J.-M.; Guervilly, C.; Gainnier, M.; Papazian, L. Long-term outcome in medical patients aged 80 or over following admission to an intensive care unit. _Crit. Care_ **2011** , _15_ , R36. [CrossRef] [PubMed]",
         "metadata": {
@@ -2276,12 +2880,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 49195,
+            "markdown_end": 49445,
+            "markdown_line_start": 449,
+            "markdown_line_end": 449
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "44. Nasa, P.; Juneja, D.; Singh, O. Severe sepsis and septic shock in the elderly: An overview. _World J. Crit. Care Med._ **2012** , _1_ , 23–30.",
         "metadata": {
@@ -2291,12 +2899,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 49448,
+            "markdown_end": 49594,
+            "markdown_line_start": 451,
+            "markdown_line_end": 451
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "45. Van Vught, L.A.; Scicluna, B.P.; Hoogendijk, A.J.; Wiewel, M.A.; Klein Klouwenberg, P.M.C.; Cremer, O.L.; Horn, J.; Nürnberg, P.; Bonten, M.M.J.; Schultz, M.J.; et al. Association of diabetes and diabetes treatment with the host response in critically ill sepsis patients. _Crit. Care_ **2016** , _20_ , 252. [CrossRef]",
         "metadata": {
@@ -2306,12 +2918,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 49597,
+            "markdown_end": 49920,
+            "markdown_line_start": 453,
+            "markdown_line_end": 453
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "46. Graham, B.B.; Keniston, A.; Gajic, O.; Trillo Alvarez, C.A.; Medvedev, S.; Douglas, I.S. Diabetes mellitus does not adversely affect outcomes from a critical illness. _Crit. Care Med._ **2010** , _38_ , 16–24. [CrossRef]",
         "metadata": {
@@ -2321,12 +2937,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 49923,
+            "markdown_end": 50147,
+            "markdown_line_start": 455,
+            "markdown_line_end": 455
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "47. Krinsley, J.S. Moving closer to untangling a sweet web: Hyperglycemia, diabetic status, and mortality in the critically ill. _Crit. Care Med._ **2010** , _38_ , 295–296. [CrossRef] [PubMed]",
         "metadata": {
@@ -2336,12 +2956,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 50150,
+            "markdown_end": 50343,
+            "markdown_line_start": 457,
+            "markdown_line_end": 457
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "48. Walkey, A.J.; Weinberg, J.; Wiener, R.S.; Cooke, C.R.; Lindenauer, P.K. Association of Do-Not-Resuscitate Orders and Hospital Mortality Rate Among Patients with Pneumonia. _JAMA Intern. Med._ **2016** , _176_ , 97–104. [CrossRef] [PubMed]",
         "metadata": {
@@ -2351,12 +2975,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 50346,
+            "markdown_end": 50588,
+            "markdown_line_start": 459,
+            "markdown_line_end": 459
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Cilloniz_2019/images/Cilloniz_2019.pdf-0012-19.png)",
         "metadata": {
@@ -2366,12 +2994,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 50592,
+            "markdown_end": 50667,
+            "markdown_line_start": 462,
+            "markdown_line_end": 462
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Cilloniz_2019.pdf-0012-19.png)**\n> **Category:** `OTHER` | **Summary:** Creative Commons Attribution License Icon\n> \n> The image shows a Creative Commons license icon. It features the letters 'CC' inside a circle on the left, and a person icon with the word 'BY' underneath on the right. The background is a light gray color, and the symbols and text are in black and white.\n<!-- analyzed_Cilloniz_2019.pdf-0012-19.png -->",
         "metadata": {
@@ -2381,12 +3013,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 50669,
+            "markdown_end": 51130,
+            "markdown_line_start": 464,
+            "markdown_line_end": 469
         }
     },
     {
         "source_id": "Cilloniz_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- © 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).",
         "metadata": {
@@ -2396,7 +3032,11 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 51135,
+            "markdown_end": 51375,
+            "markdown_line_start": 474,
+            "markdown_line_end": 474
         }
     }
 ]

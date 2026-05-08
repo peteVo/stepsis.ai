@@ -1,7 +1,7 @@
 [
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**INTENSIVE CARE IN SEPSIS**",
         "metadata": {
@@ -11,12 +11,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 0,
+            "markdown_end": 28,
+            "markdown_line_start": 1,
+            "markdown_line_end": 1
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "~~**Анализ ранних факторов риска летального исхода абдоминального сепсиса**~~ **…** ~~**как показаний к началу инвазивного мониторинга центральной гемодинамики: ретроспективное обсервационное исследование**~~",
         "metadata": {
@@ -26,12 +30,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44,
+            "markdown_end": 252,
+            "markdown_line_start": 5,
+            "markdown_line_end": 5
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "~~**Analysis of early risk factors for the lethal outcome of abdominal sepsis as indications for the start of invasive monitoring of central hemodynamics: a retrospective observational study**~~",
         "metadata": {
@@ -41,12 +49,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 255,
+            "markdown_end": 449,
+            "markdown_line_start": 7,
+            "markdown_line_end": 7
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "И. А. Козлов *[1] , А. М. Овезов 1, С. А. Раутбарт 1, 2, И. Н. Тюрин 3, 4, А. А. Александровский 2, Ю. В. Скрипкин 1",
         "metadata": {
@@ -56,12 +68,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 452,
+            "markdown_end": 568,
+            "markdown_line_start": 9,
+            "markdown_line_end": 9
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "I. A. Kozlov *[1] , A. M. Ovezov 1, S. A. Rautbart 1, 2, I. N. Tyurin 3, 4, A. A. Aleksandrovskiy 2, Yu. V. Skripkin 1",
         "metadata": {
@@ -71,12 +87,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 571,
+            "markdown_end": 689,
+            "markdown_line_start": 11,
+            "markdown_line_end": 11
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 1 _ГБУЗ МО «Московский областной научноисследовательский клинический институт им. М. Ф. Владимирского», Москва, Россия_",
         "metadata": {
@@ -86,12 +106,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 692,
+            "markdown_end": 813,
+            "markdown_line_start": 13,
+            "markdown_line_end": 13
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 2 _ГБУЗ «Городская клиническая больница им. В. М. Буянова Департамента здравоохранения г. Москвы», Москва, Россия_",
         "metadata": {
@@ -101,12 +125,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 816,
+            "markdown_end": 932,
+            "markdown_line_start": 15,
+            "markdown_line_end": 15
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 1 _Moscow Regional Research and Clinical Institute, Moscow, Russia_",
         "metadata": {
@@ -116,12 +144,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 938,
+            "markdown_end": 1007,
+            "markdown_line_start": 17,
+            "markdown_line_end": 17
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 2 _Bujanov Moscow City Clinical Hospital, Moscow, Russia_",
         "metadata": {
@@ -131,12 +163,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1013,
+            "markdown_end": 1072,
+            "markdown_line_start": 19,
+            "markdown_line_end": 19
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 3 _City Clinical Hospital No 40, Moscow, Russia_",
         "metadata": {
@@ -146,12 +182,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1078,
+            "markdown_end": 1128,
+            "markdown_line_start": 21,
+            "markdown_line_end": 21
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 4 _Pirogov Russian National Research Medical University (RNRMU), Moscow, Russia_",
         "metadata": {
@@ -161,12 +201,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1134,
+            "markdown_end": 1216,
+            "markdown_line_start": 23,
+            "markdown_line_end": 23
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 3 _ГБУЗ «Городская клиническая больница № 40_",
         "metadata": {
@@ -176,12 +220,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1219,
+            "markdown_end": 1266,
+            "markdown_line_start": 25,
+            "markdown_line_end": 25
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- _Департамента здравоохранения г. Москвы», Москва, Россия_",
         "metadata": {
@@ -191,12 +239,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1269,
+            "markdown_end": 1328,
+            "markdown_line_start": 27,
+            "markdown_line_end": 27
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- 4 _ФГАОУ ВО «Российский национальный исследовательский медицинский университет им. Н. И. Пирогова» Минздрава России, Москва, Россия_",
         "metadata": {
@@ -206,12 +258,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1331,
+            "markdown_end": 1465,
+            "markdown_line_start": 29,
+            "markdown_line_end": 29
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Реферат**_",
         "metadata": {
@@ -221,12 +277,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1468,
+            "markdown_end": 1484,
+            "markdown_line_start": 31,
+            "markdown_line_end": 31
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## _**Abstract**_",
         "metadata": {
@@ -236,12 +296,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1487,
+            "markdown_end": 1504,
+            "markdown_line_start": 33,
+            "markdown_line_end": 33
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**ЦЕЛЬ ИССЛЕДОВАНИЯ.** Проанализировать предикторную значимость в отношении риска летальности клиниколабораторных показате лей, оценка которых доступна в первые 24 ч нахождения больных с сепсисом в отделении реанимации и интенсивной терапии (ОРИТ), и оценить целесообразность начала инвазивного мониторинга центральной гемодинамики (ЦГД) у больных с предикторами неб лагоприятного исхода. **МАТЕРИАЛЫ И МЕТОДЫ.** Про ан ализированы результаты обследования 134 больных в возрасте 58,5 (43–71) года с абдоминальным сепсисом. Оценка по шкале APACHE II составила 13 (11–17) баллов, по шкале SOFA —  6 (4–8) баллов; летальность в ОРИТ —  47 %. ЦГД изучали с помощью транспульмональной термодилюции. Применяли описательную статистику (данные представлены в виде медианы, 25-го и 75-го кварти лей), логистическую регрессию и ROC-анализ. **РЕЗУЛЬТАТЫ.** Неза висимыми предикторами летального исхода явились оценка по SOFA > 8 баллов (отношение шансов [ОШ] 1,5712; 95%-й доверительный интервал [95% ДИ] 1,1934–2,0686; _р_ = 0,0001; площадь под кривой [ППК] 0,813; чувствительность 74 %, специфичность 81 %) и уровень лактатемии > 1,8 ммоль/л",
         "metadata": {
@@ -251,12 +315,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1507,
+            "markdown_end": 2639,
+            "markdown_line_start": 35,
+            "markdown_line_end": 35
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**OBJECTIVES.** To analyze the predictive significance of clinical and laboratory parameters in relation to the risk of mortality, the assessment of which is available in the first 24 hours of the stay of patients with sepsis in the intensive care unit - (ICU), and to assess the feasibility of starting invasive mon itoring of central hemodynamics in patients with predictors of poor outcome. **MATERIALS AND METHODS.** We analyzed the results of examination of 134 patients aged 58.5 (43–71) years with abdominal sepsis. APACHE II score was 13 (11–17) points, SOFA score was 6 (4–8) points; l lethality in ICU —  47 %. Central hemodynamics was studied using transpulmonary thermodilution. Descriptive statistics (data are presented as median, 25 and 75 % quartiles), logistic regression and ROC analysis were used. **RESULTS.** Independent predictors of death were SOFA score > 8 (OR 1.5712; 95 % CI 1.1934–2.0686; _p_ = 0.0001; AUC 0.813; sensitivity 74 %, specificity 81 %) and lactateemia > 1.8 mmol/l (OR 3.5293; 95 % CI 1.7421–7.1500; _p_ = 0.0001; AUC 0.799; sensitivity 63 %, specificity 79 %). A combination of established risk factors predicted cardiac index < 2.5 l/min/m[2] (OR 37.0; 95 % CI 3.9167–349.5290; _p_ = 0.002) and cardiac function index < 5.8 min[–1] (OR 11.8182; 95 % CI 2.8189–49.5303;",
         "metadata": {
@@ -266,12 +334,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2642,
+            "markdown_end": 3954,
+            "markdown_line_start": 37,
+            "markdown_line_end": 37
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "© «Практическая медицина» 2022. Данная статья распространяется на условиях «открытого доступа», в соответствии с лицен зией CC BY-NC-SA 4.0 («Attribution- NonCommercial- ShareAlike» / «Атрибуция- Неко ммерчески- СохранениеУсловий» 4.0), которая разрешает неограниченное некоммерческое использование, распространение и воспроизведение на любом носителе при условии указания автора и источника. Чтобы ознакомиться с полными условиями данной лицензии на русском языке, посетите сайт: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru",
         "metadata": {
@@ -281,12 +353,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3957,
+            "markdown_end": 4495,
+            "markdown_line_start": 39,
+            "markdown_line_end": 39
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Анализ ранних факторов риска летального исхода абдоминального сепсиса…",
         "metadata": {
@@ -296,12 +372,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4503,
+            "markdown_end": 4573,
+            "markdown_line_start": 43,
+            "markdown_line_end": 43
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "(ОШ 3,5293; 95% ДИ 1,7421–7,1500; _р_ = 0,0001; ППК 0,799; чувствительность 63 %, специфичность 79 %). Сочетание установленных факторов риска явилось предиктором значений сердечного индекса < 2,5 л/мин/м[2] (ОШ 37,0; 95% ДИ 3,9167–349,5290; _р_ = 0,002) и значений индекса функции сердца < 5,8 мин[−1] (ОШ 11,8182; 95% ДИ 2,8189–49,5303; _р_ = 0,0007). **ВЫВОДЫ.** Среди клиниколабораторных показате лей, оценка которых доступна в первые 24 ч нахождения больных с сепсисом в ОРИТ, значимыми предикторами летального исхода являются оценка по шкале SOFA > 8 баллов и лактатемия > 1,8 ммоль/л. Для большинства больных с сочетанием этих факторов риска характерно наличие признаков миокардиальной дисфункции, а для 50 % —  снижение сердечного индекса до уровня < 2,5 л/мин/м[2] , что указывает на целесообразность использования у них инвазивного мониторинга ЦГД, в  частности с п омощью  транспульмональной термодилюции.",
         "metadata": {
@@ -311,12 +391,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4576,
+            "markdown_end": 5491,
+            "markdown_line_start": 45,
+            "markdown_line_end": 45
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_p_ = 0.0007). **CONCLUSIONS.** Among the clinical and laboratory parameters, the assessment of which is available in the first 24 hours of the stay of patients with sepsis in the ICU, significant predictors of lethal outcome are SOFA score > 8 points and lactateemia > 1.8 mmol/l. Most patients with a combination of these risk factors are characterized by the presence of signs of myocardial dysfunction, and for 50 % —  a decrease in CI to a level of < 2.5 l/min/m[2] which indicates the advisability of invasive monitoring of central hemodynamics, in particular with transpulmonary thermodilution.",
         "metadata": {
@@ -326,12 +410,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5494,
+            "markdown_end": 6095,
+            "markdown_line_start": 47,
+            "markdown_line_end": 47
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**КЛЮЧЕВЫЕ СЛОВА:** сепсис, шкалы органной дисфункции, факторы риска, смертность, термодилюция, мониторинг гемодинамики, сердечный выброс",
         "metadata": {
@@ -341,12 +429,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6098,
+            "markdown_end": 6235,
+            "markdown_line_start": 49,
+            "markdown_line_end": 49
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- **KEYWORDS:** sepsis, organ dysfunction scores, risk factors, mortality, thermodilution, hemodynamic monitoring, cardiac output",
         "metadata": {
@@ -356,12 +448,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6241,
+            "markdown_end": 6370,
+            "markdown_line_start": 51,
+            "markdown_line_end": 51
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- _Для корреспонденции_ : Козлов Игорь Александрович — д-р мед. наук, профессор, профессор кафедры анестезиологии и реаниматологии ФУВ ГБУЗ МО МОНИКИ им. М. Ф. Владимирского, Москва, Россия; e-mail: iakozlov@mail.ru",
         "metadata": {
@@ -371,12 +467,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6373,
+            "markdown_end": 6588,
+            "markdown_line_start": 53,
+            "markdown_line_end": 53
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- _For correspondence_ : Igor A. Kozlov —  Dr. Med. Sci., Professor, Moscow Regional Research Clinical Institute, Moscow, Russia; e-mail: iakozlov@mail.ru",
         "metadata": {
@@ -386,12 +486,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6594,
+            "markdown_end": 6748,
+            "markdown_line_start": 55,
+            "markdown_line_end": 55
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- _Для цитирования_ : Козлов И. А., Овезов А. М., Раутбарт С. А., Тюрин И. Н., Александровский А. А., Скрипкин Ю. В. Анализ ранних факторов риска летального исхода абдоминального сепсиса как показаний к началу инвазивного мониторинга центральной гемодинамики: ретроспективное обсервационное исследование. Вестник интенсивной терапии им. А. И. Салтанова. 2022; 2: 70–79. https://doi.org/10.21320/1818-474X-2022-2-70-79",
         "metadata": {
@@ -401,12 +505,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6751,
+            "markdown_end": 7168,
+            "markdown_line_start": 57,
+            "markdown_line_end": 57
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- _For citation_ : Kozlov I. A., Ovezov A. M., Rautbart S. A., Tyurin I. N., Aleksandrovskiy A. A., Skripkin Yu. V. Analysis of early risk factors for the lethal outcome of abdominal sepsis as indications for the start of invasive monitoring of central hemodynamics: a retrospective observational study. Annals of Critical Care. 2022;2:70–79.",
         "metadata": {
@@ -416,12 +524,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7174,
+            "markdown_end": 7516,
+            "markdown_line_start": 59,
+            "markdown_line_end": 59
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- https://doi.org/10.21320/1818-474X-2022-2-70-79",
         "metadata": {
@@ -431,12 +543,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7525,
+            "markdown_end": 7574,
+            "markdown_line_start": 61,
+            "markdown_line_end": 61
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- _Поступила_ : 19.01.2022",
         "metadata": {
@@ -446,12 +562,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7577,
+            "markdown_end": 7603,
+            "markdown_line_start": 63,
+            "markdown_line_end": 63
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- K _Принята к печати_ : 11.03.2022 K _Дата онлайн-публикации_ : 29.04.2022",
         "metadata": {
@@ -461,12 +581,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7606,
+            "markdown_end": 7681,
+            "markdown_line_start": 65,
+            "markdown_line_end": 65
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- _Received_ : 19.01.2022",
         "metadata": {
@@ -476,12 +600,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7684,
+            "markdown_end": 7709,
+            "markdown_line_start": 67,
+            "markdown_line_end": 67
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- K _Accepted_ : 11.03.2022 K _Published online_ : 29.04.2022",
         "metadata": {
@@ -491,12 +619,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7712,
+            "markdown_end": 7773,
+            "markdown_line_start": 69,
+            "markdown_line_end": 69
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "~~DOI: 10.21320/1818-474X-2022-2-70-79~~",
         "metadata": {
@@ -506,12 +638,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7776,
+            "markdown_end": 7816,
+            "markdown_line_start": 71,
+            "markdown_line_end": 71
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Введение**",
         "metadata": {
@@ -521,12 +657,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7819,
+            "markdown_end": 7834,
+            "markdown_line_start": 73,
+            "markdown_line_end": 73
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "В настоящее время при лечении сепсиса принято широко применять неинвазивные методы мониторинга кровообращения [1]. Лишь в последних международных рекомендациях по лечению сепсиса появилось указание на необходимость максимально рано начинать инвазивный контроль артериального давления (АД) при септическом шоке [2, 3]. Остается общепринятым алгоритм [4], который при удовлетворительном состоянии больного предусматривает контроль общеклинических",
         "metadata": {
@@ -536,12 +676,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7837,
+            "markdown_end": 8281,
+            "markdown_line_start": 75,
+            "markdown_line_end": 75
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "показате лей, при ухудшении состояния —  эхокардиографическое (ЭхоКГ) обследование, а начало инвазивного мониторинга центральной гемодинамики (ЦГД) только тогда, когда ЭхоКГ не дает исчерпываю щей информации о функции сердца либо когда прогрессирует нес табильность кровообращения и рефрактерность к симпатомиметическим препаратам. Вполне закономерно, что при такой «эскалационной тактике» многие лечебные меры могут оказаться нес воевременными. Кроме того, рутинное использование ЭхоКГ как основной меры мониторинга ЦГД в отделениях  реанимации",
         "metadata": {
@@ -551,12 +695,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8284,
+            "markdown_end": 8829,
+            "markdown_line_start": 77,
+            "markdown_line_end": 77
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## ИТ СЕПСИСА",
         "metadata": {
@@ -566,12 +714,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8837,
+            "markdown_end": 8850,
+            "markdown_line_start": 81,
+            "markdown_line_end": 81
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "и  интенсивной терапии (ОРИТ) общего профиля не всегда реализуемо и достаточно эффективно [5]. Вместе с тем есть основания полагать, что инвазивный мониторинг ЦГД показан больным с высоким риском летального исхода —  не как крайняя мера, а как стандартный компонент интенсивного лечения, направленный на выявление самых ранних признаков миокардиальной дисфункции [6]. Транспульмональная термодилюция (ТПТД), например, позволяет выявить нарушения функции сердца, повышающие риск летальности и, вероятно, требующие целенаправленной коррекции [3, 7, 8]. Таким образом, для объективизации показаний к раннему началу инвазивного мониторинга, в частности с помощью ТПТД, и углубленной оценки функции сердца необходимо установление предикторов летального исхода, которые доступны для рутинного определения и могут проявиться в течение первых суток от поступления больного в ОРИТ. Для проверки этой гипотезы выполнили  двухэтапное ретроспективное исследование.",
         "metadata": {
@@ -581,12 +733,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8853,
+            "markdown_end": 9805,
+            "markdown_line_start": 83,
+            "markdown_line_end": 83
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Цель исследования** : проанализировать предикторную значимость в отношении риска летальности клинико- лабораторных показате лей, оценка которых доступна в первые 24 ч нахождения больных с сепсисом в ОРИТ, и оценить целесообразность начала инвазивного мониторинга ЦГД у больных с предикторами неб лагоприятного исхода.",
         "metadata": {
@@ -596,12 +752,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9808,
+            "markdown_end": 10127,
+            "markdown_line_start": 85,
+            "markdown_line_end": 85
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Материалы и методы**",
         "metadata": {
@@ -611,12 +771,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10130,
+            "markdown_end": 10155,
+            "markdown_line_start": 87,
+            "markdown_line_end": 87
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "В соответствии с разрешением этического комитета ФУВ ГБУЗ МО МОНИКИ им. М. Ф. Владимирского (протокол № 11 от 13.12.2018) выполнили ретроспективное обсервационное исследование на базе ОРИТ ГБУЗ ГКБ им. В. М. Буянова ДЗМ и ГБУЗ МО МОНИКИ им. М. Ф. Владимирского. В ретроспективное исследование включили больных с абдоминальным сепсисом или септическим шоком, находившихся в ОРИТ с 01.06.2019 по 01.06.2020.",
         "metadata": {
@@ -626,12 +790,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10158,
+            "markdown_end": 10563,
+            "markdown_line_start": 89,
+            "markdown_line_end": 89
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Критерии включения в исследование:",
         "metadata": {
@@ -641,12 +809,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10566,
+            "markdown_end": 10600,
+            "markdown_line_start": 91,
+            "markdown_line_end": 91
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- ÿ возраст от 18 до 85 лет;",
         "metadata": {
@@ -656,12 +828,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10603,
+            "markdown_end": 10631,
+            "markdown_line_start": 93,
+            "markdown_line_end": 93
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- ÿ наличие абдоминального сепсиса или септического шока в соответствии с критериями «Сепсис-3» [9];",
         "metadata": {
@@ -671,12 +847,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10634,
+            "markdown_end": 10734,
+            "markdown_line_start": 95,
+            "markdown_line_end": 95
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- ÿ наличие в медицинской карте письменного информированного согласия больного на использование инвазивных мер наблюдения и лечения.",
         "metadata": {
@@ -686,12 +866,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10737,
+            "markdown_end": 10869,
+            "markdown_line_start": 97,
+            "markdown_line_end": 97
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- Критерии нев ключения:",
         "metadata": {
@@ -701,12 +885,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10872,
+            "markdown_end": 10896,
+            "markdown_line_start": 99,
+            "markdown_line_end": 99
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- ÿ смерть в первые часы после поступления в ОРИТ до выполнения лабораторных исследований;",
         "metadata": {
@@ -716,12 +904,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10899,
+            "markdown_end": 10989,
+            "markdown_line_start": 101,
+            "markdown_line_end": 101
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- ÿ терминальная стадия онкологического заболевания;",
         "metadata": {
@@ -731,12 +923,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10992,
+            "markdown_end": 11044,
+            "markdown_line_start": 103,
+            "markdown_line_end": 103
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- ÿ наличие по данным медицинской карты сопутствующих клапанных заболеваний сердца, ос-",
         "metadata": {
@@ -746,12 +942,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11047,
+            "markdown_end": 11134,
+            "markdown_line_start": 105,
+            "markdown_line_end": 105
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "ложненных форм ишемической болезни сердца и/или хронической недо статочности кровообращения;",
         "metadata": {
@@ -761,12 +961,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11137,
+            "markdown_end": 11229,
+            "markdown_line_start": 107,
+            "markdown_line_end": 107
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- ÿ беременность. Критерии исключения:",
         "metadata": {
@@ -776,12 +980,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11232,
+            "markdown_end": 11270,
+            "markdown_line_start": 109,
+            "markdown_line_end": 109
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- ÿ летальный исход, не связанный с сепсисом;",
         "metadata": {
@@ -791,12 +999,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11273,
+            "markdown_end": 11318,
+            "markdown_line_start": 111,
+            "markdown_line_end": 111
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- ÿ перевод больного в другое отделение или стационар.",
         "metadata": {
@@ -806,12 +1018,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11321,
+            "markdown_end": 11375,
+            "markdown_line_start": 113,
+            "markdown_line_end": 113
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Всего было отобрано 267 медицинских карт, полное соответствие критериям включения установлено у 157 больных. Причины нев ключения в исследование: смерть в первые часы после поступления в ОРИТ до выполнения лабораторных исследований ( _n_ = 13), терминальная стадия онкологического заболевания ( _n_ = 55), наличие сопутствующих клапанных заболеваний сердца и осложненных форм ишемической болезни сердца, хронической недо статочности кровообращения ( _n_ = 40), беременность ( _n_ = 2). Исключены из исследования 23 пациента, причины исключения: летальный исход, не связанный с сепсисом ( _n_ = 17), перевод в другое отделение или стационар ( _n_ = 6).",
         "metadata": {
@@ -821,12 +1037,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11378,
+            "markdown_end": 12029,
+            "markdown_line_start": 115,
+            "markdown_line_end": 115
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Проанализированы данные 134 больных (мужчины, _n_ = 82; женщины, _n_ = 52) в возрасте 22–85 (58,5 [43–71]) лет с абдоминальным сепсисом, осложнившим острый деструктивный панкреатит ( _n_ = 45), острый гангренозный аппендицит ( _n_ = 7), перфоративную язву двенадцатиперстной кишки или желудка ( _n_ = 26), перфорацию кишечника ( _n_ = 25), кишечную неп роходимость ( _n_ = 8), острый деструктивный холецистит ( _n_ = 4), острый холангит ( _n_ = 7), обструктивный пиелонефрит ( _n_ = 4), язвенный колит ( _n_ = 1), мезентериальный тромбоз ( _n_ = 4), перфорацию мочевого пузыря ( _n_ = 1), разрыв яичника ( _n_ = 1), ножевое ранение толстой и тонкой кишки ( _n_ = 1). Тяжесть состояния при поступлении в ОРИТ по шкале APACHE II составила 4–31 (13 [11–17]) балл, по шкале SOFA —  1–14 (6[4–8]) баллов. Симпатомиметические препараты в первые 24 ч нахождения в ОРИТ были назначены в 86 (64 %) наблюдениях; септический шок был диагностирован в 26,9 % случаев ( _n_ = 36); летальность в ОРИТ составила 47 % ( _n_ = 63).",
         "metadata": {
@@ -836,12 +1056,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12032,
+            "markdown_end": 13045,
+            "markdown_line_start": 117,
+            "markdown_line_end": 117
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Все больные получали стартовую антибиотикотерапию препаратом широкого спектра, имеющим антианаэробный эффект, либо комбинацию, один из компонентов которой имел антианаэробный эффект. В 25 % наблюдений назначали меропенем (3 г/сут), в 25 % — имипенем- циластатин (3 г/сут), в 50 % —  комбинацию цефтриаксона (4 г/сут) и метронидазола (1,5 г/сут). По результатам бактериологических посевов продолжали стартовую терапию либо начинали применять цефоперазон- сульбактам, цефепим или комбинацию ципрофлоксацина и амикацина.",
         "metadata": {
@@ -851,12 +1075,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13048,
+            "markdown_end": 13565,
+            "markdown_line_start": 119,
+            "markdown_line_end": 119
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Инфузии сбалансированных кристаллоидных растворов, назначение симпатомиметических препаратов и другие лечебные меры выполняли в соответствии с рекомендациями «Сепсис-3» [9]. Решение о назначении норэпинефрина (НЭ) принимали в течение первого",
         "metadata": {
@@ -866,12 +1094,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13568,
+            "markdown_end": 13809,
+            "markdown_line_start": 121,
+            "markdown_line_end": 121
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Анализ ранних факторов риска летального исхода абдоминального сепсиса…",
         "metadata": {
@@ -881,12 +1113,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13817,
+            "markdown_end": 13887,
+            "markdown_line_start": 125,
+            "markdown_line_end": 125
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "часа после поступления больного в ОРИТ, если в результате инфузии среднее АД (АДср) не достигало уровня 65 мм рт. ст. В первые 24 ч от момента поступления всем больным выполняли катетеризацию магистральной вены (подключичная и/или внутренняя яремная).",
         "metadata": {
@@ -896,12 +1132,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13890,
+            "markdown_end": 14141,
+            "markdown_line_start": 127,
+            "markdown_line_end": 127
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "На первом этапе исследования во всех 134 наблюдениях проанализированы демографические показатели, оценка тяжести состояния больных при поступлении в ОРИТ по шкалам APACHE II и SOFA, АДср, частота сердечных сокращений (ЧСС), лабораторные показатели (лактатемия, pH центральной венозной крови), определенные стандартными лабораторными методами в первые сутки интенсивного лечения после первичной стабилизации состояния больного в результате рекомендованных мер интенсивной терапии [9]. Кроме того, анализировали информацию о содержании в плазме венозной крови N-терминального отрезка предшественника натрийуретического пептида B-типа (NT-proBNP) и прокальцитонина (ПКТ), если эти данные были получены в первые 24 ч пребывания больных в ОРИТ. NT-proBNP определяли фотометрическим методом с помощью автоматического анализатора Dimension Xpand Plus (Siemens, США); ПКТ —  иммуноферментным методом с помощью анализатора miniVIDAS (BioMerieux, Франция). Ретроспективно рассчитывали инотропный индекс (ИИ) и вазоактивно- инотропный индекс (ВИИ) в условных единицах (у. е.) [10]:",
         "metadata": {
@@ -911,12 +1151,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14144,
+            "markdown_end": 15214,
+            "markdown_line_start": 129,
+            "markdown_line_end": 129
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- ÿ ИИ (у. е.) = доза допамина (мкг/кг/мин) +  доза добутамина (мкг/кг/мин) (мкг/кг/мин) +  доза эпинефрина (мкг/кг/мин) ×  100;",
         "metadata": {
@@ -926,12 +1170,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15217,
+            "markdown_end": 15345,
+            "markdown_line_start": 131,
+            "markdown_line_end": 131
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- ÿ ВИИ (у. е.) = доза НЭ (мкг/кг/мин) ×  100 +  доза допамина (мкг/кг/мин) +  доза добутамина (мкг/ кг/мин) +  доза эпинефрина (мкг/кг/мин) ×  100.",
         "metadata": {
@@ -941,12 +1189,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15348,
+            "markdown_end": 15496,
+            "markdown_line_start": 133,
+            "markdown_line_end": 133
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "На втором этапе исследования отобрали больных, у которых в интервале 24–72 ч от поступления в ОРИТ по общеклиническим показаниям был налажен инвазивный мониторинг ЦГД с помощью ТПТД по стандартной методике [11]. В эту выборку вошли 52 пациента (мужчины, _n_ = 33; женщины, _n_ = 19) в возрасте 22–83 (48 [39– 64]) года. Симпатомиметические препараты были назначены в 63,4 % наблюдений ( _n_ = 33); летальность в ОРИТ составила 30,7 % ( _n_ = 16). К моменту начала ТПТД все больные находились на ИВЛ и получали седацию пропофолом.",
         "metadata": {
@@ -956,12 +1208,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15499,
+            "markdown_end": 16028,
+            "markdown_line_start": 135,
+            "markdown_line_end": 135
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "При ретроспективном анализе пациентов разделили на 2 подгруппы: с наличием сочетания факторов риска летальности ( _n_ = 14) и без факторов риска ( _n_ = 38). В качестве факторов риска рассматривали предикторы летального исхода, установленные на первом этапе исследования (SOFA > 8 баллов и лактатемия > 1,8 ммоль/л).",
         "metadata": {
@@ -971,12 +1227,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16031,
+            "markdown_end": 16347,
+            "markdown_line_start": 137,
+            "markdown_line_end": 137
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Регистрировали сердечный индекс (СИ), индексированные общее периферическое сосудистое сопротивление (ИОПСС), ударный объем (ИУО), глобальный конечно- диастолический объем (ИГКДО), а также глобальную фракцию изгнания сердца (ГФИС) и индекс функции сердца (ИФС = ИГКДО/СИ, норма —  4,5–",
         "metadata": {
@@ -986,12 +1246,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16350,
+            "markdown_end": 16634,
+            "markdown_line_start": 139,
+            "markdown_line_end": 139
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "6,5 мин[−1] ). Ретроспективно рассчитали индекс мощности сердца (ИМС = СИ ×  АДср /451) и показатель «производительность сердца, обусловленная постнагрузкой» (ПСОП) [6]:",
         "metadata": {
@@ -1001,12 +1265,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16637,
+            "markdown_end": 16806,
+            "markdown_line_start": 141,
+            "markdown_line_end": 141
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Kozlov_2022/images/Kozlov_2022.pdf-0004-10.png)",
         "metadata": {
@@ -1016,12 +1284,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16810,
+            "markdown_end": 16881,
+            "markdown_line_start": 144,
+            "markdown_line_end": 144
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Kozlov_2022.pdf-0004-10.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Mathematical Formula Involving ИОПСС and СИ\n> \n> The image shows a mathematical expression. It features a numeric calculation involving fraction and multiplication. The formula calculates a percentage using the variables СИ and ИОПСС, along with the constants 0.64 and 394.07. The layout is horizontal with the fraction placed centrally and the percentage sign at the end.\n> \n> **Data Points:** Formula: СИ / (ИОПСС - 0.64 × 394.07) × 100 (%)\n<!-- analyzed_Kozlov_2022.pdf-0004-10.png -->",
         "metadata": {
@@ -1031,12 +1303,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16883,
+            "markdown_end": 17491,
+            "markdown_line_start": 146,
+            "markdown_line_end": 153
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Статистический анализ выполнили с помощью программных пакетов Microsoft Office Excel и MedCalc 15. Характер распределения данных определяли с помощью критериев Колмогорова—Смирнова и Шапиро—Уилка. Данные представили в виде максимального (max) и минимального (min) значений, медианы (Me), 25-го и 75-го кварти лей (P25–P75), а при нормальном распределении —  дополнительно в виде средних величин (M) и ошибок средних (m). Отличие нес вязанных выборок при распределении, отличном от нормального, определяли с помощью критерия Манна—Уитни, при нормальном — с помощью _t_ -критерия Стьюдента. Отличия частот признаков (Р) оценивали с помощью точного критерия Фишера.",
         "metadata": {
@@ -1046,12 +1322,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17496,
+            "markdown_end": 18158,
+            "markdown_line_start": 158,
+            "markdown_line_end": 158
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Влияние неза висимых переменных на зависимую, закодированную бинарно, оценили с помощью логистической регрессии. Рассчитывали отношение шансов (ОШ), 95%-й доверительный интервал (95% ДИ) и значимость влияния ( _р_ ). Для оценки разделительной способности неза висимых переменных (разграничение больных с наличием и отсутствием признака) выполняли ROCанализ. В последний включали только те показатели, которые продемонстрировали предикторную значимость по данным логистической регрессии. Анализировали площади под ROC-кривыми (ППК), 95% ДИ ППК и статистическую значимость ( _p_ ). Качество модели считали при ППК > 0,9 —  отличным, 0,8–0,89 —  очень хорошим, 0,7–0,79 —  хорошим, 0,6–0,69 —  средним, 0,5–0,59 —  неудовлетворительным. Пороговое значение (ПЗ) переменной определяли по индексу Юдена (требование максимальной суммы чувствительности и специфичности), требованию чувствительности теста, приближающейся к 80 %, и требованию баланса между чувствительностью и специфичностью (минимальная разность между этими значениями). За ПЗ принимали значение, в наиболь шей степени соответствующее всем трем требованиям.",
         "metadata": {
@@ -1061,12 +1341,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18161,
+            "markdown_end": 19277,
+            "markdown_line_start": 160,
+            "markdown_line_end": 160
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "На первом этапе исследования в качестве зависимой переменной использовали летальный исход (1 — умер, 0 —  выжил), а в качестве неза висимых —  возраст, пол, оценки по шкалам APACHE II и SOFA, АДср, ЧСС, уровень лактатемии, pH, ИИ и ВИИ. На втором этапе исследования в качестве зависимых переменных использовали значение СИ (1 —  СИ < 2,5 л/мин/м[2] , 0 —  СИ > 2,5 л/мин/м[2] ) и ИФС (1 —  ИФС < 5,8 мин[−1] , 0 —  ИФС > 5,8 мин[−1] ) [7], а в качестве неза висимой — наличие комбинации факторов риска, также закодированной бинарно (1 —  сочетание факторов риска есть, 0 —  сочетания факторов риска нет).",
         "metadata": {
@@ -1076,12 +1360,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19280,
+            "markdown_end": 19884,
+            "markdown_line_start": 162,
+            "markdown_line_end": 162
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Отличия и выявленные зависимости считали значимыми при _р_ < 0,05.",
         "metadata": {
@@ -1091,12 +1379,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19887,
+            "markdown_end": 19953,
+            "markdown_line_start": 164,
+            "markdown_line_end": 164
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Результаты исследования**",
         "metadata": {
@@ -1106,12 +1398,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19974,
+            "markdown_end": 20004,
+            "markdown_line_start": 170,
+            "markdown_line_end": 170
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "При поступлении в ОРИТ оценка по шкалам APACHE II и SOFA указывала на наличие сепсиса и свидетельствовала о тяжелом состоянии большинства больных. Медианное значение АДср (табл. 1) соответствовало рекомендуемому уровню для больных с сепсисом. У 7 % больных АДср было ниже 70 мм рт. ст., у 14,9 % — выше 100 мм рт. ст. Медиана ЧСС указывала на умеренную тахикардию. ЧСС более 90 мин[−1] регистрировали у 76 % больных. НЭ был назначен 61,2 % больных, дополнительные симпатомиметические средства —  26,1 %",
         "metadata": {
@@ -1121,12 +1417,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20007,
+            "markdown_end": 20509,
+            "markdown_line_start": 172,
+            "markdown_line_end": 172
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "больных, значения ВИИ и ИИ варьировали. Гиперлактатемию ( > 2 ммоль/л) выявили в 37,3 % наблюдений. Значения sVO2 и pH колебались в широких пределах, выходя за границы физиологической нормы. Однако средние значения показате лей соответствовали послед - ней. Наличие бактериальной инфекции подтверждалось уровнем ПКТ > 0,05 нг/мл у 92,5 % больных, причем в 76 % наблюдений значения биомаркера были выше 0,5 нг/мл. Значения NT-proBNP, превышающие верхнюю границу нормы (450 пг/мл), выявили у 87 % больных, во многих наблюдениях это превышение было многократным.",
         "metadata": {
@@ -1136,12 +1436,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20512,
+            "markdown_end": 21071,
+            "markdown_line_start": 174,
+            "markdown_line_end": 174
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Таблица 1.** Клинико- лабораторные показатели у больных ( _n_ = 134) с абдоминальным сепсисом при поступлении в ОРИТ **Table 1.** Clinical and laboratory data in patients ( _n_ = 134) with abdominal sepsis on admission to the ICU",
         "metadata": {
@@ -1151,12 +1455,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21074,
+            "markdown_end": 21305,
+            "markdown_line_start": 176,
+            "markdown_line_end": 176
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Kozlov_2022/images/Kozlov_2022.pdf-0005-06.png)",
         "metadata": {
@@ -1166,12 +1474,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21309,
+            "markdown_end": 21380,
+            "markdown_line_start": 179,
+            "markdown_line_end": 179
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Kozlov_2022.pdf-0005-06.png)**\n> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** Statistical Summary Table\n> \n> The image is a table with four columns. The headings in the columns are written in Russian and English: 'Indicators', 'Min', 'Max', 'Me [P25–P75] (M ± m)'. The table appears empty otherwise, with no data filled in.\n> \n> **Data Points:** Indicators | Min | Max | Median [P25–P75] (Mean ± error)\n> \n> **Key Findings:**\n> - No data values present\n> - Standard statistical indicators are listed\n<!-- analyzed_Kozlov_2022.pdf-0005-06.png -->",
         "metadata": {
@@ -1181,12 +1493,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21382,
+            "markdown_end": 21969,
+            "markdown_line_start": 181,
+            "markdown_line_end": 192
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\nПоказатели Min Max Me [P25–P75] (M  ±  m)<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -1196,12 +1512,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21974,
+            "markdown_end": 22100,
+            "markdown_line_start": 197,
+            "markdown_line_end": 198
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|APACHE II, баллы|4|31|13 [11–17]|\n|---|---|---|---|\n|SOFA, баллы|2|14|6 [4–8]|\n|ЧСС, мин−1|57|150|102 [90,3–112,8] (102,3 ± 1,7)|\n|АДср, мм. рт. ст.|57|128|88 [77–101] (89,0 ± 1,8)|\n|ИИ, у. е.|1|29,5|7,4 [4,25–14,5]|\n|ВИИ, у. е.|3|240|27 [14–50]|\n|Лактатемия, ммоль/л|0,5|20,3|2,1 [1,1–3,2]|\n|sO2v, %|56,4|90,3|75,3 [68–79,9] (74,2 ± 1,0)|\n|рН|6,97|7,52|7,319 [7,27–7,39]|\n|ПКТ, нг/мл|0,05|200|7,0 [0,655–41,8]|\n|NT-proBNP, пг/мл (_n_= 54)|117|35000|2570 [1116–6559]|",
         "metadata": {
@@ -1211,12 +1531,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22103,
+            "markdown_end": 22571,
+            "markdown_line_start": 201,
+            "markdown_line_end": 212
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Среди показате лей, регистрация которых была возможна в ранние сроки после поступления больных в ОРИТ (табл. 2), прогностическую значимость продемонстрировали оценки по APACHE II и SOFA, а также лактатемия. Остальные параметры не были ассоциированы с летальностью.",
         "metadata": {
@@ -1226,12 +1550,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22575,
+            "markdown_end": 22839,
+            "markdown_line_start": 216,
+            "markdown_line_end": 216
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Множественный регрессионный анализ с включением трех неза висимых предикторов подтвердил значимость оценки по шкале SOFA (ОШ 1,4179; 95% ДИ 1,0374–1,9380; _р_ = 0,029) и лактатемии (ОШ _–_ 2,7536; 95% ДИ 1,2859 5,8965; _р_ = 0,009). Оценка по APACHE II предикторную значимость потеряла (ОШ _–_ 1,006; 95% ДИ 0,8177 1,2390; _р_ = 0,951).",
         "metadata": {
@@ -1241,12 +1569,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22842,
+            "markdown_end": 23178,
+            "markdown_line_start": 218,
+            "markdown_line_end": 218
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "При ROC-анализе оценка по SOFA обеспечила модель очень хорошего качества (ППК 0,813; 95% ДИ 0,698–0,897; _р_ < 0,0001); ПЗ > 8 баллов продемонстрировало чувствительность 74 % и специфичность 81 %. Модель лактатемии также приближалась к уровню очень хорошего качества: ППК 0,799 (95% ДИ 0,684–0,887;",
         "metadata": {
@@ -1256,12 +1588,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23181,
+            "markdown_end": 23479,
+            "markdown_line_start": 220,
+            "markdown_line_end": 220
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "_р_ < 0,0001); ПЗ > 1,8 ммоль/л обеспечивало чувствительность 63 % и специфичность 79 %. При совместном ROC-анализе обоих предикторов (рис. 1) ППК возрастала до 0,847 (95% ДИ 0,738–0,923; _р_ < 0,0001), что указывает на улучшение разделительной способности модели.",
         "metadata": {
@@ -1271,12 +1607,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23482,
+            "markdown_end": 23746,
+            "markdown_line_start": 222,
+            "markdown_line_end": 222
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "При начале инвазивного мониторинга ЦГД (2-й этап исследования) сочетание факторов риска летального исхода выявили в 26,9 % наблюдений. В подгруппах больных с наличием или отсутствием факторов риска стандартные показатели кровообращения и интенсивность симпатомиметической терапии не различались (табл. 3). Вместе с тем ряд параметров ЦГД, интегрально характеризующих насосную функцию сердца (СИ, ИМС, ПСОП, ИФС, ГФИС), у больных с сочетанием факторов риска были значимо ниже. В 1-й подгруппе частота снижения СИ до уровня менее 2,5 л/мин/м[2] составила 50 %, а во 2-й —  2,7 % ( _р_ = 0,0002). Частота снижения ИФС до уровня менее 5,8 мин[−1] составила 78,6 и 26,3 % ( _р_ = 0,00002) соответственно.",
         "metadata": {
@@ -1286,12 +1626,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23749,
+            "markdown_end": 24448,
+            "markdown_line_start": 224,
+            "markdown_line_end": 224
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Анализ ранних факторов риска летального исхода абдоминального сепсиса…",
         "metadata": {
@@ -1301,12 +1645,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24456,
+            "markdown_end": 24526,
+            "markdown_line_start": 228,
+            "markdown_line_end": 228
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Таблица 2.** Предикторная значимость в отношении летального исхода клинико- лабораторных показате лей, зарегистрированных в первые 24 ч нахождения в ОРИТ",
         "metadata": {
@@ -1316,12 +1664,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24529,
+            "markdown_end": 24684,
+            "markdown_line_start": 230,
+            "markdown_line_end": 230
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Table 2.** Predictive significance of clinical and laboratory data in first 24 hours in ICU for mortality",
         "metadata": {
@@ -1331,12 +1683,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24687,
+            "markdown_end": 24794,
+            "markdown_line_start": 232,
+            "markdown_line_end": 232
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Kozlov_2022/images/Kozlov_2022.pdf-0006-04.png)",
         "metadata": {
@@ -1346,12 +1702,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24798,
+            "markdown_end": 24869,
+            "markdown_line_start": 235,
+            "markdown_line_end": 235
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Kozlov_2022.pdf-0006-04.png)**\n> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** Statistical Table Header in Russian\n> \n> The image is a table header with four columns, written in Russian. The columns are labeled as follows: 'Показатели', 'ОШ', '95% ДИ', and 'р'. The layout is simple with black borders separating the columns.\n> \n> **Data Points:** Headers include Показатели (Indicators), ОШ (OR - Odds Ratio), 95% ДИ (95% CI - Confidence Interval), р (p-value).\n<!-- analyzed_Kozlov_2022.pdf-0006-04.png -->",
         "metadata": {
@@ -1361,12 +1721,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24871,
+            "markdown_end": 25420,
+            "markdown_line_start": 237,
+            "markdown_line_end": 244
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\nПоказатели ОШ 95% ДИ p<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -1376,12 +1740,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25425,
+            "markdown_end": 25532,
+            "markdown_line_start": 249,
+            "markdown_line_end": 250
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Пол|0,7540|0,2545–2,2337|0,6115|\n|---|---|---|---|\n|APACHE II|1,1814|1,0112–1,3804|0,0297|\n|SOFA|1,5712|1,1934–2,0686|0,0001|\n|АДср|1,0016|0,9734–1,0307|0,9124|\n|ЧСС|0,9835|0,9527–1,0153|0,2999|\n|ИИ|0,8820|0,7052–1,1031|0,2148|\n|ВИИ|0,9884|0,9643–1,0130|0,2888|\n|Лактат|3,5293|1,7421–7,1500|0,0001|\n|sO2v|0,9701|0,9026–1,0428|0,4091|\n|рН|6,8555|0,014–3230,30|0,5342|\n|ПКТ|0,9948|0,9846–1,0051|0,3225|\n|NT-proBNP|1,0000|0,9999–1,0001|0,545|",
         "metadata": {
@@ -1391,12 +1759,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25535,
+            "markdown_end": 25975,
+            "markdown_line_start": 253,
+            "markdown_line_end": 265
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Таблица 3.** Показатели кровообращения при начале инвазивного мониторинга ( _n_ = 52) **Table 3.** Hemodynamics at the begining of invasive monitoring ( _n_ = 52)",
         "metadata": {
@@ -1406,12 +1778,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25979,
+            "markdown_end": 26143,
+            "markdown_line_start": 269,
+            "markdown_line_end": 269
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Kozlov_2022/images/Kozlov_2022.pdf-0006-07.png)",
         "metadata": {
@@ -1421,12 +1797,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26147,
+            "markdown_end": 26218,
+            "markdown_line_start": 272,
+            "markdown_line_end": 272
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Kozlov_2022.pdf-0006-07.png)**\n> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** Risk Factor Combinations Table\n> \n> The image is a table with a simple layout and contains four columns. The columns are labeled in Russian with terms translating to 'Group Indicator,' 'Combination of Risk Factors Present (n = 14),' 'Combination of Risk Factors Absent (n = 38),' and 'p-value.' It is black and white with a grid format and labels aligned horizontally.\n> \n> **Data Points:** Categories: Group Indicator, Risk Factor Combination Present (n = 14), Risk Factor Combination Absent (n = 38), p-value\n> \n> **Key Findings:**\n> - Comparison of two groups based on the presence or absence of risk factor combinations.\n<!-- analyzed_Kozlov_2022.pdf-0006-07.png -->",
         "metadata": {
@@ -1436,12 +1816,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26220,
+            "markdown_end": 27010,
+            "markdown_line_start": 274,
+            "markdown_line_end": 284
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\nГруппа Сочетание факторов риска есть ( n  = 14) Сочетания факторов риска нет ( n  = 38) p<br>Показатель<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -1451,12 +1835,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27015,
+            "markdown_end": 27203,
+            "markdown_line_start": 289,
+            "markdown_line_end": 290
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|SOFA, баллы|10,5 [9–12] (10,37 ± 0,4)|7 [6–8,5] (7,3 ± 0,34)|< 0,0001|\n|---|---|---|---|\n|Лактатемия, ммоль/л|2,9 [2,3–3,2] (2,8 ± 0,2)|1 [0,8–1,5]|< 0,0001|\n|АДср, мм рт. ст.|88,8 [77,2–110] (95,5 ± 6,0)|89,7 [77,3–104] (90,9 ± 2,4)|0,742|\n|ЧСС, мин–1|100 [88–115,5] (100 ± 5,0)|100 [89,8–110,5] (98,8 ± 2,7)|0,880|\n|ИИ, у. е.|8 [4,5–10,3] (7,8 ± 1,9)|5 [3,8–9,7]|0,679|\n|ВИИ, у. е.|17,5 [0–27]|3,25 [0–16]|0,373|\n|СИ, л/мин/м2|2,9 [2,4–3] (2,8 ± 0,2)|3,8 [3,5–4,1]|0,0006|\n|ИМС, Вт|0,694 [0,455–0,805]|0,821 [0,707–1,019]|0,0372|\n|ПСОП, %|78,8 [73,5–87,7] (81,1 ± 4,0)|86,7 [82,1–95,7]|0,041|\n|ИФС, мин–1|5,1 [4–5,5] (4,9 ± 0,3)|6 [5,42–7]|0,003|\n|ИУО, мл/м2|35,7 [23,0–45,5] (35,9 ± 3,2)|41 [35,7–53] (43,1 ± 1,8)|0,08|\n|ГФИС, %|20,7 [17,2–27,0] (21,3 ± 2,0)|28,9 [21,52–32,7]|0,01|\n|ИГКДО, мл/м2|694 [573–783] (690 ± 38)|625 [502–761]|0,3|\n|ИОПСС, дин×с×см5×м2|2124 [1788–2578] (2324 ± 214)|1895 [1691–2420] (2060 ± 97,5)|0,22|",
         "metadata": {
@@ -1466,12 +1854,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27206,
+            "markdown_end": 28138,
+            "markdown_line_start": 293,
+            "markdown_line_end": 307
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "щую, нес мотря на инфузии и введение вазопрессоров, гипоперфузию [2].",
         "metadata": {
@@ -1481,12 +1873,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28160,
+            "markdown_end": 28229,
+            "markdown_line_start": 315,
+            "markdown_line_end": 315
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Рис. 1.** ROC-кривые, отражающие разделительную способность лактатемии и тяжести состояния по шкале SOFA в отношении летальности",
         "metadata": {
@@ -1496,12 +1892,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28232,
+            "markdown_end": 28362,
+            "markdown_line_start": 317,
+            "markdown_line_end": 317
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Fig. 1.** ROC-curves of lactatemia and SOFA in mortality prediction",
         "metadata": {
@@ -1511,12 +1911,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28365,
+            "markdown_end": 28434,
+            "markdown_line_start": 319,
+            "markdown_line_end": 319
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Сочетание установленных в исследовании факторов риска летального исхода являлось неза висимым предиктором уровня СИ < 2,5 л/мин/м[2] (ОШ 37,0; 95% ДИ 3,9167–349,5290; _р_ = 0,002) и значений ИФС < 5,8 мин[−1] (ОШ 11,8182; 95% ДИ 2,8189–49,5303; _р_ = 0,0007).",
         "metadata": {
@@ -1526,12 +1930,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28437,
+            "markdown_end": 28696,
+            "markdown_line_start": 321,
+            "markdown_line_end": 321
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Обсуждение**",
         "metadata": {
@@ -1541,12 +1949,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28699,
+            "markdown_end": 28716,
+            "markdown_line_start": 323,
+            "markdown_line_end": 323
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Летальность при сепсисе остается высокой даже в самых развитых странах мира [12], что поддерживает постоянный интерес к улучшению в этой клинической ситуации мер интенсивной терапии [2]. Важным компонентом послед ней является мониторинг кровообращения, однако его оптимальный вариант однозначно не установлен. Отношение к инвазивному контролю ЦГД остается крайне сдержанным, его рекомендуют только у наиболее тяжелых больных [4]. Сохраняется неопределенное отношение к поддержанию насосной функции сердца: с одной стороны, не рекомендуют целенаправленно корригировать СИ [13], с другой, указывают, что назначение инотропных лекарственных средств показано при миокардиальной дисфункции [2], методика выявления которой также остается предметом дискуссии. В частности, рекомендуют рассматривать в качестве основного показания к назначению препаратов, улучшающих инотропизм миокарда, персистирую-",
         "metadata": {
@@ -1556,12 +1968,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28719,
+            "markdown_end": 29611,
+            "markdown_line_start": 325,
+            "markdown_line_end": 325
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "В последних согласительных документах по лечению сепсиса [2, 14] для оценки функции сердца рекомендуют использовать ЭхоКГ, не детализируя протокол послед - ней. Вместе с тем ранние стадии септической миокардиальной дисфункции, тем более нарушение процессов расслабления, могут быть выявлены только с помощью достаточно сложных ЭхоКГ-методик, предполагающих применение аппаратуры экспертного уровня и высокую квалификацию исследователя [15, 16]. В практике отечественных ОРИТ общего профиля чаще всего доступна стандартная прикроватная ЭхоКГ с оценкой насосной функции сердца по фракции изгнания левого желудочка и его объемам. Это исследование не обеспечивает надежной диагностики септической кардиомиопатии и не дискриминирует больных с высоким риском летальности [5, 17]. В результате своевременное выявление сердечной дисфункции становится затруднительным, а назначение адекватных корригирующих мер, в частности инотропных препаратов, может запаздывать, заметно не улучшая состояние больных с выраженными признаками персистирую щей гипоперфузии. Рискнем предположить, что наиболее современные данные о более высокой летальности у больных с сепсисом, получающих добутамин и эпинефрин [18], объясняются не столько ятрогенными эффектами этих симпатомиметиков, сколько отсутствием верифицированных показаний к их своевременному назначению.",
         "metadata": {
@@ -1571,12 +1987,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29614,
+            "markdown_end": 30952,
+            "markdown_line_start": 327,
+            "markdown_line_end": 327
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Полагаем, что задача ран ней диагностики нарушения насосной функции сердца и установления показаний к началу инотропной терапии может быть решена с помощью инвазивного мониторинга ЦГД, в частности ТПТД, достаточно легко реализуемой в ОРИТ общего профиля [11]. Ранее выполненные исследования показали, что ряд параметров, определяемых с помощью ТПТД, обладает предикторной значимостью в отношении риска летальности [5 ,8, 19]. Одним из таких показате лей является ИФС, отражающий соотношение сердечного выброса и преднагрузки [11]. Определенный уровень ИФС, сохраняющийся на фоне стандартной интенсивной терапии (инфузионная нагрузка, вазопрессоры), указывает на наличие миокардиальной дисфункции [3, 7]. Есть основания рассматривать ИФС как возможный целевой показатель при назначении инотропных лекарственных средств.",
         "metadata": {
@@ -1586,12 +2006,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30955,
+            "markdown_end": 31773,
+            "markdown_line_start": 329,
+            "markdown_line_end": 329
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Очевидно, максимально раннее начало инвазивного мониторинга ЦГД нельзя рекомендовать всем больным с сепсисом, но оно может быть вполне обосновано у больных с риском летального исхода, высокая вероятность которого установлена в первые сутки интенсивной терапии. Поэтому 1-й этап исследования посвятили выявлению ранних предикторов летального исхода. Проанализировав прогностическую значимость в отношении риска летальности общеклинических и лабораторных показате лей, регистрация которых возможна",
         "metadata": {
@@ -1601,12 +2025,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31776,
+            "markdown_end": 32271,
+            "markdown_line_start": 331,
+            "markdown_line_end": 331
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Анализ ранних факторов риска летального исхода абдоминального сепсиса…",
         "metadata": {
@@ -1616,12 +2044,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32279,
+            "markdown_end": 32349,
+            "markdown_line_start": 335,
+            "markdown_line_end": 335
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "в первые 24 ч нахождения больного в ОРИТ, установили, что наиболее уверенно можно предсказать летальный исход у больных с сочетанием достаточно высокой оценки по SOFA и тенденции к гиперлактатемии. Все остальные показатели, включая уровень ПКТ и биомаркер напряжения миокарда NT-proBNP [20], не обеспечивали раннего выявления больных с риском летальности.",
         "metadata": {
@@ -1631,12 +2063,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32352,
+            "markdown_end": 32707,
+            "markdown_line_start": 337,
+            "markdown_line_end": 337
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Оба установленных фактора риска являются стандартными компонентами клинико- лабораторного обследования больных с сепсисом. Оценка по SOFA, предложенная более 25 лет назад [21], сохраняет несо мненную актуальность при оценке риска летальности [22, 23]. Более того, в настоящее время получены свидетельства связи компонентов этой шкалы с нарушениями при сепсисе внутриклеточных сигнальных пу тей, изменениями уровня матричной и митохондриальной РНК [24]. Указывают, что кардиальная подшкала SOFA в первые 24 ч нахождения в ОРИТ может стратифицировать риск летальности у больных с сепсисом и сопутствующими сердечно- сосудистыми заболеваниями, а также при сочетании септического и кардиогенного шока [25]. Установленные в настоя щей работе ППК и ПЗ оценки по SOFA, указывающие на высокий риск летального исхода, практически совпали с результатами наиболее современных исследований, посвященных предикторной способности этой шкалы [26].",
         "metadata": {
@@ -1646,12 +2082,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32710,
+            "markdown_end": 33642,
+            "markdown_line_start": 339,
+            "markdown_line_end": 339
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Гиперлактатемия является общепризнанным показателем тканевой гипоксии в результате гипоперфузии, характерной для сепсиса [27]. Установленное ПЗ оказалось нес колько ниже уровня гиперлактаемии, характерного для септического шока [9]. Полагаем, что это вполне закономерно, так как повышенный риск летальности могут иметь и больные без отчетливых проявлений септического шока в первые сутки нахождения в ОРИТ [27, 28]. Принципиально важно, что предикторная способность в отношении летальности в проанализированных клинических наблюдениях становилась более выраженной при сочетании установленной оценки по шкале SOFA и определенного уровня лактатемии. Полагаем, что именно в таких клинических наблюдениях возникают показания к раннему началу ТПТД, так как есть веские основания предполагать наличие миокардиальной дисфункции, внося щей свой вклад в усугубление тканевой гипоксии [29].",
         "metadata": {
@@ -1661,12 +2101,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33645,
+            "markdown_end": 34525,
+            "markdown_line_start": 341,
+            "markdown_line_end": 341
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Второй этап исследования был посвящен проверке гипотезы о наличии показаний к инвазивному мониторингу ЦГД у больных с высоким риском летальности. Полученные результаты подтвердили предположение о необходимости ран ней углубленной оценки состояния системы кровообращения у больных с установленными предикторами летального исхода. В этой группе наблюдений АДср, ЧСС и интенсивность симпатомиметической терапии были такими же, как у остальных больных. Однако практически все параметры ЦГД, отражающие насосную функцию сердца и сократимость миокарда (СИ, ИМС, ПСОП, ИФС, ГФИС) [11], были снижены.",
         "metadata": {
@@ -1676,12 +2120,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34528,
+            "markdown_end": 35120,
+            "markdown_line_start": 343,
+            "markdown_line_end": 343
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Вместе с тем ИГКДО и ИОПСС, изменение которых считают типичным для дистрибутивного септического шока [8], не отличались. Депрессия насосной функции сердца в отсутствие отличий преднагрузки и постнагрузки дает основания считать основной причиной нарушения сократимости миокарда комплекс патологических процессов, характерных для септической кардиомиопатии [30, 31]. Угнетение сократимости, в свою очередь, объективно подтверждает необходимость назначения инотропных препаратов [2].",
         "metadata": {
@@ -1691,12 +2139,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35123,
+            "markdown_end": 35603,
+            "markdown_line_start": 345,
+            "markdown_line_end": 345
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- Отметим, что значимое снижение СИ, дающее осно вание предположить комбинацию сепсиса с кардиогенным шоком [29] и зарегистрированное в половине наблюдений при сочетании установленных факторов риска летальности, диагностировали хотя и не максимально часто, но в 18,5 раза чаще, чем у больных, не имевших такого сочетания. Полагаем, что это является достаточно веским аргументом в пользу раннего начала инвазивного мониторинга ЦГД для своевременного выявления нарушений насосной функции сердца, еще не приведших к крайне выраженной клинической картине, в частности к стойкой периферической гипоперфузии.",
         "metadata": {
@@ -1706,12 +2158,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35606,
+            "markdown_end": 36208,
+            "markdown_line_start": 347,
+            "markdown_line_end": 347
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Вместе с тем углубленный анализ предикторной значимости различных параметров ТПТД [7] показал, что дискриминационная способность СИ, ПСОП и ГФИС в отношении высокого риска летальности на фоне корригирующих мер, проводимых в первые нес колько суток нахождения больных в ОРИТ, может существенно ухудшаться. При этом нарушение сократимости миокарда может сохраняться у больных с нормальным СИ [6]. Упоминавшийся выше ИФС указывает на сохранение миокардиальной дисфункции, персистирую - щей в течение нес кольких первых суток нахождения больного в ОРИТ, нес мотря на стандартные корригирующие меры, при этом ассоциированное с летальностью ПЗ ИФС < 5,8 мин[−1] [7]. Сочетание факторов риска оказалось достоверным предиктором уровня ИФС < 5,8 мин[−1] , который был выявлен у большинства больных соответствую щей подгруппы.",
         "metadata": {
@@ -1721,12 +2177,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36211,
+            "markdown_end": 37027,
+            "markdown_line_start": 349,
+            "markdown_line_end": 349
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Отметим, что определение СИ выполнимо с помощью различных, в том числе неинвазивных, методов, однако оценка ИФС возможна только при ТПТД. Инвазивный мониторинг ЦГД в такой клинической ситуации становится не крайним средством разобраться в причинах прогрессирующего критического состояния больного, а важным диагностическим инструментом, позволяющим выявить признаки миокардиальной дисфункции, еще не проявляющейся клинически, но требую щей определенных корригирующих мер.",
         "metadata": {
@@ -1736,12 +2196,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37030,
+            "markdown_end": 37501,
+            "markdown_line_start": 351,
+            "markdown_line_end": 351
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Отдавая себе отчет в определенной дискуссионности предложения максимально рано начинать инвазивный мониторинг ЦГД у больных с высоким риском летальности, отметим, что в последние годы отчетливо - возрос интерес к септической кардиомиопатии и ее па тогенетической роли в исходах сепсиса [30, 31]. Заметно повышение интереса к функции сердца и корректности",
         "metadata": {
@@ -1751,12 +2215,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37504,
+            "markdown_end": 37858,
+            "markdown_line_start": 353,
+            "markdown_line_end": 353
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## ИТ СЕПСИСА",
         "metadata": {
@@ -1766,12 +2234,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37866,
+            "markdown_end": 37879,
+            "markdown_line_start": 357,
+            "markdown_line_end": 357
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "оценки кровообращения в последних клинических рекомендациях [2], в частности, можно отметить акцент на инотропных эффектах и указание на целесообразность инвазивного контроля АД при развитии септическом шока. Можно предположить, что достаточно широкое, но обоснованное применение ТПТД, имею - щей не более высокий риск осложнений, чем стандартный инвазивный контроль АД, окажет положительный эффект на качество интенсивного лечения сепсиса. В качестве показаний к раннему началу ТПТД можно рассматривать сочетание оценки по SOFA > 8 баллов и лактатемии > 1,8 ммоль/л.",
         "metadata": {
@@ -1781,12 +2253,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37882,
+            "markdown_end": 38449,
+            "markdown_line_start": 359,
+            "markdown_line_end": 359
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Полагаем, что у данного исследования имеются ограничения: ретроспективный характер, ограниченное число клинических наблюдений и нево зможность включить в анализ данные ЭхоКГ экспертного уровня.",
         "metadata": {
@@ -1796,12 +2272,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38452,
+            "markdown_end": 38645,
+            "markdown_line_start": 361,
+            "markdown_line_end": 361
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Заключение**",
         "metadata": {
@@ -1811,12 +2291,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38648,
+            "markdown_end": 38665,
+            "markdown_line_start": 363,
+            "markdown_line_end": 363
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Таким образом, среди клинико- лабораторных показате лей, оценка которых доступна в первые 24 ч нахождения больных с сепсисом в ОРИТ, значимыми предикторами летального исхода являются оценка по шкале SOFA > 8 баллов и лактатемия > 1,8 ммоль/л. Для большинства больных с сочетанием этих факторов риска",
         "metadata": {
@@ -1826,12 +2310,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38668,
+            "markdown_end": 38967,
+            "markdown_line_start": 365,
+            "markdown_line_end": 365
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "характерно наличие признаков миокардиальной дисфункции (78,6 % наблюдений), а для 50 % —  критическое снижение СИ до уровня < 2,5 л/мин/м[2] , что указывает на целесообразность использования у них инвазивного мониторинга ЦГД, в частности с помощью ТПТД.",
         "metadata": {
@@ -1841,12 +2329,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38970,
+            "markdown_end": 39223,
+            "markdown_line_start": 367,
+            "markdown_line_end": 367
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Конфликт интересов.** Авторы заявляют об отсутствии конфликта интересов.",
         "metadata": {
@@ -1856,12 +2348,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39226,
+            "markdown_end": 39300,
+            "markdown_line_start": 369,
+            "markdown_line_end": 369
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Disclosure.** The authors declare that they have no competing interests.",
         "metadata": {
@@ -1871,12 +2367,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39303,
+            "markdown_end": 39377,
+            "markdown_line_start": 371,
+            "markdown_line_end": 371
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Этическое утверждение.** Исследование было одобрено локальным этическим комитетом ФУВ ГБУЗ МО МОНИКИ им. М. Ф. Владимирского, Москва, Россия (протокол № 11 от 13.12.2018).",
         "metadata": {
@@ -1886,12 +2386,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39380,
+            "markdown_end": 39553,
+            "markdown_line_start": 373,
+            "markdown_line_end": 373
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Ethics approval.** The present study protocol was approved by the local Ethics Committee of the Moscow Regional Research and Clinical Institute, Moscow, Russia ( reference number: 11-13/12/2018).",
         "metadata": {
@@ -1901,12 +2405,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39556,
+            "markdown_end": 39753,
+            "markdown_line_start": 375,
+            "markdown_line_end": 375
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Вклад авторов.** Все авторы в равной степени участвовали в разработке концепции статьи, получении и анализе фактических данных, написании и редактировании текста статьи, проверке и утверждении текста статьи.",
         "metadata": {
@@ -1916,12 +2424,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39756,
+            "markdown_end": 39965,
+            "markdown_line_start": 377,
+            "markdown_line_end": 377
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Author contribution.** All authors according to the ICMJE criteria participated in the development of the concept of the article, obtaining and analyzing factual data, writing and editing the text of the article, checking and approving the text of the article.",
         "metadata": {
@@ -1931,12 +2443,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39968,
+            "markdown_end": 40230,
+            "markdown_line_start": 379,
+            "markdown_line_end": 379
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **ORCID авторов:**",
         "metadata": {
@@ -1946,12 +2462,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40233,
+            "markdown_end": 40254,
+            "markdown_line_start": 381,
+            "markdown_line_end": 381
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Козлов И. А. —  0000-0003-1910-0207 Овезов А. М. —  0000-0001-7629-6280 Раутбарт С. А. —  0000-0001-8833-3886",
         "metadata": {
@@ -1961,12 +2481,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40257,
+            "markdown_end": 40366,
+            "markdown_line_start": 383,
+            "markdown_line_end": 383
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Тюрин И. Н. —  0000-0002-5696-1586 Александровский А. А. —  0000-0001-9848-3554 Скрипкин Ю. В. —  0000-0002-6747-2833",
         "metadata": {
@@ -1976,12 +2500,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40369,
+            "markdown_end": 40486,
+            "markdown_line_start": 385,
+            "markdown_line_end": 385
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## **Литература/References**",
         "metadata": {
@@ -1991,12 +2519,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40489,
+            "markdown_end": 40517,
+            "markdown_line_start": 387,
+            "markdown_line_end": 387
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [1] _Virág M., Leiner T., Rottler M., et al_ . Individualized Hemodynamic Management in Sepsis. J Pers Med. 2021; 11(2): 157. DOI: 10.3390/ jpm11020157",
         "metadata": {
@@ -2006,12 +2538,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40520,
+            "markdown_end": 40673,
+            "markdown_line_start": 389,
+            "markdown_line_end": 389
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [2] _Evans L., Rhodes A., Alhazzani W., et al._ Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Intensive Care Med. 2021; 47(11): 1181–247. DOI: 10.1007/ s00134-021-06506-y",
         "metadata": {
@@ -2021,12 +2557,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40676,
+            "markdown_end": 40902,
+            "markdown_line_start": 391,
+            "markdown_line_end": 391
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [3] _Ritter S., Rudiger A., Maggiorini M._ Transpulmonary thermodilution derived cardiac function index identifies cardiac dysfunction in acute heart failure and septic patients: an observational study. Crit Care. 2009; 13(4): R133–R143. DOI: 10.1186/cc7994",
         "metadata": {
@@ -2036,12 +2576,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40905,
+            "markdown_end": 41164,
+            "markdown_line_start": 393,
+            "markdown_line_end": 393
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [4] _Cecconi M., Hernandez G., Dunser M., et al._ Fluid administration for acute circulatory dysfunction using basic monitoring: narrative review and expert panel recommendations from an ESICM task force. Intensive Care Med. 2019; 45(1): 21–32. DOI: 10.1007/s00134018-5415-2",
         "metadata": {
@@ -2051,12 +2595,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41167,
+            "markdown_end": 41443,
+            "markdown_line_start": 395,
+            "markdown_line_end": 395
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [5] _Тюрин И. Н., Раутбарт С. А., Ганиева И. И. и др._ Прикроватная эхокардиография и транспульмональная термодилюция у больных",
         "metadata": {
@@ -2066,12 +2614,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41446,
+            "markdown_end": 41575,
+            "markdown_line_start": 397,
+            "markdown_line_end": 397
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "с сепсисом. Пилотное исследование. Вестник интенсивной терапии им. А. И. Салтанова. 2020; 4: 108–19. DOI: 10.21320/1818474X-2020-4-108-119 [ _Tyurin I. N., Rautbart S. A. Ganieva I. I., et al._ Сritical care echocardiography and transpulmonary thermodilution in patients with sepsis. Pilot study. Annals of Critical Care. 2020; 4: 108–19. DOI: 10.21320/1818-474X-2020-4-108-119 (In Russ)]",
         "metadata": {
@@ -2081,12 +2633,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41578,
+            "markdown_end": 41966,
+            "markdown_line_start": 399,
+            "markdown_line_end": 399
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [6] _Werdan K., Oelke A., Hettwer S., et al_ . Septic cardiomyopathy: hemodynamic quantification, occurrence, and prognostic implications. Clin. Res. Cardiol. 2011; 100(8): 661–8. DOI: 10.1007/s00392011-0292-5",
         "metadata": {
@@ -2096,12 +2652,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41969,
+            "markdown_end": 42180,
+            "markdown_line_start": 401,
+            "markdown_line_end": 401
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [7] _Раутбарт С. А., Тюрин И. Н., Александровский А. А., Козлов И. А._ Индекс функции сердца как возможный целевой показатель для коррекции гемодинамики при абдоминальном сепсисе (пилотное исследование). Общая реаниматология. 2021; 17(5): 9–22. DOI: 10.15360/1813-9779-2021-5-9-22 [ _Rautbart S. A., Tyurin I. N., Aleksandrovskiy A. A., Kozlov I. A._ Cardiac Function Index as a Possible Target Parameter Hemodynamic Correction in Abdominal Sepsis (Pilot Study) 2021; 17(5): 9–22. DOI: 10.15360/1813-9779-2021-5-9-22 (In Russ)]",
         "metadata": {
@@ -2111,12 +2671,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 42183,
+            "markdown_end": 42712,
+            "markdown_line_start": 403,
+            "markdown_line_end": 403
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Анализ ранних факторов риска летального исхода абдоминального сепсиса…",
         "metadata": {
@@ -2126,12 +2690,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 42720,
+            "markdown_end": 42790,
+            "markdown_line_start": 407,
+            "markdown_line_end": 407
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [8] _Lee E. P., Hsia S. H., Lin J. J., et al._ Hemodynamic Analysis of Pediatric Septic Shock and Cardiogenic Shock Using Transpulmonary Thermodilution. Biomed Res Int. 2017; 2017: 3613475. DOI: 10.1155/2017/3613475",
         "metadata": {
@@ -2141,12 +2709,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 42793,
+            "markdown_end": 43010,
+            "markdown_line_start": 409,
+            "markdown_line_end": 409
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [9] _Singer M., Deutschman C. S., Seymour C. W., et al_ . The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA. 2016; 315(8): 801–10. DOI: 10.1001/jama.2016.0287",
         "metadata": {
@@ -2156,12 +2728,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 43013,
+            "markdown_end": 43214,
+            "markdown_line_start": 411,
+            "markdown_line_end": 411
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [10] _Баутин А. Е., Ксендикова А. В., Белолипецкий С. С. и др._ О возможности использования фармакологических индексов для прогнозирования течения послеоперационного периода кардиохирургических вмешательств. Вестник интенсивной терапии имени А. И. Салтанова. 2019; 2: 66–74. DOI: 10.15360/1813-9779-2021-59-22 [ _Bautin A. E., Ksendikova A. V., Belolipetskiy S. S., et al._ About efficiency of the pharmacological scores as a predictors of outcomes after cardiac surgery. Alexander Saltanov Intensive Care Herald. 2019; 2: 66–74. DOI: 10.21320/1818-474X-2019-2-66-74 (In Russ)]",
         "metadata": {
@@ -2171,12 +2747,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 43217,
+            "markdown_end": 43796,
+            "markdown_line_start": 413,
+            "markdown_line_end": 413
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [11] _Кузьков В. В., Киров М. Ю._ Инвазивный мониторинг гемодинамики в интенсивной терапии и анестезиологии. Архангельск: Северный гос. мед. ун-т, 2015. [ _Kuz’kov V. V., Kirov M. Y_ u. Invazivnyj monitoring gemodinamiki v intensivnoj terapii i anesteziologii. Arhangel’sk: Severnyj gos. med. un-t, 2015. (In Russ)]",
         "metadata": {
@@ -2186,12 +2766,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 43799,
+            "markdown_end": 44116,
+            "markdown_line_start": 415,
+            "markdown_line_end": 415
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [12] _Fleischmann- Struzek C., Mellhammar L., Rose N., et al._ Incidence and mortality of hospital- and ICU-treated sepsis: results from an updated and expanded systematic review and meta-analysis. Intensive Care Med. 2020; 46(8): 1552–62. DOI: 10.1007/s00134020-06151-x",
         "metadata": {
@@ -2201,12 +2785,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44119,
+            "markdown_end": 44391,
+            "markdown_line_start": 417,
+            "markdown_line_end": 417
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [13] _Greenwood J. C., Orloski C. J._ End points of sepsis resuscitation. Emerg. Med. Clin. North Am. 2017; 35(1): 93–107. DOI: 10.1016/j. emc.2016.09.001",
         "metadata": {
@@ -2216,12 +2804,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44394,
+            "markdown_end": 44550,
+            "markdown_line_start": 419,
+            "markdown_line_end": 419
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [14] _Egi1 M., Ogura H., Yatabe T., et al._ The Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2020 (J-SSCG 2020). Acute Med Surg. 2021; 8(1): e659. DOI: 10.1002/ AMS2.659",
         "metadata": {
@@ -2231,12 +2823,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44553,
+            "markdown_end": 44759,
+            "markdown_line_start": 421,
+            "markdown_line_end": 421
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [15] _Beesley S. J., Weber G., Sarge T., et al_ . Septic Cardiomyopathy. Crit Care Med. 2018; 46(4): 625–34. DOI: 10.1097/CCM.0000000000002851",
         "metadata": {
@@ -2246,12 +2842,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44762,
+            "markdown_end": 44906,
+            "markdown_line_start": 423,
+            "markdown_line_end": 423
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [16] _Nizamuddin J., Mahmood F., Tung A., et al._ Interval Changes in Myocardial Performance Index Predict Outcome in Severe Sepsis. J Cardiothorac Vasc Anesth. 2017; 31(3): 957–64. DOI: 10.1053/j. jvca.2016.11.007",
         "metadata": {
@@ -2261,12 +2861,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44909,
+            "markdown_end": 45125,
+            "markdown_line_start": 425,
+            "markdown_line_end": 425
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [17] _Sevilla Berrios R. A., O’Horo J. C., Velagapudi V., Pulido J. N._ Correlation of left ventricular systolic dysfunction determined by low ejection fraction and 30-day mortality in patients with severe sepsis and septic shock: a systematic review and meta-analysis. J. Crit Care. 2014; 29(4): 495–9. DOI: 10.1016/j.jcrc.2014.03.007",
         "metadata": {
@@ -2276,12 +2880,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45128,
+            "markdown_end": 45465,
+            "markdown_line_start": 427,
+            "markdown_line_end": 427
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [18] _Sato R., Ariyoshi N., Hasegawa D., et al._ Effects of Inotropes on the Mortality in Patients With Septic Shock. J Intensive Care Med. 2021; 36(2): 211–9. DOI: 10.1177/0885066619892218",
         "metadata": {
@@ -2291,12 +2899,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45468,
+            "markdown_end": 45659,
+            "markdown_line_start": 429,
+            "markdown_line_end": 429
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [19] _Козлов И. А., Тюрин И. Н., Раутбарт С. А._ Ранние гемодинамические предикторы летального исхода абдоминального сепсиса. Вестник анестезиологии и реаниматологии. 2018; 15(2): 6–15. DOI: 10.21292/2078-5658-2018-15-2-6-15 [ _Kozlov I. A., Tyurin I. N., Rautbart S. A._ Early hemodynamic predictors of lethal outcomes of abdominal sepsis. Vestnik anesteziologii i reanimatologii. 2018; 15(2): 6–15. DOI: 10.21292/2078-5658-2018-15-2-6-15 (In Russ)]",
         "metadata": {
@@ -2306,12 +2918,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45662,
+            "markdown_end": 46114,
+            "markdown_line_start": 431,
+            "markdown_line_end": 431
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [20] _Тюрин И. Н., Раутбарт С. А., Проценко Д. Н. и др_ . Биомаркер напряжения миокарда NT-proBNP у больных с абдоминальным сеп-",
         "metadata": {
@@ -2321,12 +2937,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 46117,
+            "markdown_end": 46247,
+            "markdown_line_start": 433,
+            "markdown_line_end": 433
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "сисом и септическим шоком. Патология кровообращения и кардиохирургия. 2020; 24(1): 65–77. DOI: 10.21688/1681-3472-20201-65-77 [ _Tyurin I. N., Rautbart S. A., Protsenko D. N., et al._ N-terminal pro- B-type natriuretic peptide is a biomarker of myocardial stress in abdominal sepsis and septic shock. Patologiya krovoobrashcheniya i kardiokhirurgiya = Circulation Pathology and Cardiac Surgery. 2020; 24(1): 65–77. DOI: 10.21688/1681-3472-2020-1-65-77 (In Russ)]",
         "metadata": {
@@ -2336,12 +2956,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 46250,
+            "markdown_end": 46712,
+            "markdown_line_start": 435,
+            "markdown_line_end": 435
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [21] _Vincent J. L., Moreno R., Takala J., et al._ The SOFA (Sepsis- related Organ Failure Assessment) score to describe organ dysfunction/failure. On behalf of the Working Group on Sepsis- Related Problems of the European Society of Intensive Care Medicine. Intensive Care Med. 1996; 22(7): 707–10. DOI: 10.1007/BF01709751",
         "metadata": {
@@ -2351,12 +2975,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 46715,
+            "markdown_end": 47040,
+            "markdown_line_start": 437,
+            "markdown_line_end": 437
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [22] _Заболотских И. Б., Мусаева Т. С., Денисова Е. А._ Валидность шкал APACHE II, APACHE III, SAPS 2, SAPS 3 и SOFA у акушерских больных с сепсисом. Анестезиология и реаниматология. 2012; 6: 55– 7. [ _Zabolotskikh I. B., Musaeva T. S., Denisova E. A._ Validity of APACHE II, APACHE III, SAPS 2, SAPS 3 and SOFA scales in obstetric patients with sepsis. Anesteziologiya i reanimatologiya. 2012; 6: 55–7. (In Russ)]",
         "metadata": {
@@ -2366,12 +2994,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 47043,
+            "markdown_end": 47459,
+            "markdown_line_start": 439,
+            "markdown_line_end": 439
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [23] _Астафьева М. Н., Руднов В. А., Кулабухов В. В. и др_ . Использование шкалы qSOFA в прогнозе исхода лечения у хирургических пациентов в ОРИТ. Субпопуляционный анализ материалов исследования РИСЭС. Хирургия. Журнал им. Н. И. Пирогова. 2019; 9: 58– 65. DOI: 10.17116/hirurgia201909158 [ _Astafyeva M. N., Rudnov V. A., Kulabukhov V. V., et al._ qSOFA score for prediction of outcome in surgical patients in intensive care units. Post hoc analysis of the Russian multi- center trial Rises (in Russian only). Khirurgiya. 2019; 9: 58–65. DOI: 10.17116/hirurgia201909158 (In Russ)]",
         "metadata": {
@@ -2381,12 +3013,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 47462,
+            "markdown_end": 48044,
+            "markdown_line_start": 441,
+            "markdown_line_end": 441
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [24] _Meidert A. S., Buschmann D., Brandes F., et al._ Molecular RNA Correlates of the SOFA Score in Patients with Sepsis. Diagnostics (Basel). 2021; 11(9): 1649. DOI: 10.3390/diagnostics11091649",
         "metadata": {
@@ -2396,12 +3032,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 48047,
+            "markdown_end": 48244,
+            "markdown_line_start": 443,
+            "markdown_line_end": 443
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [25] _Jentzer J. C., van Diepen S., Hollenberg S. M., et al._ Shock Seve rity Assessment in Cardiac Intensive Care Unit Patients With Sepsis and Mixed SepticCardiogenic Shock. Mayo Clin Proc Innov Qual Outcomes. 2021; 6(1): 37–44. DOI: 10.1016/j.mayocpiqo.2021.11.008",
         "metadata": {
@@ -2411,12 +3051,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 48247,
+            "markdown_end": 48516,
+            "markdown_line_start": 445,
+            "markdown_line_end": 445
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [26] _Zhi D., Zhang M., Lin J., et al_ . Establishment and validation of the predictive model for the in-hospital death in patients with sepsis. Am J Infect Control. 2021; 49(12): 1515–21. DOI: 10.1016/j.ajic.2021.07.010",
         "metadata": {
@@ -2426,12 +3070,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 48519,
+            "markdown_end": 48741,
+            "markdown_line_start": 447,
+            "markdown_line_end": 447
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [27] _Hernández G., Ospina- Tascón G. A., Damiani L. P., et al._ Effect of a Resuscitation Strategy Targeting Peripheral Perfusion Status vs Serum Lactate Levels on 28-Day Mortality Among Patients With Septic Shock: The ANDROMEDA-SHOCK Randomized Clinical Trial. JAMA. 2019; 321(7): 654–64. DOI: 10.1001/jama.2019.0071",
         "metadata": {
@@ -2441,12 +3089,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 48744,
+            "markdown_end": 49064,
+            "markdown_line_start": 449,
+            "markdown_line_end": 449
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [28] _Magnin M., Amson H., Vacheron C. H., et al._ Associations between peripheral perfusion disorders, mean arterial pressure and dose of norepinephrine administrated in the early phase of septic shock. Clin Exp Pharmacol Physiol. 2021; 48(10): 1327–35. DOI: 10.1111/ 1440-1681.13540",
         "metadata": {
@@ -2456,12 +3108,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 49067,
+            "markdown_end": 49353,
+            "markdown_line_start": 451,
+            "markdown_line_end": 451
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [29] _Tartavoulle T., Fowler L._ Cardiogenic Shock in the Septic Patient: Early Identification and Evidence- Based Management. Crit Care Nurs Clin North Am. 2018; 30(3): 379–87. DOI: 10.1016/j.cnc.2018.05.006",
         "metadata": {
@@ -2471,12 +3127,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 49356,
+            "markdown_end": 49566,
+            "markdown_line_start": 453,
+            "markdown_line_end": 453
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [30] _Hollenberg S. M., Singer M._ Pathophysiology of sepsis- induced cardiomyopathy. Nat Rev Cardiol. 2021; 18(6): 424–34. DOI: 10.1038/ s41569-020-00492-2",
         "metadata": {
@@ -2486,12 +3146,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 49569,
+            "markdown_end": 49727,
+            "markdown_line_start": 455,
+            "markdown_line_end": 455
         }
     },
     {
         "source_id": "Kozlov_2022",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [31] _Ravikumar N., Sayed M. A., Poonsuph C. J., et al._ Septic Cardiomy o- pathy: From Basics to Management Choices. Curr Probl Cardiol. 2021; 46(4): 100767. DOI: 10.1016/j.cpcardiol.2020.100767",
         "metadata": {
@@ -2501,7 +3165,11 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 49730,
+            "markdown_end": 49927,
+            "markdown_line_start": 457,
+            "markdown_line_end": 457
         }
     }
 ]

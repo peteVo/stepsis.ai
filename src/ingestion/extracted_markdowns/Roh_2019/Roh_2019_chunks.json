@@ -1,7 +1,7 @@
 [
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Roh_2019/images/Roh_2019.pdf-0001-02.png)",
         "metadata": {
@@ -11,12 +11,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36,
+            "markdown_end": 101,
+            "markdown_line_start": 6,
+            "markdown_line_end": 6
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Roh_2019.pdf-0001-02.png)**\n> **Category:** `OTHER` | **Summary:** Button labeled 'OPEN'\n> \n> The image is a rounded rectangular button with the word 'OPEN' written in capital letters. The button has a gradient color, transitioning from light to dark, giving it a three-dimensional appearance. The text is white, and the background of the button is a grayish-blue tone. It appears to be designed for a user interface or digital platform.\n<!-- analyzed_Roh_2019.pdf-0001-02.png -->",
         "metadata": {
@@ -26,12 +30,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 103,
+            "markdown_end": 622,
+            "markdown_line_start": 8,
+            "markdown_line_end": 13
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\nOPEN<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -41,12 +49,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 627,
+            "markdown_end": 716,
+            "markdown_line_start": 18,
+            "markdown_line_end": 19
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "# Factors predicting long-term survival of patients with sepsis on arrival at the emergency department",
         "metadata": {
@@ -56,12 +68,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 719,
+            "markdown_end": 821,
+            "markdown_line_start": 22,
+            "markdown_line_end": 22
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## A single-center, observational study",
         "metadata": {
@@ -71,12 +87,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 824,
+            "markdown_end": 863,
+            "markdown_line_start": 24,
+            "markdown_line_end": 24
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Jiyeon Roh, MD[a] , Eun-Jung Jo, MD[a] , Jung Seop Eom, MD[a] , Jeongha Mok, MD[a] , Mi Hyun Kim, MD[a] , Ki Uk Kim, MD[a] , Hye-Kyung Park, MD[a] , Min Ki Lee, MD[a] , Seokran Yeom, MD[b] , Kwangha Lee, MD[a,][∗]",
         "metadata": {
@@ -86,12 +106,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 866,
+            "markdown_end": 1079,
+            "markdown_line_start": 26,
+            "markdown_line_end": 26
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Abstract",
         "metadata": {
@@ -101,12 +125,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1082,
+            "markdown_end": 1093,
+            "markdown_line_start": 28,
+            "markdown_line_end": 28
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Predicting long-term outcomes after sepsis is important when caring for patients with this condition. The purpose of the present study was to develop models predicting long-term mortality of patients with sepsis, including septic shock.",
         "metadata": {
@@ -116,12 +144,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1096,
+            "markdown_end": 1332,
+            "markdown_line_start": 30,
+            "markdown_line_end": 30
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Retrospective data from 446 patients with sepsis (60.8% men; median age, 71 years) treated at a single university-affiliated tertiary care hospital over 3 years were reviewed. Binary logistic regression was used to identify factors predicting mortality at 180 and 365 days after arrival at the emergency department. Long-term prognosis scores for the 180- and 365-day models were calculated by assigning points to variables according to their b coefficients.",
         "metadata": {
@@ -131,12 +163,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1335,
+            "markdown_end": 1793,
+            "markdown_line_start": 32,
+            "markdown_line_end": 32
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The 180- and 365-day mortality rates were 40.6% and 47.8%, respectively. Multivariate analysis identified the following factors for inclusion in the 180- and 365-day models: age ≥65 years, body mass index �18.5kg/m[2] , hemato-oncologic diseases as comorbidities, and ventilator care. Patients with scores of 0 to ≥3 had 180-day survival rates of 83.8%, 70.8%, 42.3%, and 25.0%, respectively, and 365-day survival rates of 72.1%, 64.6%, 36.2%, and 15.9%, respectively (all differences P < .001; log-rank test). The areas under the receiver operating characteristic curves of the 180- and 365-day models were 0.713 (95% confidence interval [CI] 0.668–0.756, P < .001) and 0.697 (95% CI 0.650–0.740, P < .001), respectively.",
         "metadata": {
@@ -146,12 +182,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1796,
+            "markdown_end": 2518,
+            "markdown_line_start": 34,
+            "markdown_line_end": 34
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "These long-term prognosis models based on baseline patient characteristics and treatments are useful for predicting the 6- and 12-month mortality rates of patients with sepsis.",
         "metadata": {
@@ -161,12 +201,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2521,
+            "markdown_end": 2697,
+            "markdown_line_start": 36,
+            "markdown_line_end": 36
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Abbreviations: APACHE = acute physiology and chronic health evaluation, AUC = areas under the receiver operating characteristic curves, BMI = body mass index, CI = confidence interval, ED = emergency department, ICU = intensive care unit, IQR = interquartile range, OR = odds ratio, SOFA = sequential organ failure assessment, SSC = surviving sepsis campaign. Keywords: emergency department, long-term prognosis, sepsis",
         "metadata": {
@@ -176,12 +220,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2700,
+            "markdown_end": 3119,
+            "markdown_line_start": 38,
+            "markdown_line_end": 38
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## 1. Introduction",
         "metadata": {
@@ -191,12 +239,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3122,
+            "markdown_end": 3140,
+            "markdown_line_start": 40,
+            "markdown_line_end": 40
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The aging of populations and increases in the numbers of elderly patients with comorbidities have resulted in increases in the incidence of sepsis.[[1][–][3]] Although sepsis guidelines were revised",
         "metadata": {
@@ -206,12 +258,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3143,
+            "markdown_end": 3341,
+            "markdown_line_start": 42,
+            "markdown_line_end": 42
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Editor: Giuseppe Insalaco.",
         "metadata": {
@@ -221,12 +277,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3344,
+            "markdown_end": 3370,
+            "markdown_line_start": 44,
+            "markdown_line_end": 44
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korean government (Ministry of Science and ICT) (2016R1C1B1008529).",
         "metadata": {
@@ -236,12 +296,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3373,
+            "markdown_end": 3535,
+            "markdown_line_start": 46,
+            "markdown_line_end": 46
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The authors have no con icts of interest to disclose.",
         "metadata": {
@@ -251,12 +315,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3538,
+            "markdown_end": 3591,
+            "markdown_line_start": 48,
+            "markdown_line_end": 48
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "> a Division of Pulmonary, Allergy, and Critical Care Medicine, Department of Internal Medicine,[b] Department of Emergency Medicine, Pusan National University School of Medicine, Busan, Republic of Korea.",
         "metadata": {
@@ -266,12 +334,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3594,
+            "markdown_end": 3799,
+            "markdown_line_start": 50,
+            "markdown_line_end": 50
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "> ∗ Correspondence: Kwangha Lee, Division of Pulmonary, Allergy, and Critical Care Medicine, Department of Internal Medicine, Pusan National University School of Medicine, 179 Gudeok-ro, Seo-gu, Busan, 49241, Republic of Korea (e-mail: jubilate@pusan.ac.kr).",
         "metadata": {
@@ -281,12 +353,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3802,
+            "markdown_end": 4060,
+            "markdown_line_start": 52,
+            "markdown_line_end": 52
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Copyright © 2019 the Author(s). Published by Wolters Kluwer Health, Inc. This is an open access article distributed under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives License 4.0 (CCBY-NCND), where it is permissible to download and share the work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal.",
         "metadata": {
@@ -296,12 +372,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4063,
+            "markdown_end": 4467,
+            "markdown_line_start": 54,
+            "markdown_line_end": 54
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Medicine (2019) 98:33(e16871)",
         "metadata": {
@@ -311,12 +391,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4470,
+            "markdown_end": 4499,
+            "markdown_line_start": 56,
+            "markdown_line_end": 56
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Received: 14 March 2019 / Received in final form: 27 June 2019 / Accepted: 25 July 2019",
         "metadata": {
@@ -326,12 +410,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4502,
+            "markdown_end": 4589,
+            "markdown_line_start": 58,
+            "markdown_line_end": 58
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "http://dx.doi.org/10.1097/MD.0000000000016871",
         "metadata": {
@@ -341,12 +429,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4592,
+            "markdown_end": 4637,
+            "markdown_line_start": 60,
+            "markdown_line_end": 60
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "recently,[[1,4]] sepsis and septic shock are responsible for high morbidity and mortality rates in the intensive care unit (ICU).[[5,6]] Moreover, many patients who survive sepsis have long-term physical, psychological, and cognitive disabilities, which have significant healthcare and social implications.[[7]]",
         "metadata": {
@@ -356,12 +448,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4640,
+            "markdown_end": 4951,
+            "markdown_line_start": 62,
+            "markdown_line_end": 62
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "According to the surviving sepsis campaign (SSC), early recognition and management of sepsis is associated with better outcomes.[[1,4]] Several screening tools, including Early Warning scores and quick-Sepsis-Related Organ Failure Assessment scores, have been used to predict mortality in patients with suspected sepsis.[[8][–][11]] However, the clinical utility of these tools has focused primarily on predicting short-term prognosis. In addition to acute in-hospital mortality, sepsis and septic shock are associated with impaired quality of life and increased longterm mortality following hospital discharge.[[12]] Therefore, predicting long-term outcomes is important when caring for patients with sepsis.",
         "metadata": {
@@ -371,12 +467,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4954,
+            "markdown_end": 5663,
+            "markdown_line_start": 64,
+            "markdown_line_end": 64
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Although several severity of illness scores, including the Acute Physiology and Chronic Health Evaluation (APACHE) II and Sequential Organ Failure Assessment (SOFA) scores, are useful for predicting patient outcomes,[[13,14]] long-term outcomes after sepsis are associated with a complex interplay among patient demographics, comorbidities, risk factors for critical illnesses, and treatment in the ICU.[[2,15,16]] The association of each of these factors with long-term prognosis, however, remains unclear. We hypothesized that long-term",
         "metadata": {
@@ -386,12 +486,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5666,
+            "markdown_end": 6204,
+            "markdown_line_start": 66,
+            "markdown_line_end": 66
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Roh et al. Medicine (2019) 98:33",
         "metadata": {
@@ -401,12 +505,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6211,
+            "markdown_end": 6243,
+            "markdown_line_start": 70,
+            "markdown_line_end": 70
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "prognostic models based on the baseline characteristics of patients at the time of ICU admission (e.g., demographic characteristics, comorbidities, primary site of infection, and treatments) could be developed for patients with sepsis.",
         "metadata": {
@@ -416,12 +524,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6257,
+            "markdown_end": 6492,
+            "markdown_line_start": 74,
+            "markdown_line_end": 74
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The aim of the present study therefore was to investigate prognostic indicators for predicting long-term mortality and to develop models prognostic of 180- and 365-day survival in patients with sepsis, including septic shock, who are admitted to the emergency department (ED). The ability of these models to predict mortality was compared with that of 2 widely used severity of illness scores.",
         "metadata": {
@@ -431,12 +543,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6495,
+            "markdown_end": 6888,
+            "markdown_line_start": 76,
+            "markdown_line_end": 76
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## 2. Materials and methods",
         "metadata": {
@@ -446,12 +562,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6891,
+            "markdown_end": 6918,
+            "markdown_line_start": 78,
+            "markdown_line_end": 78
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## 2.1. Study design and subjects",
         "metadata": {
@@ -461,12 +581,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6921,
+            "markdown_end": 6954,
+            "markdown_line_start": 80,
+            "markdown_line_end": 80
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This retrospective, observational study included patients admitted to a 12-bed medical ICU in a 1100-bed university-affiliated tertiary care hospital in Korea. This medical ICU has full cardiovascular facilities and close airway monitoring, with a nurse-to-bed ratio of 1:3. The physician staff of the medical ICU included one full-time ICU specialist, one clinical fellow in pulmonary and critical care medicine, and one resident physician in internal medicine. All subjects were managed according to therapeutic recommendations, which were based on a lungprotective ventilator strategy.[[17]]",
         "metadata": {
@@ -476,12 +600,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6957,
+            "markdown_end": 7551,
+            "markdown_line_start": 82,
+            "markdown_line_end": 82
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "All adult subjects admitted to the medical ICU via the ED between July 1, 2014, and June 30, 2017, were screened, and subjects diagnosed with sepsis and septic shock were enrolled in the study. The definitions of sepsis and septic shock were based on sepsis-3 criteria.[[18]] Subjects aged <18 years and those with irreversible brain injury, acute or chronic neuromuscular diseases, ventilator care prior to ICU admission, and insufficient data on characteristics or outcomes were excluded. All investigators confirmed that the study objectives and procedures were disclosed honestly, and that they had full access to all data. Case report forms were completed for each included subject and the data were collected. Because of the characteristic of retrospective study, missing data could not be addressed.",
         "metadata": {
@@ -491,12 +619,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7554,
+            "markdown_end": 8360,
+            "markdown_line_start": 84,
+            "markdown_line_end": 84
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The primary study outcome was mortality at 1-year after arrival in the ED. The study protocol was approved by the institutional review board of Pusan National University Hospital (H-1901-005-074). Because of the observational nature of the study, the need for informed consent from enrolled subjects or their surrogates was waived. This study had no impact on the treatment of enrolled patients.",
         "metadata": {
@@ -506,12 +638,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8363,
+            "markdown_end": 8758,
+            "markdown_line_start": 86,
+            "markdown_line_end": 86
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## 2.2. Data collection and de nitions",
         "metadata": {
@@ -521,12 +657,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8761,
+            "markdown_end": 8799,
+            "markdown_line_start": 88,
+            "markdown_line_end": 88
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Demographic and clinical data were obtained retrospectively from the electronic medical records of each subject; these included age, sex, body mass index (BMI), and comorbidities before ICU admission. The severity of illness was measured using the APACHE II score, and accompanying organ failure was assessed according to SOFA score.[[13,14]] The APACHE II and SOFA scores were calculated based on laboratory and clinical data recorded on the day of ICU admission. The primary source of infection at the time of ICU admission and the presence of bacteremia (or fungemia) were also evaluated. Requirements for hemodialysis (defined as the use of any form of renal replacement therapy) and ventilator care on the day of ICU admission were determined by assessing uses of medical resources. Mortality at",
         "metadata": {
@@ -536,12 +676,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8802,
+            "markdown_end": 9602,
+            "markdown_line_start": 90,
+            "markdown_line_end": 90
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "180 and 365 days after arrival in the ED among patients discharged from the hospital was assessed by review of the National Health Insurance Service Database. Additional outcomes variables included duration of ventilator care and ICU and hospital outcomes.",
         "metadata": {
@@ -551,12 +695,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9605,
+            "markdown_end": 9861,
+            "markdown_line_start": 92,
+            "markdown_line_end": 92
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## 2.3. Statistical analysis",
         "metadata": {
@@ -566,12 +714,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9864,
+            "markdown_end": 9892,
+            "markdown_line_start": 94,
+            "markdown_line_end": 94
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Continuous variables are expressed as the median (interquartile range [IQR]) and compared using Student t test or the Mann– Whitney U test, as applicable. Categorical variables are expressed as numbers (percentages) and compared using the chi-squared test or Fisher exact test (for small numbers), as applicable. Factors independently predictive of 180-, and 365-day mortality rates were identified by stepwise logistic regression analyses. In addition, the b-coefficients derived from multiple logistic regression were simplified as natural numbers >0; these factors were calculated as the sum of simplified b-coefficients, as described.[[19,20]] Hence, the prognostic models were based on the sum of b coefficients. Model discrimination was assessed by measuring the areas under the receiver operating characteristic curves (AUCs), and model calibration was assessed using the Hosmer–Lemeshow test. Kaplan–Meier estimates of 180- and 365-day mortality were stratified according to the prognostic models developed in this study and curves were compared using log-rank tests. The AUCs of all prognostic models were compared with the AUCs of APACHE II and SOFA scores using DeLong test, as described.[[21]] Determination of optimal cut-off values for the models was based on the maximum Youden index.[[22]] All tests were two-tailed and P values <.05 were considered statistically significant. All analyses were performed using SPSS version 24.0 for Windows (SPSS Inc., Chicago, IL) and MedCalc version 18.11.3 (MedCalc Software bvba, Ostend, Belgium).",
         "metadata": {
@@ -581,12 +733,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9895,
+            "markdown_end": 11446,
+            "markdown_line_start": 96,
+            "markdown_line_end": 96
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## 3. Results",
         "metadata": {
@@ -596,12 +752,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11449,
+            "markdown_end": 11462,
+            "markdown_line_start": 98,
+            "markdown_line_end": 98
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## 3.1. General characteristics",
         "metadata": {
@@ -611,12 +771,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11465,
+            "markdown_end": 11496,
+            "markdown_line_start": 100,
+            "markdown_line_end": 100
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "During the study period, 1145 patients were admitted to the medical ICU. Of these, 446 (38.9%) were diagnosed with sepsis and/or septic shock, including 169 diagnosed with septic shock upon arrival at the ED (Fig. 1). Table 1 shows the baseline characteristics and clinical outcomes of these patients. The most common underlying disease and source of infection were diabetes mellitus (34.5%) and respiratory infection (56.7%), respectively. One hundred sixty-nine patients (37.9%) were diagnosed as",
         "metadata": {
@@ -626,12 +790,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11499,
+            "markdown_end": 11997,
+            "markdown_line_start": 102,
+            "markdown_line_end": 102
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Roh_2019/images/Roh_2019.pdf-0002-17.png)",
         "metadata": {
@@ -641,12 +809,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12001,
+            "markdown_end": 12066,
+            "markdown_line_start": 105,
+            "markdown_line_end": 105
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Roh_2019.pdf-0002-17.png)**\n> **Category:** `DIAGRAM_OR_TABLE` | **Summary:** Patient Admission and Diagnosis Flowchart\n> \n> The image depicts a flowchart detailing the process of patient admission and diagnosis in a medical ICU. It starts with the total number of patients (1,145), followed by exclusions for those admitted via the general ward. The next box shows patients admitted via the emergency department (618), followed by exclusions for no sepsis or septic shock, leading to the final count of patients diagnosed (446). Arrows indicate the flow between steps.\n> \n> **Data Points:** Total patients admitted to medical ICU: 1,145; Patients admitted via emergency department: 618; Patients diagnosed with sepsis and septic shock: 446\n> \n> **Key Findings:**\n> - Exclusion of patients admitted via general ward.\n> - Exclusion of patients with no sepsis or septic shock.\n<!-- analyzed_Roh_2019.pdf-0002-17.png -->",
         "metadata": {
@@ -656,12 +828,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12068,
+            "markdown_end": 13024,
+            "markdown_line_start": 107,
+            "markdown_line_end": 118
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Figure 1. Flowchart of recruited and enrolled study participants.",
         "metadata": {
@@ -671,12 +847,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13029,
+            "markdown_end": 13094,
+            "markdown_line_start": 123,
+            "markdown_line_end": 123
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Roh et al. Medicine (2019) 98:33",
         "metadata": {
@@ -686,12 +866,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13101,
+            "markdown_end": 13133,
+            "markdown_line_start": 127,
+            "markdown_line_end": 127
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Table 1",
         "metadata": {
@@ -701,12 +885,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13157,
+            "markdown_end": 13167,
+            "markdown_line_start": 131,
+            "markdown_line_end": 131
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Baseline characteristics and outcomes of all enrolled patients.",
         "metadata": {
@@ -716,12 +904,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13170,
+            "markdown_end": 13233,
+            "markdown_line_start": 133,
+            "markdown_line_end": 133
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Variables||N=446|\n|---|---|---|\n|Age, y||71 (18–95)|\n|Male<br>Body mass index, kg/m2||271 (60.8)<br>22.1 (11.5–42.6)|\n|Comorbidities|||\n|Diabetes mellitus||154 (34.5)|\n|Chronic heart diseases (ischemic heart diseases,||112 (25.1)|\n|arrhythmia, valvular heart|diseases)||\n|Neurologic diseases (cerebrovascular diseases,||94 (21.1)|\n|neuromuscular diseases)|||\n|Hemato-oncologic diseases||75 (16.8)|\n|Chronic lung diseases||61 (13.7)|\n|Chronic kidney diseases||43 (9.6)|\n|Chronic liver diseases||36 (8.1)|\n|Alimentary diseases||19 (4.3)|\n|Biliary diseases||16 (3.6)|\n|Source of infection|||\n|Respiratory||253 (56.7)|\n|Intra-abdominal||71 (15.9)|\n|Urinary tract||51 (11.4)|\n|Musculoskeletal||27 (6.1)|\n|Infective endocarditis||10 (2.2)|\n|Neutropenic||6 (1.3)|\n|Neurologic (brain abscess,|meningitis)|5 (1.1)|\n|Others||23 (5.2)|\n|Severity of illness at admission|||\n|APACHE II score||20 (5–53)|\n|SOFA score||8 (2–19)|\n|Presence of bacteremia (or fungemia)||55 (12.3)|\n|Septic shock upon arrival at||169 (37.9)|\n|the emergency department|||\n|Requirement for ventilator care||154 (34.5)|\n|on day of ICU admission|∗||\n|Requirement for hemodialysis||53 (11.9)|\n|on day of ICU admission|||\n|ICU LOS, days||9 (1–550)|\n|Hospital LOS, days||19 (1–550)|\n|ICU mortality||96 (21.5)|\n|Hospital mortality||108 (24.2)|\n|180-day cumulative mortality||181 (40.6)|\n|365-day cumulative mortality||213 (47.8)|",
         "metadata": {
@@ -731,12 +923,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13236,
+            "markdown_end": 14623,
+            "markdown_line_start": 135,
+            "markdown_line_end": 175
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "> ∗ Defined as use of any form of renal replacement therapy during hospital stay. Continuous variables are presented as the median (range) and categorical variables as a number (%). APACHE II = Acute Physiology and Chronic Health Evaluation II, ICU = intensive care unit, LOS = length of stay, SOFA = sequential organ failure assessment.",
         "metadata": {
@@ -746,12 +942,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14627,
+            "markdown_end": 14964,
+            "markdown_line_start": 179,
+            "markdown_line_end": 179
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "septic shock at arrival on ED. Their 180- and 365-day mortality rates were 40.6% and 47.8%, respectively.",
         "metadata": {
@@ -761,12 +961,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14967,
+            "markdown_end": 15072,
+            "markdown_line_start": 181,
+            "markdown_line_end": 181
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "When we compared with survivors and nonsurvivors, nonsurvivors had significantly high rate of age ≥65 years, BMI �18.5 kg/m[2] , hemato-oncologic diseases as comorbidities, respiratory infections as primary source of infection and ventilator care during ICU stay (Table 2).",
         "metadata": {
@@ -776,12 +980,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15075,
+            "markdown_end": 15348,
+            "markdown_line_start": 183,
+            "markdown_line_end": 183
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## 3.2. Long-term prognoses at 180 and 365 days",
         "metadata": {
@@ -791,12 +999,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15351,
+            "markdown_end": 15398,
+            "markdown_line_start": 185,
+            "markdown_line_end": 185
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Table 3 shows the results of univariate and multivariate analyses of risk factors predicting 180- and 365-day mortality. In the multivariate analyses, 4 factors (age ≥65 years, BMI �18.5kg/ m[2] , hemato-oncologic diseases as comorbidities, and ventilator care during ICU stay) were significant prognostic indicators on 180- and 365-day mortality, respectively. Based on the b coefficients observed in multivariate analyses, 4 factors were associated with mortality at both time points (Table 2): age ≥65 years (+ 1 point); BMI �18.5kg/m[2] (+1 point); hemato-oncologic diseases as comorbidities (+1 point); and ventilator care during ICU stay (+1 point). The models had acceptable discrimination (AUCs of 0.716 and 0.700 for the 180- and 365-day models, respectively), and calibration (Hosmer and Lemeshow chi-square 4.593 with 6 df and P = .597 for the 180-day model, and Hosmer and Lemeshow chi-square 4.977 with 5 df and P = .419 for the – 365-day model). Kaplan Meier survival analyses of the 180 and 365-day models based on model scores are shown in Fig. 2A and B, respectively. The 180-day survival rates among patients with scores of 0 to ≥3 were 83.8%, 70.8%, 42.3%, and 25.0%, respectively, and the 365-day survival rates among patients with scores of 0 to ≥3 were 72.1%, 64.6%, 36.2%, and 15.9%, respectively (P < .001 for all; log-rank test). The AUCs of the 180day and 365-day models were 0.713 (95% CI, 0.668–0.756; P < .001) and 0.697 (95% CI, 0.650–0.740; P < .001), respectively. The cut-off score for each of these models for predicting mortality based on the maximum Youden index was ≥1, with the 180-day model having a sensitivity of 73% and a specificity of 63% and the 365-day model having a sensitivity of 75% and a specificity of 59%.",
         "metadata": {
@@ -806,12 +1018,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15401,
+            "markdown_end": 17159,
+            "markdown_line_start": 187,
+            "markdown_line_end": 187
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## 3.3. Comparison with severity of illness scores",
         "metadata": {
@@ -821,12 +1037,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17162,
+            "markdown_end": 17212,
+            "markdown_line_start": 189,
+            "markdown_line_end": 189
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "When comparing the AUCs of both the 180-day and 365-day models with 2 severity of illness scores (APACHE II and SOFA scores obtained on the day of ICU admission), we found that the AUCs of the 180- and 365-day models did not differ significantly from the AUCs of the APACHE II scores (Fig. 3A, B). However, the AUCs of the 3 above models were significantly higher than the AUCs of the SOFA score.",
         "metadata": {
@@ -836,12 +1056,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17215,
+            "markdown_end": 17611,
+            "markdown_line_start": 191,
+            "markdown_line_end": 191
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## 3.4. Impact of surviving sepsis campaign bundle on longterm prognoses",
         "metadata": {
@@ -851,12 +1075,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17614,
+            "markdown_end": 17686,
+            "markdown_line_start": 193,
+            "markdown_line_end": 193
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Because the sepsis bundle was central to implementation of SSC guideline,[[1,23,24]] we investigated whether the sepsis bundle would be an important long-term prognostic factor in our patient",
         "metadata": {
@@ -866,12 +1094,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17689,
+            "markdown_end": 17880,
+            "markdown_line_start": 195,
+            "markdown_line_end": 195
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Clinical characteristics with significant differences between survivors and nonsurvivors.",
         "metadata": {
@@ -881,12 +1113,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17893,
+            "markdown_end": 17982,
+            "markdown_line_start": 199,
+            "markdown_line_end": 199
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Variables|180-day mortality<br>Survivors (n=265)<br>Nonsurvivors (n=181)<br>P-value|365-day mortality|\n|---|---|---|\n|||Survivors (n=233)<br>Nonsurvivors (n=213)<br>P-value|\n|Age ≥65 years<br>BMI <18.5kg/m2<br>Hemato-oncologic diseases as comorbidities<br>Ventilator care<br>Source of infection: respiratory|161 (60.8)<br>140 (77.3)<br><.001<br>26 (9.8)<br>50 (27.6)<br><.001<br>32 (12.1)<br>43 (23.8)<br>.002<br>131 (49.4)<br>122 (67.4)<br><.001<br>67 (25.3)<br>87 (48.1)<br><.001|143 (61.4)<br>158 (74.2)<br>.005<br>21 (9.0)<br>55 (25.8)<br><.001<br>22 (9.4)<br>53 (24.9)<br><.001<br>118 (50.6)<br>135 (63.4)<br>.007<br>61 (26.2)<br>93 (43.7)<br><.001|",
         "metadata": {
@@ -896,12 +1132,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17985,
+            "markdown_end": 18640,
+            "markdown_line_start": 201,
+            "markdown_line_end": 204
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "All variables are presented as a number (%). BMI = body mass index.",
         "metadata": {
@@ -911,12 +1151,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18644,
+            "markdown_end": 18711,
+            "markdown_line_start": 208,
+            "markdown_line_end": 208
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Roh et al. Medicine (2019) 98:33",
         "metadata": {
@@ -926,12 +1170,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18718,
+            "markdown_end": 18750,
+            "markdown_line_start": 212,
+            "markdown_line_end": 212
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Univariate and multivariate analyses of factors associated with 180- and 365-day mortality rates.",
         "metadata": {
@@ -941,12 +1189,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18774,
+            "markdown_end": 18871,
+            "markdown_line_start": 218,
+            "markdown_line_end": 218
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Variables|Unadjusted OR (95% CI)|P-value|Adjusted OR (95% CI)|P-value|b value|\n|---|---|---|---|---|---|\n|180-day mortality||||||\n|Age ≥65 years|2.206 (1.440–3.379)|<.001|2.432 (1.518–3.897)|<.001|0.889|\n|BMI <18.5kg/m2|3.544 (2.101–5.979)|<.001|3.538 (2.036–6.148)|<.001|1.263|\n|Hemato-oncologic diseases as comorbidities|2.269 (1.371–3.754)|.001|2.276 (1.317–3.933)|.003|0.822|\n|Ventilator care|2.735 (1.829–4.089)|<.001|2.775 (1.784–4.317)|<.001|1.021|\n|Source of infection: respiratory|2.115 (1.428–3.134)|<.001||||\n|365-day mortality||||||\n|Age ≥65 years|1.808 (1.206–2.710)|.004|1.974 (1.265–3.082)|.003|0.680|\n|BMI <18.5kg/m2|3.510 (2.033–6.601)|<.001|3.533 (1.999–6.243)|<.003|1.262|\n|Hemato-oncologic diseases as comorbidities|3.177 (1.855–5.440)|<.001|3.230 (1.830–5.702)|<.001|1.173|\n|Ventilator care|2.185 (1.467–3.254)|<.001|2.166 (1.399–3.352)|.001|0.773|\n|Source of infection: respiratory|1.687 (1.155–2.464)|.007||||",
         "metadata": {
@@ -956,12 +1208,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18874,
+            "markdown_end": 19807,
+            "markdown_line_start": 220,
+            "markdown_line_end": 233
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Variables with P-values <.05 on univariate analysis were included in the multivariate analysis using stepwise backward selection procedures. BMI = body mass index, CI = confidence interval, OR = odds ratio.",
         "metadata": {
@@ -971,12 +1227,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19811,
+            "markdown_end": 20017,
+            "markdown_line_start": 237,
+            "markdown_line_end": 237
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "cohort. All patients enrolled during the study period were managed according to SSC guideline published in 2013,[[25]] this study evaluated whether 3-hour bundles were associated with long-term prognosis. We found Lactate was measured in 89.9% (n = 401) of patients, and blood cultures during the time from triage in the ED to obtaining a blood sample for microorganism identification were obtained from only 26.7% (n = 119) of patients. In addition, 61.7% (n = 275) of patients were treated with antibiotics and 18.6% (n = 30) received 30mL crystalloid. In further analysis, we could not find any significant association between the 3-hour bundle and long-term prognoses (180- and 365-day mortality, data not shown).",
         "metadata": {
@@ -986,12 +1246,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20020,
+            "markdown_end": 20737,
+            "markdown_line_start": 239,
+            "markdown_line_end": 239
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## 4. Discussion",
         "metadata": {
@@ -1001,12 +1265,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20740,
+            "markdown_end": 20756,
+            "markdown_line_start": 241,
+            "markdown_line_end": 241
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The present study identified 4 factors (older age, being underweight, hemato-oncologic diseases as comorbidities, and ventilator care during ICU stay) as prognostic of 6-month and 1- year mortality rates in patients with sepsis and septic shock. These long-term prognostic models based on the AUCs showed good discrimination and calibration for predicting long-term mortality during each period. Based on the AUCs for predicting 1-year mortality, these 180- and 365-day models were not inferior to APACHE II and SOFA scores. To the best of our knowledge, this study is the first to evaluate models of long-term mortality among Korean patients with sepsis. These results indicate that these long-term prognostic models based on baseline characteristics at the time of ICU admission would be useful for predicting 6- and 12-month mortality of patients with sepsis and septic shock.",
         "metadata": {
@@ -1016,12 +1284,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20759,
+            "markdown_end": 21638,
+            "markdown_line_start": 243,
+            "markdown_line_end": 243
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Older age, male sex, and the presence of comorbidities are independent predictors of post-acute mortality in sepsis survivor.[[15]] Consistent with these findings, the present study found that older age was associated with 1-year mortality. In addition, we found that hemato-oncologic malignancies as underlying comorbidities were prognostic of survival, likely because hematooncologic diseases as comorbidities are associated with an increased risk of critical illness and poor outcome.[[26][–][28]] Interestingly, we also found that being underweight was prognostic of reduced survival. Because a higher BMI is associated with lower mortality rates based on publish data,[[29,30]] being underweight would likely be associated with poorer longterm prognosis. Our findings suggest that the clinical variables identified as long-term prognostic indicators would be useful for",
         "metadata": {
@@ -1031,12 +1303,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21641,
+            "markdown_end": 22515,
+            "markdown_line_start": 245,
+            "markdown_line_end": 245
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "predicting mortality. In addition, our models were simple and not inferior to commonly used severity of illness scores. Use of these models may help attending physicians discuss future care with the family members or surrogates of patients with sepsis.",
         "metadata": {
@@ -1046,12 +1322,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22518,
+            "markdown_end": 22770,
+            "markdown_line_start": 247,
+            "markdown_line_end": 247
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In our study, the present study hypothesized that the sepsis bundle would be an important long-term prognostic factor in our patient cohort. At present, the 3 and 6-hour SSC bundles have been combined with 1-hour bundles, with the explicit intention of beginning resuscitation and management immediately.[[4]] Although one limitation of this study was its limited data access (due to its retrospective design), we found no association between the 3-hour resuscitation bundle and long-term prognosis. This was likely due to the poor compliance of 3-hour bundles for sepsis and septic shock. Our findings raise important considerations. Although implementation of SSC guidelines has resulted in advanced management of sepsis patients in critical care units, our findings show that actual compliance with resuscitation and management bundles was poor. This result is consistent with that of a previous report regarding the compliance of sepsis bundles in Asian (including Korean) ICU patients.[[31]] In addition, a comparison with facilities in Western countries showed that critical care resources and staff levels in the ICUs of Korean university and teaching hospital are lower, and that critical care delivery systems such as post ICU settings and long-term hospitalbased care setting for continuous weaning and management are less developed.[[32,33]] Moreover, there have been few big-data studies regarding theepidemiologic aspects of sepsis and the degree of compliance with SSC recommendations for resuscitation and management bundles. Thus, few studies have evaluated predictive and prognostic models in Korean patients with sepsis. The efficient application of evidence based clinical guidelines may improve clinical outcomes of patients with sepsis and septic shock, suggesting the need for studies focusing on increasing compliance with the targets of these interventions in appropriate patients.",
         "metadata": {
@@ -1061,12 +1341,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22773,
+            "markdown_end": 24678,
+            "markdown_line_start": 249,
+            "markdown_line_end": 249
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This study had several limitations. First, we hypothesized that long-term prognostic indicators would differ in patients with sepsis and septic shock, as the latter is a more severe condition. However, further analyses did not identify any additional prognostic indicators between these two subsets, although the latter may be due to the relatively small number of patients. Second, other baseline characteristics may also be predictive of outcomes in these patients; again likely due to the small sample size. Third, this study was retrospective in design, which may result in a selection bias. Fourth, although our institution is a",
         "metadata": {
@@ -1076,12 +1360,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24681,
+            "markdown_end": 25314,
+            "markdown_line_start": 251,
+            "markdown_line_end": 251
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Roh et al. Medicine (2019) 98:33",
         "metadata": {
@@ -1091,12 +1379,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25321,
+            "markdown_end": 25353,
+            "markdown_line_start": 255,
+            "markdown_line_end": 255
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Roh_2019/images/Roh_2019.pdf-0005-02.png)",
         "metadata": {
@@ -1106,12 +1398,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25378,
+            "markdown_end": 25443,
+            "markdown_line_start": 260,
+            "markdown_line_end": 260
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Roh_2019.pdf-0005-02.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Survival Curves Showing Proportion of Survivors Over Time Since ICU Admission, by Score\n> \n> The image consists of two Kaplan-Meier survival plots labeled A and B. Both graphs display 'Time since ICU admission (days)' on the x-axis and 'Proportion of survivors' on the y-axis. Each plot has four lines representing different scores (0, 1, 2, and 3,4). Each line shows survival probability with a percentage in parentheses indicating the final survival proportion. In both graphs, lines for higher scores decline more steeply, indicating lower survival rates.\n> \n> **Data Points:** Graphs display survival probabilities for different scores at various time points after ICU admission. Scores are 0, 1, 2, and 3,4.\n> \n> **Key Findings:**\n> - Higher scores correlate with lower survival probability.\n> - Score 0 has the highest survival rate in both graphs.\n> - Scores 3,4 have the lowest survival rate in both graphs.\n<!-- analyzed_Roh_2019.pdf-0005-02.png -->",
         "metadata": {
@@ -1121,12 +1417,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25445,
+            "markdown_end": 26520,
+            "markdown_line_start": 262,
+            "markdown_line_end": 274
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Figure 2. Kaplan–Meier analysis of (A) 180-day and (B) 365-day survival rates in patients with sepsis and scores ranging from 0 to ≥3 (all long-rank test were P < .001).",
         "metadata": {
@@ -1136,12 +1436,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26525,
+            "markdown_end": 26694,
+            "markdown_line_start": 279,
+            "markdown_line_end": 279
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Roh et al. Medicine (2019) 98:33",
         "metadata": {
@@ -1151,12 +1455,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26701,
+            "markdown_end": 26733,
+            "markdown_line_start": 283,
+            "markdown_line_end": 283
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Roh_2019/images/Roh_2019.pdf-0006-02.png)",
         "metadata": {
@@ -1166,12 +1474,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26748,
+            "markdown_end": 26813,
+            "markdown_line_start": 288,
+            "markdown_line_end": 288
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Roh_2019.pdf-0006-02.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Comparison of 180-day and 365-day predictive models with APACHE II and SOFA scores using ROC curves.\n> \n> The image consists of two ROC curve graphs labeled A and B. Graph A compares the 180-day model with APACHE II and SOFA scores, while Graph B compares the 365-day model with the same scores. Both graphs plot Sensitivity (Y-axis) against 100-Specificity (X-axis), with multiple lines represented by different styles: solid, dashed, and dotted. Legends on each graph identify the model and score type.\n> \n> **Data Points:** X-axis: 100-Specificity, Y-axis: Sensitivity. Lines for 180-day model, APACHE II score, and SOFA score.\n> \n> **Key Findings:**\n> - The 180-day model shows better sensitivity and specificity compared to APACHE II and SOFA scores in the upper graph.\n> - The 365-day model also shows better performance than APACHE II and SOFA scores in the lower graph.\n> - All models show curved lines approaching the top left corner, indicating good predictive capability.\n> - APACHE II and SOFA scores perform consistently across both graphs but are inferior to the 180-day and 365-day models.\n<!-- analyzed_Roh_2019.pdf-0006-02.png -->",
         "metadata": {
@@ -1181,12 +1493,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26815,
+            "markdown_end": 28079,
+            "markdown_line_start": 290,
+            "markdown_line_end": 303
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Figure 3. (A) Receiver operating characteristic (ROC) curves for the 180-day model, and APACHE II scores, and SOFA scores for predicting 180-day mortality. The areas under the curves (AUC) for the 180-day model, the APACHE II scores, and the SOFA scores were 0.713 (95% confidence interval [CI], 0.668–0.756, P < .001), 0.718 (95% CI, 0.672–0.760, P < .001), and 0.640 (95% CI, 0.592–0.686, P < .001), respectively. The AUCs for the 180-day model (P = .037) and the APACHE II scores (P = .001) were significantly higher than the AUC for the SOFA score. (B) ROC curves for the 365-day model, the APACHE II scores, and the SOFA scores for predicting 365-day mortality. The AUCs for the 365-day model, the APACHE II scores, and the SOFA scores were 0.697 (95% CI, 0.650–0.741 P < .001), 0.701 (95% CI, 0.655–0.745, P < .001), and 0.626 (95% CI, 0.578–0.673, P < .001), respectively. The AUCs for the 365-day model (P = .044) and APACHE II scores (P = .002) were significant higher than the AUC for the SOFA score. APACHE = acute physiology and chronic health evaluation, SOFA = sequential organ failure assessment.",
         "metadata": {
@@ -1196,12 +1512,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28084,
+            "markdown_end": 29195,
+            "markdown_line_start": 308,
+            "markdown_line_end": 308
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Roh et al. Medicine (2019) 98:33",
         "metadata": {
@@ -1211,12 +1531,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29202,
+            "markdown_end": 29234,
+            "markdown_line_start": 312,
+            "markdown_line_end": 312
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "university-affiliated tertiary care hospital (considered one of the best-equipped hospitals in Korea) our results represent the experience of a single-center and may not be applicable to other populations.",
         "metadata": {
@@ -1226,12 +1550,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29258,
+            "markdown_end": 29463,
+            "markdown_line_start": 316,
+            "markdown_line_end": 316
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In conclusion, our analysis shows that 4 factors (older age [age ≥65 years], being underweight [BMI �18.5kg/m[2] ], hematooncologic diseases as comorbidities, and ventilator care during ICU stay) were prognostic of 6-month and 1-year mortality rates in patients with sepsis and septic shock. Also, these 180- and 365day models were simple and not inferior to conventional severity of illness scores. Large-scale multicenter studies are needed to develop these long-term prognostic models further.",
         "metadata": {
@@ -1241,12 +1569,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29466,
+            "markdown_end": 29962,
+            "markdown_line_start": 318,
+            "markdown_line_end": 318
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Author contributions",
         "metadata": {
@@ -1256,12 +1588,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29965,
+            "markdown_end": 29988,
+            "markdown_line_start": 320,
+            "markdown_line_end": 320
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Conceptualization: Kwangha Lee.",
         "metadata": {
@@ -1271,12 +1607,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29991,
+            "markdown_end": 30022,
+            "markdown_line_start": 322,
+            "markdown_line_end": 322
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Data curation: Jiyeon Roh, Eun-Jung Jo, Seokran Yeom, Kwangha Lee.",
         "metadata": {
@@ -1286,12 +1626,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30025,
+            "markdown_end": 30091,
+            "markdown_line_start": 324,
+            "markdown_line_end": 324
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Formal analysis: Eun-Jung Jo, Jung Seop Eom, Jeongha Mok, Kwangha Lee.",
         "metadata": {
@@ -1301,12 +1645,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30094,
+            "markdown_end": 30164,
+            "markdown_line_start": 326,
+            "markdown_line_end": 326
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Funding acquisition: Kwangha Lee.",
         "metadata": {
@@ -1316,12 +1664,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30167,
+            "markdown_end": 30200,
+            "markdown_line_start": 328,
+            "markdown_line_end": 328
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Investigation: Jung Seop Eom, Ki Uk Kim, Hye-Kyung Park, Kwangha Lee.",
         "metadata": {
@@ -1331,12 +1683,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30203,
+            "markdown_end": 30272,
+            "markdown_line_start": 330,
+            "markdown_line_end": 330
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Methodology: Jung Seop Eom, Hye-Kyung Park.",
         "metadata": {
@@ -1346,12 +1702,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30275,
+            "markdown_end": 30318,
+            "markdown_line_start": 332,
+            "markdown_line_end": 332
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Project administration: Ki Uk Kim.",
         "metadata": {
@@ -1361,12 +1721,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30321,
+            "markdown_end": 30355,
+            "markdown_line_start": 334,
+            "markdown_line_end": 334
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Resources: Hye-Kyung Park, Kwangha Lee.",
         "metadata": {
@@ -1376,12 +1740,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30358,
+            "markdown_end": 30397,
+            "markdown_line_start": 336,
+            "markdown_line_end": 336
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Software: Mi Hyun Kim, Seokran Yeom.",
         "metadata": {
@@ -1391,12 +1759,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30400,
+            "markdown_end": 30436,
+            "markdown_line_start": 338,
+            "markdown_line_end": 338
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Supervision: Jeongha Mok, Min Ki Lee, Kwangha Lee.",
         "metadata": {
@@ -1406,12 +1778,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30439,
+            "markdown_end": 30489,
+            "markdown_line_start": 340,
+            "markdown_line_end": 340
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Validation: Mi Hyun Kim.",
         "metadata": {
@@ -1421,12 +1797,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30492,
+            "markdown_end": 30516,
+            "markdown_line_start": 342,
+            "markdown_line_end": 342
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Visualization: Mi Hyun Kim, Min Ki Lee.",
         "metadata": {
@@ -1436,12 +1816,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30519,
+            "markdown_end": 30558,
+            "markdown_line_start": 344,
+            "markdown_line_end": 344
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Writing – original draft: Kwangha Lee. Writing – review & editing: Kwangha Lee. Kwangha Lee orcid: 0000-0001-9878-201X.",
         "metadata": {
@@ -1451,12 +1835,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30561,
+            "markdown_end": 30680,
+            "markdown_line_start": 346,
+            "markdown_line_end": 346
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## References",
         "metadata": {
@@ -1466,12 +1854,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30683,
+            "markdown_end": 30696,
+            "markdown_line_start": 348,
+            "markdown_line_end": 348
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [1] Rhodes A, Evans LE, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of Sepsis and Septic Shock: 2016. Intensive Care Med 2017;43:304–77.",
         "metadata": {
@@ -1481,12 +1873,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30699,
+            "markdown_end": 30880,
+            "markdown_line_start": 350,
+            "markdown_line_end": 350
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [2] Iwashyna TJ, Cooke CR, Wunsch H, et al. Population burden of longterm survivorship after severe sepsis in older Americans. J Am Geriatr Soc 2012;60:1070–7.",
         "metadata": {
@@ -1496,12 +1892,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30883,
+            "markdown_end": 31044,
+            "markdown_line_start": 352,
+            "markdown_line_end": 352
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [3] Gaieski DF, Edwards JM, Kallan MJ, et al. Benchmarking the incidence and mortality of severe sepsis in the United States. Crit Care Med 2013;41:1167–74.",
         "metadata": {
@@ -1511,12 +1911,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31047,
+            "markdown_end": 31205,
+            "markdown_line_start": 354,
+            "markdown_line_end": 354
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [4] Levy MM, Evans LE, Rhodes A. The surviving sepsis campaign bundle: 2018 update. Crit Care Med 2018;46:997–1000.",
         "metadata": {
@@ -1526,12 +1930,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31208,
+            "markdown_end": 31325,
+            "markdown_line_start": 356,
+            "markdown_line_end": 356
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [5] Dombrovskiy VY, Martin AA, Sunderram J, et al. Rapid increase in hospitalization and mortality rates for severe sepsis in the United States: a trend analysis from 1993 to 2003. Crit Care Med 2007;35: 1244–50.",
         "metadata": {
@@ -1541,12 +1949,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31328,
+            "markdown_end": 31542,
+            "markdown_line_start": 358,
+            "markdown_line_end": 358
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [6] Shankar-Hari M, Harrison DA, Rubenfeld GD, et al. Epidemiology of sepsis and septic shock in critical care units: comparison between sepsis-2 and sepsis-3 populations using a national critical care database. Br J Anaesth 2017;119:626–36.",
         "metadata": {
@@ -1556,12 +1968,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31545,
+            "markdown_end": 31788,
+            "markdown_line_start": 360,
+            "markdown_line_end": 360
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [7] Iwashyna TJ, Ely EW, Smith DM, et al. Long-term cognitive impairment and functional disability among survivors of severe sepsis. JAMA 2010;304:1787–94.",
         "metadata": {
@@ -1571,12 +1987,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31791,
+            "markdown_end": 31948,
+            "markdown_line_start": 362,
+            "markdown_line_end": 362
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [8] Churpek MM, Snyder A, Han X, et al. Quick sepsis-related organ failure assessment, systemic inflammatory response syndrome, and early warning scores for detecting clinical deterioration in infected patients outside the intensive care unit. Am J Respir Crit Care Med 2017;195:906–11.",
         "metadata": {
@@ -1586,12 +2006,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31951,
+            "markdown_end": 32239,
+            "markdown_line_start": 364,
+            "markdown_line_end": 364
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [9] Williams JM, Greenslade JH, McKenzie JV, et al. Systemic inflammatory response syndrome, quick sequential organ function assessment, and organ dysfunction: insights from a prospective database of ed patients with infection. Chest 2017;151:586–96.",
         "metadata": {
@@ -1601,12 +2025,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32242,
+            "markdown_end": 32494,
+            "markdown_line_start": 366,
+            "markdown_line_end": 366
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [10] Raith EP, Udy AA, Bailey M, et al. Prognostic accuracy of the sofa score, sirs criteria, and qsofa score for in-hospital mortality among adults with suspected infection admitted to the intensive care unit. JAMA 2017;317:290–300.",
         "metadata": {
@@ -1616,12 +2044,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32497,
+            "markdown_end": 32732,
+            "markdown_line_start": 368,
+            "markdown_line_end": 368
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [11] Brink A, Alsma J, Verdonschot R, et al. Predicting mortality in patients with suspected sepsis at the Emergency Department; a retrospective cohort study comparing qSOFA, SIRS and National Early Warning Score. PLoS One 2019;14:e0211133.",
         "metadata": {
@@ -1631,12 +2063,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32735,
+            "markdown_end": 32977,
+            "markdown_line_start": 370,
+            "markdown_line_end": 370
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [12] Winters BD, Eberlein M, Leung J, et al. Long-term mortality and quality of life in sepsis: a systematic review. Crit Care Med 2010;38:1276–83.",
         "metadata": {
@@ -1646,12 +2082,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32980,
+            "markdown_end": 33129,
+            "markdown_line_start": 372,
+            "markdown_line_end": 372
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [13] Knaus WA, Draper EA, Wagner DP, et al. APACHE II: a severity of disease classification system. Crit Care Med 1985;13:818–29.",
         "metadata": {
@@ -1661,12 +2101,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33132,
+            "markdown_end": 33263,
+            "markdown_line_start": 374,
+            "markdown_line_end": 374
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [14] Vincent JL, Moreno R, Takala J, et al. The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure. On behalf of the working group on sepsis-related problems of the European Society of Intensive Care Medicine. Intensive Care Med 1996;22:707– 10.",
         "metadata": {
@@ -1676,12 +2120,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33266,
+            "markdown_end": 33553,
+            "markdown_line_start": 376,
+            "markdown_line_end": 376
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [15] Shankar-Hari M, Ambler M, Mahalingasivam V, et al. Evidence for a causal link between sepsis and long-term mortality: a systematic review of epidemiologic studies. Crit Care 2016;20:101.",
         "metadata": {
@@ -1691,12 +2139,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33556,
+            "markdown_end": 33749,
+            "markdown_line_start": 378,
+            "markdown_line_end": 378
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [16] Yende S, Iwashyna TJ, Angus DC. Interplay between sepsis and chronic health. Trends Mol Med 2014;20:234–8.",
         "metadata": {
@@ -1706,12 +2158,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33752,
+            "markdown_end": 33865,
+            "markdown_line_start": 380,
+            "markdown_line_end": 380
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [17] Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. The Acute Respiratory Distress Syndrome Network. N Engl J Med 2000; 342:1301–1308.",
         "metadata": {
@@ -1721,12 +2177,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33868,
+            "markdown_end": 34104,
+            "markdown_line_start": 382,
+            "markdown_line_end": 382
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [18] Singer M, Deutschman CS, Seymour CW, et al. The Third International consensus definitions for sepsis and septic shock (sepsis-3). JAMA 2016;315:801–10.",
         "metadata": {
@@ -1736,12 +2196,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34107,
+            "markdown_end": 34265,
+            "markdown_line_start": 384,
+            "markdown_line_end": 384
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [19] Carson SS, Kahn JM, Hough CL, et al. A multicenter mortality prediction model for patients receiving prolonged mechanical ventilation. Crit Care Med 2012;40:1171–6.",
         "metadata": {
@@ -1751,12 +2215,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34268,
+            "markdown_end": 34439,
+            "markdown_line_start": 386,
+            "markdown_line_end": 386
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [20] Kim WY, Jo EJ, Eom JS, et al. Validation of the prognosis for prolonged ventilation (ProVent) score in patients receiving 14days of mechanical ventilation. J Crit Care 2018;44:249–54.",
         "metadata": {
@@ -1766,12 +2234,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34442,
+            "markdown_end": 34632,
+            "markdown_line_start": 388,
+            "markdown_line_end": 388
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [21] DeLong ER, DeLong DM, Clarke-Pearson DL. Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach. Biometrics 1988;44:837–45.",
         "metadata": {
@@ -1781,12 +2253,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34635,
+            "markdown_end": 34826,
+            "markdown_line_start": 390,
+            "markdown_line_end": 390
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [22] Perkins NJ, Schisterman EF. The inconsistency of “optimal” cutpoints obtained using two criteria based on the receiver operating characteristic curve. Am J Epidemiol 2006;163:670–5.",
         "metadata": {
@@ -1796,12 +2272,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34829,
+            "markdown_end": 35017,
+            "markdown_line_start": 392,
+            "markdown_line_end": 392
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [23] Rhodes A, Phillips G, Beale R, et al. The Surviving Sepsis Campaign bundles and outcome: results from the International Multicentre Prevalence Study on Sepsis (the IMPreSS study). Intensive Care Med 2015;41:1620–8.",
         "metadata": {
@@ -1811,12 +2291,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35020,
+            "markdown_end": 35241,
+            "markdown_line_start": 394,
+            "markdown_line_end": 394
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [24] Levy MM, Rhodes A, Phillips GS, et al. Surviving Sepsis Campaign: association between performance metrics and outcomes in a 7.5-year study. Crit Care Med 2015;43:3–12.",
         "metadata": {
@@ -1826,12 +2310,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35244,
+            "markdown_end": 35418,
+            "markdown_line_start": 396,
+            "markdown_line_end": 396
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [25] Dellinger RP, Levy MM, Rhodes A, et al. Surviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock, 2012. Intensive Care Med 2013;39:165–228.",
         "metadata": {
@@ -1841,12 +2329,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35421,
+            "markdown_end": 35611,
+            "markdown_line_start": 398,
+            "markdown_line_end": 398
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [26] Richards S, Wibrow B, Anstey M, et al. Determinants of 6-month survival of critically ill patients with an active hematologic malignancy. J Crit Care 2016;36:252–8.",
         "metadata": {
@@ -1856,12 +2348,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35614,
+            "markdown_end": 35785,
+            "markdown_line_start": 400,
+            "markdown_line_end": 400
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [27] Grgic Medic M, Gornik I, Gasparovic V. Hematologic malignancies in the medical intensive care unit–Outcomes and prognostic factors. Hematology 2015;20:247–53.",
         "metadata": {
@@ -1871,12 +2367,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35788,
+            "markdown_end": 35953,
+            "markdown_line_start": 402,
+            "markdown_line_end": 402
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [28] Wallace SK, Rathi NK, Waller DK, et al. Two decades of ICU utilization and hospital outcomes in a comprehensive cancer center. Crit Care Med 2016;44:926–33.",
         "metadata": {
@@ -1886,12 +2386,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35956,
+            "markdown_end": 36119,
+            "markdown_line_start": 404,
+            "markdown_line_end": 404
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [29] Wang S, Liu X, Chen Q, et al. The role of increased body mass index in outcomes of sepsis: a systematic review and meta-analysis. BMC Anesthesiol 2017;17:118.",
         "metadata": {
@@ -1901,12 +2405,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36122,
+            "markdown_end": 36287,
+            "markdown_line_start": 406,
+            "markdown_line_end": 406
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [30] Pepper DJ, Sun J, Welsh J, et al. Increased body mass index and adjusted mortality in ICU patients with sepsis or septic shock: a systematic review and meta-analysis. Crit Care 2016;20:181.",
         "metadata": {
@@ -1916,12 +2424,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36290,
+            "markdown_end": 36486,
+            "markdown_line_start": 408,
+            "markdown_line_end": 408
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [31] Phua J, Koh Y, Du B, et al. Management of severe sepsis in patients admitted to Asian intensive care units: prospective cohort study. BMJ 2011;342:d3245.",
         "metadata": {
@@ -1931,12 +2443,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36489,
+            "markdown_end": 36649,
+            "markdown_line_start": 410,
+            "markdown_line_end": 410
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [32] Lim CM, Kwak SH, Suh GY, et al. Critical care in Korea: present and future. J Korean Med Sci 2015;30:1540–4.",
         "metadata": {
@@ -1946,12 +2462,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36652,
+            "markdown_end": 36767,
+            "markdown_line_start": 412,
+            "markdown_line_end": 412
         }
     },
     {
         "source_id": "Roh_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- [33] Kwak SH, Jeong CW, Lee SH, et al. Current status of intensive care units registered as critical care subspecialty training hospitals in Korea. J Korean Med Sci 2014;29:431–7.",
         "metadata": {
@@ -1961,7 +2481,11 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36770,
+            "markdown_end": 36951,
+            "markdown_line_start": 414,
+            "markdown_line_end": 414
         }
     }
 ]

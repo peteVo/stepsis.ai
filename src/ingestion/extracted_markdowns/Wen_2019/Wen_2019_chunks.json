@@ -1,7 +1,7 @@
 [
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "open access to scientific and medical research",
         "metadata": {
@@ -11,12 +11,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12,
+            "markdown_end": 58,
+            "markdown_line_start": 3,
+            "markdown_line_end": 3
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Therapeutics and Clinical Risk Management",
         "metadata": {
@@ -26,12 +30,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 61,
+            "markdown_end": 105,
+            "markdown_line_start": 5,
+            "markdown_line_end": 5
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Open Access Full Text Article",
         "metadata": {
@@ -41,12 +49,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 108,
+            "markdown_end": 137,
+            "markdown_line_start": 7,
+            "markdown_line_end": 7
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## O R I G I N A L R E S E A R C H",
         "metadata": {
@@ -56,12 +68,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 140,
+            "markdown_end": 174,
+            "markdown_line_start": 9,
+            "markdown_line_end": 9
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Presepsin level in predicting patients’ in-hospital mortality from sepsis under sepsis-3 criteria",
         "metadata": {
@@ -71,12 +87,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 177,
+            "markdown_end": 277,
+            "markdown_line_start": 11,
+            "markdown_line_end": 11
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This article was published in the following Dove Press journal: Therapeutics and Clinical Risk Management",
         "metadata": {
@@ -86,12 +106,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 280,
+            "markdown_end": 385,
+            "markdown_line_start": 13,
+            "markdown_line_end": 13
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Miao-Yun Wen[1][,] * Lin-Qiang Huang[1][,] * Fan Yang[1][,][2] Jing-Kun Ye[1][,][3] Geng-Xin Cai[1][,][2] Xu-Sheng Li[1][,][3] Hong-Guang Ding[1] Hong-Ke Zeng[1]",
         "metadata": {
@@ -101,12 +125,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 388,
+            "markdown_end": 549,
+            "markdown_line_start": 15,
+            "markdown_line_end": 15
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "> 1Department of Emergency and Critical Care Medicine, Guangdong Provincial People’s Hospital and Guangdong Academy of Medical Sciences, Guangzhou, People’s Republic of China;",
         "metadata": {
@@ -116,12 +144,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 552,
+            "markdown_end": 727,
+            "markdown_line_start": 17,
+            "markdown_line_end": 17
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "> 2School of Medicine, South China University of Technology, Guangzhou, People’s Republic of China;[3] The Second School of Clinical Medicine, Southern Medical University, Guangzhou, People’s Republic of China",
         "metadata": {
@@ -131,12 +163,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 730,
+            "markdown_end": 939,
+            "markdown_line_start": 19,
+            "markdown_line_end": 19
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "*These authors contributed equally to this work",
         "metadata": {
@@ -146,12 +182,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 942,
+            "markdown_end": 989,
+            "markdown_line_start": 21,
+            "markdown_line_end": 21
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Background: Early recognition of septic patients with poor prognosis is important for clinicians to prescribe personalized therapies which include timely fluid resuscitation therapy and appropriate antimicrobial therapy. We aimed to evaluate the effect of the presepsin level on predicting the prognosis of patients with sepsis under the sepsis-3 criteria.",
         "metadata": {
@@ -161,12 +201,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 992,
+            "markdown_end": 1348,
+            "markdown_line_start": 23,
+            "markdown_line_end": 23
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Methods: Patients who were diagnosed as sepsis under the sepsis-3 criteria were recruited and assigned to the survivor group and the non-survivor group according to their in-hospital mortality. The two groups’ baseline characteristics were analyzed with Pearson’s chi-square (χ[2] ) test or Kruskal–Wallis test. Binary logistic regression analysis was performed to determine the independent predictors of in-hospital mortality from sepsis. Receiver operating characteristic analysis was conducted to evaluate the efficacy of presepsin in predicting patients’ in-hospital mortality from sepsis. The correlation between presepsin and the Sequential Organ Failure Assessment (SOFA) score was measured with Spearman’s rank correlation coefficient. P-values of less than 0.05 were considered to indicate statistical significance.",
         "metadata": {
@@ -176,12 +220,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1351,
+            "markdown_end": 2175,
+            "markdown_line_start": 25,
+            "markdown_line_end": 25
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Results: Overall, 138 patients were included in this study. The presepsin level of the non-survivor group was significantly higher than that of the other group (P=0.000). Binary logistic regression showed that the presepsin level was an independent risk factor of patients’ in-hospital mortality from sepsis (OR =1.221 P=0.026). The presepsin level was positively associated with the SOFA score (ρ=0.396, P=0.000). ROC curve analysis revealed the presepsin level was highly accurate in predicting patients’ in-hospital mortality from sepsis (AUC =0.703, P=0.000). The AUC value of a combination of presepsin and the SOFA score was significantly larger than that of the SOFA score alone (AUC: 0.817 vs 0.793, P=0.041).",
         "metadata": {
@@ -191,12 +239,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2178,
+            "markdown_end": 2895,
+            "markdown_line_start": 27,
+            "markdown_line_end": 27
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Conclusions: Presepsin is a prognostic biomarker with high accuracy in predicting the prognosis of sepsis under the sepsis-3 criteria.",
         "metadata": {
@@ -206,12 +258,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2898,
+            "markdown_end": 3032,
+            "markdown_line_start": 29,
+            "markdown_line_end": 29
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Keywords: presepsin, sepsis, biomarker, mortality, outcomes",
         "metadata": {
@@ -221,12 +277,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3035,
+            "markdown_end": 3094,
+            "markdown_line_start": 31,
+            "markdown_line_end": 31
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Introduction",
         "metadata": {
@@ -236,12 +296,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3097,
+            "markdown_end": 3112,
+            "markdown_line_start": 33,
+            "markdown_line_end": 33
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Correspondence: Hong-Ke Zeng; HongGuang Ding Department of Emergency and Critical Care Medicine, Guangdong Provincial People’s Hospital and Guangdong Academy of Medical Sciences, 106 Zhongshan Er Road, Guangzhou, People’s Republic of China Tel +86 020 8382 7812 Fax +86 020 8382 7812 Email zenghongke@vip.163.com; xingfulr@163.com",
         "metadata": {
@@ -251,12 +315,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3115,
+            "markdown_end": 3445,
+            "markdown_line_start": 35,
+            "markdown_line_end": 35
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis is one of the leading causes of death worldwide.[1] Early recognition of patients with poor prognosis is important for clinicians to prescribe personalized therapies, including timely fluid, resuscitation therapy,[2][–][4] and appropriate antimicrobial therapy.[5] However, not all patients with sepsis present with infection-related symptoms, and patients’ clinical signs, along with several comorbidities, can be misleading. Thus, it is crucial to find out ways to predict the prognosis of sepsis.[6][–][8] Biomarkers, as inflammatory variables, have been introduced to guide treatment and predict the prognosis of sepsis.",
         "metadata": {
@@ -266,12 +334,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3448,
+            "markdown_end": 4079,
+            "markdown_line_start": 37,
+            "markdown_line_end": 37
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Therapeutics and Clinical Risk Management 2019:15 733–739",
         "metadata": {
@@ -281,12 +353,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4082,
+            "markdown_end": 4139,
+            "markdown_line_start": 39,
+            "markdown_line_end": 39
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "submit your manuscript | www.dovepress.com DovePress http://doi.org/10.2147/TCRM.S209710",
         "metadata": {
@@ -296,12 +372,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4148,
+            "markdown_end": 4236,
+            "markdown_line_start": 43,
+            "markdown_line_end": 43
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "© 2019 Wen et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).",
         "metadata": {
@@ -311,12 +391,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4239,
+            "markdown_end": 4883,
+            "markdown_line_start": 45,
+            "markdown_line_end": 45
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Among various molecules, presepsin seems to be a promising biomarker since it has been reported to be associated with the early stage of the septic process.[9] Presepsin was first discovered in 2004.[10] When monocytes are activated by infectious agents, presepsin, as a soluble CD14 subtype, will be released into the plasma.[11] The level of presepsin continues to increase in the early stage of sepsis.[9] It has been reported in several studies that presepsin is a hopeful diagnostic marker of sepsis.[12][,][13] Increasing numbers of studies have highlighted the superior value of presepsin to procalcitonin (PCT), interleukin-6, and C reactive protein in the diagnosis of sepsis.[14] However, the prognostic performance of the presepsin level in patients’ with sepsis is uncertain. This study aimed to evaluate the efficacy of the presepsin level in predicting the prognosis of patients with sepsis under the sepsis-3 criteria.",
         "metadata": {
@@ -326,12 +410,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4910,
+            "markdown_end": 5843,
+            "markdown_line_start": 51,
+            "markdown_line_end": 51
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Statistical analysis",
         "metadata": {
@@ -341,12 +429,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5846,
+            "markdown_end": 5869,
+            "markdown_line_start": 53,
+            "markdown_line_end": 53
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The categorical variables were expressed as counts (percentages) and analyzed with Pearson’s chi-square (χ[2] ) test, while the continuous variables were represented as medians (interquartile ranges) and analyzed with Kruskal– Wallis test. Binary logistic regression analysis was employed to determine the independent predictors of patients’ in-hospital mortality. Receiver operating characteristic (ROC) curve analysis was carried out to evaluate the prediction accuracy. A correlation analysis was performed with Spearman’s rank correlation coefficient. All statistical analyses were done using SPSS 20.0. P-values of less than 0.05 were considered to indicate statistical significance.",
         "metadata": {
@@ -356,12 +448,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5872,
+            "markdown_end": 6560,
+            "markdown_line_start": 55,
+            "markdown_line_end": 55
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Results",
         "metadata": {
@@ -371,12 +467,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6563,
+            "markdown_end": 6573,
+            "markdown_line_start": 57,
+            "markdown_line_end": 57
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Patients’ baseline characteristics",
         "metadata": {
@@ -386,12 +486,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6576,
+            "markdown_end": 6613,
+            "markdown_line_start": 59,
+            "markdown_line_end": 59
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Materials and methods",
         "metadata": {
@@ -401,12 +505,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6616,
+            "markdown_end": 6640,
+            "markdown_line_start": 61,
+            "markdown_line_end": 61
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Patients and study design",
         "metadata": {
@@ -416,12 +524,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6643,
+            "markdown_end": 6671,
+            "markdown_line_start": 63,
+            "markdown_line_end": 63
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This prospective observational study was conducted among the ICU patients who were diagnosed as sepsis in Guangdong Provincial People’s Hospital and Guangdong Academy of Medical Sciences from June 2017 to November 2018. The inclusion criteria were: sepsis under the sepsis-3 criteria;[15] more than 18 years old; measurement of the presepsin level. Exclusion criteria were: age ≤18 years; pregnancy; cancers; hematologic disorders; a history of transplantation; and immunosuppressive drug use. All participants included in the study were assigned to two groups according to their inhospital mortality: the survivor group and the nonsurvivor group.",
         "metadata": {
@@ -431,12 +543,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6674,
+            "markdown_end": 7321,
+            "markdown_line_start": 65,
+            "markdown_line_end": 65
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Data collection",
         "metadata": {
@@ -446,12 +562,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7324,
+            "markdown_end": 7342,
+            "markdown_line_start": 67,
+            "markdown_line_end": 67
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Age, sex, laboratory data (white blood cell and platelet count, and levels of total bilirubin, creatinine, PCT, and lactate), and blood samples were collected upon admission. The blood samples were used to measure the levels of presepsin with an automatic analyzer (LSI Medience Corporation, Tokyo, Japan), and the detection range was 20–20,000 pg/mL. During hospitalization, clinical data (mechanical ventilation, SOFA score, APACHE II score, sources of infection, and pathogens) related to the patient’s prognosis were collected. Patients were observed from the admission day to the day of discharge or death. Subsequently, a retrospective analysis was carried out.",
         "metadata": {
@@ -461,12 +581,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7345,
+            "markdown_end": 8012,
+            "markdown_line_start": 69,
+            "markdown_line_end": 69
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Overall 138 patients met the inclusion criteria, including 74 survivors and 64 non-survivors. Their baseline characteristics are listed in Table 1. The differences in age and sex between the two groups were not statistically significant (age: P=0.553; sex: P=0.251).",
         "metadata": {
@@ -476,12 +600,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8015,
+            "markdown_end": 8281,
+            "markdown_line_start": 71,
+            "markdown_line_end": 71
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Comparison of the SOFA score, APACHE II score, and levels of presepsin, PCT and lactate between the two groups",
         "metadata": {
@@ -491,12 +619,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8284,
+            "markdown_end": 8397,
+            "markdown_line_start": 73,
+            "markdown_line_end": 73
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The levels of presepsin and lactate in the non-survivor group were significantly higher than those of the survivor group (presepsin: P=0.000; lactate: P=0.000) (Figure 1A and B). There was no significant difference in the PCT level between the two groups (P=0.403) (Figure 1C). The SOFA scores and APACHE II scores of the non-survivor group were significantly higher than those of the survivor group (SOFA score: P=0.000; APACHE II score: P=0.002) (Figure 1D and E).",
         "metadata": {
@@ -506,12 +638,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8400,
+            "markdown_end": 8866,
+            "markdown_line_start": 75,
+            "markdown_line_end": 75
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Independent predictors of patients’ inhospital mortality determined by binary logistic regression analysis",
         "metadata": {
@@ -521,12 +657,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8869,
+            "markdown_end": 8978,
+            "markdown_line_start": 77,
+            "markdown_line_end": 77
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Binary logistic regression showed that the presepsin level (Odds ratio (OR) =1.221, 95% confidence interval (CI): 1.024–1.455, P=0.026), lactate level (OR =1.296, 95% CI: 1.071–1.569, P=0.008) and SOFA score (OR =1.404, 95% CI: 1.209–1.632, P=0.000) were risk factors for patients’ in-hospital mortality from sepsis. However, there was no association between patients’ in-hospital mortality and",
         "metadata": {
@@ -536,12 +676,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8981,
+            "markdown_end": 9375,
+            "markdown_line_start": 79,
+            "markdown_line_end": 79
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "734 submit your manuscript | www.dovepress.com DovePress",
         "metadata": {
@@ -551,12 +695,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9378,
+            "markdown_end": 9434,
+            "markdown_line_start": 81,
+            "markdown_line_end": 81
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Therapeutics and Clinical Risk Management 2019:15",
         "metadata": {
@@ -566,12 +714,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9437,
+            "markdown_end": 9486,
+            "markdown_line_start": 83,
+            "markdown_line_end": 83
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Table 1 Patients’ baseline characteristics",
         "metadata": {
@@ -581,12 +733,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9513,
+            "markdown_end": 9555,
+            "markdown_line_start": 89,
+            "markdown_line_end": 89
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Table 1 Patients’ baseline characteristics||||||||\n|---|---|---|---|---|---|---|---|\n||All patients,<br>n=138||Survivors,<br>n=74||Non-survivors,<br>n=64||P-value|\n|Age (years)<br>Male (%)|62 (51–73)<br>89 (64)||61 (50–71)<br>45 (61)||62 (52–74)<br>44 (69)||0.553<br>0.251|\n|Laboratory values<br>White blood cells (109/L)<br>Platelets (109/L)<br>Total bilirubin (mg/dL)<br>Creatinine (mg/dL)<br>Procalcitonin (ng/mL)<br>Presepsin (pg/mL)<br>Lactate (mmol/L)|12.0 (7.7–18.3)<br>141 (74–232)<br>1.3 (0.8–2.9)<br>1.4 (0.9–2.7)<br>6.26 (1.82–31.02)<br>1,348 (661–3273)<br>1.6 (1.1–2.7)||11.2 (7.3–18.0)<br>152 (81–228)<br>1.3 (0.8–3.0)<br>1.3 (0.9–2.0)<br>6.01 (1.54–34.78)<br>1,125 (484–2268)<br>1.4 (0.9–2.2)||13.1 (8.0–19.1)<br>130 (67–247)<br>1.3 (0.8–2.7)<br>1.9 (1.0–3.5)<br>6.73 (2.55–27.42)<br>1,692 (1028–4286)<br>2.3 (1.4–4.2)||0.588<br>0.544<br>0.842<br>0.010<br>0.403<br>0.000<br>0.000|\n|Mechanical ventilation<br>Number of patients|||||||0.000|\n||100 (72)||44 (59)||56 (88)|||\n|Severity of sepsis<br>SOFA score<br>APACHE II score|8 (5–11)<br>21 (16–26)||6 (4–8)<br>20 (14–23)||10 (8–12)<br>24 (17–31)||0.000<br>0.002|\n|Sources of infection<br>Respiratory tract<br>Urinary tract<br>Intra-abdomen<br>Others|67 (49)<br>12 (9)<br>44 (32)<br>15 (11)||23 (31)<br>9 (12)<br>32 (43)<br>10 (14)||44 (69)<br>3 (5)<br>12 (19)<br>5 (8)||0.001<br>0.070<br>0.000<br>0.336|\n|Pathogens<br>Gram-negative rods<br>Gram-positive cocci<br>Fungi<br>Gram-negative bacilli and Gram-positive cocci<br>Gram-negative bacilli and fungi<br>Gram-positive cocci and fungi<br>Gram-positive cocci, Gram-negative bacilli, and fungi<br>Negative cultures|41 (30)<br>7 (5)<br>10 (7)<br>8 (6)<br>12 (9)<br>2 (1)<br>1 (1)<br>57 (41)||18 (24)<br>4 (5)<br>5 (7)<br>3 (4)<br>7 (9)<br>1 (1)<br>0 (0)<br>36 (49)||23 (36)<br>3 (5)<br>5 (8)<br>5 (8)<br>5 (8)<br>1 (2)<br>1 (2)<br>21 (33)||0.137<br>0.848<br>0.811<br>0.346<br>0.732<br>0.918<br>0.280<br>0.060|",
         "metadata": {
@@ -596,12 +752,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9558,
+            "markdown_end": 11480,
+            "markdown_line_start": 91,
+            "markdown_line_end": 100
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Note: The categorical variables are expressed as counts (percentages) and analyzed with Pearson’s chi-square (χ[2] ) test, while the continuous variables are expressed as medians (interquartile ranges) and analyzed with Kruskal–Wallis test. Abbreviations: SOFA score, Sequential Organ Failure Assessment score; APACHE II score, Acute Physiology and Chronic Health Evaluation II score.",
         "metadata": {
@@ -611,12 +771,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11484,
+            "markdown_end": 11868,
+            "markdown_line_start": 104,
+            "markdown_line_end": 104
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "their PCT levels (OR =0.995, 95% CI: 0.957–1.089, P=0.527) and APACHE II scores (OR =1.021, 95% CI: 0.985–1.006, P=0.403) (Table 2).",
         "metadata": {
@@ -626,12 +790,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 11871,
+            "markdown_end": 12003,
+            "markdown_line_start": 106,
+            "markdown_line_end": 106
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Prognostic value of the presepsin level, lactate level, and SOFA score",
         "metadata": {
@@ -641,12 +809,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12006,
+            "markdown_end": 12079,
+            "markdown_line_start": 108,
+            "markdown_line_end": 108
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The performance of the presepsin level, lactate level, and SOFA score in predicting patients’ in-hospital mortality from sepsis was evaluated with ROC curves (Figure 2). The levels of presepsin and lactate had good performance in predicting the prognosis of sepsis (presepsin: AUC =0.703, P=0.000; lactate: AUC =0.711, P=0.000). The",
         "metadata": {
@@ -656,12 +828,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12082,
+            "markdown_end": 12414,
+            "markdown_line_start": 110,
+            "markdown_line_end": 110
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "SOFA score had the best performance with the highest AUC value (AUC =0.793, P=0.000). Furthermore, the AUC value of a combination of the SOFA score and the presepsin level was significantly higher than that of the SOFA score alone in predicting patients’ in-hospital mortality (AUC: 0.817 vs 0.793, P=0.041). The best prognostic cutoff point for presepsin was 2,623 pg/mL, at which level the sensitivity and specificity were 62.71% (95% CI: 49.15% to 74.96%) and 72.6% (95% CI: 60.91% to 82.39%), respectively. The patients’ levels of presepsin and lactate upon admission were positively associated with their SOFA scores (presepsin: ρ=0.396, P=0.000, lactate: ρ=0.411, P=0.000), however, there was no positive",
         "metadata": {
@@ -671,12 +847,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12417,
+            "markdown_end": 13127,
+            "markdown_line_start": 112,
+            "markdown_line_end": 112
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "submit your manuscript | www.dovepress.com 735 DovePress",
         "metadata": {
@@ -686,12 +866,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13130,
+            "markdown_end": 13186,
+            "markdown_line_start": 114,
+            "markdown_line_end": 114
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Therapeutics and Clinical Risk Management 2019:15",
         "metadata": {
@@ -701,12 +885,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13189,
+            "markdown_end": 13238,
+            "markdown_line_start": 116,
+            "markdown_line_end": 116
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Wen_2019/images/Wen_2019.pdf-0004-02.png)",
         "metadata": {
@@ -716,12 +904,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13266,
+            "markdown_end": 13331,
+            "markdown_line_start": 123,
+            "markdown_line_end": 123
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Wen_2019.pdf-0004-02.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Comparative Box Plots of Clinical Parameters between Survivors and Non-survivors\n> \n> The image consists of five box plots labeled A to E, comparing various clinical parameters between survivors and non-survivors. Each plot uses blue boxes for survivors and green boxes for non-survivors. The Y-axes represent different measurements; presepsin concentration, lactate concentration, PCT concentration, SOFA score, and APACHE II score respectively. Statistical significance values (p-values) are marked above the plots.\n> \n> **Data Points:** A: Presepsin concentration (pg/ml), B: Lactate concentration (mmol/L), C: PCT concentration (pg/ml), D: SOFA score, E: APACHE II score\n> \n> **Key Findings:**\n> - Higher presepsin concentration in non-survivors (p=0.000).\n> - Higher lactate concentration in non-survivors (p=0.000).\n> - No significant difference in PCT concentration (p=0.403).\n> - Higher SOFA score in non-survivors (p=0.000).\n> - Higher APACHE II score in non-survivors (p=0.002).\n<!-- analyzed_Wen_2019.pdf-0004-02.png -->",
         "metadata": {
@@ -731,12 +923,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13333,
+            "markdown_end": 14481,
+            "markdown_line_start": 125,
+            "markdown_line_end": 139
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\nA<br>25000<br>P =0.000<br>20000<br>15000<br>10000<br>5000<br>0<br>Survivors Non-survivors<br>B C<br>20 P =0.000 250<br>P =0.403<br>200<br>15<br>150<br>10<br>100<br>5<br>50<br>0<br>0<br>Survivors Non-survivors Survivors Non-survivors<br>D E<br>20 P =0.000 50 P =0.002<br>40<br>15<br>30<br>10<br>20<br>5<br>10<br>0<br>0<br>Survivors Non-survivors Survivors Non-survivors<br>Presepsin concentration (pg/ml)<br>PCT concentration (pg/ml)<br>Lactate concentration (mmol/L)<br>SOFA score<br>APACHE II score<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -746,12 +942,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14486,
+            "markdown_end": 15070,
+            "markdown_line_start": 144,
+            "markdown_line_end": 145
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Figure 1 The SOFA score, APACHE II score, and the levels of presepsin, PCT and lactate upon admission in the survivor and non-survivor groups. (A and B) The levels of presepsin and lactate in the non-survivor group are significantly higher than those of the survivor group (presepsin: P=0.000; lactate: P=0.000). (C) There is no significant difference in the PCT level between the two groups (P=0.403). (D and E) The SOFA score and APACHE II score of the non-survivor group are significantly higher than those of the survivor group (SOFA score: P=0.000; APACHE II score: P=0.002).",
         "metadata": {
@@ -761,12 +961,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15073,
+            "markdown_end": 15653,
+            "markdown_line_start": 148,
+            "markdown_line_end": 148
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Abbreviations: SOFA score, Sequential Organ Failure Assessment score; APACHE II score, Acute Physiology and Chronic Health Evaluation II score; PCT, procalcitonin.",
         "metadata": {
@@ -776,12 +980,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15656,
+            "markdown_end": 15819,
+            "markdown_line_start": 150,
+            "markdown_line_end": 150
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "correlation between their PCT levels and SOFA scores (ρ=0.136, P=0.114) (Figure 3).",
         "metadata": {
@@ -791,12 +999,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15822,
+            "markdown_end": 15905,
+            "markdown_line_start": 152,
+            "markdown_line_end": 152
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Discussion",
         "metadata": {
@@ -806,12 +1018,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15908,
+            "markdown_end": 15921,
+            "markdown_line_start": 154,
+            "markdown_line_end": 154
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This observational study was conducted on adult patients with sepsis who were diagnosed under the sepsis-3 criteria.[15] The patients were assigned to two groups while doing retrospective analysis according to their inhospital mortality: the survivor group and the non-survivor group. We aimed to evaluate the performance of presepsin",
         "metadata": {
@@ -821,12 +1037,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15924,
+            "markdown_end": 16258,
+            "markdown_line_start": 156,
+            "markdown_line_end": 156
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "as a biomarker in predicting patients’ in-hospital mortality from pepesis. The performance of the presepsin level in predicting patients’ in-hospital mortality was compared with that of the lactate level and SOFA score. Correlation between the presepsin level and SOFA score was also analyzed.",
         "metadata": {
@@ -836,12 +1056,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16261,
+            "markdown_end": 16554,
+            "markdown_line_start": 158,
+            "markdown_line_end": 158
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "It has been reported that the presepsin level is capable of predicting the mortality from sepsis under the sepsis-1 criteria and sepsis-2 criteria.[16][–][19] ICU patients’ mortality from sepsis was reported to be associated with the",
         "metadata": {
@@ -851,12 +1075,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16557,
+            "markdown_end": 16790,
+            "markdown_line_start": 160,
+            "markdown_line_end": 160
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "submit your manuscript | www.dovepress.com DovePress",
         "metadata": {
@@ -866,12 +1094,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16793,
+            "markdown_end": 16845,
+            "markdown_line_start": 162,
+            "markdown_line_end": 162
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Therapeutics and Clinical Risk Management 2019:15",
         "metadata": {
@@ -881,12 +1113,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16848,
+            "markdown_end": 16897,
+            "markdown_line_start": 164,
+            "markdown_line_end": 164
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Table 2 Univariate binary logistic regression analysis results",
         "metadata": {
@@ -896,12 +1132,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16930,
+            "markdown_end": 16992,
+            "markdown_line_start": 172,
+            "markdown_line_end": 172
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Parameters|Odds ratio|95% CI|P-value|\n|---|---|---|---|\n|Procalcitonin (ng/mL)<br>Presepsin (pg/mL)<br>Lactate (mmol/L)<br>APACHE II score<br>SOFA score|0.995<br>1.221<br>1.296<br>1.021<br>1.404|0.957–1.089<br>1.024–1.455<br>1.071–1.569<br>0.985–1.006<br>1.209–1.632|0.527<br>0.026<br>0.008<br>0.403<br>0.000|",
         "metadata": {
@@ -911,12 +1151,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16995,
+            "markdown_end": 17305,
+            "markdown_line_start": 174,
+            "markdown_line_end": 176
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Abbreviations: CI, confidence interval; SOFA score, Sequential Organ Failure Assessment score; APACHE II score, Acute Physiology and Chronic Health Evaluation II score.",
         "metadata": {
@@ -926,12 +1170,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17309,
+            "markdown_end": 17477,
+            "markdown_line_start": 180,
+            "markdown_line_end": 180
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Wen_2019/images/Wen_2019.pdf-0005-05.png)",
         "metadata": {
@@ -941,12 +1189,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17481,
+            "markdown_end": 17546,
+            "markdown_line_start": 183,
+            "markdown_line_end": 183
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Wen_2019.pdf-0005-05.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** ROC Curves Comparing Diagnostic Tests\n> \n> The image is a Receiver Operating Characteristic (ROC) curve graph depicting sensitivity vs 1-specificity. It includes four colored lines representing different diagnostic measures: red for Presespin, blue for Lactate, green for SOFA score, and purple for SOFA score + presespin. The x-axis is labeled '1-specificity' and the y-axis 'Sensitivity'. A diagonal grey line acts as a reference for non-discrimination.\n> \n> **Data Points:** Legend: Presespin (AUC: 0.703), Lactate (AUC: 0.711), SOFA score (AUC: 0.793), SOFA score + presespin (AUC: 0.817)\n> \n> **Key Findings:**\n> - SOFA score + presespin shows the highest AUC indicating the best diagnostic performance.\n> - SOFA score alone performs better than Presespin and Lactate.\n> - Reference line indicates a non-discriminative test.\n<!-- analyzed_Wen_2019.pdf-0005-05.png -->",
         "metadata": {
@@ -956,12 +1208,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17548,
+            "markdown_end": 18537,
+            "markdown_line_start": 185,
+            "markdown_line_end": 197
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\n1.0<br>0.8<br>0.6<br>Presepsin (AUC: 0.703)<br>0.4<br>Lactate (AUC: 0.711)<br>SOFA score (AUC: 0.793)<br>0.2<br>SOFA score + presepsin (AUC: 0.817)<br>Reference line<br>0.0<br>0.0 0.2 0.4 0.6 0.8 1.0<br>1-specificity<br>Sensitivity<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -971,12 +1227,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18542,
+            "markdown_end": 18858,
+            "markdown_line_start": 202,
+            "markdown_line_end": 203
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Figure 2 Receiver operating characteristic curves of the presepsin level, lactate level, and the SOFA score in predicting patients’ in-hospital mortality. Areas under the receiver operating characteristic (ROC) curves: the lactate level (blue line): 0.711 (95% confidence interval (CI): 0.622 to 0.800, P=0.000); the presepsin level (red line): 0.703 (95% CI: 0.614 to 0.793, P=0.000); the SOFA score (green line): 0.793 (95% CI: 0.716 to 0.870, P=0.000); the SOFA score + the presepsin level (purple line): 0.817 (95% CI: 0.742 to 0.892, P=0.000). The AUC value of a combination of the SOFA score and the presepsin level is significantly larger than that of the SOFA score alone in predicting patients’ in-hospital mortality from sepsis (AUC: 0.817 vs 0.793, P=0.041). Abbreviation: CI, confidence interval; SOFA score, Sequential Organ Failure Assessment score; APACHE II score, Acute Physiology and Chronic Health Evaluation II score.",
         "metadata": {
@@ -986,12 +1246,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18861,
+            "markdown_end": 19798,
+            "markdown_line_start": 206,
+            "markdown_line_end": 206
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "presepsin level and the non-survivors’ presepsin levels were significantly higher than the survivors’ presepsin levels.[16] In the present study, the presepsin level of the non-survivor group is higher than that of the survivor group. Besides, analysis of the ROC curves demonstrates that the presepsin level has a good performance in predicting the in-hospital mortality from sepsis under the sepsis-3 criteria. The best prognostic cutoff point for presepsin in this study is 2,623 pg/mL, which is similar to the level of 2,455 pg/mL reported previously.[17] It was reported that the presepsin level upon admission, not the level of PCT, was significantly correlated with patients’ in-hospital mortality from sepsis.[18] Besides, the presepsin level showed better prognostic performance than the PCT level in predicting patients’ 30-day mortality.[19] Similar findings are obtained in this study. There is no significant",
         "metadata": {
@@ -1001,12 +1265,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19801,
+            "markdown_end": 20722,
+            "markdown_line_start": 208,
+            "markdown_line_end": 208
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "difference in the PCT level between the two groups, and binary logistic regression shows that the PCT level is not correlated with patients’ in-hospital mortality. Furthermore, the correlation analysis reveals that there is no significant association between the PCT level and the SOFA score. These results suggest that the level of PCT is not correlated with the severity of sepsis in the early hours.",
         "metadata": {
@@ -1016,12 +1284,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20725,
+            "markdown_end": 21127,
+            "markdown_line_start": 210,
+            "markdown_line_end": 210
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Binary logistic regression shows that the presepsin level, lactate level, and the SOFA score are independent risk factors for patients’ in-hospital mortality from sepsis. Analysis of the ROC curves shows that the presepsin and lactate levels have similar performance in predicting the prognosis of sepsis (AUC: 0.703 vs 0.711). The SOFA score has a better prognostic performance than the presepsin level (AUC: 0.793 vs 0.703). However, the presepsin level upon admission is positively associated with the SOFA score, and the prognostic performance of a combination of the SOFA score and the presepsin level is significantly better than that of the SOFA score alone. These results suggest that presepsin is a biomarker which helps recognize patients with poor prognosis in the early period and plays a significant role in guiding the treatment of sepsis.",
         "metadata": {
@@ -1031,12 +1303,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21130,
+            "markdown_end": 21983,
+            "markdown_line_start": 212,
+            "markdown_line_end": 212
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This study has several limitations. Firstly, the sample size is relatively small. However, to the best of our knowledge, other studies have similar or smaller samples in size.[19][−][21] Secondly, this study is a single-center study, which might lead to inherent selection bias. Thirdly, patients’ presepsin levels were only measured upon admission, rather than monitored daily.",
         "metadata": {
@@ -1046,12 +1322,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21986,
+            "markdown_end": 22364,
+            "markdown_line_start": 214,
+            "markdown_line_end": 214
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The results in this study demonstrate that presepsin is a powerful prognostic biomarker of the short-term prognosis of sepsis under the sepsis-3 criteria. These preliminary findings suggest that the presepsin level may be of clinical importance in identifying high-risk patients earlier.",
         "metadata": {
@@ -1061,12 +1341,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22367,
+            "markdown_end": 22654,
+            "markdown_line_start": 216,
+            "markdown_line_end": 216
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Conclusions",
         "metadata": {
@@ -1076,12 +1360,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22657,
+            "markdown_end": 22671,
+            "markdown_line_start": 218,
+            "markdown_line_end": 218
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The presepsin level is valuable in predicting patients’ inhospital mortality from sepsis under the sepsis-3 criteria. Combining use with the SOFA score increases its prognostic accuracy significantly.",
         "metadata": {
@@ -1091,12 +1379,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22674,
+            "markdown_end": 22874,
+            "markdown_line_start": 220,
+            "markdown_line_end": 220
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Ethics approval",
         "metadata": {
@@ -1106,12 +1398,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22877,
+            "markdown_end": 22895,
+            "markdown_line_start": 222,
+            "markdown_line_end": 222
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The study protocol was approved by the Research Ethics Committee of Guangdong Provincial People’s Hospital and Guangdong Academy of Medical Sciences, Guangzhou, China (No. GDREC 2016318H). All patients",
         "metadata": {
@@ -1121,12 +1417,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22898,
+            "markdown_end": 23099,
+            "markdown_line_start": 224,
+            "markdown_line_end": 224
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "submit your manuscript | www.dovepress.com 737 DovePress",
         "metadata": {
@@ -1136,12 +1436,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23102,
+            "markdown_end": 23158,
+            "markdown_line_start": 226,
+            "markdown_line_end": 226
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Therapeutics and Clinical Risk Management 2019:15",
         "metadata": {
@@ -1151,12 +1455,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23161,
+            "markdown_end": 23210,
+            "markdown_line_start": 228,
+            "markdown_line_end": 228
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Wen_2019/images/Wen_2019.pdf-0006-02.png)",
         "metadata": {
@@ -1166,12 +1474,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23238,
+            "markdown_end": 23303,
+            "markdown_line_start": 235,
+            "markdown_line_end": 235
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Wen_2019.pdf-0006-02.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Comparative Analysis of SOFA Score with Prespespin and PCT\n> \n> Graph A and B depict scatter plots showing SOFA score against biomarker levels. Graph A uses Prespespin on the x-axis with a clear upward trend and significant correlation. Graph B uses PCT on the x-axis showing a slight upward trend with weak correlation. Both plots have scattered data points, trend lines, and specified P-values.\n> \n> **Data Points:** A: SOFA score vs. Prespespin (pg/ml), correlation P=0.396, significance P=0.000. B: SOFA score vs. PCT (ng/ml), correlation P=0.136, significance P=0.114.\n> \n> **Key Findings:**\n> - Graph A shows a positive correlation between SOFA score and Prespespin levels.\n> - Graph A has a significant P-value indicating a significant relationship between variables.\n> - Graph B shows a weak correlation between SOFA score and PCT levels.\n> - Graph B's P-value indicates no significant relationship.\n<!-- analyzed_Wen_2019.pdf-0006-02.png -->",
         "metadata": {
@@ -1181,12 +1493,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23305,
+            "markdown_end": 24372,
+            "markdown_line_start": 237,
+            "markdown_line_end": 250
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\nA<br>20<br>15<br>10<br>5<br>P =0.396 P =0.000<br>0<br>0 5000 10000 15000 20000<br>Presepsin (pg/ml)<br>B<br>20<br>15<br>10<br>5<br>P =0.136 P =0.114<br>0<br>0 50 100 150 200 250<br>PCT (ng/ml)<br>SOFA score<br>SOFA score<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -1196,12 +1512,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24377,
+            "markdown_end": 24682,
+            "markdown_line_start": 255,
+            "markdown_line_end": 256
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Wen_2019/images/Wen_2019.pdf-0006-03.png)",
         "metadata": {
@@ -1211,12 +1531,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24686,
+            "markdown_end": 24751,
+            "markdown_line_start": 260,
+            "markdown_line_end": 260
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Wen_2019.pdf-0006-03.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Scatter plot of SOFA score vs Lactate concentration\n> \n> A scatter plot chart showing data points scattered across different lactate (mmol/L) values on the x-axis and SOFA scores on the y-axis. A trend line is drawn showing a positive correlation. The chart includes P-values of 0.411 and 0.000.\n> \n> **Data Points:** Lactate (mmol/L) on x-axis, SOFA score on y-axis, P=0.411, P=0.000\n> \n> **Key Findings:**\n> - Positive correlation between lactate levels and SOFA score\n> - Wide dispersion of data points indicating variability\n<!-- analyzed_Wen_2019.pdf-0006-03.png -->",
         "metadata": {
@@ -1226,12 +1550,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24753,
+            "markdown_end": 25441,
+            "markdown_line_start": 262,
+            "markdown_line_end": 273
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**----- Start of picture text -----**<br>\nC<br>20<br>15<br>10<br>5<br>P =0.411 P =0.000<br>0<br>0 5 10 15<br>Lactate (mmol/L)<br>SOFA score<br>**----- End of picture text -----**<br>",
         "metadata": {
@@ -1241,12 +1569,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25446,
+            "markdown_end": 25628,
+            "markdown_line_start": 278,
+            "markdown_line_end": 279
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Figure 3 Association between the levels of presepsin, lactate,and PCT and the SOFA score. The levels of presepsin and lactate are positively correlated with the SOFA score (presepsin: ρ=0.396, P=0.000; lactate: ρ=0.411, P=0.000), while no correlation between the PCT level and the SOFA score is observed (ρ=0.136; P=0.114). Abbreviations: SOFA score, Sequential Organ Failure Assessment score; PCT, procalcitonin.",
         "metadata": {
@@ -1256,12 +1588,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25631,
+            "markdown_end": 26044,
+            "markdown_line_start": 282,
+            "markdown_line_end": 282
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "provided written informed consent, and that this study was conducted in accordance with the Declaration of Helsinki.",
         "metadata": {
@@ -1271,12 +1607,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26047,
+            "markdown_end": 26163,
+            "markdown_line_start": 284,
+            "markdown_line_end": 284
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Acknowledgments",
         "metadata": {
@@ -1286,12 +1626,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26166,
+            "markdown_end": 26184,
+            "markdown_line_start": 286,
+            "markdown_line_end": 286
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This study was supported by the Natural Science Foundation of Guangdong Province (2016A030313763) and Science and Technology Program of Guangzhou (201707010322).",
         "metadata": {
@@ -1301,12 +1645,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26187,
+            "markdown_end": 26348,
+            "markdown_line_start": 288,
+            "markdown_line_end": 288
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Disclosure",
         "metadata": {
@@ -1316,12 +1664,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26351,
+            "markdown_end": 26364,
+            "markdown_line_start": 290,
+            "markdown_line_end": 290
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The authors report no conflicts of interest in this work.",
         "metadata": {
@@ -1331,12 +1683,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26367,
+            "markdown_end": 26424,
+            "markdown_line_start": 292,
+            "markdown_line_end": 292
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## References",
         "metadata": {
@@ -1346,12 +1702,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26427,
+            "markdown_end": 26440,
+            "markdown_line_start": 294,
+            "markdown_line_end": 294
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "1. Prescott HC, Osterholzer JJ, Langa KM, et al. Late mortality after sepsis: propensity matched cohort study. Bmj. 2016;353:i2375. doi:10.1136/bmj.i2996",
         "metadata": {
@@ -1361,12 +1721,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26443,
+            "markdown_end": 26596,
+            "markdown_line_start": 296,
+            "markdown_line_end": 296
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "2. Emrath ET, Fortenberry JD, Travers C, et al. Resuscitation with balanced fluids is associated with improved survival in pediatric severe sepsis. Crit Care Med. 2017;45(7):1177. doi:10.1097/CCM.0000000000002365",
         "metadata": {
@@ -1376,12 +1740,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26599,
+            "markdown_end": 26811,
+            "markdown_line_start": 298,
+            "markdown_line_end": 298
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "3. Martin GS, Bassett P. Crystalloids vs. colloids for fluid resuscitation in the intensive care unit: a systematic review and meta-analysis. J Crit Care. 2018;50:144. doi:10.1016/j.jcrc.2018.11.031",
         "metadata": {
@@ -1391,12 +1759,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26814,
+            "markdown_end": 27012,
+            "markdown_line_start": 300,
+            "markdown_line_end": 300
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "4. Tigabu BM, Davari M, Kebriaeezadeh A, et al. Fluid volume, fluid balance and patient outcome in severe sepsis and septic shock: a systematic review. J Crit Care. 2018;48:153. doi:10.1016/j. jcrc.2018.08.018",
         "metadata": {
@@ -1406,12 +1778,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27015,
+            "markdown_end": 27224,
+            "markdown_line_start": 302,
+            "markdown_line_end": 302
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "5. Armstrong BA, Betzold RD, May AK. Sepsis and septic shock strategies. Surg Clin North Am. 2017;97(6):1339. doi:10.1016/j. suc.2017.07.003",
         "metadata": {
@@ -1421,12 +1797,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27227,
+            "markdown_end": 27367,
+            "markdown_line_start": 304,
+            "markdown_line_end": 304
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "6. Harimtepathip P, Lee JR, Griffith E, et al. Quick sepsis-related organ failure assessment versus systemic inflammatory response syndrome criteria for predicting organ dysfunction and mortality. Cureus. 2018;10(10):e3511.",
         "metadata": {
@@ -1436,12 +1816,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27370,
+            "markdown_end": 27593,
+            "markdown_line_start": 306,
+            "markdown_line_end": 306
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "7. Silosi CA, Silosi I, Padureanu V, et al. Sepsis and identification of reliable biomarkers for postoperative period prognosis. Rom J Morphol Embryol. 2018;59(1):77.",
         "metadata": {
@@ -1451,12 +1835,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27596,
+            "markdown_end": 27762,
+            "markdown_line_start": 308,
+            "markdown_line_end": 308
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "8. Prescott HC, Angus DC. Enhancing recovery from sepsis: a review. Jama. 2018;319(1):62. doi:10.1001/jama.2017.17687",
         "metadata": {
@@ -1466,12 +1854,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27765,
+            "markdown_end": 27882,
+            "markdown_line_start": 310,
+            "markdown_line_end": 310
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "9. Brodska H, Valenta J, Pelinkova K, et al. Diagnostic and prognostic value of presepsin vs. established biomarkers in critically ill patients with sepsis or systemic inflammatory response syndrome. Clin Chem Lab Med. 2018;56(4):658. doi:10.1515/cclm-2017-0839",
         "metadata": {
@@ -1481,12 +1873,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27885,
+            "markdown_end": 28146,
+            "markdown_line_start": 312,
+            "markdown_line_end": 312
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "10. Yaegashi Y, Shirakawa K, Sato N, et al. Evaluation of a newly identified soluble CD14 subtype as a marker for sepsis. J Infect Chemother. 2005;11(5):234. doi:10.1007/s10156-005-0400-4",
         "metadata": {
@@ -1496,12 +1892,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28149,
+            "markdown_end": 28336,
+            "markdown_line_start": 314,
+            "markdown_line_end": 314
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "11. Mihajlovic D, Brkic S, Uvelin A, et al. Use of presepsin and procalcitonin for prediction of SeptiFast results in critically ill patients. J Crit Care. 2017;40:197. doi:10.1016/j.jcrc.2017.04.008",
         "metadata": {
@@ -1511,12 +1911,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28339,
+            "markdown_end": 28538,
+            "markdown_line_start": 316,
+            "markdown_line_end": 316
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "12. de Guadiana Romualdo LG, Torrella PE, Acebes SR, et al. Diagnostic accuracy of presepsin (sCD14-ST) as a biomarker of infection and sepsis in the emergency department. Clin Chim Acta. 2017;464:6–11. doi:10.1016/j.cca.2016.11.003",
         "metadata": {
@@ -1526,12 +1930,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28541,
+            "markdown_end": 28773,
+            "markdown_line_start": 318,
+            "markdown_line_end": 318
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "738 submit your manuscript | www.dovepress.com DovePress",
         "metadata": {
@@ -1541,12 +1949,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28776,
+            "markdown_end": 28832,
+            "markdown_line_start": 320,
+            "markdown_line_end": 320
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Therapeutics and Clinical Risk Management 2019:15",
         "metadata": {
@@ -1556,12 +1968,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28835,
+            "markdown_end": 28884,
+            "markdown_line_start": 322,
+            "markdown_line_end": 322
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "13. Wu CC, Lan HM, Han ST, et al. Comparison of diagnostic accuracy in sepsis between presepsin, procalcitonin, and C-reactive protein: a systematic review and meta-analysis. Ann Intensive Care. 2017;7 (1):91. doi:10.1186/s13613-017-0316-z",
         "metadata": {
@@ -1571,12 +1987,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28911,
+            "markdown_end": 29150,
+            "markdown_line_start": 328,
+            "markdown_line_end": 328
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "14. Endo S, Suzuki Y, Takahashi G, et al. Usefulness of presepsin in the diagnosis of sepsis in a multicenter prospective study. J Infect Chemother. 2012;18(6):891. doi:10.1007/s10156-012-0435-2",
         "metadata": {
@@ -1586,12 +2006,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29153,
+            "markdown_end": 29347,
+            "markdown_line_start": 330,
+            "markdown_line_end": 330
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "15. Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions for sepsis and septic shock (Sepsis-3). Jama. 2016;315(8):801. doi:10.1001/jama.2016.0287",
         "metadata": {
@@ -1601,12 +2025,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29350,
+            "markdown_end": 29533,
+            "markdown_line_start": 332,
+            "markdown_line_end": 332
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "16. Yang HS, Hur M, Yi A, et al. Prognostic value of presepsin in adult patients with sepsis: systematic review and meta-analysis. PLoS One. 2018;13(1):e0191486. doi:10.1371/journal.pone.0191486",
         "metadata": {
@@ -1616,12 +2044,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29536,
+            "markdown_end": 29730,
+            "markdown_line_start": 334,
+            "markdown_line_end": 334
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "17. Kim H, Hur M, Moon HW, et al. Multi-marker approach using procalcitonin, presepsin, galectin-3, and soluble suppression of tumorigenicity 2 for the prediction of mortality in sepsis. Ann Intensive Care. 2017;7(1):27. doi:10.1186/s13613-017-0252-y",
         "metadata": {
@@ -1631,12 +2063,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29733,
+            "markdown_end": 29983,
+            "markdown_line_start": 336,
+            "markdown_line_end": 336
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "18. Popa TO, Cimpoesu D, Dorobat CM. Diagnostic and prognostic value of presepsin in the emergency department. Rev Med Chir Soc Med Nat Iasi. 2015;119(1):69.",
         "metadata": {
@@ -1646,12 +2082,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29986,
+            "markdown_end": 30143,
+            "markdown_line_start": 338,
+            "markdown_line_end": 338
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "19. Matera G, Quirino A, Peronace C, et al. Soluble CD14 subtype-a new biomarker in predicting the outcome of critically ill septic patients. Am J Med Sci. 2017;353(6):543–551. doi:10.1016/j.amjms. 2017.03.036",
         "metadata": {
@@ -1661,12 +2101,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30146,
+            "markdown_end": 30355,
+            "markdown_line_start": 340,
+            "markdown_line_end": 340
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "20. Sargentini V, Ceccarelli G, D’Alessandro M, et al. Presepsin as a potential marker for bacterial infection relapse in critical care patients. A preliminary study. Clin Chem Lab Med. 2015;53 (4):567.",
         "metadata": {
@@ -1676,12 +2120,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30358,
+            "markdown_end": 30560,
+            "markdown_line_start": 342,
+            "markdown_line_end": 342
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "21. Godnic M, Stubljar D, Skvarc M, et al. Diagnostic and prognostic value of sCD14-ST–presepsin for patients admitted to hospital intensive care unit (ICU). Wien Klin Wochenschr. 2015;127(13–14):521. doi:10.1007/s00508-015-0719-5",
         "metadata": {
@@ -1691,12 +2139,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30563,
+            "markdown_end": 30793,
+            "markdown_line_start": 344,
+            "markdown_line_end": 344
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Therapeutics and Clinical Risk Management",
         "metadata": {
@@ -1706,12 +2158,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30796,
+            "markdown_end": 30837,
+            "markdown_line_start": 346,
+            "markdown_line_end": 346
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Publish your work in this journal",
         "metadata": {
@@ -1721,12 +2177,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30852,
+            "markdown_end": 30888,
+            "markdown_line_start": 350,
+            "markdown_line_end": 350
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Therapeutics and Clinical Risk Management is an international, peerreviewed journal of clinical therapeutics and risk management, focusing on concise rapid reporting of clinical studies in all therapeutic areas, outcomes, safety, and programs for the effective, safe, and sustained use of medicines. This journal is indexed on PubMed Central, CAS,",
         "metadata": {
@@ -1736,12 +2196,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30891,
+            "markdown_end": 31238,
+            "markdown_line_start": 352,
+            "markdown_line_end": 352
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "EMBase, Scopus and the Elsevier Bibliographic databases. The manuscript management system is completely online and includes a very quick and fair peer-review system, which is all easy to use. Visit http://www.dovepress.com/testimonials.php to read real quotes from published authors.",
         "metadata": {
@@ -1751,12 +2215,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31241,
+            "markdown_end": 31524,
+            "markdown_line_start": 354,
+            "markdown_line_end": 354
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Submit your manuscript here: https://www.dovepress.com/therapeutics-and-clinical-risk-management-journal",
         "metadata": {
@@ -1766,12 +2234,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31527,
+            "markdown_end": 31631,
+            "markdown_line_start": 356,
+            "markdown_line_end": 356
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "submit your manuscript | www.dovepress.com",
         "metadata": {
@@ -1781,12 +2253,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31634,
+            "markdown_end": 31676,
+            "markdown_line_start": 358,
+            "markdown_line_end": 358
         }
     },
     {
         "source_id": "Wen_2019",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Therapeutics and Clinical Risk Management 2019:15",
         "metadata": {
@@ -1796,7 +2272,11 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31685,
+            "markdown_end": 31734,
+            "markdown_line_start": 362,
+            "markdown_line_end": 362
         }
     }
 ]

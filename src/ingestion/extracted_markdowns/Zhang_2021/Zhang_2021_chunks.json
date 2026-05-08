@@ -1,7 +1,7 @@
 [
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "ORIGINAL RESEARCH published: 21 January 2021 doi: 10.3389/fmed.2020.609769",
         "metadata": {
@@ -11,12 +11,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 0,
+            "markdown_end": 74,
+            "markdown_line_start": 1,
+            "markdown_line_end": 1
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2021/images/Zhang_2021.pdf-0001-01.png)",
         "metadata": {
@@ -26,12 +30,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 78,
+            "markdown_end": 147,
+            "markdown_line_start": 4,
+            "markdown_line_end": 4
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2021.pdf-0001-01.png)**\n> **Category:** `OTHER` | **Summary:** Software Update Button\n> \n> A gray button icon with a bookmark symbol at the top and the text 'Check for updates' underneath. The design is simple and modern, with a grayscale color scheme.\n<!-- analyzed_Zhang_2021.pdf-0001-01.png -->",
         "metadata": {
@@ -41,12 +49,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 149,
+            "markdown_end": 491,
+            "markdown_line_start": 6,
+            "markdown_line_end": 11
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Development and Validation of a Sepsis Mortality Risk Score for Sepsis-3 Patients in Intensive Care Unit",
         "metadata": {
@@ -56,12 +68,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 496,
+            "markdown_end": 603,
+            "markdown_line_start": 16,
+            "markdown_line_end": 16
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Kai Zhang[1†] , Shufang Zhang[2†] , Wei Cui[1] , Yucai Hong[3] , Gensheng Zhang[1] * and Zhongheng Zhang[3] *",
         "metadata": {
@@ -71,12 +87,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 606,
+            "markdown_end": 718,
+            "markdown_line_start": 18,
+            "markdown_line_end": 18
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "1 Department of Critical Care Medicine, Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China,",
         "metadata": {
@@ -86,12 +106,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 721,
+            "markdown_end": 845,
+            "markdown_line_start": 20,
+            "markdown_line_end": 20
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "2 Department of Cardiology, Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China,",
         "metadata": {
@@ -101,12 +125,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 848,
+            "markdown_end": 960,
+            "markdown_line_start": 22,
+            "markdown_line_end": 22
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "3 Department of Emergency Medicine, Sir Run-Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China",
         "metadata": {
@@ -116,12 +144,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 963,
+            "markdown_end": 1081,
+            "markdown_line_start": 24,
+            "markdown_line_end": 24
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Marcelo Arruda Nakazone, Faculty of Medicine of São José do Rio Preto, Brazil",
         "metadata": {
@@ -131,12 +163,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1097,
+            "markdown_end": 1174,
+            "markdown_line_start": 28,
+            "markdown_line_end": 28
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Reviewed by: Vicent Ripoll, Eurecat, Spain Lazaro Nelson Sanchez-Pinto, Northwestern University, United States",
         "metadata": {
@@ -146,12 +182,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1177,
+            "markdown_end": 1287,
+            "markdown_line_start": 30,
+            "markdown_line_end": 30
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "*Correspondence: Zhongheng Zhang zh_zhang1984@zju.edu.cn Gensheng Zhang genshengzhang@zju.edu.cn",
         "metadata": {
@@ -161,12 +201,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1290,
+            "markdown_end": 1386,
+            "markdown_line_start": 32,
+            "markdown_line_end": 32
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "†These authors have contributed equally to this work",
         "metadata": {
@@ -176,12 +220,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1389,
+            "markdown_end": 1441,
+            "markdown_line_start": 34,
+            "markdown_line_end": 34
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Specialty section: This article was submitted to Intensive Care Medicine and Anesthesiology, a section of the journal Frontiers in Medicine",
         "metadata": {
@@ -191,12 +239,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1444,
+            "markdown_end": 1583,
+            "markdown_line_start": 36,
+            "markdown_line_end": 36
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Received: 24 September 2020 Accepted: 29 December 2020 Published: 21 January 2021",
         "metadata": {
@@ -206,12 +258,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1586,
+            "markdown_end": 1667,
+            "markdown_line_start": 38,
+            "markdown_line_end": 38
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Zhang K, Zhang S, Cui W, Hong Y, Zhang G and Zhang Z (2021) Development and Validation of a Sepsis Mortality Risk Score for Sepsis-3 Patients in Intensive Care Unit. Front. Med. 7:609769. doi: 10.3389/fmed.2020.609769",
         "metadata": {
@@ -221,12 +277,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1682,
+            "markdown_end": 1899,
+            "markdown_line_start": 42,
+            "markdown_line_end": 42
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Background: Many severity scores are widely used for clinical outcome prediction for critically ill patients in the intensive care unit (ICU). However, for patients identified by sepsis-3 criteria, none of these have been developed. This study aimed to develop and validate a risk stratification score for mortality prediction in sepsis-3 patients.",
         "metadata": {
@@ -236,12 +296,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 1902,
+            "markdown_end": 2250,
+            "markdown_line_start": 44,
+            "markdown_line_end": 44
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Methods: In this retrospective cohort study, we employed the Medical Information Mart for Intensive Care III (MIMIC III) database for model development and the eICU database for external validation. We identified septic patients by sepsis-3 criteria on day 1 of ICU entry. The Least Absolute Shrinkage and Selection Operator (LASSO) technique was performed to select predictive variables. We also developed a sepsis mortality prediction model and associated risk stratification score. We then compared model discrimination and calibration with other traditional severity scores.",
         "metadata": {
@@ -251,12 +315,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2253,
+            "markdown_end": 2831,
+            "markdown_line_start": 46,
+            "markdown_line_end": 46
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Results: For model development, we enrolled a total of 5,443 patients fulfilling the sepsis-3 criteria. The 30-day mortality was 16.7%. With 5,658 septic patients in the validation set, there were 1,135 deaths (mortality 20.1%). The score had good discrimination in development and validation sets (area under curve: 0.789 and 0.765). In the validation set, the calibration slope was 0.862, and the Brier value was 0.140. In the development dataset, the score divided patients according to mortality risk of low (3.2%), moderate (12.4%), high (30.7%), and very high (68.1%). The corresponding mortality in the validation dataset was 2.8, 10.5, 21.1, and 51.2%. As shown by the decision curve analysis, the score always had a positive net benefit.",
         "metadata": {
@@ -266,12 +334,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 2834,
+            "markdown_end": 3580,
+            "markdown_line_start": 48,
+            "markdown_line_end": 48
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Conclusion: We observed moderate discrimination and calibration for the score termed Sepsis Mortality Risk Score (SMRS), allowing stratification of patients according to mortality risk. However, we still require further modification and external validation.",
         "metadata": {
@@ -281,12 +353,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3583,
+            "markdown_end": 3840,
+            "markdown_line_start": 50,
+            "markdown_line_end": 50
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Keywords: sepsis-3.0, critical care, intensive care unit (ICU), machine learning, mortality prediction model, severity score system",
         "metadata": {
@@ -296,12 +372,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3843,
+            "markdown_end": 3974,
+            "markdown_line_start": 52,
+            "markdown_line_end": 52
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Frontiers in Medicine | www.frontiersin.org",
         "metadata": {
@@ -311,12 +391,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 3977,
+            "markdown_end": 4020,
+            "markdown_line_start": 54,
+            "markdown_line_end": 54
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "January 2021 | Volume 7 | Article 609769",
         "metadata": {
@@ -326,12 +410,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4023,
+            "markdown_end": 4063,
+            "markdown_line_start": 56,
+            "markdown_line_end": 56
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis Mortality Risk Score",
         "metadata": {
@@ -341,12 +429,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4070,
+            "markdown_end": 4097,
+            "markdown_line_start": 60,
+            "markdown_line_end": 60
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## INTRODUCTION",
         "metadata": {
@@ -356,12 +448,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4115,
+            "markdown_end": 4130,
+            "markdown_line_start": 64,
+            "markdown_line_end": 64
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Being a life-threatening organ dysfunction due to a dysregulated host response to infection, sepsis is considered a major global health problem (1, 2). According to the latest Global Burden of Diseases study, ∼48.9 million sepsis cases were reported worldwide in 2017 despite the decline in incidence and mortality. A total of 11.0 million patients died from sepsis and its complications, which accounted for 19.7% of deaths worldwide (3). In the intensive care unit (ICU), sepsis remains a significant cause of morbidity and mortality. According to the ICON study, 29.5% of the patients suffered from sepsis during their ICU stay. The ICU mortality rate was significantly higher in septic patients (25.8%) than the whole population (16.2%) (4). Since rapid treatment could improve the outcomes in septic patients, early identification, and risk assessment are of vital importance (5, 6). A pragmatic scoring system could help clinicians make decisions by identifying high-risk patients and providing the probability of death.",
         "metadata": {
@@ -371,12 +467,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 4133,
+            "markdown_end": 5159,
+            "markdown_line_start": 66,
+            "markdown_line_end": 66
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "To characterize disease severity and predict its outcome, various severity scores have been widely used in the ICU (7). However, in septic patients, the clinical application remains limited because sepsis’s pathogenesis is complicated, and no single score has been developed. For example, the Acute Physiology and Chronic Health Evaluation II (APACHE II) score underestimated the risk of death for septic patients in the ICU (8). Similarly, the Simplified Acute Physiology Score II (SAPS II) showed poor calibration in external validation studies (9, 10). Besides the traditional ICU scoring systems, sepsis mortality prediction models based on machine learning algorithms have been published by some researchers. These models, derived from big medical datasets, could accurately predict mortality with good discrimination for septic patients (11–14). However, most of the models were designed for patients with severe sepsis or septic shock, and none of these were developed from the sepsis-3 patient population. Johnson et al. compared five different methods for screening patients with sepsis, and showed that sepsis-3 criteria provided temporal context, possessed high construct validity and were less influenced by coding changes (15). Therefore, screening patients with sepsis by using the sepsis-3 criteria was considered an optimal method in the electronic database.",
         "metadata": {
@@ -386,12 +486,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 5162,
+            "markdown_end": 6536,
+            "markdown_line_start": 68,
+            "markdown_line_end": 68
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Based on sepsis-3 criteria and the Medical Information Mart for Intensive Care III (MIMIC III) database, we aimed to develop a Sepsis Mortality Risk Score (SMRS) by Least Absolute Shrinkage and Selection Operator (LASSO) technique, assess its predictive ability, and compare it with traditional severity scores in the validation dataset from the eICU Collaborative Research",
         "metadata": {
@@ -401,12 +505,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6539,
+            "markdown_end": 6912,
+            "markdown_line_start": 70,
+            "markdown_line_end": 70
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Abbreviations:** ICU, Intensive care unit; MIMIC III, Medical Information Mart for Intensive Care III; LASSO, Least Absolute Shrinkage and Selection Operator; SMRS, Sepsis Mortality Risk Score; APACHE II, Acute Physiology and Chronic Health Evaluation II; SAPS II, Simplified Acute Physiology Score II; SOFA, Sequential Organ Failure Assessment; APS III, Acute Physiological Score III; LODS, Logistic Organ Dysfunction System; OASIS, Oxford Acute Severity of Illness Score; SIRS, System Inflammatory Reaction Syndrome; qSOFA, quick SOFA; VIF, variance inflation factor; AUC, Area Under the Curve; DCA, decision curve analysis; MARS, multivariate adaptive regression splines; XGBoost, eXtreme Gradient Boosting; ED, emergency department.",
         "metadata": {
@@ -416,12 +524,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 6915,
+            "markdown_end": 7653,
+            "markdown_line_start": 72,
+            "markdown_line_end": 72
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Database (eICU). In addition, we built four machine learning models to predict 30-day mortality for sepsis-3 patients.",
         "metadata": {
@@ -431,12 +543,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7656,
+            "markdown_end": 7774,
+            "markdown_line_start": 74,
+            "markdown_line_end": 74
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## MATERIALS AND METHODS",
         "metadata": {
@@ -446,12 +562,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7777,
+            "markdown_end": 7801,
+            "markdown_line_start": 76,
+            "markdown_line_end": 76
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Data Source and Participants",
         "metadata": {
@@ -461,12 +581,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7804,
+            "markdown_end": 7835,
+            "markdown_line_start": 78,
+            "markdown_line_end": 78
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "We extracted data from the MIMIC III (16) and eICU database (17), respectively. We included adult patients admitted to the ICU with sepsis. Sepsis was identified based on sepsis-3 criteria, which included suspected infection and a Sequential Organ Failure Assessment (SOFA) score ≥ 2 (1). For sepsis patient selection, a previous study was referred for identifying the sepsis-3 cohort from MIMIC III (15). We excluded the following patients: (1) non-adults (<16 years old), (2) multiple admissions, (3) receiving cardiothoracic surgical service (their postoperative physiologic derangements or not translating to the same mortality risk as others), (4) with metastatic cancer (inflammatory and immune response different from others); (5) with suspected infection more than 24 h before or after ICU admission (patients admitted to ICU with sepsis), and (6) missing important data (demographics, variables for calculating traditional severity scores).",
         "metadata": {
@@ -476,12 +600,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 7838,
+            "markdown_end": 8787,
+            "markdown_line_start": 80,
+            "markdown_line_end": 80
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Data Extraction",
         "metadata": {
@@ -491,12 +619,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8790,
+            "markdown_end": 8808,
+            "markdown_line_start": 82,
+            "markdown_line_end": 82
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "From the MIMIC III and eICU database, we extracted the following information: (1) demographic information; (2) ICU details including vital sign data, laboratory data, respiratory support, renal replacement therapy; and (3) traditional severity scores including SAPS II, Acute Physiological Score III (APS III), Logistic Organ Dysfunction System (LODS), Oxford Acute Severity of Illness Score (OASIS), SOFA, System Inflammatory Reaction Syndrome (SIRS), and quick SOFA (qSOFA). During the first 24 h of ICU admission, all variables were recorded.",
         "metadata": {
@@ -506,12 +638,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 8811,
+            "markdown_end": 9356,
+            "markdown_line_start": 84,
+            "markdown_line_end": 84
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Outcome and Sample Size",
         "metadata": {
@@ -521,12 +657,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9359,
+            "markdown_end": 9385,
+            "markdown_line_start": 86,
+            "markdown_line_end": 86
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Patients who died within 30 days inside or outside the hospital were considered as primary outcome events. We based our sample size calculation on the primary outcome. The sample size was defined as having at least 10 outcome events per variable (EPV) per estimated parameter according to a previous study (18). Our sample and the number of events exceeded that determined by the EPV approach.",
         "metadata": {
@@ -536,12 +676,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9388,
+            "markdown_end": 9781,
+            "markdown_line_start": 88,
+            "markdown_line_end": 88
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Missing Data",
         "metadata": {
@@ -551,12 +695,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9784,
+            "markdown_end": 9799,
+            "markdown_line_start": 90,
+            "markdown_line_end": 90
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "For the development dataset from the MIMIC III database, we handled variables with missing values <20% by a mean value imputation method. Since serum lactate was considered an important predictor, if lactate data on day 1 was missing, the available data on day 2 or day 3 was used. If there was no lactate value in the first 3 days, we used regression imputation to handle the missing data. To calculate severity scores in the eICU database, patients with missing parameters were excluded from this analysis.",
         "metadata": {
@@ -566,12 +714,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 9802,
+            "markdown_end": 10310,
+            "markdown_line_start": 92,
+            "markdown_line_end": 92
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Statistical Analysis",
         "metadata": {
@@ -581,12 +733,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10313,
+            "markdown_end": 10336,
+            "markdown_line_start": 94,
+            "markdown_line_end": 94
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Continuous variables were reported as median and interquartile range, and two groups were compared by the Mann–Whitney",
         "metadata": {
@@ -596,12 +752,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10339,
+            "markdown_end": 10457,
+            "markdown_line_start": 96,
+            "markdown_line_end": 96
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Frontiers in Medicine | www.frontiersin.org",
         "metadata": {
@@ -611,12 +771,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10460,
+            "markdown_end": 10503,
+            "markdown_line_start": 98,
+            "markdown_line_end": 98
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "January 2021 | Volume 7 | Article 609769",
         "metadata": {
@@ -626,12 +790,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10506,
+            "markdown_end": 10546,
+            "markdown_line_start": 100,
+            "markdown_line_end": 100
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis Mortality Risk Score",
         "metadata": {
@@ -641,12 +809,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10553,
+            "markdown_end": 10580,
+            "markdown_line_start": 104,
+            "markdown_line_end": 104
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "TABLE 1 | Baseline characteristics of participants in development set.",
         "metadata": {
@@ -656,12 +828,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10598,
+            "markdown_end": 10668,
+            "markdown_line_start": 108,
+            "markdown_line_end": 108
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Variables|All (n=5,443)|Survivors (n=4,536)|Non-survivors (n=907)|P-value|\n|---|---|---|---|---|\n|Age, years|67.0 (54.0–80.0)|66.0 (53.0–78.0)|75.0 (61.0–84.0)|<0.001|\n|Gender,n||||0.182|\n|Male|3,020 (55.5)|2,535 (55.9)|485 (53.5)||\n|Female|2,423 (44.5)|2,001 (44.1)|422 (46.5)||\n|Ethnicity,n||||<0.001|\n|White|3,945 (72.5)|3,309 (72.9)|636 (70.1)||\n|Black|475 (8.7)|421 (9.3)|54 (6.0)||\n|Others|1,023 (18.8)|806 (17.8)|217 (23.9)||\n|Admission type,n||||<0.001|\n|Emergency|5,061 (93.0)|4,175 (92.0)|886 (97.7)||\n|Others|382 (7.0)|361 (8.0)|21 (2.3)||\n|Comorbidities,n|||||\n|Heart failure|957 (17.6)|742 (16.4)|215 (23.7)|<0.001|\n|Hypertension|868 (15.9)|701 (15.5)|167 (18.4)|0.026|\n|COPD|1,103 (20.3)|889 (19.6)|214 (23.6)|0.006|\n|Diabetes|1,563 (28.7)|1,298 (28.6)|265 (29.2)|0.715|\n|Renal failure|1,000 (18.4)|799 (17.6)|201 (22.2)|0.001|\n|Hepatopathy|544 (10.0)|429 (9.5)|115 (12.7)|0.003|\n|Lymphoma|95 (1.7)|74 (1.6)|21 (2.3)|0.151|\n|Need RRT,n|395 (7.3)|281 (6.2)|114 (12.6)|<0.001|\n|Need mechanical ventilation,n|2,638 (48.5)|2,080 (45.9)|558 (61.5)|<0.001|\n|Severity score|||||\n|SAPS II|39 (31–50)|37 (29–46)|53 (42–65)|<0.001|\n|APS III|48 (36–63)|45 (34–57)|67 (51–87)|<0.001|\n|OASIS|35 (29–41)|34 (28–39)|42 (36–49)|<0.001|\n|LODS|5 (3–7)|4 (3–6)|7 (5–10)|<0.001|\n|SOFA|5 (3–7)|5 (3–7)|7 (5–11)|<0.001|\n|SIRS|3 (2–4)|3 (2–4)|3 (3–4)|<0.001|\n|qSOFA|2 (2–2)|2 (2–2)|2 (2–3)|<0.001|",
         "metadata": {
@@ -671,12 +847,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 10671,
+            "markdown_end": 12060,
+            "markdown_line_start": 110,
+            "markdown_line_end": 140
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Data are expressed as frequencies (percentage) or median (interquartile range). The results of the comparison between the two groups was analyzed by Mann–Whitney test for continuous variables or the chi-squared test for categorical variables. RRT, Renal Replacement Therapies; COPD, Chronic Obstructive Pulmonary Disease; SAPS II, Simplified Acute Physiological Score II; APS III, Acute Physiological Score III; OASIS, Oxford Acute Severity of Illness Score; SIRS, Systemic Inflammatory Response Syndrome; qSOFA, quick Sequential Organ Failure Assessment; LODS, Logistic Organ Dysfunction System; SOFA, Sequential Organ Failure Assessment.",
         "metadata": {
@@ -686,12 +866,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12064,
+            "markdown_end": 12703,
+            "markdown_line_start": 144,
+            "markdown_line_end": 144
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "U-test. Categorical variables were reported as the number and proportion and were compared with the Chi-square test. The variance inflation factor (VIF) was calculated to verify whether multicollinearity existed in the regression model.",
         "metadata": {
@@ -701,12 +885,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12706,
+            "markdown_end": 12942,
+            "markdown_line_start": 146,
+            "markdown_line_end": 146
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In the development set, we used the LASSO method to select the most useful predictive variables (19). We plotted the continuous variables against 30-day mortality and determined the cutoff value based on the Loess smoothing function and the Youden index (20). Continuous variables were made into dichotomous or dummy variables by the cutoff points. Final variables were entered into a logistic regression, and for each risk predictor, the odds ratio was rounded into an integer value to generate the SMRS. The final score was classified into four risk groups: low (<5%), moderate (5–20%), high (20–50%), and very high (>50%). The survival curves of each mortality risk group were depicted by the Kaplan–Meier method and compared by the log-rank test.",
         "metadata": {
@@ -716,12 +904,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 12945,
+            "markdown_end": 13695,
+            "markdown_line_start": 148,
+            "markdown_line_end": 148
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The SMRS was validated in the validation set. To assess discrimination, the Area Under the Curve (AUC) for SMRS and other severity scores was calculated. Calibration was assessed by the calibration slope and the Brier value. To determine the clinical usefulness of the SMRS by quantifying the net benefit at different threshold probabilities, we conducted the decision curve analysis (DCA) (21).",
         "metadata": {
@@ -731,12 +923,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 13698,
+            "markdown_end": 14093,
+            "markdown_line_start": 150,
+            "markdown_line_end": 150
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Moreover, the discrimination of four machine learning algorithms in predicting mortality for sepsis-3 patients was compared. In the development set, we developed the logistic regression model, the multivariate adaptive regression splines (MARS) model, the random forest model, and the eXtreme Gradient Boosting (XGBoost) model. The discrimination was validated externally by AUC in the eICU database.",
         "metadata": {
@@ -746,12 +942,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14096,
+            "markdown_end": 14496,
+            "markdown_line_start": 152,
+            "markdown_line_end": 152
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "We performed all statistical analyzes using software version 3.6.0 (R Foundation for Statistical Computing).",
         "metadata": {
@@ -761,12 +961,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14499,
+            "markdown_end": 14607,
+            "markdown_line_start": 154,
+            "markdown_line_end": 154
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Frontiers in Medicine | www.frontiersin.org",
         "metadata": {
@@ -776,12 +980,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14610,
+            "markdown_end": 14653,
+            "markdown_line_start": 156,
+            "markdown_line_end": 156
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "January 2021 | Volume 7 | Article 609769",
         "metadata": {
@@ -791,12 +999,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14656,
+            "markdown_end": 14696,
+            "markdown_line_start": 158,
+            "markdown_line_end": 158
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis Mortality Risk Score",
         "metadata": {
@@ -806,12 +1018,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14703,
+            "markdown_end": 14730,
+            "markdown_line_start": 162,
+            "markdown_line_end": 162
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## RESULTS",
         "metadata": {
@@ -821,12 +1037,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14748,
+            "markdown_end": 14758,
+            "markdown_line_start": 166,
+            "markdown_line_end": 166
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Participants",
         "metadata": {
@@ -836,12 +1056,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14761,
+            "markdown_end": 14776,
+            "markdown_line_start": 168,
+            "markdown_line_end": 168
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Our study was reported according to the guidelines of the TRIPOD statement (Checklist in **Additional File 1** ) (22). The initial research identified 23,620 ICU admissions from the MIMIC III database. A total of 5,443 adult patients meeting the sepsis-3 criteria were analyzed, including 907 non-survivors and 4,536 survivors. The baseline characteristics of all patients, survivors, and non-survivors are described in **Table 1** . While data extraction, we excluded body mass index, albumin, bands, and bilirubin from the analysis because of the large portion of the missing value (>20%). For other variables, the missing value was <10% ( **Additional File 2** ). We assigned 5,658 septic patients (1,042 deaths, mortality rate 20.1%) from the eICU database with complete data to the validation set. Comparisons of basic characteristics between development and validation sets are recorded in **Additional File 3** .",
         "metadata": {
@@ -851,12 +1075,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 14779,
+            "markdown_end": 15698,
+            "markdown_line_start": 170,
+            "markdown_line_end": 170
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Model Development",
         "metadata": {
@@ -866,12 +1094,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15701,
+            "markdown_end": 15721,
+            "markdown_line_start": 172,
+            "markdown_line_end": 172
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Based on 5,443 patients in the development set in the LASSO model, 35 features were reduced to 15 potential predictors ( **Additional File 4** ). After screening, 13 predictors were entered into the LASSO regression model ( **Additional File 5** ), and the VIF proved there was no significant multicollinearity in the model (VIF < 5). **Additional File 6** shows loess smoothing curves. The SMRS was composed of 13 factors, and the total score range was 0 to 34 ( **Table 2** ). The relationship between SMRS and the probability of death is shown in **Figure 1** , and there was an increasing risk of death with a higher score. The SMRS had good discrimination (AUC: 0.789) in the development set, which was better than other severity scores ( **Figure 2A** ). The calibration of SMRS in the development set was shown in **Figure 3A** . The calibration slope was 1.000 and the Brier value was 0.110. Mortality rates of low (3.2%, 0–6 points), moderate (12.4%, 7–11 points), high (30.7%, 12–14 points), and very high (68.1%, ≥15 points) were yielded by the risk groups for the development set.",
         "metadata": {
@@ -881,12 +1113,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 15724,
+            "markdown_end": 16816,
+            "markdown_line_start": 174,
+            "markdown_line_end": 174
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## Model Performance",
         "metadata": {
@@ -896,12 +1132,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16819,
+            "markdown_end": 16839,
+            "markdown_line_start": 176,
+            "markdown_line_end": 176
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In the validation set, we evaluated the discrimination and calibration of SMRS. SMRS was well-discriminated in the external validation set (AUC: 0.765), which was greater than APACHE IV and SAPS II (AUC: APACHE IV 0.754, SAPS II 0.751; **Figure 2B** ). However, no statistical significance of AUCs was observed (De Long method, SMRS vs. APACHE IV: P-value 0.221; SMRS vs. SAPS II: P-value 0.177). Moreover, the calibration slope was 0.862, and the Brier value was 0.140, indicating that the score has a moderate fit ( **Figure 3B** ). For predicting 30-day mortality, the DCA results of SMRS, SAPS II, SOFA, and APACHE IV were shown in **Figure 4** . A positive net benefit between the threshold probabilities of 10 to 80% was observed through SMRS. The net benefit of SMRS was comparable to SAPS II and APACHE IV and was better than the SOFA in this range.",
         "metadata": {
@@ -911,12 +1151,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 16842,
+            "markdown_end": 17699,
+            "markdown_line_start": 178,
+            "markdown_line_end": 178
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "SMRS accurately stratified patients from the validation set into groups with increased risk of death: low (2.8%), moderate",
         "metadata": {
@@ -926,12 +1170,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17702,
+            "markdown_end": 17824,
+            "markdown_line_start": 180,
+            "markdown_line_end": 180
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "TABLE 2 | Sepsis mortality risk score.",
         "metadata": {
@@ -941,12 +1189,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17827,
+            "markdown_end": 17865,
+            "markdown_line_start": 182,
+            "markdown_line_end": 182
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "table",
         "raw_content": "|Variables|Cutoff|Score|\n|---|---|---|\n|Race|Black|0|\n||White|1|\n||Others|2|\n|Age (years old)|<45|0|\n||≥45 and<60|2|\n||≥60 and<75|3|\n||≥75|5|\n|Need mechanical ventilation|Yes|2|\n|Lactate (mmol/L)|<4.5|0|\n||≥4.5 and<8|1|\n||≥8|3|\n|Temperature (◦C)|≥36 and<39|0|\n||≥39|2|\n||≥35 and<36|2|\n||<35|5|\n|SBP (mm/Hg)|>100|0|\n||≥90 and<100|1|\n||<90|4|\n|SpO2 (%)|≥90|0|\n||≥80 and<90|1|\n||<80|2|\n|BUN (mg/dL)|<20|0|\n||≥20 and<30|1|\n||≥30|2|\n|WBC (109/L)|≥4 and≤12|0|\n||<4|1|\n||>12 and≤20|1|\n||>20|2|\n|Ca (mg/dL)|≥8 and≤11|0|\n||≥7 and<8|1|\n||>11|1|\n||<7|3|\n|HR (min−1)|>100|1|\n|RR (min−1)|>22|2|\n|INR|>1.5|1|\n|Top score||34|",
         "metadata": {
@@ -956,12 +1208,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 17868,
+            "markdown_end": 18478,
+            "markdown_line_start": 184,
+            "markdown_line_end": 221
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "SBP, Systolic Blood Pressure; SpO2, Surplus pulse O2; WBC, White Blood cell Count; BUN, Blood Urea Nitrogen; INR, International Normalized Ratio; HR, Heart Rate; RR, Respiratory Rate.",
         "metadata": {
@@ -971,12 +1227,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18482,
+            "markdown_end": 18665,
+            "markdown_line_start": 225,
+            "markdown_line_end": 225
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "(10.5%), high (21.1%), and very high (51.2%) ( **Figure 5** ). The detailed mortality rate stratified by SMRS was reported in **Additional File 7** .",
         "metadata": {
@@ -986,12 +1246,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18668,
+            "markdown_end": 18817,
+            "markdown_line_start": 227,
+            "markdown_line_end": 227
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "All machine learning models, except the logistic regression model, showed good discrimination ability in the development set (AUC > 0.8). In the development and validation sets, the XGBoost algorithm achieved the best performance among the four models ( **Figure 6** ).",
         "metadata": {
@@ -1001,12 +1265,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 18820,
+            "markdown_end": 19089,
+            "markdown_line_start": 229,
+            "markdown_line_end": 229
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## DISCUSSION",
         "metadata": {
@@ -1016,12 +1284,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19092,
+            "markdown_end": 19105,
+            "markdown_line_start": 231,
+            "markdown_line_end": 231
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "We used the LASSO method in this study to select the most useful predictive features from the primary sepsis-3 data set, which is",
         "metadata": {
@@ -1031,12 +1303,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19108,
+            "markdown_end": 19237,
+            "markdown_line_start": 233,
+            "markdown_line_end": 233
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Frontiers in Medicine | www.frontiersin.org",
         "metadata": {
@@ -1046,12 +1322,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19240,
+            "markdown_end": 19283,
+            "markdown_line_start": 235,
+            "markdown_line_end": 235
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "January 2021 | Volume 7 | Article 609769",
         "metadata": {
@@ -1061,12 +1341,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19286,
+            "markdown_end": 19326,
+            "markdown_line_start": 237,
+            "markdown_line_end": 237
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis Mortality Risk Score",
         "metadata": {
@@ -1076,12 +1360,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19333,
+            "markdown_end": 19360,
+            "markdown_line_start": 241,
+            "markdown_line_end": 241
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2021/images/Zhang_2021.pdf-0005-02.png)",
         "metadata": {
@@ -1091,12 +1379,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19379,
+            "markdown_end": 19448,
+            "markdown_line_start": 246,
+            "markdown_line_end": 246
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2021.pdf-0005-02.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Scores versus probability of death\n> \n> A histogram overlaid with a line graph. The histogram bars show the observed number of patients for each Sepsis Mortality Risk Score, with scores ranging from 0 to 28. The bars are mainly yellow with a blue outline, and they peak between scores 6 and 8. The line graph, showing the predicted probability of death, is illustrated with a solid line in gray, surrounded by red dashed lines indicating confidence intervals. The probability curve has a steep upward trend, especially after a score of 15.\n> \n> **Data Points:** X-axis: Sepsis Mortality Risk Scores (units)\nY-axis left: Observed numbers of patients\nY-axis right: Predicted probability of death\n> \n> **Key Findings:**\n> - Higher risk scores are associated with increased predicted probability of death.\n> - Most patients have risk scores between 0 and 15.\n> - The predicted probability of death increases sharply after a score of 15.\n<!-- analyzed_Zhang_2021.pdf-0005-02.png -->",
         "metadata": {
@@ -1106,12 +1398,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 19450,
+            "markdown_end": 20546,
+            "markdown_line_start": 248,
+            "markdown_line_end": 262
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "FIGURE 1 | The relationship between SMRS and probability of death in development set.",
         "metadata": {
@@ -1121,12 +1417,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20551,
+            "markdown_end": 20636,
+            "markdown_line_start": 267,
+            "markdown_line_end": 267
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "suitable for the regression of high-dimensional data (23, 24). Then, we developed a new scoring system, the SMRS. It showed a moderate performance in predicting 30-day mortality and riskstratifying specifically for ICU patients with sepsis. To identify septic patients, an important strength of our study was the use of new sepsis-3 criteria, and this method would overcome some inherent weaknesses of using hospital discharge data (13, 15). The SMRS contains only 13 simple variables recorded in clinical routines. Therefore, if implemented, the SMRS will not require manual input of additional variables as the model is based on variables routinely collected [the frequently used SAPS II and APACHE IV scores for mortality prediction in the ICU required",
         "metadata": {
@@ -1136,12 +1436,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 20639,
+            "markdown_end": 21394,
+            "markdown_line_start": 269,
+            "markdown_line_end": 269
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "manually adding additional data (25)]. In the validation set, the discrimination of SMRS was comparable to APACHE IV and SAPS II and was significantly better than the SOFA.",
         "metadata": {
@@ -1151,12 +1455,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21397,
+            "markdown_end": 21569,
+            "markdown_line_start": 271,
+            "markdown_line_end": 271
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "For many years, various scoring systems have been widely used in the ICU, but the ability of general ICU severity scores is insufficient in accurately and reliably predicting mortality in the sepsis patient population. Arabi et al. evaluated four scoring systems in ICU patients with sepsis, reporting poor calibration for all four scores (10). Specifically, the SOFA score was proposed for the sepsis population, and a greater SOFA score was associated with a higher mortality rate (26). However, the SOFA score has several limitations, such as low mortality discrimination power",
         "metadata": {
@@ -1166,12 +1474,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 21572,
+            "markdown_end": 22152,
+            "markdown_line_start": 273,
+            "markdown_line_end": 273
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Frontiers in Medicine | www.frontiersin.org",
         "metadata": {
@@ -1181,12 +1493,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22155,
+            "markdown_end": 22198,
+            "markdown_line_start": 275,
+            "markdown_line_end": 275
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "January 2021 | Volume 7 | Article 609769",
         "metadata": {
@@ -1196,12 +1512,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22201,
+            "markdown_end": 22241,
+            "markdown_line_start": 277,
+            "markdown_line_end": 277
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis Mortality Risk Score",
         "metadata": {
@@ -1211,12 +1531,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22248,
+            "markdown_end": 22275,
+            "markdown_line_start": 281,
+            "markdown_line_end": 281
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2021/images/Zhang_2021.pdf-0006-02.png)",
         "metadata": {
@@ -1226,12 +1550,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22294,
+            "markdown_end": 22363,
+            "markdown_line_start": 286,
+            "markdown_line_end": 286
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2021.pdf-0006-02.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** ROC Curves Comparing Different Models\n> \n> Two side-by-side graphs labeled A and B show multiple ROC curves on a grey grid background. Each curve is marked with different colors and associated with models (SMRS, SAPS II, APS III, etc.) and AUC values. A diagonal reference line is present, indicating random performance.\n> \n> **Data Points:** Graphs labeled A and B show ROC curves with axes labeled Sensitivity and 1-Specificity. Curve labels include SMRS, SAPS II, APS III, OASIS, LODS, SOFA, SIRS, qSOFA, and APACHE IV, each with corresponding AUC values.\n> \n> **Key Findings:**\n> - Higher AUC values indicate better model performance.\n> - Model A shows SMRS with the highest AUC (0.789).\n> - Model B shows SMRS with the highest AUC (0.765).\n> - qSOFA and SIRS have the lowest AUC in both models.\n<!-- analyzed_Zhang_2021.pdf-0006-02.png -->",
         "metadata": {
@@ -1241,12 +1569,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 22365,
+            "markdown_end": 23328,
+            "markdown_line_start": 288,
+            "markdown_line_end": 301
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "FIGURE 2 | The ROC curves of SMRS and other severity scores. (A) Development set; (B) Validation set.",
         "metadata": {
@@ -1256,12 +1588,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23333,
+            "markdown_end": 23434,
+            "markdown_line_start": 306,
+            "markdown_line_end": 306
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2021/images/Zhang_2021.pdf-0006-04.png)",
         "metadata": {
@@ -1271,12 +1607,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23438,
+            "markdown_end": 23507,
+            "markdown_line_start": 309,
+            "markdown_line_end": 309
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2021.pdf-0006-04.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Calibration Plots for Predicted vs. Actual Probability\n> \n> Two calibration plots (A and B) showing actual vs. predicted probabilities. Both graphs display a diagonal line representing ideal calibration, a logistic calibration curve, and a nonparametric line. Triangles indicate grouped observations. The shading highlights the area around the logistic calibration curve. Key performance metrics are listed on each plot, displaying values like Dxy, C (ROC), R2, and others.\n> \n> **Data Points:** Graph A: Dxy: 0.578, C (ROC): 0.789, R2: 0.277, D: 0.100, U: 0.100, Q: 0.160, Brier: 0.110, Intercept: 0.049, Slope: 0.947, Emax: 0.047, E90: 0.044, Eavg: 0.003, S:z: -0.041, S:p: 0.967; Graph B: Dxy: 0.530, C (ROC): 0.765, R2: 0.182, D: 0.122, U: 0.044, Q: 0.146, Brier: 0.076, Intercept: -0.150, Slope: 0.852, Emax: 0.156, E90: 0.147, Eavg: 0.057, S:z: -5.098, S:p: 0.000\n> \n> **Key Findings:**\n> - Graph A shows a close fit between predicted and actual probabilities, indicating high calibration with slope close to 1.\n> - Graph B shows a poorer fit compared to A with more deviation from the ideal line.\n> - Graph B's Brier score is lower, indicating better prediction accuracy.\n> - Both plots use logistic calibration and nonparametric lines for comparison.\n<!-- analyzed_Zhang_2021.pdf-0006-04.png -->",
         "metadata": {
@@ -1286,12 +1626,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 23509,
+            "markdown_end": 24931,
+            "markdown_line_start": 311,
+            "markdown_line_end": 324
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "FIGURE 3 | Calibration of SMRS. (A) Development set; (B) Validation set.",
         "metadata": {
@@ -1301,12 +1645,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 24936,
+            "markdown_end": 25008,
+            "markdown_line_start": 329,
+            "markdown_line_end": 329
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "and limited number of variables (27). For predicting mortality in septic patients, the reported AUC of the initial SOFA score ranged from 0.69 to 0.83(28, 29). In our study, for predicting 30-day mortality, the SOFA score had a low discriminatory power (AUC: 0.69). Unlike other ICU severity scores, the SOFA score was developed to describe organ dysfunction and morbidity instead of mortality prediction, and some strong predictors for mortality were not included.",
         "metadata": {
@@ -1316,12 +1664,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25011,
+            "markdown_end": 25476,
+            "markdown_line_start": 331,
+            "markdown_line_end": 331
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Therefore, specifically for the sepsis-3 population, we aimed at constructing a mortality risk score. For the 35 clinical features, 13 useful predictive features were finally identified using the LASSO method by examining the predictor–outcome association. A two-fold increase in the odds of death was observed in our",
         "metadata": {
@@ -1331,12 +1683,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25479,
+            "markdown_end": 25796,
+            "markdown_line_start": 333,
+            "markdown_line_end": 333
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "model in patients requiring mechanical ventilation within the first 24 h of admission. This was because mechanical ventilation among septic patients was typically due to the concomitant acute respiratory distress syndrome, an early sign of poor clinical outcome in sepsis (6). Similarly, many studies have indicated that a strong predictor of mortality for septic patients is serum lactate (30, 31), which, however, was not included in existing risk scores. Since lactate measurement has become a clinical routine, we assigned three or six points to lactate in the final risk score. In our study and previous research, other variables such as hypothermia, hypotension, and advanced age were found to be associated with increased mortality (11, 13, 14, 32, 33).",
         "metadata": {
@@ -1346,12 +1702,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 25799,
+            "markdown_end": 26559,
+            "markdown_line_start": 335,
+            "markdown_line_end": 335
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Frontiers in Medicine | www.frontiersin.org",
         "metadata": {
@@ -1361,12 +1721,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26562,
+            "markdown_end": 26605,
+            "markdown_line_start": 337,
+            "markdown_line_end": 337
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "January 2021 | Volume 7 | Article 609769",
         "metadata": {
@@ -1376,12 +1740,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26608,
+            "markdown_end": 26648,
+            "markdown_line_start": 339,
+            "markdown_line_end": 339
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis Mortality Risk Score",
         "metadata": {
@@ -1391,12 +1759,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26655,
+            "markdown_end": 26682,
+            "markdown_line_start": 343,
+            "markdown_line_end": 343
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2021/images/Zhang_2021.pdf-0007-02.png)",
         "metadata": {
@@ -1406,12 +1778,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26701,
+            "markdown_end": 26770,
+            "markdown_line_start": 348,
+            "markdown_line_end": 348
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2021.pdf-0007-02.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Decision Curves for Model Comparisons\n> \n> The image contains two line graphs labeled A and B, comparing the performance of different models. Both graphs have 'Standardized Net Benefit' on the y-axis and 'High Risk Threshold' on the x-axis, ranging from 0 to 1. Graph lines are styled differently for models: SMRS (solid), SAPS II (dashed), SOFA (dotted), with additional models APACHE IV in graph B. The 'All' and 'None' lines provide baselines. Colors are grayscale with varying line styles for distinction.\n> \n> **Data Points:** Graphs comparing standardized net benefit across various models (SMRS, SAPS II, SOFA, APACHE IV). X-axis: High Risk Threshold (0 to 1), Y-axis: Standardized Net Benefit (0 to 1)\n> \n> **Key Findings:**\n> - SMRS performs better than other models at lower high risk thresholds.\n> - All models show a decline in standardized net benefit as the high risk threshold increases.\n> - APACHE IV and SAPS II show similar performance trends in graph B.\n<!-- analyzed_Zhang_2021.pdf-0007-02.png -->",
         "metadata": {
@@ -1421,12 +1797,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 26772,
+            "markdown_end": 27908,
+            "markdown_line_start": 350,
+            "markdown_line_end": 362
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "FIGURE 4 | Decision curve analysis of SMRS, SAPS II, SOFA, and APACHE IV. (A) Development set; (B) Validation set.",
         "metadata": {
@@ -1436,12 +1816,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 27913,
+            "markdown_end": 28027,
+            "markdown_line_start": 367,
+            "markdown_line_end": 367
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2021/images/Zhang_2021.pdf-0007-04.png)",
         "metadata": {
@@ -1451,12 +1835,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28031,
+            "markdown_end": 28100,
+            "markdown_line_start": 370,
+            "markdown_line_end": 370
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2021.pdf-0007-04.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** Sepsis Mortality Risk Score vs Observed Mortality\n> \n> Bar chart with two sets of data represented in different shades of gray. The X-axis displays Sepsis Mortality Risk Score ranges (0-6, 7-11, 12-14, ≥15), while the Y-axis displays Observed Mortality % (0-60%). Two bars for each score range, one for Development set (dark gray) and one for Validation set (light gray). Bars increase in height with higher score ranges.\n> \n> **Data Points:** X-axis: Sepsis Mortality Risk Score (0-6, 7-11, 12-14, ≥15)\nY-axis: Observed Mortality %\nDevelopment set (%): 3.17%, 12.36%, 30.72%, 68.06%\nValidation set (%): 2.75%, 10.49%, 21.14%, 51.15%\n> \n> **Key Findings:**\n> - Mortality increases with risk score.\n> - Higher mortality observed in development set for each score range.\n> - Sharp increase in mortality for scores ≥15.\n<!-- analyzed_Zhang_2021.pdf-0007-04.png -->",
         "metadata": {
@@ -1466,12 +1854,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 28102,
+            "markdown_end": 29082,
+            "markdown_line_start": 372,
+            "markdown_line_end": 387
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "FIGURE 5 | Mortality risk groups according to SMRS.",
         "metadata": {
@@ -1481,12 +1873,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29087,
+            "markdown_end": 29138,
+            "markdown_line_start": 392,
+            "markdown_line_end": 392
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The SMRS is simple for calculation and easy to use, and has robust discrimination and calibration. When we used SMRS to evaluate patients, DCA results indicated that 80% probability could be considered sufficient to assess mortality risk accurately. To predict the mortality risk of patients with sepsis, ICU physicians could use the SMRS and improve clinical decisionmaking at the bedside. Moreover, the predictor variables that we used were quite universally obtained in the emergency",
         "metadata": {
@@ -1496,12 +1892,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29141,
+            "markdown_end": 29627,
+            "markdown_line_start": 394,
+            "markdown_line_end": 394
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "department (ED). After further validation and recalibration, the SMRS appeared to have the potential to help ED clinicians triage decisions and ICU placement.",
         "metadata": {
@@ -1511,12 +1911,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29630,
+            "markdown_end": 29788,
+            "markdown_line_start": 396,
+            "markdown_line_end": 396
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "In addition, machine learning techniques showed having high potentials to be used in the sepsis population. For predicting mortality among septic patients, the proposed models, particularly the XGBoost model, outperformed traditional scoring systems, including SAPS II and SOFA. However, even",
         "metadata": {
@@ -1526,12 +1930,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 29791,
+            "markdown_end": 30083,
+            "markdown_line_start": 398,
+            "markdown_line_end": 398
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Frontiers in Medicine | www.frontiersin.org",
         "metadata": {
@@ -1541,12 +1949,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30086,
+            "markdown_end": 30129,
+            "markdown_line_start": 400,
+            "markdown_line_end": 400
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "January 2021 | Volume 7 | Article 609769",
         "metadata": {
@@ -1556,12 +1968,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30132,
+            "markdown_end": 30172,
+            "markdown_line_start": 402,
+            "markdown_line_end": 402
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis Mortality Risk Score",
         "metadata": {
@@ -1571,12 +1987,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30179,
+            "markdown_end": 30206,
+            "markdown_line_start": 406,
+            "markdown_line_end": 406
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "![](extracted_markdowns/Zhang_2021/images/Zhang_2021.pdf-0008-02.png)",
         "metadata": {
@@ -1586,12 +2006,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30225,
+            "markdown_end": 30294,
+            "markdown_line_start": 411,
+            "markdown_line_end": 411
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "image_analysis",
         "raw_content": "> [!IMPORTANT]\n> **AI Visual Analysis (Zhang_2021.pdf-0008-02.png)**\n> **Category:** `SCIENTIFIC_GRAPH` | **Summary:** ROC Curve Comparison\n> \n> The image consists of four ROC curves labeled A, B, C, and D. Each graph compares a development dataset (blue line) with a validation dataset (red line) against a reference (grey line). Axes are labeled with 'Sensitivity' on the y-axis and '1-Specificity' on the x-axis. Legends specify AUC values for each curve.\n> \n> **Data Points:** Graphs show ROC curves with Sensitivity vs. 1-Specificity. Development AUCs are 0.799, 0.816, 0.816, and 0.895. Validation AUCs are 0.717, 0.724, 0.772, and 0.775 for A, B, C, and D respectively.\n> \n> **Key Findings:**\n> - Graph A shows lower AUC for both development (0.799) and validation (0.717) compared to others.\n> - Graph B has a development AUC of 0.816 and validation AUC of 0.724.\n> - Graph C also shows a development AUC of 0.816 but a higher validation AUC of 0.772.\n> - Graph D has the highest development AUC (0.895) and a validation AUC of 0.775.\n<!-- analyzed_Zhang_2021.pdf-0008-02.png -->",
         "metadata": {
@@ -1601,12 +2025,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 30296,
+            "markdown_end": 31383,
+            "markdown_line_start": 413,
+            "markdown_line_end": 426
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "FIGURE 6 | The ROC curves of logistic regression model, MARS model, random forest model, XGBoost model. (A) Logistic regression model; (B) MARS model; (C) random forest model; (D) XGBoost model.",
         "metadata": {
@@ -1616,12 +2044,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31388,
+            "markdown_end": 31582,
+            "markdown_line_start": 431,
+            "markdown_line_end": 431
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "though machine learning models offer improved performance for predicting 30-day mortality, practical application in clinical practice has not always been straightforward. Among different populations, the applicability of machine learning models might be limited by heterogeneity (34). An external validation study is required to assess performance and ensure generalizability as the clinical implementation of models is currently scarce. Another major issue in the clinical application is the black-box problem (35, 36). Although these models had high accuracy, their utility has been critically limited due to difficulty in interpretation.",
         "metadata": {
@@ -1631,12 +2063,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 31585,
+            "markdown_end": 32225,
+            "markdown_line_start": 433,
+            "markdown_line_end": 433
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## LIMITATIONS",
         "metadata": {
@@ -1646,12 +2082,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32228,
+            "markdown_end": 32242,
+            "markdown_line_start": 435,
+            "markdown_line_end": 435
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The study has the following limitations. First, we chose to analyze the patients admitted to the ICU with sepsis. There were certainly patients who had been diagnosed with sepsis before or after the ICU admission, but we limited our study population to those who fulfilled sepsis-3 criteria during their first ICU day. Second, we retrospectively identified the septic patient dataset for developing SMRS from a single-center and excluded some patients due to missing data. A few of the variables were also excluded for the",
         "metadata": {
@@ -1661,12 +2101,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32245,
+            "markdown_end": 32767,
+            "markdown_line_start": 437,
+            "markdown_line_end": 437
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "same reason, but previous research has shown that they might be associated with septic patients’ mortality (e.g., BMI, albumin) (37, 38). Third, in accordance with other severity scores, the timing of variable measurement was determined. If the sampling time was relatively late, the predictive accuracy improved because variables were measured close to the outcome’s occurrence, but the timeliness of the prediction was compromised (39). Thus, the use of 24 h after ICU admission was a trade-off between timeliness and prediction accuracy. Furthermore, we conducted an external validation by using the data of 5,658 septic patients from the eICU database, and the results indicated that the calibration of SMRS was relatively poor with an overestimate of 30-day mortality. Finally, we prepared our data set for developing SMRS from 2008 to 2012, and the outcomes of septic patients could have changed over time due to the update of treatment guidelines and advances in treatment and diagnostic technology.",
         "metadata": {
@@ -1676,12 +2120,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 32770,
+            "markdown_end": 33776,
+            "markdown_line_start": 439,
+            "markdown_line_end": 439
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## CONCLUSION",
         "metadata": {
@@ -1691,12 +2139,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33779,
+            "markdown_end": 33792,
+            "markdown_line_start": 441,
+            "markdown_line_end": 441
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The probability of septic patients’ mortality could accurately be estimated by the SMRS, developed on 5,443 septic patients and",
         "metadata": {
@@ -1706,12 +2158,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33795,
+            "markdown_end": 33922,
+            "markdown_line_start": 443,
+            "markdown_line_end": 443
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Frontiers in Medicine | www.frontiersin.org",
         "metadata": {
@@ -1721,12 +2177,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33925,
+            "markdown_end": 33968,
+            "markdown_line_start": 445,
+            "markdown_line_end": 445
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "January 2021 | Volume 7 | Article 609769",
         "metadata": {
@@ -1736,12 +2196,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 33971,
+            "markdown_end": 34011,
+            "markdown_line_start": 447,
+            "markdown_line_end": 447
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis Mortality Risk Score",
         "metadata": {
@@ -1751,12 +2215,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34018,
+            "markdown_end": 34045,
+            "markdown_line_start": 451,
+            "markdown_line_end": 451
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "validated on 5,658 patients. It is a simple score that can be applied in clinical practice. Therefore, further evaluation regarding its clinical application value is required. In the future, prospective validation and refining of our scoring system across diverse patient populations should be included.",
         "metadata": {
@@ -1766,12 +2234,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34063,
+            "markdown_end": 34366,
+            "markdown_line_start": 455,
+            "markdown_line_end": 455
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "(No. 81971871, GZ; No. 81901929, ZZ; and No. 81901941, SZ), and the Medical and Health Research Program of Zhejiang Province, (No. 2021KY174, GZ). The sponsors of this study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
         "metadata": {
@@ -1781,12 +2253,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34369,
+            "markdown_end": 34650,
+            "markdown_line_start": 457,
+            "markdown_line_end": 457
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## DATA AVAILABILITY STATEMENT",
         "metadata": {
@@ -1796,12 +2272,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34653,
+            "markdown_end": 34683,
+            "markdown_line_start": 459,
+            "markdown_line_end": 459
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.",
         "metadata": {
@@ -1811,12 +2291,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34686,
+            "markdown_end": 34807,
+            "markdown_line_start": 461,
+            "markdown_line_end": 461
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## AUTHOR CONTRIBUTIONS",
         "metadata": {
@@ -1826,12 +2310,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34810,
+            "markdown_end": 34833,
+            "markdown_line_start": 463,
+            "markdown_line_end": 463
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "KZ and SZ conceived the idea, performed the analysis, and drafted the manuscript. WC and YH interpreted the results and helped to revise the manuscript. GZ and ZZ helped to frame the idea of the study and helped to analyze the data. All authors read and approved the final manuscript.",
         "metadata": {
@@ -1841,12 +2329,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 34836,
+            "markdown_end": 35120,
+            "markdown_line_start": 465,
+            "markdown_line_end": 465
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## SUPPLEMENTARY MATERIAL",
         "metadata": {
@@ -1856,12 +2348,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35123,
+            "markdown_end": 35148,
+            "markdown_line_start": 467,
+            "markdown_line_end": 467
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fmed. 2020.609769/full#supplementary-material",
         "metadata": {
@@ -1871,12 +2367,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35151,
+            "markdown_end": 35309,
+            "markdown_line_start": 469,
+            "markdown_line_end": 469
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Additional File 1 | TRIPOD checklist.",
         "metadata": {
@@ -1886,12 +2386,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35312,
+            "markdown_end": 35349,
+            "markdown_line_start": 471,
+            "markdown_line_end": 471
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Additional File 2 | Missing values.",
         "metadata": {
@@ -1901,12 +2405,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35352,
+            "markdown_end": 35387,
+            "markdown_line_start": 473,
+            "markdown_line_end": 473
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Additional File 3 | Comparisons of basic characteristics between development and validation sets.",
         "metadata": {
@@ -1916,12 +2424,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35390,
+            "markdown_end": 35487,
+            "markdown_line_start": 475,
+            "markdown_line_end": 475
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Additional File 4 | LASSO and random forest approach.",
         "metadata": {
@@ -1931,12 +2443,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35490,
+            "markdown_end": 35543,
+            "markdown_line_start": 477,
+            "markdown_line_end": 477
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## FUNDING",
         "metadata": {
@@ -1946,12 +2462,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35546,
+            "markdown_end": 35556,
+            "markdown_line_start": 479,
+            "markdown_line_end": 479
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "This work was supported in part by grants from the National Natural Science Foundation of China",
         "metadata": {
@@ -1961,12 +2481,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35559,
+            "markdown_end": 35654,
+            "markdown_line_start": 481,
+            "markdown_line_end": 481
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "## REFERENCES",
         "metadata": {
@@ -1976,12 +2500,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35657,
+            "markdown_end": 35670,
+            "markdown_line_start": 483,
+            "markdown_line_end": 483
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "1. Singer M, Deutschman CS, Seymour CW, Shankar-Hari M, Annane D, Bauer M, et al. The third international consensus definitions for sepsis and septic shock (sepsis-3). JAMA. (2016) 315:801–10. doi: 10.1001/jama.2016.0287",
         "metadata": {
@@ -1991,12 +2519,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35673,
+            "markdown_end": 35893,
+            "markdown_line_start": 485,
+            "markdown_line_end": 485
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "2. Fleischmann C, Scherag A, Adhikari NK, Hartog CS, Tsaganos T, Schlattmann P, et al. Assessment of global incidence and mortality of hospital-treated sepsis current estimates and limitations. Am J Resp Crit Care Med. (2016) 193:259–72. doi: 10.1164/rccm.201504-0781OC",
         "metadata": {
@@ -2006,12 +2538,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 35896,
+            "markdown_end": 36165,
+            "markdown_line_start": 487,
+            "markdown_line_end": 487
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "3. Rudd KE, Johnson SC, Agesa KM, Shackelford KA, Tsoi D, Kievlan DR, et al. Global, regional, and national sepsis incidence and mortality, 1990-2017: analysis for the global burden of disease study. Lancet. (2020) 395:200–11. doi: 10.1016/S0140-6736(19)32989-7",
         "metadata": {
@@ -2021,12 +2557,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36168,
+            "markdown_end": 36429,
+            "markdown_line_start": 489,
+            "markdown_line_end": 489
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "4. Vincent JL, Marshall JC, Namendys-Silva SA, Francois B, Martin-Loeches I, Lipman J, et al. Assessment of the worldwide burden of critical illness: the intensive care over nations (ICON) audit. Lancet Resp Med. (2014) 2:380–6. doi: 10.1016/S2213-2600(14)70061-X",
         "metadata": {
@@ -2036,12 +2576,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36432,
+            "markdown_end": 36695,
+            "markdown_line_start": 491,
+            "markdown_line_end": 491
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "5. Seymour CW, Gesten F, Prescott HC, Friedrich ME, Iwashyna TJ, Phillips GS, et al. Time to treatment and mortality during mandated emergency care for sepsis. N Engl J Med. (2017) 376:2235–44. doi: 10.1056/NEJMoa1703058",
         "metadata": {
@@ -2051,12 +2595,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36698,
+            "markdown_end": 36918,
+            "markdown_line_start": 493,
+            "markdown_line_end": 493
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "6. Rhodes A, Evans LE, Alhazzani W, Levy MM, Antonelli M, Ferrer R, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock: 2016. Intensive Care Med. (2017) 43:304–77. doi: 10.1007/s00134-017-4683-6",
         "metadata": {
@@ -2066,12 +2614,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 36921,
+            "markdown_end": 37165,
+            "markdown_line_start": 495,
+            "markdown_line_end": 495
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "7. Vincent JL, Moreno R. Clinical review: scoring systems in the critically ill. Critical Care. (2010) 14:207. doi: 10.1186/cc8204",
         "metadata": {
@@ -2081,12 +2633,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37168,
+            "markdown_end": 37298,
+            "markdown_line_start": 497,
+            "markdown_line_end": 497
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "8. Huang CT, Ruan SY, Tsai YJ, Ku SC, Yu CJ. Clinical trajectories and causes of death in septic patients with a low apache II score. J Clin Med. (2019) 8:1064. doi: 10.3390/jcm8071064",
         "metadata": {
@@ -2096,12 +2652,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37301,
+            "markdown_end": 37485,
+            "markdown_line_start": 499,
+            "markdown_line_end": 499
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "9. Nassar AP Jr, Mocelin AO, Nunes AL, Giannini FP, Brauer L, et al. Caution when using prognostic models: a prospective comparison of 3 recent prognostic models. J Critical Care. (2012) 27:423.e421–7. doi: 10.1016/j.jcrc.2011.08.016",
         "metadata": {
@@ -2111,12 +2671,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37488,
+            "markdown_end": 37721,
+            "markdown_line_start": 501,
+            "markdown_line_end": 501
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "10. Arabi Y, Al Shirawi N, Memish Z, Venkatesh S, Al-Shimemeri A. Assessment of six mortality prediction models in patients admitted with severe sepsis and septic shock to the intensive care unit: a prospective cohort study. Critical Care. (2003) 7:R116–22. doi: 10.1186/cc2373",
         "metadata": {
@@ -2126,12 +2690,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 37724,
+            "markdown_end": 38001,
+            "markdown_line_start": 503,
+            "markdown_line_end": 503
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Additional File 5 | Final predictors in the LASSO regression model.",
         "metadata": {
@@ -2141,12 +2709,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38004,
+            "markdown_end": 38071,
+            "markdown_line_start": 505,
+            "markdown_line_end": 505
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Additional File 6 | Loess smoothing curves of continuous variables.",
         "metadata": {
@@ -2156,12 +2728,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38074,
+            "markdown_end": 38141,
+            "markdown_line_start": 507,
+            "markdown_line_end": 507
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Additional File 7 | Mortality rate stratified by SMRS.",
         "metadata": {
@@ -2171,12 +2747,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38144,
+            "markdown_end": 38198,
+            "markdown_line_start": 509,
+            "markdown_line_end": 509
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "11. Phillips GS, Osborn TM, Terry KM, Gesten F, Levy MM, Lemeshow S. The New York sepsis severity score: development of a riskadjusted severity model for sepsis. Crit Care Med. (2018) 46:674–83. doi: 10.1097/CCM.0000000000002824",
         "metadata": {
@@ -2186,12 +2766,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38201,
+            "markdown_end": 38429,
+            "markdown_line_start": 511,
+            "markdown_line_end": 511
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "12. Zhang Z, Hong Y. Development of a novel score for the prediction of hospital mortality in patients with severe sepsis: the use of electronic healthcare records with LASSO regression. Oncotarget. (2017) 8:49637–45. doi: 10.18632/oncotarget.17870",
         "metadata": {
@@ -2201,12 +2785,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38432,
+            "markdown_end": 38680,
+            "markdown_line_start": 513,
+            "markdown_line_end": 513
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "13. Ford DW, Goodwin AJ, Simpson AN, Johnson E, Nadig N, Simpson KN. A severe sepsis mortality prediction model and score for use with administrative data. Crit Care Med. (2016) 44:319–27. doi: 10.1097/CCM.00000000000 01392",
         "metadata": {
@@ -2216,12 +2804,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38683,
+            "markdown_end": 38906,
+            "markdown_line_start": 515,
+            "markdown_line_end": 515
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "14. Osborn TM, Phillips G, Lemeshow S, Townsend S, Schorr CA, Levy MM, et al. Sepsis severity score: an internationally derived scoring system from the surviving sepsis campaign database[∗] . Crit Care Med. (2014) 42:1969–76. doi: 10.1097/CCM.0000000000000416",
         "metadata": {
@@ -2231,12 +2823,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 38909,
+            "markdown_end": 39168,
+            "markdown_line_start": 517,
+            "markdown_line_end": 517
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "15. Johnson AEW, Aboab J, Raffa JD, Pollard TJ, Deliberato RO, Celi LA, et al. A comparative analysis of sepsis identification methods in an electronic database. Crit Care Med. (2018) 46:494–9. doi: 10.1097/CCM.0000000000002965",
         "metadata": {
@@ -2246,12 +2842,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39171,
+            "markdown_end": 39398,
+            "markdown_line_start": 519,
+            "markdown_line_end": 519
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "16. Johnson AE, Pollard TJ, Shen L, Lehman LW, Feng M, Ghassemi M, et al. MIMIC-III, a freely accessible critical care database. Sci Data. (2016) 3:160035. doi: 10.1038/sdata.2016.35",
         "metadata": {
@@ -2261,12 +2861,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39401,
+            "markdown_end": 39583,
+            "markdown_line_start": 521,
+            "markdown_line_end": 521
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "17. Pollard TJ, Johnson AEW, Raffa JD, Celi LA, Mark RG, Badawi O. The eICU collaborative research database, a freely available multi-center database for critical care research. Sci Data. (2018) 5:180178. doi: 10.1038/sdata. 2018.178",
         "metadata": {
@@ -2276,12 +2880,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39586,
+            "markdown_end": 39819,
+            "markdown_line_start": 523,
+            "markdown_line_end": 523
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "18. Austin PC, Steyerberg EW. Events per variable (EPV) and the relative performance of different strategies for estimating the out-of-sample validity of logistic regression models. Stat Methods Med Res. (2017) 26:796–808. doi: 10.1177/0962280214558972",
         "metadata": {
@@ -2291,12 +2899,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 39822,
+            "markdown_end": 40074,
+            "markdown_line_start": 525,
+            "markdown_line_end": 525
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "19. Tibshirani R. Regression shrinkage selection via the LASSO. J Royal Statist Soc B. (1996) 58:267–88. doi: 10.1111/j.2517-6161.1996.tb02080.x",
         "metadata": {
@@ -2306,12 +2918,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40077,
+            "markdown_end": 40221,
+            "markdown_line_start": 527,
+            "markdown_line_end": 527
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "20. Riley RD, Ensor J, Snell KI, Debray TP, Altman DG, Moons KG, et al. External validation of clinical prediction models using big datasets from e-health records or IPD meta-analysis: opportunities and challenges. BMJ. (2016) 353:i3140. doi: 10.1136/bmj.i3140",
         "metadata": {
@@ -2321,12 +2937,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40224,
+            "markdown_end": 40484,
+            "markdown_line_start": 529,
+            "markdown_line_end": 529
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Frontiers in Medicine | www.frontiersin.org",
         "metadata": {
@@ -2336,12 +2956,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40487,
+            "markdown_end": 40530,
+            "markdown_line_start": 531,
+            "markdown_line_end": 531
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "January 2021 | Volume 7 | Article 609769",
         "metadata": {
@@ -2351,12 +2975,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40533,
+            "markdown_end": 40573,
+            "markdown_line_start": 533,
+            "markdown_line_end": 533
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Sepsis Mortality Risk Score",
         "metadata": {
@@ -2366,12 +2994,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40580,
+            "markdown_end": 40607,
+            "markdown_line_start": 537,
+            "markdown_line_end": 537
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "21. Vickers AJ, Elkin EB. Decision curve analysis: a novel method for evaluating prediction models. Med Decis Making. (2006) 26:565–74. doi: 10.1177/0272989X06295361",
         "metadata": {
@@ -2381,12 +3013,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40625,
+            "markdown_end": 40790,
+            "markdown_line_start": 541,
+            "markdown_line_end": 541
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "22. Collins GS, Reitsma JB, Altman DG, Moons KG. Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): the TRIPOD statement. BMJ. (2015) 350:g7594. doi: 10.1136/bmj.g7594",
         "metadata": {
@@ -2396,12 +3032,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 40793,
+            "markdown_end": 41015,
+            "markdown_line_start": 543,
+            "markdown_line_end": 543
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "23. Sauerbrei W, Royston P, Binder H. Selection of important variables and determination of functional form for continuous predictors in multivariable model building. Stat Med. (2007) 26:5512–28. doi: 10.1002/sim.3148",
         "metadata": {
@@ -2411,12 +3051,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41018,
+            "markdown_end": 41235,
+            "markdown_line_start": 545,
+            "markdown_line_end": 545
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "24. Huang YQ, Liang CH, He L, Tian J, Liang CS, Chen X, et al. Development and validation of a radiomics nomogram for preoperative prediction of lymph node metastasis in colorectal cancer. J Clin Oncol. (2016) 34:2157–64. doi: 10.1200/JCO.2015.65.9128",
         "metadata": {
@@ -2426,12 +3070,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41238,
+            "markdown_end": 41489,
+            "markdown_line_start": 547,
+            "markdown_line_end": 547
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "25. Meyer A, Zverinski D, Pfahringer B, Kempfert J, Kuehne T, Sündermann SH, et al. Machine learning for real-time prediction of complications in critical care: a retrospective study. Lancet Respir Med. (2018) 6:905–14. doi: 10.1016/S2213-2600(18)30300-X",
         "metadata": {
@@ -2441,12 +3089,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41492,
+            "markdown_end": 41746,
+            "markdown_line_start": 549,
+            "markdown_line_end": 549
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "26. Vincent JL, Moreno R, Takala J, Willatts S, De Mendonca A, Bruining H, et al. The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure on behalf of the working group on sepsis-related problems of the European society of intensive care medicine. Intensive care Med. (1996) 22:707–10. doi: 10.1007/BF01709751",
         "metadata": {
@@ -2456,12 +3108,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 41749,
+            "markdown_end": 42097,
+            "markdown_line_start": 551,
+            "markdown_line_end": 551
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "27. Zygun DA, Laupland KB, Fick GH, Sandham JD, Doig CJ. Limited ability of SOFA and MOD scores to discriminate outcome: a prospective evaluation in 1,436 patients. Canad J Anaesthesia. (2005) 52:302–8. doi: 10.1007/BF03016068",
         "metadata": {
@@ -2471,12 +3127,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 42100,
+            "markdown_end": 42326,
+            "markdown_line_start": 553,
+            "markdown_line_end": 553
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "28. Cheng B, Li Z, Wang J, Xie G, Liu X, Xu Z, et al. Comparison of the performance between sepsis-1 and sepsis-3 in ICUs in China: a retrospective multicenter study. Shock. (2017) 48:301–6. doi: 10.1097/SHK.0000000000000868",
         "metadata": {
@@ -2486,12 +3146,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 42329,
+            "markdown_end": 42553,
+            "markdown_line_start": 555,
+            "markdown_line_end": 555
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "29. Khwannimit B, Bhurayanontachai R, Vattanavanit V. Comparison of the performance of SOFA, qSOFA and SIRS for predicting mortality and organ failure among sepsis patients admitted to the intensive care unit in a middleincome country. J Crit Care. (2018) 44:156–60. doi: 10.1016/j.jcrc.2017. 10.023",
         "metadata": {
@@ -2501,12 +3165,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 42556,
+            "markdown_end": 42855,
+            "markdown_line_start": 557,
+            "markdown_line_end": 557
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "30. Houwink AP, Rijkenberg S, Bosman RJ, van der Voort PH. The association between lactate, mean arterial pressure, central venous oxygen saturation and peripheral temperature and mortality in severe sepsis: a retrospective cohort analysis. Crit Care. (2016) 20:56. doi: 10.1186/s13054-016-1243-3",
         "metadata": {
@@ -2516,12 +3184,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 42858,
+            "markdown_end": 43154,
+            "markdown_line_start": 559,
+            "markdown_line_end": 559
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "31. Liu Z, Meng Z, Li Y, Zhao J, Wu S, Gou S, et al. Prognostic accuracy of the serum lactate level, the SOFA score and the qSOFA score for mortality",
         "metadata": {
@@ -2531,12 +3203,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 43157,
+            "markdown_end": 43306,
+            "markdown_line_start": 561,
+            "markdown_line_end": 561
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "- among adults with Sepsis. Scand J Trauma Resusc Emerg Med. (2019) 27:51. doi: 10.1186/s13049-019-0609-3",
         "metadata": {
@@ -2546,12 +3222,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 43312,
+            "markdown_end": 43417,
+            "markdown_line_start": 563,
+            "markdown_line_end": 563
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "32. Kushimoto S, Gando S, Saitoh D, Mayumi T, Ogura H, Fujishima S, et al. The impact of body temperature abnormalities on the disease severity and outcome in patients with severe sepsis: an analysis from a multicenter, prospective survey of severe sepsis. Crit Care. (2013) 17:R271. doi: 10.1186/cc13106",
         "metadata": {
@@ -2561,12 +3241,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 43420,
+            "markdown_end": 43724,
+            "markdown_line_start": 565,
+            "markdown_line_end": 565
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "33. Shapiro NI, Wolfe RE, Moore RB, Smith E, Burdick E, Bates DW. Mortality in Emergency Department Sepsis (MEDS) score: a prospectively derived and validated clinical prediction rule. Crit Care Med. (2003) 31:670–5. doi: 10.1097/01.CCM.0000054867.01688.D1",
         "metadata": {
@@ -2576,12 +3260,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 43727,
+            "markdown_end": 43983,
+            "markdown_line_start": 567,
+            "markdown_line_end": 567
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "34. Liu VX, Walkey AJ. Machine learning and sepsis: on the road to revolution. Crit Care Med. (2017) 45:1946–7. doi: 10.1097/CCM.0000000000002673",
         "metadata": {
@@ -2591,12 +3279,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 43986,
+            "markdown_end": 44131,
+            "markdown_line_start": 569,
+            "markdown_line_end": 569
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "35. Cabitza F, Rasoini R, Gensini GF. Unintended consequences of machine learning in medicine. JAMA. (2017) 318:517–8. doi: 10.1001/jama.2017.7797",
         "metadata": {
@@ -2606,12 +3298,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44134,
+            "markdown_end": 44280,
+            "markdown_line_start": 571,
+            "markdown_line_end": 571
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "36. Zhang Z, Beck MW, Winkler DA, Huang B, Sibanda W, Goyal H. Opening the black box of neural networks: methods for interpreting neural network models in clinical applications. Ann Trans Med. (2018) 6:216. doi: 10.21037/atm.2018.05.32",
         "metadata": {
@@ -2621,12 +3317,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44283,
+            "markdown_end": 44518,
+            "markdown_line_start": 573,
+            "markdown_line_end": 573
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "37. Li S, Hu X, Xu J, Huang F, Guo Z, Tong L, et al. Increased body mass index linked to greater short- and long-term survival in sepsis patients: A retrospective analysis of a large clinical database. Int J Infect Dis. (2019) 87:109–16. doi: 10.1016/j.ijid.2019.07.018",
         "metadata": {
@@ -2636,12 +3336,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44521,
+            "markdown_end": 44790,
+            "markdown_line_start": 575,
+            "markdown_line_end": 575
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "38. Shin J, Hwang SY, Jo IJ, Kim WY, Ryoo SM, Kang GH, et al. Prognostic value of the lactate/albumin ratio for predicting 28-day mortality in critically ILL sepsis patients. Shock. (2018) 50:545–50. doi: 10.1097/SHK.0000000000001128",
         "metadata": {
@@ -2651,12 +3355,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 44793,
+            "markdown_end": 45026,
+            "markdown_line_start": 577,
+            "markdown_line_end": 577
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "39. Nemati S, Holder A, Razmi F, Stanley MD, Clifford GD, Buchman TG. An interpretable machine learning model for accurate prediction of sepsis in the ICU. Crit Care Med. (2018) 46:547–53. doi: 10.1097/CCM.0000000000002936",
         "metadata": {
@@ -2666,12 +3374,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45029,
+            "markdown_end": 45251,
+            "markdown_line_start": 579,
+            "markdown_line_end": 579
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "**Conflict of Interest:** The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
         "metadata": {
@@ -2681,12 +3393,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45254,
+            "markdown_end": 45452,
+            "markdown_line_start": 581,
+            "markdown_line_end": 581
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Copyright © 2021 Zhang, Zhang, Cui, Hong, Zhang and Zhang. This is an openaccess article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
         "metadata": {
@@ -2696,12 +3412,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45455,
+            "markdown_end": 45961,
+            "markdown_line_start": 583,
+            "markdown_line_end": 583
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "Frontiers in Medicine | www.frontiersin.org",
         "metadata": {
@@ -2711,12 +3431,16 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 45964,
+            "markdown_end": 46007,
+            "markdown_line_start": 585,
+            "markdown_line_end": 585
         }
     },
     {
         "source_id": "Zhang_2021",
-        "page_number": "TBD",
+        "page_number": 1,
         "content_type": "text",
         "raw_content": "January 2021 | Volume 7 | Article 609769",
         "metadata": {
@@ -2726,7 +3450,11 @@
                 0,
                 0,
                 0
-            ]
+            ],
+            "markdown_start": 46010,
+            "markdown_end": 46050,
+            "markdown_line_start": 587,
+            "markdown_line_end": 587
         }
     }
 ]
